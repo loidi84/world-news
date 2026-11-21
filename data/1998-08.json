@@ -171,6 +171,28 @@
           "by": "Rare"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (August 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Armageddon",
+          "by": "Buena Vista / Touchstone"
+        },
+        {
+          "pos": 2,
+          "title": "The X-Files: Fight the Future",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 3,
+          "title": "Lost in Space",
+          "by": "Entertainment Film Distributors"
+        }
+      ]
     }
   ],
   "chartSource": "Official Charts Company / ELSPA Chart-Track, August 1998",

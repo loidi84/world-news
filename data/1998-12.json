@@ -171,6 +171,28 @@
           "by": "Nintendo"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (December 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Rugrats Movie",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Enemy of the State",
+          "by": "Buena Vista"
+        },
+        {
+          "pos": 3,
+          "title": "The Truman Show",
+          "by": "UIP / Paramount"
+        }
+      ]
     }
   ],
   "chartSource": "Official Charts Company / ELSPA Chart-Track, December 1998",

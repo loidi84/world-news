@@ -35,6 +35,9 @@
   --ch-line:#6a7a88;
   --ch-link:#2a5d85;
   --ch-sub:#334455;
+  --star-bg:#fef3c7;
+  --star-ink:#b45309;
+  --star-border:#f59e0b;
   color-scheme:light;
   box-sizing:border-box;
   padding-top:env(safe-area-inset-top,0px);
@@ -66,6 +69,9 @@
     --ch-line:#35485f;
     --ch-link:#7ec3f8;
     --ch-sub:#8ca8c4;
+    --star-bg:#451a03;
+    --star-ink:#fbbf24;
+    --star-border:#d97706;
     color-scheme:dark
   }
 }
@@ -94,23 +100,35 @@
   --ch-line:#35485f;
   --ch-link:#7ec3f8;
   --ch-sub:#8ca8c4;
+  --star-bg:#451a03;
+  --star-ink:#fbbf24;
+  --star-border:#d97706;
   color-scheme:dark
 }
 html{scroll-padding-top:env(safe-area-inset-top,0px)}
 body{margin:0;background:var(--bg);font-family:"Helvetica Neue",Arial,sans-serif;color:var(--paper-ink)}
 .wrap{max-width:460px;margin:0 auto;padding:16px}
-.ctl{display:flex;gap:6px;align-items:center;margin-bottom:12px}
+.ctl{display:flex;gap:6px;align-items:center;margin-bottom:12px;flex-wrap:wrap}
 select,button{font:inherit;font-size:14px;padding:9px 10px;border:0;border-radius:6px;background:var(--ui);color:var(--uitxt)}
 select{flex:1;min-width:0}button{cursor:pointer;white-space:nowrap}
 .tab.on{background:var(--paper);color:var(--paper-ink);font-weight:700}.go{background:var(--red);color:#fff}
-.box{background:var(--paper);border:4px solid var(--box-border);padding:18px 16px 14px;color:var(--paper-ink)}
-.headbar{display:flex;justify-content:space-between;align-items:flex-start;margin:0 0 14px -2px}
+.box{background:var(--paper);border:4px solid var(--box-border);padding:18px 16px 14px;color:var(--paper-ink);touch-action:pan-y;-webkit-tap-highlight-color:transparent}
+.headbar{display:flex;justify-content:space-between;align-items:flex-start;margin:0 0 14px -2px;gap:8px}
 .head{display:inline-block;background:var(--red);color:#fff;font-weight:800;font-size:24px;line-height:1.05;text-transform:uppercase;padding:8px 14px;letter-spacing:-.5px}
-.p-badge{background:var(--box-border);color:#fff;font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;padding:6px 10px;border-radius:4px;margin-top:2px;white-space:nowrap}
+.head-actions{display:flex;align-items:center;gap:6px;flex-wrap:wrap;justify-content:flex-end}
+.p-badge{background:var(--box-border);color:#fff;font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;padding:6px 10px;border-radius:4px;white-space:nowrap}
 .box p{margin:0 0 6px;text-indent:1.2em;font-size:15.5px;line-height:1.4;color:var(--paper-ink)}.box p.f{text-indent:0}
-.lk{display:flex;gap:14px;align-items:center;margin:0 0 12px;font-size:12px}
+.lk{display:flex;gap:10px;align-items:center;margin:0 0 12px;font-size:12px;flex-wrap:wrap}
 .lk a{color:var(--link);text-decoration:none;border-bottom:1px dotted var(--link)}
 .tag{margin-left:auto;font-size:10px;text-transform:uppercase;letter-spacing:.05em;color:var(--tag)}
+.tag.tag-wrestle{cursor:pointer;color:var(--red);font-weight:700;text-decoration:underline;text-underline-offset:2px}
+.tag.tag-wrestle:hover{opacity:.8}
+.star-btn{background:none;border:1px solid var(--box-border);border-radius:4px;color:var(--tag);cursor:pointer;padding:2px 7px;font-size:12px;font-weight:700;line-height:1;transition:all .15s}
+.star-btn.starred{background:var(--star-bg);color:var(--star-ink);border-color:var(--star-border)}
+.wrestle-pill{background:var(--ui);color:var(--uitxt);border:1px solid var(--box-border);border-radius:4px;padding:5px 8px;font-size:11px;font-weight:800;letter-spacing:.05em;cursor:pointer;white-space:nowrap;text-transform:uppercase;transition:all .15s}
+.wrestle-pill.on{background:#f59e0b;color:#111;border-color:#d97706}
+.wrestle-nav-box{margin-top:14px;padding:12px;background:var(--foot-bg);border:1px solid var(--foot-border);border-radius:6px;display:flex;flex-direction:column;gap:8px}
+.wrestle-nav-box button{font-size:12px;padding:7px 10px;text-align:left;border-radius:4px}
 .page-foot{margin-top:16px;padding:12px 14px;background:var(--foot-bg);border:2px dashed var(--foot-border);border-radius:6px;text-align:center;font-weight:700;font-size:13.5px;color:var(--link);cursor:pointer;user-select:none;transition:background .15s}
 .page-foot:hover{opacity:.85}
 .spotlight-hero{border-bottom:2px solid var(--box-border);padding-bottom:12px;margin-bottom:14px}
@@ -122,7 +140,7 @@ select{flex:1;min-width:0}button{cursor:pointer;white-space:nowrap}
 .review-score-badge{display:inline-block;background:var(--red);color:#fff;font-style:normal;font-weight:900;font-size:12px;padding:2px 6px;border-radius:3px;margin-right:6px}
 .section-title{font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:var(--blue);margin:14px 0 6px}
 .gaming-links{border-top:1px solid var(--box-border);padding-top:12px;margin-top:16px}
-.ch{background:var(--ch-bg);border:4px solid var(--box-border);padding:14px 16px;color:var(--ch-ink)}
+.ch{background:var(--ch-bg);border:4px solid var(--box-border);padding:14px 16px;color:var(--ch-ink);touch-action:pan-y;-webkit-tap-highlight-color:transparent}
 .ch .t{font:italic 900 46px/1 Impact,"Arial Black",sans-serif;color:var(--red);transform:rotate(-4deg);margin:2px 0 14px}
 .ch .d{font-weight:800;font-size:22px;line-height:1;text-transform:uppercase;margin:0 0 10px;letter-spacing:-.5px;color:var(--ch-ink)}
 .ch .s{display:inline-block;color:#fff;font-weight:800;font-size:14px;text-transform:uppercase;padding:4px 10px;margin:10px 0 4px;min-width:55%}
@@ -131,15 +149,31 @@ select{flex:1;min-width:0}button{cursor:pointer;white-space:nowrap}
 .ch .r i{font-style:normal;display:flex;gap:8px;font-size:11px;align-items:center;flex:none}
 .ch .r i a{color:var(--ch-link);text-decoration:none;border-bottom:1px dotted var(--ch-link)}
 .ch .src{font-size:11px;margin-top:10px;color:var(--ch-sub)}
+.scrapbook-card{background:var(--foot-bg);border:1px solid var(--foot-border);border-radius:6px;padding:12px;margin-bottom:12px}
+.scrapbook-head{display:flex;align-items:center;gap:8px;margin-bottom:8px;font-size:12px;flex-wrap:wrap}
+.scrapbook-title{font-size:15px;margin-bottom:4px;color:var(--paper-ink)}
+.scrapbook-snippet{font-size:13px;line-height:1.4;margin:0 0 8px;opacity:.9}
 .msg{font-size:12px;opacity:.8;text-align:center;margin-top:12px;min-height:16px}
 .sp{position:fixed;inset:0;z-index:50;background:var(--bg);color:var(--paper-ink);overflow-y:auto;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 .spi{max-width:460px;margin:0 auto;padding:16px;color:var(--paper-ink)}.sph{display:flex;justify-content:space-between;align-items:center;font-size:20px}
 .sp h3{font-size:12px;text-transform:uppercase;letter-spacing:.07em;margin:24px 0 10px;opacity:.8;color:var(--paper-ink)}
 .row{display:flex;align-items:center;gap:8px;padding:4px 0;font-size:14px}.row span{flex:1}.row select{flex:none;padding:6px 8px}
+@media (max-width:440px){
+  .tab{padding:8px 8px;font-size:12.5px}
+  .head{font-size:20px;padding:6px 10px}
+}
 </style></head><body>
 <div class="wrap">
 <div class="ctl"><button id="prev" aria-label="Previous month">&larr;</button><select id="m" aria-label="Month"></select><select id="y" aria-label="Year"></select><button id="next" aria-label="Next month">&rarr;</button></div>
-<div class="ctl"><button class="tab on" id="tn">News</button><button class="tab" id="tg">Gaming</button><button class="tab" id="tc">Charts</button><button class="go" id="page-btn" style="flex:1">Page 1</button><button id="theme-btn" aria-label="Toggle dark/light mode" title="Toggle Dark/Light Mode" style="font-size:15px;padding:6px 10px">&#127769;</button><button id="gear" aria-label="Settings" style="font-size:18px;padding:6px 10px">&#9881;</button></div>
+<div class="ctl">
+  <button class="tab on" id="tn">News</button>
+  <button class="tab" id="tg">Gaming</button>
+  <button class="tab" id="tc">Charts</button>
+  <button class="tab" id="ts" title="My Saved Scrapbook">&#9733; Saved (<span id="scrap-count">0</span>)</button>
+  <button class="go" id="page-btn" style="flex:1">Page 1</button>
+  <button id="theme-btn" aria-label="Toggle dark/light mode" title="Toggle Dark/Light Mode" style="font-size:15px;padding:6px 9px">&#127769;</button>
+  <button id="gear" aria-label="Settings" style="font-size:18px;padding:6px 9px">&#9881;</button>
+</div>
 <div class="box" id="box"></div>
 <div class="msg" id="msg"></div>
 </div>
@@ -168,13 +202,7 @@ const mS=$("m"),yS=$("y"),box=$("box");
 
 function getAvailableDates(){
   const dates={};
-  const keys=window.ALL_DATA?Object.keys(window.ALL_DATA):[
-    "1987-06","1987-07","1987-08","1987-09","1987-10","1987-11","1987-12",
-    "1988-01","1988-02","1988-03","1988-04","1988-05","1988-06","1988-07","1988-08","1988-09","1988-10","1988-11","1988-12",
-    "1991-03",
-    "1996-10","1996-11",
-    "1998-01","1998-02","1998-03","1998-04","1998-05","1998-06","1998-07","1998-08","1998-09","1998-10","1998-11","1998-12"
-  ];
+  const keys=window.ALL_DATA?Object.keys(window.ALL_DATA):[];
   keys.forEach(k=>{
     const parts=k.split("-").map(Number);
     if(parts.length===2){
@@ -190,7 +218,6 @@ function getAvailableDates(){
 const availableDates=getAvailableDates();
 
 function updateSelectors(curY, curM){
-  // 1. Year selector: show only years with data (or curY if stepped into)
   const years=Object.keys(availableDates).map(Number).sort((a,b)=>a-b);
   if(!years.includes(curY)) years.push(curY);
   years.sort((a,b)=>a-b);
@@ -201,7 +228,6 @@ function updateSelectors(curY, curM){
   });
   yS.value=curY;
 
-  // 2. Month selector: show only months available for curY (or curM if stepped into)
   const months=availableDates[curY]?[...availableDates[curY]]:[];
   if(!months.includes(curM)) months.push(curM);
   months.sort((a,b)=>a-b);
@@ -218,6 +244,7 @@ updateSelectors(1998, 0); // January 1998 default
 let tab="n";
 let currentData=null;
 let currentPage=1;
+let wrestlingOnly=false;
 const PAGE_SIZE=4;
 
 function loadUserTopics(){
@@ -237,6 +264,28 @@ function saveUserTopics(){
 }
 
 let userTopics=loadUserTopics();
+
+function getScrapbook(){
+  try{
+    const s=localStorage.getItem("world_news_scrapbook");
+    if(s) return JSON.parse(s);
+  }catch(e){}
+  return [];
+}
+
+function saveScrapbook(arr){
+  try{
+    localStorage.setItem("world_news_scrapbook",JSON.stringify(arr));
+  }catch(e){}
+  updateScrapCount();
+}
+
+function updateScrapCount(){
+  const cnt=$("scrap-count");
+  if(cnt) cnt.textContent=getScrapbook().length;
+}
+
+updateScrapCount();
 
 const esc=s=>(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
 const ap=s=>(s||"").replace(/(\w)'(\w)/g,"$1\u2019$2").replace(/'(\d\d)/g,"\u2019$1");
@@ -265,27 +314,69 @@ function formatLinks(item){
   const wikiLink=wikiHref?A(wikiHref,"Wikipedia"):"";
   const ytLink=item.youtube?A(Y(item.youtube),"YouTube"):"";
   const srcLink=(item.source&&item.source.startsWith("http")&&!hasWikiSrc)?A(item.source,"Source"):"";
-  const tagHtml=tag?'<span class="tag">'+esc(tag)+'</span>':'';
-  return '<div class="lk">'+wikiLink+ytLink+srcLink+tagHtml+'</div>';
+  const isWrestle=item.topic==="wrestling";
+  const tagHtml=tag?'<span class="tag '+(isWrestle?'tag-wrestle':'')+'" '+(isWrestle?'onclick="window.toggleWrestlingFilter()" title="Click to filter wrestling stories"':'')+'>'+esc(tag)+'</span>':'';
+  const isSaved=getScrapbook().some(x=>x.id===item.id);
+  const starBtn='<button class="star-btn '+(isSaved?'starred':'')+'" onclick="window.toggleStarStory(\''+esc(item.id)+'\', event)" title="'+(isSaved?'Remove from Scrapbook':'Save to Scrapbook')+'">'+(isSaved?'&#9733; Saved':'&#9734; Save')+'</button>';
+  return '<div class="lk">'+wikiLink+ytLink+srcLink+tagHtml+starBtn+'</div>';
 }
 
 function getVisiblePool(){
   if(!currentData||!currentData.news||!currentData.news.length) return [];
   let pool=currentData.news.filter(n=>userTopics[n.topic]!==false);
+  if(wrestlingOnly){
+    pool=pool.filter(n=>n.topic==="wrestling");
+  }
   if(!pool.length) return [];
-
-  // Sort strictly in chronological date order
   pool.sort((a,b)=>(a.date||"").localeCompare(b.date||""));
   return pool;
+}
+
+function findAdjacentWrestlingEvents(currMonth){
+  const allKeys=Object.keys(window.ALL_DATA||{}).sort();
+  const monthsWithWrestling=allKeys.filter(k=>{
+    const d=window.ALL_DATA[k];
+    return d&&d.news&&d.news.some(n=>n.topic==="wrestling");
+  });
+  const prev=monthsWithWrestling.filter(k=>k<currMonth).pop();
+  const next=monthsWithWrestling.filter(k=>k>currMonth).shift();
+  return { prev, next };
 }
 
 function news(){
   box.className="box";
   const pool=getVisiblePool();
   const pageBtn=$("page-btn");
+  const monthName=MONTHS[+mS.value];
+  const yr=yS.value;
+  const currMonthKey=`${yr}-${String(+mS.value+1).padStart(2,"0")}`;
+
+  const wrestleToggleBtn='<button id="wrestle-filter" class="wrestle-pill '+(wrestlingOnly?'on':'')+'" onclick="window.toggleWrestlingFilter()">&#129340; '+(wrestlingOnly?'Wrestling Only &check;':'Wrestling')+'</button>';
+
   if(!pool.length){
     pageBtn.style.display="none";
-    box.innerHTML='<div class="headbar"><div class="head">'+MONTHS[+mS.value]+'<br>World News</div></div><p class="f">No stories match your topic filters for this month.</p>';
+    if(wrestlingOnly){
+      const adj=findAdjacentWrestlingEvents(currMonthKey);
+      let navHtml='';
+      if(adj.prev||adj.next){
+        navHtml='<div class="wrestle-nav-box">';
+        if(adj.prev){
+          const pParts=adj.prev.split("-").map(Number);
+          const pName=MONTHS[pParts[1]-1]+" "+pParts[0];
+          navHtml+='<button class="go" onclick="window.jumpToMonth('+pParts[0]+','+(pParts[1]-1)+')">&larr; Previous Event: '+pName+'</button>';
+        }
+        if(adj.next){
+          const nParts=adj.next.split("-").map(Number);
+          const nName=MONTHS[nParts[1]-1]+" "+nParts[0];
+          navHtml+='<button class="go" onclick="window.jumpToMonth('+nParts[0]+','+(nParts[1]-1)+')">Next Event: '+nName+' &rarr;</button>';
+        }
+        navHtml+='</div>';
+      }
+      box.innerHTML='<div class="headbar"><div class="head">'+monthName+'<br>World News</div><div class="head-actions">'+wrestleToggleBtn+'</div></div>'+
+        '<p class="f">No televised WWF or NWA wrestling events in <b>'+monthName+' '+yr+'</b>.</p>'+navHtml;
+    }else{
+      box.innerHTML='<div class="headbar"><div class="head">'+monthName+'<br>World News</div><div class="head-actions">'+wrestleToggleBtn+'</div></div><p class="f">No stories match your topic filters for this month.</p>';
+    }
     return;
   }
 
@@ -296,7 +387,6 @@ function news(){
   const start=(currentPage-1)*PAGE_SIZE;
   const stories=pool.slice(start, start+PAGE_SIZE);
 
-  // Update page button in control bar
   pageBtn.style.display="";
   if(totalPages>1){
     pageBtn.disabled=false;
@@ -321,7 +411,7 @@ function news(){
     }
   }
 
-  box.innerHTML='<div class="headbar"><div class="head">'+MONTHS[+mS.value]+'<br>World News</div>'+badgeHtml+'</div>'+
+  box.innerHTML='<div class="headbar"><div class="head">'+monthName+'<br>World News</div><div class="head-actions">'+wrestleToggleBtn+badgeHtml+'</div></div>'+
     stories.map(n=>{
       return '<p>'+fmt(n.text)+'</p>'+formatLinks(n);
     }).join("") + footHtml;
@@ -329,7 +419,7 @@ function news(){
 
 function charts(){
   box.className="ch";
-  const cols=["#0a9bd8","#e8892b","#4da22f","#111"];
+  const cols=["#0a9bd8","#e8892b","#7b1fa2","#00897b","#111"];
   if(!currentData||!currentData.charts||!currentData.charts.length){
     box.innerHTML='<div class="t">Charts</div><div class="d">'+MONTHS[+mS.value]+'<br>'+yS.value+'</div><p>No charts available for this month.</p>';
     return;
@@ -338,10 +428,15 @@ function charts(){
   const yr=yS.value;
   box.innerHTML='<div class="t">Charts</div><div class="d">'+monthName+'<br>'+yr+'</div>'+currentData.charts.map((c,i)=>{
     const mus=c.kind==="music";
-    const srcText=c.source?esc(c.source):(currentData.chartSource?esc(currentData.chartSource):"");
-    return '<div class="s" style="background:'+cols[i%4]+'"><a href="'+W(mus?"UK Singles Chart "+monthName+" "+yr:c.section)+'" target="_blank" rel="noopener" style="color:#fff;text-decoration:none">'+esc(c.section)+' \u2197</a></div>'+(c.entries||[]).map(e=>{
+    const cin=c.kind==="film"||c.kind==="cinema";
+    const col=cin?"#7b1fa2":(mus?"#0a9bd8":(c.kind==="games"?"#e8892b":cols[i%cols.length]));
+    const sectionLink=cin?W("List of "+yr+" box office number-one films in the United Kingdom"):(mus?W("UK Singles Chart "+monthName+" "+yr):W(c.section));
+    return '<div class="s" style="background:'+col+'"><a href="'+sectionLink+'" target="_blank" rel="noopener" style="color:#fff;text-decoration:none">'+esc(c.section)+' \u2197</a></div>'+(c.entries||[]).map(e=>{
       const who=(e.by||"").split(/\s+featuring\s+/i)[0];
-      return '<div class="r"><b>'+e.pos+'</b><span>'+esc(ap(e.title))+' ('+esc(e.by)+')</span><i>'+A(W(mus?e.title+" "+who+" song":e.title+" video game"),"Wiki")+A(Y(mus?who+" "+e.title:e.title+" "+c.section),"YouTube")+'</i></div>';
+      const wikiHref=cin?W(e.title+" film"):(mus?W(e.title+" "+who+" song"):W(e.title+" video game"));
+      const ytSearch=cin?(e.title+" original trailer "+yr):(mus?(who+" "+e.title):(e.title+" "+c.section));
+      const ytLabel=cin?"Trailer":"YouTube";
+      return '<div class="r"><b>'+e.pos+'</b><span>'+esc(ap(e.title))+' ('+esc(e.by)+')</span><i>'+A(wikiHref,"Wiki")+A(Y(ytSearch),ytLabel)+'</i></div>';
     }).join("")+(c.source?'<div class="src" style="font-size:10px;margin-bottom:6px">Source: '+esc(c.source)+'</div>':'');
   }).join("")+(currentData.chartSource?'<div class="src">Chart Source: '+esc(currentData.chartSource)+'</div>':'');
 }
@@ -351,6 +446,8 @@ function gaming(){
   const g=currentData?currentData.gaming:null;
   const monthName=MONTHS[+mS.value];
   const yr=yS.value;
+  const currMonthKey=`${yr}-${String(+mS.value+1).padStart(2,"0")}`;
+
   if(!g){
     box.innerHTML='<div class="headbar"><div class="head" style="background:#0072bc">'+monthName+'<br>Gaming Spotlight</div></div><p class="f">No featured game spotlight for '+monthName+' '+yr+' in this archive.</p>';
     return;
@@ -378,23 +475,47 @@ function gaming(){
   const ytLink=g.youtube?A(Y(g.youtube),"YouTube"):"";
   const srcLink=(g.source&&g.source.startsWith("http")&&!hasWikiSrc)?A(g.source,"Source"):"";
 
+  const isGameSaved=getScrapbook().some(x=>x.id==="game-"+currMonthKey);
+  const gameStarBtn='<button class="star-btn '+(isGameSaved?'starred':'')+'" style="margin-left:auto" onclick="window.toggleStarGame(\''+currMonthKey+'\', event)">'+(isGameSaved?'&#9733; Saved':'&#9734; Save Spotlight')+'</button>';
+
   const links='<div class="lk gaming-links">'+
     wikiLink+ytLink+srcLink+
-    '<span class="tag">'+esc(g.developer||"Gaming Feature")+'</span></div>';
+    '<span class="tag">'+esc(g.developer||"Gaming Feature")+'</span>'+
+    gameStarBtn+'</div>';
 
   box.innerHTML='<div class="headbar"><div class="head" style="background:#0072bc">'+monthName+' '+yr+'<br>Gaming Spotlight</div><div class="p-badge" style="background:#0072bc">FEATURE</div></div>'+
     '<div class="spotlight-hero"><div class="spotlight-title">'+esc(g.title)+'</div><div class="spotlight-meta">'+plats+dev+genre+dir+'</div></div>'+
     quoteHtml+gp+rec+imp+links;
 }
 
+function scrapbook(){
+  box.className="box";
+  $("page-btn").style.display="none";
+  const items=getScrapbook();
+  if(!items.length){
+    box.innerHTML='<div class="headbar"><div class="head" style="background:#f59e0b;color:#000">My Scrapbook<br>Saved Highlights</div><div class="p-badge" style="background:#f59e0b;color:#000">0 SAVED</div></div>'+
+      '<p class="f">Your scrapbook is currently empty.<br><br>Tap the <b>☆ Save</b> button on any news story or gaming spotlight to pin your favourite moments here for quick reading!</p>';
+    return;
+  }
+
+  box.innerHTML='<div class="headbar"><div class="head" style="background:#f59e0b;color:#000">My Scrapbook<br>Saved Highlights</div><div class="p-badge" style="background:#f59e0b;color:#000">'+items.length+' SAVED</div></div>'+
+    '<div style="display:flex;justify-content:flex-end;margin-bottom:12px"><button onclick="window.clearScrapbook()" style="font-size:11px;padding:5px 9px;background:none;color:var(--tag);border:1px solid var(--box-border);border-radius:4px">Clear All Saved</button></div>'+
+    items.map(it=>{
+      const typeBadge=it.type==="game"?'<span class="tag" style="background:#0072bc;color:#fff;padding:2px 6px;border-radius:3px">GAMING FEATURE</span>':(it.topic?'<span class="tag" style="font-weight:700">'+esc(TOPIC_TAGS[it.topic]||it.topic)+'</span>':'');
+      const jumpBtn='<button class="go" style="font-size:11px;padding:4px 9px;margin-left:auto" onclick="window.jumpToItem(\''+it.month+'\',\''+it.type+'\')">Open &rarr;</button>';
+      const removeBtn='<button class="star-btn starred" style="font-size:11px;padding:3px 7px" onclick="window.removeSavedItem(\''+it.id+'\', event)" title="Remove">&#10005;</button>';
+      return '<div class="scrapbook-card"><div class="scrapbook-head"><span class="tag" style="margin-left:0;font-weight:800;color:var(--uitxt);background:var(--ui);padding:2px 6px;border-radius:3px">'+esc(it.month)+'</span>'+typeBadge+removeBtn+jumpBtn+'</div>'+
+        '<div class="scrapbook-title"><b>'+esc(it.title)+'</b></div>'+
+        (it.snippet?'<p class="scrapbook-snippet">'+fmt(it.snippet)+'</p>':'')+'</div>';
+    }).join("");
+}
+
 async function loadData(y,m){
   const mm=String(m+1).padStart(2,"0");
   const key=`${y}-${mm}`;
-  // 1. Direct bundle access: works offline and directly via file:// in any browser
   if(window.ALL_DATA && window.ALL_DATA[key]){
     return window.ALL_DATA[key];
   }
-  // 2. Fetch fallback: works on web hosting like GitHub Pages
   const path=`data/${key}.json`;
   try{
     const res=await fetch(path);
@@ -407,6 +528,11 @@ async function loadData(y,m){
 
 async function show(){
   $("msg").textContent="";
+  if(tab==="s"){
+    scrapbook();
+    return;
+  }
+
   const y=+yS.value, m=+mS.value;
   currentData=await loadData(y,m);
   currentPage=1;
@@ -415,7 +541,7 @@ async function show(){
     $("page-btn").disabled=true;
     $("page-btn").textContent="Page 1 of 1";
     box.className="box";
-    box.innerHTML='<div class="headbar"><div class="head">'+MONTHS[m]+'<br>'+(tab==="c"?"Charts":"World News")+'</div></div><p class="f">No data for '+MONTHS[m]+' '+y+' in this preview. In the finished app, every month from 1970 to 2010 would be filled in ahead of time.</p>';
+    box.innerHTML='<div class="headbar"><div class="head">'+MONTHS[m]+'<br>'+(tab==="c"?"Charts":"World News")+'</div></div><p class="f">No data for '+MONTHS[m]+' '+y+' in this archive.</p>';
     return;
   }
 
@@ -442,9 +568,13 @@ function setTab(t){
   $("tn").classList.toggle("on",t==="n");
   $("tg").classList.toggle("on",t==="g");
   $("tc").classList.toggle("on",t==="c");
+  $("ts").classList.toggle("on",t==="s");
   if(t==="n"){
     $("page-btn").style.display="";
     news();
+  }else if(t==="s"){
+    $("page-btn").style.display="none";
+    scrapbook();
   }else{
     $("page-btn").style.display="none";
     t==="g"?gaming():charts();
@@ -462,6 +592,136 @@ window.flipPage=function(delta){
   news();
   window.scrollTo({top:0,behavior:"smooth"});
 };
+
+window.toggleWrestlingFilter=function(){
+  wrestlingOnly=!wrestlingOnly;
+  currentPage=1;
+  news();
+};
+
+window.jumpToMonth=function(y,m){
+  updateSelectors(y,m);
+  currentPage=1;
+  show();
+};
+
+window.toggleStarStory=function(id, e){
+  if(e) e.stopPropagation();
+  const sb=getScrapbook();
+  const idx=sb.findIndex(x=>x.id===id);
+  if(idx>=0){
+    sb.splice(idx,1);
+  }else{
+    const item=currentData&&currentData.news?currentData.news.find(n=>n.id===id):null;
+    if(item){
+      const yr=yS.value;
+      const mm=String(+mS.value+1).padStart(2,"0");
+      sb.unshift({
+        id: item.id,
+        type: "news",
+        month: `${yr}-${mm}`,
+        topic: item.topic,
+        title: item.text.replace(/^[0-9]+\s+[A-Za-z]+\s+saw\s+/i,"").replace(/\*\*/g,"").slice(0, 80)+"...",
+        snippet: item.text
+      });
+    }
+  }
+  saveScrapbook(sb);
+  if(tab==="n") news();
+  else if(tab==="s") scrapbook();
+};
+
+window.toggleStarGame=function(monthKey, e){
+  if(e) e.stopPropagation();
+  const sb=getScrapbook();
+  const id="game-"+monthKey;
+  const idx=sb.findIndex(x=>x.id===id);
+  if(idx>=0){
+    sb.splice(idx,1);
+  }else{
+    const g=currentData?currentData.gaming:null;
+    if(g){
+      sb.unshift({
+        id: id,
+        type: "game",
+        month: monthKey,
+        title: g.title,
+        snippet: g.headline || (g.gameplay?g.gameplay.slice(0,120)+"...":"")
+      });
+    }
+  }
+  saveScrapbook(sb);
+  if(tab==="g") gaming();
+  else if(tab==="s") scrapbook();
+};
+
+window.removeSavedItem=function(id, e){
+  if(e) e.stopPropagation();
+  const sb=getScrapbook().filter(x=>x.id!==id);
+  saveScrapbook(sb);
+  scrapbook();
+};
+
+window.clearScrapbook=function(){
+  if(confirm("Clear all items from your scrapbook?")){
+    saveScrapbook([]);
+    scrapbook();
+  }
+};
+
+window.jumpToItem=function(monthKey, type){
+  const parts=monthKey.split("-").map(Number);
+  if(parts.length===2){
+    setTab(type==="game"?"g":"n");
+    window.jumpToMonth(parts[0], parts[1]-1);
+  }
+};
+
+// Touch Swipe Gestures
+let touchStartX=0, touchStartY=0;
+const SWIPE_THRESHOLD=45;
+
+box.addEventListener("touchstart", (e)=>{
+  if(!e.touches || e.touches.length!==1) return;
+  touchStartX=e.touches[0].clientX;
+  touchStartY=e.touches[0].clientY;
+}, { passive: true });
+
+box.addEventListener("touchend", (e)=>{
+  if(!e.changedTouches || e.changedTouches.length!==1) return;
+  const touchEndX=e.changedTouches[0].clientX;
+  const touchEndY=e.changedTouches[0].clientY;
+  const diffX=touchEndX-touchStartX;
+  const diffY=touchEndY-touchStartY;
+
+  if(Math.abs(diffX)>SWIPE_THRESHOLD && Math.abs(diffX)>Math.abs(diffY)*1.4){
+    if(diffX<0){
+      // Swiped Left -> Forward
+      if(tab==="n"){
+        const pool=getVisiblePool();
+        const totalPages=Math.max(1, Math.ceil(pool.length / PAGE_SIZE));
+        if(currentPage<totalPages){
+          window.flipPage(1);
+        }else{
+          step(1);
+        }
+      }else if(tab!=="s"){
+        step(1);
+      }
+    }else{
+      // Swiped Right -> Backward
+      if(tab==="n"){
+        if(currentPage>1){
+          window.flipPage(-1);
+        }else{
+          step(-1);
+        }
+      }else if(tab!=="s"){
+        step(-1);
+      }
+    }
+  }
+}, { passive: true });
 
 $("page-btn").onclick=()=>window.flipPage(1);
 $("prev").onclick=()=>step(-1);
@@ -484,6 +744,7 @@ yS.onchange=()=>{
 $("tn").onclick=()=>setTab("n");
 $("tg").onclick=()=>setTab("g");
 $("tc").onclick=()=>setTab("c");
+$("ts").onclick=()=>setTab("s");
 
 $("gear").onclick=()=>{$("sp").style.display="block"};
 $("spx").onclick=()=>{$("sp").style.display="none"; if(currentData&&tab==="n") news();};
@@ -541,6 +802,13 @@ if(window.matchMedia){
   });
 }
 applyTheme(localStorage.getItem("world_news_theme")||"auto");
+
+// Register Offline Service Worker
+if('serviceWorker' in navigator){
+  window.addEventListener('load', ()=>{
+    navigator.serviceWorker.register('./sw.js').catch(()=>{});
+  });
+}
 
 show();
 </script></body></html>

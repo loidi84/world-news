@@ -227,6 +227,28 @@
           "by": "Virgin Interactive"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (October 1996)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Nutty Professor",
+          "by": "UIP / Universal"
+        },
+        {
+          "pos": 2,
+          "title": "Dragonheart",
+          "by": "UIP / Universal"
+        },
+        {
+          "pos": 3,
+          "title": "Independence Day",
+          "by": "20th Century Fox"
+        }
+      ]
     }
   ],
   "chartSource": "Official Charts Company / ELSPA Gallup C&VG, October 1996",

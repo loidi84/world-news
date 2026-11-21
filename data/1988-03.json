@@ -139,6 +139,28 @@
           "by": "U.S. Gold"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (March 1988)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Empire of the Sun",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "Stakeout",
+          "by": "Touchstone / Warner Bros."
+        },
+        {
+          "pos": 3,
+          "title": "Fatal Attraction",
+          "by": "UIP / Paramount"
+        }
+      ]
     }
   ],
   "gaming": {

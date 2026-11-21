@@ -117,6 +117,28 @@
           "by": "Activision"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (March 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Rain Man",
+          "by": "UIP / United Artists"
+        },
+        {
+          "pos": 2,
+          "title": "Twins",
+          "by": "UIP / Universal"
+        },
+        {
+          "pos": 3,
+          "title": "The Naked Gun: From the Files of Police Squad!",
+          "by": "UIP / Paramount"
+        }
+      ]
     }
   ],
   "gaming": {

@@ -183,6 +183,28 @@
           "by": "Nintendo"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (May 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Deep Impact",
+          "by": "UIP / DreamWorks"
+        },
+        {
+          "pos": 2,
+          "title": "Scream 2",
+          "by": "Buena Vista / Dimension"
+        },
+        {
+          "pos": 3,
+          "title": "Titanic",
+          "by": "20th Century Fox"
+        }
+      ]
     }
   ],
   "chartSource": "Official Charts Company / ELSPA Chart-Track, May 1998",

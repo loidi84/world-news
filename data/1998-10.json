@@ -171,6 +171,28 @@
           "by": "EA Sports"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (October 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Truman Show",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Saving Private Ryan",
+          "by": "UIP / DreamWorks"
+        },
+        {
+          "pos": 3,
+          "title": "Small Soldiers",
+          "by": "UIP / DreamWorks"
+        }
+      ]
     }
   ],
   "chartSource": "Official Charts Company / ELSPA Chart-Track, October 1998",

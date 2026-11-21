@@ -171,6 +171,28 @@
           "by": "Rare"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (September 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Saving Private Ryan",
+          "by": "UIP / DreamWorks"
+        },
+        {
+          "pos": 2,
+          "title": "Lock, Stock and Two Smoking Barrels",
+          "by": "PolyGram Filmed Entertainment"
+        },
+        {
+          "pos": 3,
+          "title": "There's Something About Mary",
+          "by": "20th Century Fox"
+        }
+      ]
     }
   ],
   "chartSource": "Official Charts Company / ELSPA Chart-Track, September 1998",

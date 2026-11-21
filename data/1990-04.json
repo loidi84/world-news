@@ -117,6 +117,28 @@
           "by": "Ocean Software"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (April 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Look Who's Talking",
+          "by": "Tri-Star Pictures"
+        },
+        {
+          "pos": 2,
+          "title": "The War of the Roses",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 3,
+          "title": "The Krays",
+          "by": "Rank Film Distributors"
+        }
+      ]
     }
   ],
   "gaming": {

@@ -167,6 +167,28 @@
           "by": "Faithless"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (November 1996)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The First Wives Club",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Michael Collins",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 3,
+          "title": "Dragonheart",
+          "by": "UIP / Universal"
+        }
+      ]
     }
   ],
   "chartSource": "Supplied page: C&VG, November 1996",

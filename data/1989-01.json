@@ -129,6 +129,28 @@
           "by": "Ocean Software"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (January 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Who Framed Roger Rabbit",
+          "by": "Touchstone / Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "Cocktail",
+          "by": "Touchstone / Warner Bros."
+        },
+        {
+          "pos": 3,
+          "title": "The Tall Guy",
+          "by": "Virgin / LWT"
+        }
+      ]
     }
   ],
   "gaming": {

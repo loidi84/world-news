@@ -151,6 +151,28 @@
           "by": "Codemasters"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (July 1987)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Police Academy 4: Citizens on Patrol",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "The Living Daylights",
+          "by": "UIP / United Artists"
+        },
+        {
+          "pos": 3,
+          "title": "Superman IV: The Quest for Peace",
+          "by": "Warner Bros."
+        }
+      ]
     }
   ],
   "gaming": {

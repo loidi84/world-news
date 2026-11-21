@@ -139,6 +139,28 @@
           "by": "Alternative"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (October 1987)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Beverly Hills Cop II",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "The Untouchables",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Full Metal Jacket",
+          "by": "Warner Bros."
+        }
+      ]
     }
   ],
   "gaming": {

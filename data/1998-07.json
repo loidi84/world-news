@@ -171,6 +171,28 @@
           "by": "Rare"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (July 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Godzilla",
+          "by": "Columbia TriStar"
+        },
+        {
+          "pos": 2,
+          "title": "Six Days Seven Nights",
+          "by": "Buena Vista"
+        },
+        {
+          "pos": 3,
+          "title": "City of Angels",
+          "by": "Warner Bros."
+        }
+      ]
     }
   ],
   "chartSource": "Official Charts Company / ELSPA Chart-Track, July 1998",

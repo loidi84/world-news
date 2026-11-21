@@ -195,6 +195,28 @@
           "by": "Mastertronic"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (February 1988)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Fatal Attraction",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Broadcast News",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 3,
+          "title": "Wall Street",
+          "by": "20th Century Fox"
+        }
+      ]
     }
   ],
   "chartSource": "Official Charts Company / Gallup UK charts, February 1988",

@@ -151,6 +151,28 @@
           "by": "Hewson"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (August 1987)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Living Daylights",
+          "by": "UIP / United Artists"
+        },
+        {
+          "pos": 2,
+          "title": "Lethal Weapon",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 3,
+          "title": "Superman IV: The Quest for Peace",
+          "by": "Warner Bros."
+        }
+      ]
     }
   ],
   "gaming": {

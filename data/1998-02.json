@@ -183,6 +183,28 @@
           "by": "Nintendo"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (February 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Titanic",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 2,
+          "title": "The Wings of the Dove",
+          "by": "Buena Vista"
+        },
+        {
+          "pos": 3,
+          "title": "Amistad",
+          "by": "UIP / DreamWorks"
+        }
+      ]
     }
   ],
   "chartSource": "Official Charts Company / ELSPA Chart-Track, February 1998",

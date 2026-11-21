@@ -227,6 +227,28 @@
           "by": "Microsoft"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (January 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Titanic",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 2,
+          "title": "Tomorrow Never Dies",
+          "by": "UIP / MGM"
+        },
+        {
+          "pos": 3,
+          "title": "The Full Monty",
+          "by": "20th Century Fox"
+        }
+      ]
     }
   ],
   "chartSource": "Official Charts Company / ELSPA Chart-Track, January 1998",

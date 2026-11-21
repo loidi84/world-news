@@ -127,6 +127,28 @@
           "by": "Hewson"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (September 1987)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Full Metal Jacket",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "The Untouchables",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Lethal Weapon",
+          "by": "Warner Bros."
+        }
+      ]
     }
   ],
   "gaming": {

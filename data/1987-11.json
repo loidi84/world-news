@@ -139,6 +139,28 @@
           "by": "US Gold / Atari"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (November 1987)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "A Nightmare on Elm Street 3: Dream Warriors",
+          "by": "Palace Pictures"
+        },
+        {
+          "pos": 2,
+          "title": "Beverly Hills Cop II",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "The Witches of Eastwick",
+          "by": "Warner Bros."
+        }
+      ]
     }
   ],
   "gaming": {

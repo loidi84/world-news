@@ -129,6 +129,28 @@
           "by": "Ocean Software"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (July 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Total Recall",
+          "by": "Guild Film Distribution"
+        },
+        {
+          "pos": 2,
+          "title": "Back to the Future Part III",
+          "by": "UIP / Universal"
+        },
+        {
+          "pos": 3,
+          "title": "Dick Tracy",
+          "by": "Warner Bros."
+        }
+      ]
     }
   ],
   "gaming": {

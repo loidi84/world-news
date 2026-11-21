@@ -203,6 +203,28 @@
           "by": "Electronic Arts"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (June 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Godzilla",
+          "by": "Columbia TriStar"
+        },
+        {
+          "pos": 2,
+          "title": "The Truman Show",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Deep Impact",
+          "by": "UIP / DreamWorks"
+        }
+      ]
     }
   ],
   "chartSource": "Official Charts Company / ELSPA Chart-Track, June 1998",

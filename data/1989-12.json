@@ -117,6 +117,28 @@
           "by": "Ocean Software"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (December 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Back to the Future Part II",
+          "by": "UIP / Universal"
+        },
+        {
+          "pos": 2,
+          "title": "Ghostbusters II",
+          "by": "Columbia Pictures"
+        },
+        {
+          "pos": 3,
+          "title": "When Harry Met Sally...",
+          "by": "Palace Pictures"
+        }
+      ]
     }
   ],
   "gaming": {

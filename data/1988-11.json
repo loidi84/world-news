@@ -127,6 +127,28 @@
           "by": "Ocean Software"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (November 1988)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "A Fish Called Wanda",
+          "by": "UIP / MGM"
+        },
+        {
+          "pos": 2,
+          "title": "Scrooged",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Die Hard",
+          "by": "20th Century Fox"
+        }
+      ]
     }
   ],
   "gaming": {

@@ -151,6 +151,28 @@
           "by": "Elite Systems"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (June 1987)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Living Daylights",
+          "by": "UIP / United Artists"
+        },
+        {
+          "pos": 2,
+          "title": "Platoon",
+          "by": "UIP / Orion"
+        },
+        {
+          "pos": 3,
+          "title": "The Secret of My Success",
+          "by": "UIP / Universal"
+        }
+      ]
     }
   ],
   "gaming": {

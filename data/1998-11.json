@@ -159,6 +159,28 @@
           "by": "Blizzard"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (November 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Antz",
+          "by": "UIP / DreamWorks"
+        },
+        {
+          "pos": 2,
+          "title": "The Truman Show",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Mulan",
+          "by": "Walt Disney"
+        }
+      ]
     }
   ],
   "chartSource": "Official Charts Company / ELSPA Chart-Track, November 1998",

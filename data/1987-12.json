@@ -151,6 +151,28 @@
           "by": "Ocean / Imagine"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (December 1987)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Innerspace",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "Bigfoot and the Hendersons",
+          "by": "UIP / Universal"
+        },
+        {
+          "pos": 3,
+          "title": "Masters of the Universe",
+          "by": "Cannon Films"
+        }
+      ]
     }
   ],
   "gaming": {

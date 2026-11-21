@@ -203,6 +203,28 @@
           "by": "Microsoft"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (March 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Titanic",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 2,
+          "title": "Good Will Hunting",
+          "by": "Buena Vista / Miramax"
+        },
+        {
+          "pos": 3,
+          "title": "As Good as It Gets",
+          "by": "Columbia TriStar"
+        }
+      ]
     }
   ],
   "chartSource": "Official Charts Company / ELSPA Chart-Track, March 1998",

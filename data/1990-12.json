@@ -129,6 +129,28 @@
           "by": "Krisalis Software"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (December 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Home Alone",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 2,
+          "title": "Ghost",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Teenage Mutant Ninja Turtles",
+          "by": "Virgin / 20th Century Fox"
+        }
+      ]
     }
   ],
   "gaming": {

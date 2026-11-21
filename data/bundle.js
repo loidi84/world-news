@@ -153,6 +153,28 @@ window.ALL_DATA['1987-06'] = {
           "by": "Elite Systems"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (June 1987)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Living Daylights",
+          "by": "UIP / United Artists"
+        },
+        {
+          "pos": 2,
+          "title": "Platoon",
+          "by": "UIP / Orion"
+        },
+        {
+          "pos": 3,
+          "title": "The Secret of My Success",
+          "by": "UIP / Universal"
+        }
+      ]
     }
   ],
   "gaming": {
@@ -331,6 +353,28 @@ window.ALL_DATA['1987-07'] = {
           "by": "Codemasters"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (July 1987)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Police Academy 4: Citizens on Patrol",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "The Living Daylights",
+          "by": "UIP / United Artists"
+        },
+        {
+          "pos": 3,
+          "title": "Superman IV: The Quest for Peace",
+          "by": "Warner Bros."
+        }
+      ]
     }
   ],
   "gaming": {
@@ -507,6 +551,28 @@ window.ALL_DATA['1987-08'] = {
           "by": "Hewson"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (August 1987)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Living Daylights",
+          "by": "UIP / United Artists"
+        },
+        {
+          "pos": 2,
+          "title": "Lethal Weapon",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 3,
+          "title": "Superman IV: The Quest for Peace",
+          "by": "Warner Bros."
+        }
+      ]
     }
   ],
   "gaming": {
@@ -657,6 +723,28 @@ window.ALL_DATA['1987-09'] = {
           "pos": 5,
           "title": "Exolon",
           "by": "Hewson"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (September 1987)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Full Metal Jacket",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "The Untouchables",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Lethal Weapon",
+          "by": "Warner Bros."
         }
       ]
     }
@@ -823,6 +911,28 @@ window.ALL_DATA['1987-10'] = {
           "by": "Alternative"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (October 1987)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Beverly Hills Cop II",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "The Untouchables",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Full Metal Jacket",
+          "by": "Warner Bros."
+        }
+      ]
     }
   ],
   "gaming": {
@@ -987,6 +1097,28 @@ window.ALL_DATA['1987-11'] = {
           "pos": 5,
           "title": "Indiana Jones and the Temple of Doom",
           "by": "US Gold / Atari"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (November 1987)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "A Nightmare on Elm Street 3: Dream Warriors",
+          "by": "Palace Pictures"
+        },
+        {
+          "pos": 2,
+          "title": "Beverly Hills Cop II",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "The Witches of Eastwick",
+          "by": "Warner Bros."
         }
       ]
     }
@@ -1167,6 +1299,28 @@ window.ALL_DATA['1987-12'] = {
           "by": "Ocean / Imagine"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (December 1987)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Innerspace",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "Bigfoot and the Hendersons",
+          "by": "UIP / Universal"
+        },
+        {
+          "pos": 3,
+          "title": "Masters of the Universe",
+          "by": "Cannon Films"
+        }
+      ]
     }
   ],
   "gaming": {
@@ -1329,6 +1483,28 @@ window.ALL_DATA['1988-01'] = {
           "pos": 5,
           "title": "Renegade",
           "by": "Ocean / Imagine"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (January 1988)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Fatal Attraction",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Predator",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 3,
+          "title": "Masters of the Universe",
+          "by": "Cannon Films"
         }
       ]
     }
@@ -1553,6 +1729,28 @@ window.ALL_DATA['1988-02'] = {
           "by": "Mastertronic"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (February 1988)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Fatal Attraction",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Broadcast News",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 3,
+          "title": "Wall Street",
+          "by": "20th Century Fox"
+        }
+      ]
     }
   ],
   "chartSource": "Official Charts Company / Gallup UK charts, February 1988",
@@ -1718,6 +1916,28 @@ window.ALL_DATA['1988-03'] = {
           "by": "U.S. Gold"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (March 1988)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Empire of the Sun",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "Stakeout",
+          "by": "Touchstone / Warner Bros."
+        },
+        {
+          "pos": 3,
+          "title": "Fatal Attraction",
+          "by": "UIP / Paramount"
+        }
+      ]
     }
   ],
   "gaming": {
@@ -1870,6 +2090,28 @@ window.ALL_DATA['1988-04'] = {
           "pos": 5,
           "title": "Grand Prix Simulator",
           "by": "Codemasters"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (April 1988)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Moonstruck",
+          "by": "UIP / MGM"
+        },
+        {
+          "pos": 2,
+          "title": "The Fox and the Hound",
+          "by": "Walt Disney"
+        },
+        {
+          "pos": 3,
+          "title": "Empire of the Sun",
+          "by": "Warner Bros."
         }
       ]
     }
@@ -2027,6 +2269,28 @@ window.ALL_DATA['1988-05'] = {
           "by": "Ocean Software"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (May 1988)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Three Men and a Baby",
+          "by": "Touchstone / Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "The Last Emperor",
+          "by": "Columbia Pictures"
+        },
+        {
+          "pos": 3,
+          "title": "Moonstruck",
+          "by": "UIP / MGM"
+        }
+      ]
     }
   ],
   "gaming": {
@@ -2181,6 +2445,28 @@ window.ALL_DATA['1988-06'] = {
           "by": "Virgin Games"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (June 1988)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Crocodile Dundee II",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Three Men and a Baby",
+          "by": "Touchstone / Warner Bros."
+        },
+        {
+          "pos": 3,
+          "title": "Good Morning, Vietnam",
+          "by": "Touchstone / Warner Bros."
+        }
+      ]
     }
   ],
   "gaming": {
@@ -2333,6 +2619,28 @@ window.ALL_DATA['1988-07'] = {
           "pos": 5,
           "title": "Match Day II",
           "by": "Ocean Software"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (July 1988)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Crocodile Dundee II",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "The Jungle Book",
+          "by": "Walt Disney"
+        },
+        {
+          "pos": 3,
+          "title": "Coming to America",
+          "by": "UIP / Paramount"
         }
       ]
     }
@@ -2490,6 +2798,28 @@ window.ALL_DATA['1988-08'] = {
           "by": "Ocean Software"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (August 1988)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Coming to America",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Beetlejuice",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 3,
+          "title": "Rambo III",
+          "by": "Guild Film Distribution"
+        }
+      ]
     }
   ],
   "gaming": {
@@ -2641,6 +2971,28 @@ window.ALL_DATA['1988-09'] = {
           "pos": 5,
           "title": "Double Dragon",
           "by": "Melbourne House / Virgin"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (September 1988)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Beetlejuice",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "The Running Man",
+          "by": "Braveworld"
+        },
+        {
+          "pos": 3,
+          "title": "Frantic",
+          "by": "Warner Bros."
         }
       ]
     }
@@ -2796,6 +3148,28 @@ window.ALL_DATA['1988-10'] = {
           "by": "Image Works"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (October 1988)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "A Fish Called Wanda",
+          "by": "UIP / MGM"
+        },
+        {
+          "pos": 2,
+          "title": "Buster",
+          "by": "Vestron Pictures"
+        },
+        {
+          "pos": 3,
+          "title": "Good Morning, Vietnam",
+          "by": "Touchstone / Warner Bros."
+        }
+      ]
     }
   ],
   "gaming": {
@@ -2946,6 +3320,28 @@ window.ALL_DATA['1988-11'] = {
           "pos": 5,
           "title": "RoboCop",
           "by": "Ocean Software"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (November 1988)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "A Fish Called Wanda",
+          "by": "UIP / MGM"
+        },
+        {
+          "pos": 2,
+          "title": "Scrooged",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Die Hard",
+          "by": "20th Century Fox"
         }
       ]
     }
@@ -3101,6 +3497,28 @@ window.ALL_DATA['1988-12'] = {
           "pos": 5,
           "title": "R-Type",
           "by": "Electric Dreams"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (December 1988)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Who Framed Roger Rabbit",
+          "by": "Touchstone / Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "Scrooged",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "A Fish Called Wanda",
+          "by": "UIP / MGM"
         }
       ]
     }
@@ -3261,6 +3679,28 @@ window.ALL_DATA['1989-01'] = {
           "by": "Ocean Software"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (January 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Who Framed Roger Rabbit",
+          "by": "Touchstone / Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "Cocktail",
+          "by": "Touchstone / Warner Bros."
+        },
+        {
+          "pos": 3,
+          "title": "The Tall Guy",
+          "by": "Virgin / LWT"
+        }
+      ]
     }
   ],
   "gaming": {
@@ -3407,6 +3847,28 @@ window.ALL_DATA['1989-02'] = {
           "by": "Electric Dreams"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (February 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Naked Gun: From the Files of Police Squad!",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Die Hard",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 3,
+          "title": "Dangerous Liaisons",
+          "by": "Warner Bros."
+        }
+      ]
     }
   ],
   "gaming": {
@@ -3549,6 +4011,28 @@ window.ALL_DATA['1989-03'] = {
           "pos": 4,
           "title": "After Burner",
           "by": "Activision"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (March 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Rain Man",
+          "by": "UIP / United Artists"
+        },
+        {
+          "pos": 2,
+          "title": "Twins",
+          "by": "UIP / Universal"
+        },
+        {
+          "pos": 3,
+          "title": "The Naked Gun: From the Files of Police Squad!",
+          "by": "UIP / Paramount"
         }
       ]
     }
@@ -3696,6 +4180,28 @@ window.ALL_DATA['1989-04'] = {
           "by": "MicroProse"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (April 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Rain Man",
+          "by": "UIP / United Artists"
+        },
+        {
+          "pos": 2,
+          "title": "Working Girl",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 3,
+          "title": "Twins",
+          "by": "UIP / Universal"
+        }
+      ]
     }
   ],
   "gaming": {
@@ -3836,6 +4342,28 @@ window.ALL_DATA['1989-05'] = {
           "pos": 4,
           "title": "Run the Gauntlet",
           "by": "Ocean Software"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (May 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "A Nightmare on Elm Street 4: The Dream Master",
+          "by": "Palace Pictures"
+        },
+        {
+          "pos": 2,
+          "title": "Mississippi Burning",
+          "by": "Orion Pictures"
+        },
+        {
+          "pos": 3,
+          "title": "My Stepmother Is an Alien",
+          "by": "Columbia Pictures"
         }
       ]
     }
@@ -3980,6 +4508,28 @@ window.ALL_DATA['1989-06'] = {
           "pos": 4,
           "title": "Silkworm",
           "by": "Virgin Mastertronic"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (June 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Licence to Kill",
+          "by": "UIP / United Artists"
+        },
+        {
+          "pos": 2,
+          "title": "Beaches",
+          "by": "Touchstone / Warner Bros."
+        },
+        {
+          "pos": 3,
+          "title": "Hellbound: Hellraiser II",
+          "by": "Premier Releasing"
         }
       ]
     }
@@ -4127,6 +4677,28 @@ window.ALL_DATA['1989-07'] = {
           "by": "Virgin Mastertronic"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (July 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Indiana Jones and the Last Crusade",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Licence to Kill",
+          "by": "UIP / United Artists"
+        },
+        {
+          "pos": 3,
+          "title": "Batman",
+          "by": "Warner Bros."
+        }
+      ]
     }
   ],
   "gaming": {
@@ -4269,6 +4841,28 @@ window.ALL_DATA['1989-08'] = {
           "by": "Ocean Software"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (August 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Batman",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "Indiana Jones and the Last Crusade",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Lethal Weapon 2",
+          "by": "Warner Bros."
+        }
+      ]
     }
   ],
   "gaming": {
@@ -4409,6 +5003,28 @@ window.ALL_DATA['1989-09'] = {
           "pos": 4,
           "title": "Shinobi",
           "by": "Virgin Mastertronic"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (September 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Lethal Weapon 2",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "See No Evil, Hear No Evil",
+          "by": "Columbia Pictures"
+        },
+        {
+          "pos": 3,
+          "title": "Batman",
+          "by": "Warner Bros."
         }
       ]
     }
@@ -4554,6 +5170,28 @@ window.ALL_DATA['1989-10'] = {
           "pos": 4,
           "title": "Ghostbusters II",
           "by": "Activision"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (October 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Dead Poets Society",
+          "by": "Touchstone / Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "Young Einstein",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 3,
+          "title": "Pet Sematary",
+          "by": "UIP / Paramount"
         }
       ]
     }
@@ -4702,6 +5340,28 @@ window.ALL_DATA['1989-11'] = {
           "by": "Activision"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (November 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Back to the Future Part II",
+          "by": "UIP / Universal"
+        },
+        {
+          "pos": 2,
+          "title": "Shirley Valentine",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Wilt",
+          "by": "Rank Film Distributors"
+        }
+      ]
     }
   ],
   "gaming": {
@@ -4848,6 +5508,28 @@ window.ALL_DATA['1989-12'] = {
           "by": "Ocean Software"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (December 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Back to the Future Part II",
+          "by": "UIP / Universal"
+        },
+        {
+          "pos": 2,
+          "title": "Ghostbusters II",
+          "by": "Columbia Pictures"
+        },
+        {
+          "pos": 3,
+          "title": "When Harry Met Sally...",
+          "by": "Palace Pictures"
+        }
+      ]
     }
   ],
   "gaming": {
@@ -4992,6 +5674,28 @@ window.ALL_DATA['1990-01'] = {
           "by": "Ocean Software"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (January 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Parenthood",
+          "by": "UIP / Universal"
+        },
+        {
+          "pos": 2,
+          "title": "When Harry Met Sally...",
+          "by": "Palace Pictures"
+        },
+        {
+          "pos": 3,
+          "title": "Back to the Future Part II",
+          "by": "UIP / Universal"
+        }
+      ]
     }
   ],
   "gaming": {
@@ -5134,6 +5838,28 @@ window.ALL_DATA['1990-02'] = {
           "by": "US Gold"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (February 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Honey, I Shrunk the Kids",
+          "by": "Walt Disney"
+        },
+        {
+          "pos": 2,
+          "title": "Black Rain",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Dead Poets Society",
+          "by": "Touchstone / Warner Bros."
+        }
+      ]
     }
   ],
   "gaming": {
@@ -5274,6 +6000,28 @@ window.ALL_DATA['1990-03'] = {
           "pos": 4,
           "title": "Puzznic",
           "by": "Ocean Software"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (March 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Born on the Fourth of July",
+          "by": "UIP / Universal"
+        },
+        {
+          "pos": 2,
+          "title": "The War of the Roses",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 3,
+          "title": "Honey, I Shrunk the Kids",
+          "by": "Walt Disney"
         }
       ]
     }
@@ -5420,6 +6168,28 @@ window.ALL_DATA['1990-04'] = {
           "by": "Ocean Software"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (April 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Look Who's Talking",
+          "by": "Tri-Star Pictures"
+        },
+        {
+          "pos": 2,
+          "title": "The War of the Roses",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 3,
+          "title": "The Krays",
+          "by": "Rank Film Distributors"
+        }
+      ]
     }
   ],
   "gaming": {
@@ -5560,6 +6330,28 @@ window.ALL_DATA['1990-05'] = {
           "pos": 4,
           "title": "Bloodwych",
           "by": "Mirrorsoft"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (May 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Pretty Woman",
+          "by": "Touchstone / Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "The Krays",
+          "by": "Rank Film Distributors"
+        },
+        {
+          "pos": 3,
+          "title": "Look Who's Talking",
+          "by": "Tri-Star Pictures"
         }
       ]
     }
@@ -5703,6 +6495,28 @@ window.ALL_DATA['1990-06'] = {
           "pos": 4,
           "title": "World Cup Soccer: Italia '90",
           "by": "Virgin Mastertronic"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (June 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Pretty Woman",
+          "by": "Touchstone / Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "Teenage Mutant Ninja Turtles",
+          "by": "Virgin / 20th Century Fox"
+        },
+        {
+          "pos": 3,
+          "title": "Dick Tracy",
+          "by": "Warner Bros."
         }
       ]
     }
@@ -5859,6 +6673,28 @@ window.ALL_DATA['1990-07'] = {
           "by": "Ocean Software"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (July 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Total Recall",
+          "by": "Guild Film Distribution"
+        },
+        {
+          "pos": 2,
+          "title": "Back to the Future Part III",
+          "by": "UIP / Universal"
+        },
+        {
+          "pos": 3,
+          "title": "Dick Tracy",
+          "by": "Warner Bros."
+        }
+      ]
     }
   ],
   "gaming": {
@@ -6013,6 +6849,28 @@ window.ALL_DATA['1990-08'] = {
           "by": "Virgin Mastertronic"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (August 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Die Hard 2",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 2,
+          "title": "Gremlins 2: The New Batch",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 3,
+          "title": "Total Recall",
+          "by": "Guild Film Distribution"
+        }
+      ]
     }
   ],
   "gaming": {
@@ -6156,6 +7014,28 @@ window.ALL_DATA['1990-09'] = {
           "by": "Psygnosis"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (September 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Memphis Belle",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "Die Hard 2",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 3,
+          "title": "Another 48 Hrs.",
+          "by": "UIP / Paramount"
+        }
+      ]
     }
   ],
   "gaming": {
@@ -6297,6 +7177,28 @@ window.ALL_DATA['1990-10'] = {
           "pos": 4,
           "title": "Rick Dangerous 2",
           "by": "Micro Style"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (October 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Ghost",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Days of Thunder",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Memphis Belle",
+          "by": "Warner Bros."
         }
       ]
     }
@@ -6455,6 +7357,28 @@ window.ALL_DATA['1990-11'] = {
           "by": "Psygnosis"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (November 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Ghost",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Presumed Innocent",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 3,
+          "title": "Goodfellas",
+          "by": "Warner Bros."
+        }
+      ]
     }
   ],
   "gaming": {
@@ -6607,6 +7531,28 @@ window.ALL_DATA['1990-12'] = {
           "pos": 4,
           "title": "Manchester United",
           "by": "Krisalis Software"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (December 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Home Alone",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 2,
+          "title": "Ghost",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Teenage Mutant Ninja Turtles",
+          "by": "Virgin / 20th Century Fox"
         }
       ]
     }
@@ -6859,6 +7805,28 @@ window.ALL_DATA['1991-03'] = {
           "pos": 5,
           "title": "Shadow of the Beast II",
           "by": "Psygnosis"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (March 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Three Men and a Little Lady",
+          "by": "Touchstone / Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "Green Card",
+          "by": "Touchstone / Warner Bros."
+        },
+        {
+          "pos": 3,
+          "title": "Look Who's Talking Too",
+          "by": "Tri-Star Pictures"
         }
       ]
     }
@@ -7114,6 +8082,28 @@ window.ALL_DATA['1996-10'] = {
           "by": "Virgin Interactive"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (October 1996)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Nutty Professor",
+          "by": "UIP / Universal"
+        },
+        {
+          "pos": 2,
+          "title": "Dragonheart",
+          "by": "UIP / Universal"
+        },
+        {
+          "pos": 3,
+          "title": "Independence Day",
+          "by": "20th Century Fox"
+        }
+      ]
     }
   ],
   "chartSource": "Official Charts Company / ELSPA Gallup C&VG, October 1996",
@@ -7307,6 +8297,28 @@ window.ALL_DATA['1996-11'] = {
           "pos": 5,
           "title": "Insomnia",
           "by": "Faithless"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (November 1996)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The First Wives Club",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Michael Collins",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 3,
+          "title": "Dragonheart",
+          "by": "UIP / Universal"
         }
       ]
     }
@@ -7563,6 +8575,28 @@ window.ALL_DATA['1998-01'] = {
           "by": "Microsoft"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (January 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Titanic",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 2,
+          "title": "Tomorrow Never Dies",
+          "by": "UIP / MGM"
+        },
+        {
+          "pos": 3,
+          "title": "The Full Monty",
+          "by": "20th Century Fox"
+        }
+      ]
     }
   ],
   "chartSource": "Official Charts Company / ELSPA Chart-Track, January 1998",
@@ -7586,8 +8620,7 @@ window.ALL_DATA['1998-01'] = {
     "youtube": "Resident Evil 2 original PS1 trailer 1998",
     "source": "https://en.wikipedia.org/wiki/Resident_Evil_2"
   }
-}
-;
+};
 window.ALL_DATA['1998-02'] = {
   "month": "1998-02",
   "region": "UK",
@@ -7771,6 +8804,28 @@ window.ALL_DATA['1998-02'] = {
           "pos": 5,
           "title": "Mario Kart 64",
           "by": "Nintendo"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (February 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Titanic",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 2,
+          "title": "The Wings of the Dove",
+          "by": "Buena Vista"
+        },
+        {
+          "pos": 3,
+          "title": "Amistad",
+          "by": "UIP / DreamWorks"
         }
       ]
     }
@@ -8002,6 +9057,28 @@ window.ALL_DATA['1998-03'] = {
           "by": "Microsoft"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (March 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Titanic",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 2,
+          "title": "Good Will Hunting",
+          "by": "Buena Vista / Miramax"
+        },
+        {
+          "pos": 3,
+          "title": "As Good as It Gets",
+          "by": "Columbia TriStar"
+        }
+      ]
     }
   ],
   "chartSource": "Official Charts Company / ELSPA Chart-Track, March 1998",
@@ -8186,6 +9263,28 @@ window.ALL_DATA['1998-04'] = {
           "pos": 5,
           "title": "Lylat Wars",
           "by": "Nintendo"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (April 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Titanic",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 2,
+          "title": "U.S. Marshals",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 3,
+          "title": "Scream 2",
+          "by": "Buena Vista / Dimension"
         }
       ]
     }
@@ -8395,6 +9494,28 @@ window.ALL_DATA['1998-05'] = {
           "pos": 5,
           "title": "Mario Kart 64",
           "by": "Nintendo"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (May 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Deep Impact",
+          "by": "UIP / DreamWorks"
+        },
+        {
+          "pos": 2,
+          "title": "Scream 2",
+          "by": "Buena Vista / Dimension"
+        },
+        {
+          "pos": 3,
+          "title": "Titanic",
+          "by": "20th Century Fox"
         }
       ]
     }
@@ -8626,6 +9747,28 @@ window.ALL_DATA['1998-06'] = {
           "by": "Electronic Arts"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (June 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Godzilla",
+          "by": "Columbia TriStar"
+        },
+        {
+          "pos": 2,
+          "title": "The Truman Show",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Deep Impact",
+          "by": "UIP / DreamWorks"
+        }
+      ]
     }
   ],
   "chartSource": "Official Charts Company / ELSPA Chart-Track, June 1998",
@@ -8821,6 +9964,28 @@ window.ALL_DATA['1998-07'] = {
           "pos": 5,
           "title": "Diddy Kong Racing",
           "by": "Rare"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (July 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Godzilla",
+          "by": "Columbia TriStar"
+        },
+        {
+          "pos": 2,
+          "title": "Six Days Seven Nights",
+          "by": "Buena Vista"
+        },
+        {
+          "pos": 3,
+          "title": "City of Angels",
+          "by": "Warner Bros."
         }
       ]
     }
@@ -9020,6 +10185,28 @@ window.ALL_DATA['1998-08'] = {
           "by": "Rare"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (August 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Armageddon",
+          "by": "Buena Vista / Touchstone"
+        },
+        {
+          "pos": 2,
+          "title": "The X-Files: Fight the Future",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 3,
+          "title": "Lost in Space",
+          "by": "Entertainment Film Distributors"
+        }
+      ]
     }
   ],
   "chartSource": "Official Charts Company / ELSPA Chart-Track, August 1998",
@@ -9215,6 +10402,28 @@ window.ALL_DATA['1998-09'] = {
           "pos": 5,
           "title": "Diddy Kong Racing",
           "by": "Rare"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (September 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Saving Private Ryan",
+          "by": "UIP / DreamWorks"
+        },
+        {
+          "pos": 2,
+          "title": "Lock, Stock and Two Smoking Barrels",
+          "by": "PolyGram Filmed Entertainment"
+        },
+        {
+          "pos": 3,
+          "title": "There's Something About Mary",
+          "by": "20th Century Fox"
         }
       ]
     }
@@ -9414,6 +10623,28 @@ window.ALL_DATA['1998-10'] = {
           "by": "EA Sports"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (October 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Truman Show",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Saving Private Ryan",
+          "by": "UIP / DreamWorks"
+        },
+        {
+          "pos": 3,
+          "title": "Small Soldiers",
+          "by": "UIP / DreamWorks"
+        }
+      ]
     }
   ],
   "chartSource": "Official Charts Company / ELSPA Chart-Track, October 1998",
@@ -9598,6 +10829,28 @@ window.ALL_DATA['1998-11'] = {
           "pos": 5,
           "title": "StarCraft",
           "by": "Blizzard"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (November 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Antz",
+          "by": "UIP / DreamWorks"
+        },
+        {
+          "pos": 2,
+          "title": "The Truman Show",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Mulan",
+          "by": "Walt Disney"
         }
       ]
     }
@@ -9795,6 +11048,28 @@ window.ALL_DATA['1998-12'] = {
           "pos": 5,
           "title": "Super Mario 64",
           "by": "Nintendo"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (December 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Rugrats Movie",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Enemy of the State",
+          "by": "Buena Vista"
+        },
+        {
+          "pos": 3,
+          "title": "The Truman Show",
+          "by": "UIP / Paramount"
         }
       ]
     }

@@ -129,6 +129,28 @@
           "by": "Virgin Mastertronic"
         }
       ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (August 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Die Hard 2",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 2,
+          "title": "Gremlins 2: The New Batch",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 3,
+          "title": "Total Recall",
+          "by": "Guild Film Distribution"
+        }
+      ]
     }
   ],
   "gaming": {

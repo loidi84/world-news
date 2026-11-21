@@ -8,11 +8,16 @@
   - **1990:** January to December (all 12 months complete)
   - **1998:** January to December (all 12 months complete)
   - **Pilots & Samples:** 1991-03, 1996-10, 1996-11
-- **Total Archive Size:** 58 fully validated monthly datasets complete with **World News, Charts, and Gaming Spotlight** tabs.
+- **Total Archive Size:** 58 fully validated monthly datasets complete with **World News, Full Triple Charts (Music, Games & Cinema Box Office), and Gaming Spotlight** tabs.
 - **Offline Bundle:** `data/bundle.js` dynamically compiled and up to date with all 58 months.
 - **Validators:** `scripts/validate.ps1` passing with 0 errors and 0 warnings.
 - **UI Features:**
-  - 3-Tab Bar (News, Gaming Spotlight, Charts) with pagination (`PAGE 1 OF X`) and chronological story ordering.
+  - 4-Tab Bar (News, Gaming Spotlight, Charts, and ★ Saved Scrapbook) with pagination (`PAGE 1 OF X`) and chronological story ordering.
+  - Swipe Gestures to Turn Pages: Natural mobile touch swipe left/right to turn pages in News or flip forward/backward across months.
+  - 100% Offline PWA (Service Worker): `sw.js` pre-caches the app shell, icons, and `data/bundle.js` for instant, offline browsing on mobile devices.
+  - Cinema Box Office Top 3: Charts tab features verified UK cinema box office across all 58 months alongside singles and video game charts, complete with links to film articles and YouTube trailers.
+  - Wrestling Story Tag & Chronicle Filter: Dedicated `🤼 Wrestling Only` toggle in the News header (or via the `WRESTLING` story tag). If a month has no wrestling event, it offers direct 1-tap navigation to the nearest previous and next historical pay-per-views.
+  - Favorites / Scrapbook: Star button (`☆ Save`) on every news story and gaming spotlight to pin favorite moments to a dedicated `★ Saved` scrapbook stored in `localStorage`, complete with 1-click jump-back links.
   - Dark Mode: Quick toggle (`🌙 / ☀️`) in control bar, settings dropdown (System / Light / Dark), custom dark paper palette (`--paper: #222226`, `--paper-ink: #f0ede6`), dynamic mobile `<meta name="theme-color">` sync, and `localStorage` persistence.
   - Cleaned Settings: Removed obsolete "Edition" dropdown and dummy "Export EPUB" placeholder.
   - Editorial Topic Badges: Replaced generic "RESEARCHED" tag with actual newspaper section slugs (`POLITICS`, `FILM & TV`, `MUSIC`, `GAMES`, `WRESTLING`, etc.).
@@ -72,12 +77,12 @@
 | 1998-01 | Done | 8 | 4 | *Resident Evil 2* | Lunar Prospector, Royal Rumble, Titanic UK, Oasis longest #1, Clinton denial |
 | 1998-02 | Done | 7 | 3 | *Xenogears* | Nagano Olympics, Chumbawamba/Prescott, No Way Out, Celine Dion #1 |
 | 1998-03 | Done | 6 | 4 | *StarCraft* | WrestleMania XIV, Titanic Oscars, Run-DMC vs Jason Nevins |
-| 1998-04 | Done | 5 | 3 | *Metal Gear Solid* preview | Good Friday Agreement, George Michael arrest, Pol Pot death, Inferno Match |
-| 1998-05 | Done | 7 | 3 | *Gran Turismo* EU | Arsenal title, Sinatra death, Seinfeld finale, Over the Edge |
+| 1998-04 | Done | 5 | 3 | *Unreal* | Good Friday Agreement, George Michael arrest, Pol Pot death, Inferno Match |
+| 1998-05 | Done | 7 | 3 | *Gran Turismo* | Arsenal title, Sinatra death, Seinfeld finale, Over the Edge |
 | 1998-06 | Done | 6 | 4 | *Banjo-Kazooie* | Beckham red card, Hell in a Cell (Mankind), Windows 98, B*Witched |
 | 1998-07 | Done | 6 | 3 | *F-Zero X* | France World Cup, Saving Private Ryan, Festina scandal, Billie Piper record |
-| 1998-08 | Done | 6 | 3 | *Tom Clancy's Rainbow Six* | Omagh bombing, iMac G3, Clinton grand jury, Lock Stock, SummerSlam |
-| 1998-09 | Done | 6 | 3 | *Spyro the Dragon* | Metal Gear Solid JP, Google incorporated, Millionaire debut, McGwire 62nd HR |
+| 1998-08 | Done | 6 | 3 | *Tenchu: Stealth Assassins* | Omagh bombing, iMac G3, Clinton grand jury, Lock Stock, SummerSlam |
+| 1998-09 | Done | 6 | 3 | *Metal Gear Solid* | Google incorporated, Millionaire debut, McGwire 62nd HR, Breakdown |
 | 1998-10 | Done | 6 | 3 | *Fallout 2* | Pinochet arrest, Judgment Day, Game Boy Color, John Glenn, Cher Believe |
-| 1998-11 | Done | 5 | 3 | *Half-Life* / *Zelda: Ocarina of Time* | Survivor Series Deadly Game, ISS Zarya launch |
-| 1998-12 | Done | 6 | 3 | *Crash Bandicoot 3: Warped* | Zelda UK launch, Rock Bottom, Desert Fox, Clinton impeached, Spice Girls Goodbye #1 |
+| 1998-11 | Done | 5 | 3 | *Half-Life* | Survivor Series Deadly Game, ISS Zarya launch |
+| 1998-12 | Done | 6 | 3 | *The Legend of Zelda: Ocarina of Time* | Rock Bottom, Desert Fox, Clinton impeached, Spice Girls Goodbye #1 |
