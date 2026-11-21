@@ -152,5 +152,25 @@
         }
       ]
     }
-  ]
+  ],
+  "gaming": {
+    "title": "Metal Gear",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "platforms": [
+      "MSX2"
+    ],
+    "genre": "Stealth Action",
+    "director": "Hideo Kojima",
+    "reviewScore": "88%",
+    "reviewQuote": "An utterly gripping espionage thriller where hiding in cardboard boxes is deadlier than pulling the trigger.",
+    "reviewSource": "MSX Magazine",
+    "headline": "The Birth of the Tactical Stealth Genre",
+    "gameplay": "Conceived by 23-year-old rookie designer Hideo Kojima, *Metal Gear* cast players as **Solid Snake**, a rookie operative of the elite FOXHOUND unit sent deep into South Africa to infiltrate the fortress state of Outer Heaven. Faced with the technical limitations of the MSX2 hardware—which flickered and slowed down when more than a few bullets appeared on screen—Kojima ingeniously inverted military action conventions: instead of massacring endless waves of enemies, players had to slip past sentries undetected, track enemy vision cones, and hide in discarded cardboard boxes.",
+    "reception": "Released in Japan on 13 July 1987, *Metal Gear* was immediately hailed by MSX enthusiasts as a revelation in game design. Critics praised its cinematic tone, intricate radio communications with commanding officer Big Boss, and the heart-pounding tension of its alarm system, which required players to scramble into shadows to wait out roving search patrols.",
+    "impact": "*Metal Gear* founded the modern stealth game genre, demonstrating that evasion and vulnerability could be infinitely more suspenseful than mindless firepower. It kickstarted one of gaming's most acclaimed franchises and launched Kojima into international auteur status, culminating in the PlayStation classic *Metal Gear Solid* a decade later.",
+    "wiki": "Metal Gear (video game)",
+    "youtube": "Metal Gear MSX2 original 1987",
+    "source": "https://en.wikipedia.org/wiki/Metal_Gear_(video_game)"
+  }
 }

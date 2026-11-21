@@ -173,5 +173,26 @@
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, October 1998"
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, October 1998",
+  "gaming": {
+    "title": "Fallout 2",
+    "developer": "Black Isle Studios",
+    "publisher": "Interplay Productions",
+    "platforms": [
+      "Windows PC",
+      "Mac OS"
+    ],
+    "genre": "Post-Apocalyptic Role-Playing Game",
+    "director": "Feargus Urquhart / Tim Cain",
+    "reviewScore": "90%",
+    "reviewQuote": "Dark, satirical, massive, and morally complex. Western computer role-playing at its absolute peak.",
+    "reviewSource": "PC Gamer (Issue 56)",
+    "headline": "Wasteland Survival, the GECK, and Unapologetic Player Freedom",
+    "gameplay": "Developed by Black Isle Studios under director Feargus Urquhart, *Fallout 2* returned to the retro-futuristic, nuclear-ravaged wasteland of post-apocalyptic California in 2241. As the \"Chosen One\" of the primitive tribal village of Arroyo, players set out across a massive, morally ambiguous wasteland to retrieve the Garden of Eden Creation Kit (**G.E.C.K.**). The game expanded the iconic **S.P.E.C.I.A.L.** system, giving players absolute freedom to solve quests through silver-tongued diplomacy, scientific hacking, stealth, or gruesome tactical turn-based combat with targeted called shots.",
+    "reception": "Arriving on PCs in late October 1998, *Fallout 2* was celebrated for its razor-sharp satirical humor, rich branching dialogue trees, and astonishing scope. Reviewers praised its willingness to let players become anything from a saintly wasteland sheriff to a Mafia capo or boxing champion in New Reno, with *PC Gamer* awarding it 90% and praising its unmatched player agency.",
+    "impact": "*Fallout 2* is universally hailed as one of the greatest computer RPGs ever created, establishing the rich lore, dark comedic tone, and moral complexity that define the multi-billion-dollar *Fallout* franchise today. Its creators went on to found Obsidian Entertainment and shape modern RPG milestones like *Fallout: New Vegas*.",
+    "wiki": "Fallout 2",
+    "youtube": "Fallout 2 original intro 1998",
+    "source": "https://en.wikipedia.org/wiki/Fallout_2"
+  }
 }

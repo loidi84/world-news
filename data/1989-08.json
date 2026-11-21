@@ -1,0 +1,142 @@
+{
+  "month": "1989-08",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-08-25-voyager-2-neptune-flyby",
+      "date": "1989-08-25",
+      "topic": "science",
+      "text": "25 August saw NASA's deep-space probe **Voyager 2** make its historic closest approach to **Neptune**, sweeping just 3,000 miles above the gas giant's north pole after a 12-year journey across the solar system. The spacecraft transmitted breathtaking, high-resolution photographs revealing vibrant azure clouds, five previously unknown moons, delicate planetary ring arcs, and the churning storm of the **Great Dark Spot**, alongside geysers of liquid nitrogen erupting from the frozen moon Triton.",
+      "wiki": "Voyager 2",
+      "youtube": "Voyager 2 Neptune flyby NASA live 1989",
+      "source": "https://en.wikipedia.org/wiki/Voyager_2",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-08-19-pan-european-picnic-hungary",
+      "date": "1989-08-19",
+      "topic": "politics",
+      "text": "19 August saw the **Pan-European Picnic** take place along the border between Hungary and Austria near Sopron, organized by peace activists with the tacit approval of Hungarian reformists. When border gates were symbolically opened for three hours, more than **600 East German citizens** burst through the barbed wire into neutral Austria, meeting no armed resistance from Hungarian border guards. The mass breakthrough opened the floodgates for tens of thousands of East Germans to flee to the West.",
+      "wiki": "Pan-European Picnic",
+      "youtube": "Pan-European Picnic August 1989 news",
+      "source": "https://en.wikipedia.org/wiki/Pan-European_Picnic",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-08-20-marchioness-disaster-thames",
+      "date": "1989-08-20",
+      "topic": "politics",
+      "text": "20 August saw the tragic **Marchioness disaster** occur on the River Thames in central London when the pleasure cruiser *Marchioness*, packed with young revellers celebrating a 26th birthday party, was struck twice and run down by the 1,875-ton aggregate dredger *Bowbelle* near Cannon Street Railway Bridge. The cruiser capsized and sank within thirty seconds in dark tidal waters, claiming **51 young lives** and sparking years of inquiries into maritime safety standards along London's waterways.",
+      "wiki": "Marchioness disaster",
+      "youtube": "Marchioness disaster ITN news August 1989",
+      "source": "https://en.wikipedia.org/wiki/Marchioness_disaster",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-08-28-summerslam-1989-hogan-zeus",
+      "date": "1989-08-28",
+      "topic": "wrestling",
+      "text": "28 August saw the WWF stage its second annual **SummerSlam** at the Meadowlands Arena in East Rutherford, New Jersey, headlined by a blockbuster tag clash pairing WWF Champion **Hulk Hogan and Brutus \"The Barber\" Beefcake** against \"Macho King\" Randy Savage and towering movie villain **Zeus** (played by actor Tiny Lister). Hogan pinned Zeus following a ringside purse strike from Miss Elizabeth, while The Ultimate Warrior dethroned Rick Rude to recapture the Intercontinental Championship.",
+      "wiki": "SummerSlam (1989)",
+      "youtube": "SummerSlam 1989 Hogan Beefcake vs Savage Zeus",
+      "source": "https://en.wikipedia.org/wiki/SummerSlam_(1989)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-08-12-sonia-youll-never-stop-me-number-one",
+      "date": "1989-08-12",
+      "topic": "music",
+      "text": "12 August saw 18-year-old Liverpool pop starlet **Sonia** score a memorable UK number one single with her infectious debut ***You'll Never Stop Me Loving You***. Produced by the prolific Stock Aitken Waterman team, the effervescent dance-pop anthem spent three weeks at the summit, continuing PWL's total stranglehold over the British pop charts throughout the summer of 1989.",
+      "wiki": "You'll Never Stop Me Loving You",
+      "youtube": "Sonia Youll Never Stop Me Loving You Top of the Pops 1989",
+      "source": "https://www.officialcharts.com/songs/sonia-youll-never-stop-me-loving-you/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (19 August 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Swing the Mood",
+          "by": "Jive Bunny and the Mastermixers"
+        },
+        {
+          "pos": 2,
+          "title": "You'll Never Stop Me Loving You",
+          "by": "Sonia"
+        },
+        {
+          "pos": 3,
+          "title": "Poison",
+          "by": "Alice Cooper"
+        },
+        {
+          "pos": 4,
+          "title": "Too Much",
+          "by": "Bros"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (August 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "The Untouchables",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Ghostbusters II",
+          "by": "Activision"
+        },
+        {
+          "pos": 4,
+          "title": "Operation Wolf",
+          "by": "Ocean Software"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "The Revenge of Shinobi",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "platforms": [
+      "Sega Mega Drive / Genesis"
+    ],
+    "genre": "Action Platformer",
+    "director": "Noriyoshi Ohba",
+    "reviewScore": "94%",
+    "reviewQuote": "A staggering showcase of 16-bit console power. Yuzo Koshiro's club-ready soundtrack alone is worth buying a Mega Drive for.",
+    "reviewSource": "Mean Machines / Computer & Video Games",
+    "headline": "Shurikens, Shadow Ninjas, and Yuzo Koshiro's Techno Revolution",
+    "gameplay": "Directed by Noriyoshi Ohba for Sega's new 16-bit Mega Drive, *The Revenge of Shinobi* (released in Japan as *The Super Shinobi*) set modern ninja master **Joe Musashi** on a bloody vengeance quest against the resurrected Neo Zeed crime syndicate. Players executed somersaulting double-jumps to hurl eight-way shuriken spreads, blocked projectiles with defensive ninjutsu guard postures, and invoked four elemental spells: Fushin (super jumps), Ikazuchi (protective lightning), Karyu (roaring fire dragons), and Mijin (explosive self-sacrifice suicide).",
+    "reception": "Debuting in late 1989, *The Revenge of Shinobi* was universally hailed as the first true masterpiece of the 16-bit console era. Critics were particularly enraptured by 21-year-old composer **Yuzo Koshiro's** revolutionary, house- and techno-infused FM synthesized score, which pushed the Yamaha YM2612 sound chip into uncharted musical territory. Early print runs famously featured unauthorized boss cameos from Godzilla, Spider-Man, the Terminator, and Batman.",
+    "impact": "*The Revenge of Shinobi* became a marquee system-seller for the Sega Mega Drive / Genesis, proving that home consoles could deliver superior visual complexity, mature action, and club-calibre audio that rivalled dedicated arcade machines.",
+    "wiki": "The Revenge of Shinobi",
+    "youtube": "The Revenge of Shinobi Mega Drive 1989 intro gameplay",
+    "source": "https://en.wikipedia.org/wiki/The_Revenge_of_Shinobi"
+  }
+}

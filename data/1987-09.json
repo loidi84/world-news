@@ -128,5 +128,25 @@
         }
       ]
     }
-  ]
+  ],
+  "gaming": {
+    "title": "The Legend of Zelda",
+    "developer": "Nintendo R&D4",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Nintendo Entertainment System (NES)"
+    ],
+    "genre": "Action-Adventure",
+    "director": "Shigeru Miyamoto / Takashi Tezuka",
+    "reviewScore": "95%",
+    "reviewQuote": "A breathtaking golden cartridge holding an entire living world of secrets and adventure.",
+    "reviewSource": "Computer and Video Games (Issue 74)",
+    "headline": "Gold Cartridges and the Open Wilderness of Hyrule",
+    "gameplay": "Inspired by Shigeru Miyamoto's childhood explorations of the Kyoto countryside and hillside caves, *The Legend of Zelda* unleashed young hero **Link** into the sprawling, non-linear fantasy wilderness of **Hyrule**. Unlike straightforward linear platformers, the game placed an emphasis on boundless curiosity, cryptic dungeon riddles, burning bushes with candles, bombing suspicious rock faces, and assembling the eight fragments of the **Triforce of Wisdom** to vanquish Ganon.",
+    "reception": "When the gold-plated cartridge launched in North America in late August and September 1987, it triggered absolute delirium among NES owners. Crucially, it was the first home console cartridge to incorporate an internal battery-backed lithium RAM chip, allowing players to save their quest directly instead of memorising punishing 24-character alphanumeric passwords. Reviewers praised its unparalleled scale and atmospheric mystery, making it an instant multi-million seller.",
+    "impact": "*The Legend of Zelda* defined the action-adventure genre, establishing exploration, environmental puzzles, inventory upgrades, and open-ended map discovery as industry staples. It sold over 6.5 million copies, elevated the NES into an unassailable global powerhouse, and founded one of the most revered and influential franchises in video game history.",
+    "wiki": "The Legend of Zelda (video game)",
+    "youtube": "The Legend of Zelda NES commercial 1987",
+    "source": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)"
+  }
 }

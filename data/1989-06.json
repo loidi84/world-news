@@ -1,0 +1,145 @@
+{
+  "month": "1989-06",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-06-04-tiananmen-square-massacre",
+      "date": "1989-06-04",
+      "topic": "politics",
+      "text": "4 June saw the Chinese military violently crush pro-democracy demonstrations in **Tiananmen Square**, Beijing, dispatching heavily armed infantry and Type 59 tanks into crowds of student protesters, resulting in hundreds and possibly thousands of deaths. The following morning, global television broadcast the iconic defiance of **\"Tank Man\"**, an unidentified civilian holding shopping bags who repeatedly stood in front of a column of advancing tanks, creating an indelible universal symbol of resistance against tyranny.",
+      "wiki": "1989 Tiananmen Square protests and massacre",
+      "youtube": "Tiananmen Square Tank Man iconic footage June 1989",
+      "source": "https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-06-04-solidarity-polish-election",
+      "date": "1989-06-04",
+      "topic": "politics",
+      "text": "4 June saw Poland hold semi-free parliamentary elections, delivering a seismic landslide victory to Lech Wałęsa's **Solidarity trade union** movement. Solidarity swept 99 of the 100 seats in the newly created Senate and every single freely contested seat in the Sejm, breaking the Communist Party's monopoly on power and sparking the chain reaction that peacefully dissolved communist rule across Eastern Europe.",
+      "wiki": "1989 Polish legislative election",
+      "youtube": "Polish Solidarity election victory June 1989 news",
+      "source": "https://en.wikipedia.org/wiki/1989_Polish_legislative_election",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-06-23-batman-movie-premiere",
+      "date": "1989-06-23",
+      "topic": "film",
+      "text": "23 June saw Tim Burton's ***Batman*** hit cinemas, triggering an unprecedented cultural phenomenon known as \"Batmania\". Starring **Michael Keaton** as the brooding Dark Knight and **Jack Nicholson** in an anarchic, show-stealing turn as The Joker, the dark, stylish neo-noir thriller featured a brooding Danny Elfman score and Prince songs, grossing over $400 million and fundamentally reinventing the modern superhero blockbuster.",
+      "wiki": "Batman (1989 film)",
+      "youtube": "Batman 1989 theatrical trailer Michael Keaton Jack Nicholson",
+      "source": "https://en.wikipedia.org/wiki/Batman_(1989_film)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-06-17-soul-ii-soul-back-to-life",
+      "date": "1989-06-17",
+      "topic": "music",
+      "text": "17 June saw British sound system collective **Soul II Soul**, masterminded by Jazzie B and featuring powerhouse vocals from Caron Wheeler, hit number one on the UK Singles Chart with ***Back to Life (However Do You Want Me)***. Defining the buoyant sound of late-1980s Black British urban music with its fusion of R&B, hip-hop breaks, and lush string arrangements, the anthem stayed at number one for four weeks and conquered the US charts.",
+      "wiki": "Back to Life (However Do You Want Me)",
+      "youtube": "Soul II Soul Back To Life official video 1989",
+      "source": "https://www.officialcharts.com/songs/soul-ii-soul-back-to-life-however-do-you-want-me/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-06-24-jason-donovan-sealed-with-a-kiss",
+      "date": "1989-06-24",
+      "topic": "music",
+      "text": "24 June saw **Jason Donovan** score his second consecutive solo UK number-one single with his bubblegum pop cover of the 1960s classic ***Sealed with a Kiss***. Pushing Soul II Soul and Prince off the top spot, Donovan became the most commercially dominant solo male artist in Britain in 1989, shifting millions of albums for the PWL production stable.",
+      "wiki": "Sealed with a Kiss",
+      "youtube": "Jason Donovan Sealed With a Kiss TOTP 1989",
+      "source": "https://www.officialcharts.com/songs/jason-donovan-sealed-with-a-kiss/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (24 June 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Sealed with a Kiss",
+          "by": "Jason Donovan"
+        },
+        {
+          "pos": 2,
+          "title": "Back to Life (However Do You Want Me)",
+          "by": "Soul II Soul"
+        },
+        {
+          "pos": 3,
+          "title": "Batdance",
+          "by": "Prince"
+        },
+        {
+          "pos": 4,
+          "title": "It's Alright",
+          "by": "Pet Shop Boys"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (June 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "The NewZealand Story",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Out Run",
+          "by": "Sega / US Gold"
+        },
+        {
+          "pos": 4,
+          "title": "Silkworm",
+          "by": "Virgin Mastertronic"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Golden Axe",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "platforms": [
+      "Arcade (Sega System 16)",
+      "Sega Mega Drive",
+      "Amiga",
+      "Atari ST"
+    ],
+    "genre": "Side-Scrolling Hack and Slash / Beat 'em Up",
+    "director": "Makoto Uchida",
+    "reviewScore": "92%",
+    "reviewQuote": "Summoning screen-filling lightning bolts and riding fire-breathing bizarrians with a friend. Arcade fantasy bliss.",
+    "reviewSource": "Computer & Video Games (Issue 92)",
+    "headline": "Broadswords, Dragon Mounts, and Magic Potions",
+    "gameplay": "Created by Makoto Uchida on Sega's System 16 arcade board, *Golden Axe* dragged the cooperative brawler out of gritty urban alleyways and plunged it into high fantasy inspired by *Conan the Barbarian*. Players chose between three vengeful champions: **Ax Battler** the barbarian, **Tyris Flare** the Amazon, and **Gilius Thunderhead** the axe-wielding dwarf. Beyond bashing Death Adder's armored minions, players kicked sleeping blue thieves to loot magical potions, hopped aboard rideable chicken-leg Bizarrians and fire-spitting dragons, and burned magic pots to summon screen-clearing firestorms and earth-shattering boulders.",
+    "reception": "Debuting in arcades in June 1989, *Golden Axe* was an instant global coin-op sensation. Its dramatic orchestral chiptune themes, brutal bone-crushing sword hits, and simultaneous two-player cooperation drew packed crowds to arcade cabinets across the globe. Critics praised its vibrant fantasy pixel art and cinematic magic effects.",
+    "impact": "*Golden Axe* established a golden age for arcade fantasy beat 'em ups, directly inspiring Capcom's *Tower of Doom* and *Dungeons & Dragons*. Its legendary 1989 home conversion for the Sega Mega Drive became one of the key system-seller titles that established Sega's 16-bit console as a must-have for teenagers.",
+    "wiki": "Golden Axe (video game)",
+    "youtube": "Golden Axe original arcade 1989 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Golden_Axe_(video_game)"
+  }
+}

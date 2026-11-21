@@ -154,9 +154,30 @@ window.ALL_DATA['1987-06'] = {
         }
       ]
     }
-  ]
-}
-;
+  ],
+  "gaming": {
+    "title": "Barbarian: The Ultimate Warrior",
+    "developer": "Palace Software",
+    "publisher": "Palace Software",
+    "platforms": [
+      "Commodore 64",
+      "ZX Spectrum",
+      "Amstrad CPC"
+    ],
+    "genre": "One-on-One Fighting / Hack and Slash",
+    "director": "Steve Brown",
+    "reviewScore": "89%",
+    "reviewQuote": "Fluid animation, savage combat, and that unforgettable decapitation move make this an instant classic.",
+    "reviewSource": "Crash (Issue 42)",
+    "headline": "Swordplay, Decapitations, and Tabloid Outrage",
+    "gameplay": "Designed and animated by Steve Brown—who practised with wooden broadswords in his back garden—*Barbarian: The Ultimate Warrior* pitted two muscular swordsmen in bloody arena combat to rescue Princess Mariana from the evil sorcerer Drax. The game introduced a devastating **flying neck chop**: land the strike cleanly, and your opponent was instantly beheaded while a grinning green goblin jogged into the arena to boot the severed head off-screen like a football.",
+    "reception": "The game became an overnight sensation in June 1987, propelled in part by an audacious publicity campaign featuring page-three glamour model Maria Whittaker and gladiator bodybuilder Michael Van Wijk. Moral campaigner Mary Whitehouse and religious groups called for outright bans, which only fuelled sales. Gaming critics were genuinely impressed by the combat engine: *Zzap!64* awarded it 87% (Sizzler), praising its fluid multi-frame animation, while *Crash* awarded it 89%.",
+    "impact": "*Barbarian* was Palace Software's biggest commercial hit, shifting over 500,000 copies across Europe and proving that controversial marketing paired with tight mechanics could create a cultural lightning rod. Its fluid martial arts animations and instant-kill move helped pave the way for visceral fighting games like *Mortal Kombat* years later.",
+    "wiki": "Barbarian: The Ultimate Warrior",
+    "youtube": "Barbarian The Ultimate Warrior C64 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Barbarian:_The_Ultimate_Warrior"
+  }
+};
 window.ALL_DATA['1987-07'] = {
   "month": "1987-07",
   "region": "UK",
@@ -311,9 +332,28 @@ window.ALL_DATA['1987-07'] = {
         }
       ]
     }
-  ]
-}
-;
+  ],
+  "gaming": {
+    "title": "Metal Gear",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "platforms": [
+      "MSX2"
+    ],
+    "genre": "Stealth Action",
+    "director": "Hideo Kojima",
+    "reviewScore": "88%",
+    "reviewQuote": "An utterly gripping espionage thriller where hiding in cardboard boxes is deadlier than pulling the trigger.",
+    "reviewSource": "MSX Magazine",
+    "headline": "The Birth of the Tactical Stealth Genre",
+    "gameplay": "Conceived by 23-year-old rookie designer Hideo Kojima, *Metal Gear* cast players as **Solid Snake**, a rookie operative of the elite FOXHOUND unit sent deep into South Africa to infiltrate the fortress state of Outer Heaven. Faced with the technical limitations of the MSX2 hardware—which flickered and slowed down when more than a few bullets appeared on screen—Kojima ingeniously inverted military action conventions: instead of massacring endless waves of enemies, players had to slip past sentries undetected, track enemy vision cones, and hide in discarded cardboard boxes.",
+    "reception": "Released in Japan on 13 July 1987, *Metal Gear* was immediately hailed by MSX enthusiasts as a revelation in game design. Critics praised its cinematic tone, intricate radio communications with commanding officer Big Boss, and the heart-pounding tension of its alarm system, which required players to scramble into shadows to wait out roving search patrols.",
+    "impact": "*Metal Gear* founded the modern stealth game genre, demonstrating that evasion and vulnerability could be infinitely more suspenseful than mindless firepower. It kickstarted one of gaming's most acclaimed franchises and launched Kojima into international auteur status, culminating in the PlayStation classic *Metal Gear Solid* a decade later.",
+    "wiki": "Metal Gear (video game)",
+    "youtube": "Metal Gear MSX2 original 1987",
+    "source": "https://en.wikipedia.org/wiki/Metal_Gear_(video_game)"
+  }
+};
 window.ALL_DATA['1987-08'] = {
   "month": "1987-08",
   "region": "UK",
@@ -468,9 +508,28 @@ window.ALL_DATA['1987-08'] = {
         }
       ]
     }
-  ]
-}
-;
+  ],
+  "gaming": {
+    "title": "Street Fighter",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "platforms": [
+      "Arcade"
+    ],
+    "genre": "One-on-One Fighting",
+    "director": "Takashi Nishiyama / Hiroshi Matsumoto",
+    "reviewScore": "85%",
+    "reviewQuote": "Pneumatic smash pads and secret special moves turn street brawling into an arcade spectator sport.",
+    "reviewSource": "Computer & Video Games (Arcade Action)",
+    "headline": "The Secret Moves That Ignited Competitive Fighting",
+    "gameplay": "Directed by Takashi Nishiyama, Capcom's original *Street Fighter* arcade cabinet introduced wandering martial artist **Ryu** (and player two rival **Ken**) battling across five nations to defeat Muay Thai champion Sagat. The original deluxe cabinet featured revolutionary pneumatic rubber strike pads that detected the physical strength of the player's fist—punching harder delivered heavy damage—before being replaced by the standard six-button layout. Crucially, the game pioneered secret motion-input special moves: the **Hadoken**, **Shoryuken**, and **Tatsumaki Senpukyaku**.",
+    "reception": "Arriving in arcades in August 1987, the game drew boisterous crowds around cabinets. Players swapped hushed playground rumours about how to reliably trigger Ryu's devastating Dragon Punch, which could wipe out two-thirds of an opponent's life bar in a single blow. While critics noted the stiff timing required for inputs, the kinetic spectacle and digitized voice shouts captivated arcade-goers worldwide.",
+    "impact": "Though vastly eclipsed by its epochal 1991 sequel *Street Fighter II*, the 1987 original laid down the architectural grammar of competitive fighting games: six-button attack hierarchies, motion-based special attacks, and two-player head-to-head cabinet play. Nishiyama and Matsumoto subsequently took their fighting design philosophy to SNK to create *Fatal Fury* and *The King of Fighters*.",
+    "wiki": "Street Fighter (video game)",
+    "youtube": "Street Fighter 1 original arcade 1987",
+    "source": "https://en.wikipedia.org/wiki/Street_Fighter_(video_game)"
+  }
+};
 window.ALL_DATA['1987-09'] = {
   "month": "1987-09",
   "region": "UK",
@@ -601,9 +660,28 @@ window.ALL_DATA['1987-09'] = {
         }
       ]
     }
-  ]
-}
-;
+  ],
+  "gaming": {
+    "title": "The Legend of Zelda",
+    "developer": "Nintendo R&D4",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Nintendo Entertainment System (NES)"
+    ],
+    "genre": "Action-Adventure",
+    "director": "Shigeru Miyamoto / Takashi Tezuka",
+    "reviewScore": "95%",
+    "reviewQuote": "A breathtaking golden cartridge holding an entire living world of secrets and adventure.",
+    "reviewSource": "Computer and Video Games (Issue 74)",
+    "headline": "Gold Cartridges and the Open Wilderness of Hyrule",
+    "gameplay": "Inspired by Shigeru Miyamoto's childhood explorations of the Kyoto countryside and hillside caves, *The Legend of Zelda* unleashed young hero **Link** into the sprawling, non-linear fantasy wilderness of **Hyrule**. Unlike straightforward linear platformers, the game placed an emphasis on boundless curiosity, cryptic dungeon riddles, burning bushes with candles, bombing suspicious rock faces, and assembling the eight fragments of the **Triforce of Wisdom** to vanquish Ganon.",
+    "reception": "When the gold-plated cartridge launched in North America in late August and September 1987, it triggered absolute delirium among NES owners. Crucially, it was the first home console cartridge to incorporate an internal battery-backed lithium RAM chip, allowing players to save their quest directly instead of memorising punishing 24-character alphanumeric passwords. Reviewers praised its unparalleled scale and atmospheric mystery, making it an instant multi-million seller.",
+    "impact": "*The Legend of Zelda* defined the action-adventure genre, establishing exploration, environmental puzzles, inventory upgrades, and open-ended map discovery as industry staples. It sold over 6.5 million copies, elevated the NES into an unassailable global powerhouse, and founded one of the most revered and influential franchises in video game history.",
+    "wiki": "The Legend of Zelda (video game)",
+    "youtube": "The Legend of Zelda NES commercial 1987",
+    "source": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)"
+  }
+};
 window.ALL_DATA['1987-10'] = {
   "month": "1987-10",
   "region": "UK",
@@ -746,9 +824,30 @@ window.ALL_DATA['1987-10'] = {
         }
       ]
     }
-  ]
-}
-;
+  ],
+  "gaming": {
+    "title": "Dungeon Master",
+    "developer": "FTL Games",
+    "publisher": "FTL Games",
+    "platforms": [
+      "Atari ST",
+      "Commodore Amiga",
+      "MS-DOS"
+    ],
+    "genre": "Real-Time Dungeon Crawler RPG",
+    "director": "Doug Bell / Dennis Walker",
+    "reviewScore": "96%",
+    "reviewQuote": "Not just a game; it is an incredible sensory shock that makes every other role-playing game look completely primitive.",
+    "reviewSource": "Computer & Video Games (Issue 75)",
+    "headline": "Real-Time Terror in the 16-Bit Deep",
+    "gameplay": "Programmed by Doug Bell and Dennis Walker for the 16-bit Atari ST, *Dungeon Master* dragged fantasy role-playing out of sluggish turn-based menus and thrust it into heart-racing **real-time 3D first-person survival**. Guiding a party of four champions down through the 14-level dungeon of Mount Anaias to retrieve the Firestaff, players had to cast spells on the fly by combining mystical rune symbols, manage physical torches as darkness closed in, and physically dodge charging giant mummies and screeching screamers before their characters starved to death.",
+    "reception": "Released in October 1987, *Dungeon Master* took the computer gaming world by storm. It made stunning use of the Atari ST's Yamaha sound chip, featuring revolutionary directional 3D audio where the skittering claws of giant scorpions could be heard creeping up behind the player's left shoulder. *Computer & Video Games* awarded it 96%, declaring it the single greatest reason to buy a 16-bit computer.",
+    "impact": "*Dungeon Master* became the best-selling Atari ST game of all time, shifting an estimated 40,000 copies in its first year alone and practically driving hardware sales across Europe. Its real-time rune magic system, hunger/thirst survival mechanics, and fluid 3D dungeon movement directly inspired classics from *Eye of the Beholder* to *Ultima Underworld* and *Legend of Grimrock*.",
+    "wiki": "Dungeon Master (video game)",
+    "youtube": "Dungeon Master Atari ST 1987 intro gameplay",
+    "source": "https://en.wikipedia.org/wiki/Dungeon_Master_(video_game)"
+  }
+};
 window.ALL_DATA['1987-11'] = {
   "month": "1987-11",
   "region": "UK",
@@ -891,9 +990,30 @@ window.ALL_DATA['1987-11'] = {
         }
       ]
     }
-  ]
-}
-;
+  ],
+  "gaming": {
+    "title": "Driller",
+    "developer": "Incentive Software",
+    "publisher": "Incentive Software",
+    "platforms": [
+      "ZX Spectrum",
+      "Commodore 64",
+      "Amstrad CPC"
+    ],
+    "genre": "3D Puzzle Adventure / Exploration",
+    "director": "Major Developments (Ian Andrew / Chris Valentyne)",
+    "reviewScore": "96% Gold Award",
+    "reviewQuote": "A breathtaking technical milestone. True solid 3D worlds running on an 8-bit computer seemed impossible until today.",
+    "reviewSource": "Zzap!64 (Issue 33)",
+    "headline": "The Solid 3D Freescape Miracle on 8-Bit Tape",
+    "gameplay": "Set on the abandoned gas-logged moon of **Mitral**, *Driller* tasked players with navigating a heavy exploration rig across 18 dangerous sectors to deploy drilling rigs and avert a cataclysmic volcanic eruption. The game was built upon the revolutionary **Freescape engine**, developed by Chris Valentyne and Ian Andrew. While contemporary 3D was limited to transparent wireframes (like *Elite*), Freescape rendered solid, flat-shaded polygon buildings, ramps, and observation towers in real time, granting players full freedom to look up, down, roll, and explore.",
+    "reception": "When *Driller* arrived in UK shops in November 1987, British games magazines lost their collective minds over its technical wizardry. *Crash* stamped it with a 96% \"Crash Smash\", *Zzap!64* gave it a 96% \"Gold Award\", and *Sinclair User* awarded it 95%. Critics marvelled that humble home micros with just 48K or 64K of RAM could render solid, shaded geometric architecture with such mathematical elegance.",
+    "impact": "*Driller* established Incentive Software as pioneers of first-person perspective environments, spawning a line of Freescape titles including *Dark Side* and *Castle Master*. It stands in gaming history as the direct technological grandfather of first-person shooters and 3D virtual worlds, proving that full 360-degree polygonal exploration was achievable years before *Wolfenstein 3D*.",
+    "wiki": "Driller (video game)",
+    "youtube": "Driller ZX Spectrum Freescape 1987",
+    "source": "https://en.wikipedia.org/wiki/Driller_(video_game)"
+  }
+};
 window.ALL_DATA['1987-12'] = {
   "month": "1987-12",
   "region": "UK",
@@ -1048,9 +1168,28 @@ window.ALL_DATA['1987-12'] = {
         }
       ]
     }
-  ]
-}
-;
+  ],
+  "gaming": {
+    "title": "Mega Man",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "platforms": [
+      "Nintendo Famicom / NES"
+    ],
+    "genre": "Action Platformer",
+    "director": "Akira Kitamura / Keiji Inafune",
+    "reviewScore": "90%",
+    "reviewQuote": "Brilliant non-linear level choice and punishing, pixel-perfect platforming perfection.",
+    "reviewSource": "Famitsu / Electronic Gaming Monthly",
+    "headline": "The Blue Bomber and the Robot Master Revolution",
+    "gameplay": "Created by a small six-person team led by Akira Kitamura with character art by young artist Keiji Inafune, *Rockman* (released internationally as *Mega Man*) broke radical ground on the Famicom in December 1987. Abandoning strictly linear side-scrolling progression, the game allowed players to tackle its six themed stages in any order: **Cut Man, Guts Man, Ice Man, Bomb Man, Fire Man, and Elec Man**. Defeating a boss granted Mega Man their unique weapon, creating an intricate tactical rock-paper-scissors weakness cycle.",
+    "reception": "Debuting in Japan on 17 December 1987, the game earned glowing praise for its surgical, pixel-perfect jump-and-shoot mechanics and Manami Matsumae's hyper-infectious chiptune soundtrack. While initial commercial sales were modest—hobbled in the West by famously grotesque box art of a middle-aged man in a yellow-and-blue jumpsuit—word of mouth among schoolyards swiftly turned the Blue Bomber into a cult phenomenon.",
+    "impact": "*Mega Man* laid the foundation for one of the most prolific and iconic franchises in video game history, spawning over 50 sequels, spin-offs, and animated series. Its signature mechanics—absorbing boss weapons, non-linear stage selection, and demanding precision platforming—became a gold standard of the 8-bit era.",
+    "wiki": "Mega Man (video game)",
+    "youtube": "Mega Man 1 NES 1987 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Mega_Man_(video_game)"
+  }
+};
 window.ALL_DATA['1988-01'] = {
   "month": "1988-01",
   "region": "UK",
@@ -1193,9 +1332,30 @@ window.ALL_DATA['1988-01'] = {
         }
       ]
     }
-  ]
-}
-;
+  ],
+  "gaming": {
+    "title": "Platoon",
+    "developer": "Ocean Software",
+    "publisher": "Ocean Software",
+    "platforms": [
+      "Commodore 64",
+      "ZX Spectrum",
+      "Amstrad CPC"
+    ],
+    "genre": "Multi-Genre Action / Movie Adaptation",
+    "director": "Zach Townsend",
+    "reviewScore": "91% Sizzler",
+    "reviewQuote": "A stunning, atmospheric triumph that captures the claustrophobia and raw tension of Oliver Stone's cinematic masterpiece.",
+    "reviewSource": "Zzap!64 (Issue 34)",
+    "headline": "Jungle Traps, Underground Tunnels, and Ocean's Hollywood Triumph",
+    "gameplay": "Programmed by Zach Townsend and based on Oliver Stone's Oscar-winning Vietnam war film, *Platoon* translated cinematic drama into a multi-stage tour de force across four distinct gameplay styles: navigating deadly jungle mazes while dodging tripwires and camouflaged snipers, exploring pitch-black underground tunnel complexes in a revolutionary first-person pseudo-3D perspective, defending a night-time perimeter village, and fighting through a storm-lashed bunker complex to settle the score with the treacherous Sergeant Barnes.",
+    "reception": "Hitting UK high streets in January 1988, *Platoon* became an immediate critical and commercial juggernaut. *Zzap!64* stamped it with a 91% \"Sizzler\", praising its haunting musical score and intense atmospheric dread, while *Crash* awarded it 88% and *Computer & Video Games* praised its cinematic variety with 89%. It shot directly to the top of the UK sales charts across Spectrum, Commodore 64, and Amstrad formats.",
+    "impact": "*Platoon* established Manchester-based Ocean Software as the undisputed global kings of the Hollywood movie tie-in, demonstrating that licensed games could deliver exceptional, multi-genre design rather than cheap cash-ins. It paved the way for Ocean's subsequent blockbuster adaptations including *RoboCop* and *Batman*.",
+    "wiki": "Platoon (video game)",
+    "youtube": "Platoon C64 game 1988",
+    "source": "https://en.wikipedia.org/wiki/Platoon_(video_game)"
+  }
+};
 window.ALL_DATA['1988-02'] = {
   "month": "1988-02",
   "region": "UK",
@@ -1395,9 +1555,28 @@ window.ALL_DATA['1988-02'] = {
       ]
     }
   ],
-  "chartSource": "Official Charts Company / Gallup UK charts, February 1988"
-}
-;
+  "chartSource": "Official Charts Company / Gallup UK charts, February 1988",
+  "gaming": {
+    "title": "Dragon Quest III: The Seeds of Salvation",
+    "developer": "Chunsoft",
+    "publisher": "Enix",
+    "platforms": [
+      "Nintendo Famicom"
+    ],
+    "genre": "Turn-Based Role-Playing Game (JRPG)",
+    "director": "Yuji Horii",
+    "reviewScore": "38/40",
+    "reviewQuote": "An epic masterpiece of mythic proportions that practically caused a nationwide standstill across Japan.",
+    "reviewSource": "Famitsu",
+    "headline": "Akihabara Queues, Police Interventions, and a National Phenomenon",
+    "gameplay": "Created by writer Yuji Horii with character designs by *Dragon Ball* manga artist Akira Toriyama and a symphonic score by Koichi Sugiyama, *Dragon Quest III* expanded the 8-bit RPG horizon. Casting players as the son of the legendary hero Ortega, it introduced party customization at Patty's Party Planning Place, a full **vocation class system** (Warrior, Mage, Priest, Martial Artist, Merchant, Gadabout, and Sage), day/night cycles where monster behavior shifted after sunset, and a shocking late-game twist that linked its map directly to the kingdom of Alefgard from the first game.",
+    "reception": "The game's release on Wednesday, 10 February 1988 triggered unprecedented scenes across Japan. Over 300,000 school students, teenagers, and office workers skipped their obligations to join massive queues stretching blocks around major electronics stores in Akihabara. Japanese police arrested or cautioned over 300 youths for truancy, and widespread muggings for cartridges prompted Japanese authorities to formally ask Enix to only release subsequent franchise entries on weekends.",
+    "impact": "*Dragon Quest III* sold 3.8 million copies in Japan, solidifying the series as Japan's undisputed national video game obsession. Its vocation mechanics directly inspired *Final Fantasy III* and *V*, and its sweeping narrative blueprint established the golden age conventions of Japanese RPGs.",
+    "wiki": "Dragon Quest III",
+    "youtube": "Dragon Quest 3 Famicom 1988 launch",
+    "source": "https://en.wikipedia.org/wiki/Dragon_Quest_III"
+  }
+};
 window.ALL_DATA['1988-03'] = {
   "month": "1988-03",
   "region": "UK",
@@ -1540,9 +1719,30 @@ window.ALL_DATA['1988-03'] = {
         }
       ]
     }
-  ]
-}
-;
+  ],
+  "gaming": {
+    "title": "Target; Renegade",
+    "developer": "Imagine Software",
+    "publisher": "Ocean Software",
+    "platforms": [
+      "ZX Spectrum",
+      "Commodore 64",
+      "Amstrad CPC"
+    ],
+    "genre": "Side-Scrolling Beat 'em Up",
+    "director": "Mike Lamb",
+    "reviewScore": "95% Crash Smash",
+    "reviewQuote": "The best beat 'em up ever created on an 8-bit micro. Two-player simultaneous brawling perfection.",
+    "reviewSource": "Crash (Issue 51)",
+    "headline": "Two-Player Street Justice and Follin Chip Mastery",
+    "gameplay": "Following the roaring success of Taito's *Renegade*, Ocean Software bypassed the official Japanese coin-op sequel to craft their own ground-up sequel, *Target; Renegade*. Programmed by Mike Lamb with graphics by Ronnie Fowles, the game introduced simultaneous **two-player cooperative brawling** on home micros. Players battled through Scumbagville's multi-tier crime syndicate—from multi-storey car parks and greasy alleyways to seedy pool halls—wielding clubs, executing devastating flying jump-kicks, and pounding downed thugs to confront mob boss Mr. Big.",
+    "reception": "Released in March 1988, *Target; Renegade* took the UK by storm. *Crash* stamped it with a blistering 95% \"Crash Smash\", *Sinclair User* awarded it 93%, and *Your Sinclair* gave it 9/10. Reviewers singled out Tim Follin's astonishing title music on the 128K Spectrum—which squeezed rich progressive rock arpeggios out of the AY-3-8912 sound chip—and hailed its crunchy, responsive fist-fights as vastly superior to the arcade games it drew inspiration from.",
+    "impact": "*Target; Renegade* spent months at #1 across UK software charts and remains widely celebrated as the definitive 8-bit European beat 'em up. It proved that British home computer programmers could out-design major Japanese arcade studios on a fraction of the hardware budget.",
+    "wiki": "Target; Renegade",
+    "youtube": "Target Renegade ZX Spectrum 1988 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Target;_Renegade"
+  }
+};
 window.ALL_DATA['1988-04'] = {
   "month": "1988-04",
   "region": "UK",
@@ -1673,9 +1873,31 @@ window.ALL_DATA['1988-04'] = {
         }
       ]
     }
-  ]
-}
-;
+  ],
+  "gaming": {
+    "title": "R-Type",
+    "developer": "Irem",
+    "publisher": "Irem / Electric Dreams",
+    "platforms": [
+      "Arcade",
+      "Sega Master System",
+      "ZX Spectrum",
+      "Commodore 64"
+    ],
+    "genre": "Horizontal Shoot 'em Up",
+    "director": "Kazuma Kujo",
+    "reviewScore": "94%",
+    "reviewQuote": "The pinnacle of arcade shoot 'em ups. The Force pod mechanic and grotesque Bydo bosses are unmatched.",
+    "reviewSource": "Computer & Video Games (Issue 78)",
+    "headline": "Giger-Esque Nightmares and the Revolutionary Force Pod",
+    "gameplay": "Piloting the sleek experimental **R-9 Arrowhead** starfighter deep into the heart of the mutant biomechanical Bydo Empire, *R-Type* redefined horizontal shoot 'em ups. The game broke away from bullet-hell chaos by introducing surgical, puzzle-like memorization and two revolutionary mechanics: the **Wave Cannon** (holding fire to charge up a searing beam) and the **Force Pod**—an invulnerable glowing sphere that could be docked to the nose or tail of the ship, or launched independently into boss weak points to lay down protective crossfire.",
+    "reception": "Throughout April 1988, *R-Type* was the premier arcade attraction in arcades worldwide, before stunning conversions arrived on Sega's Master System and home computers. Critics gasped at its HR Giger-inspired organic aesthetics—most famously the terrifying giant stage 1 boss Dobkeratops, an alien fetus coiling inside a monstrous chest cavity. *Computer & Video Games* awarded it 94%, praising its tactical depth and immaculate level architecture.",
+    "impact": "*R-Type* is universally recognized as one of the most influential shoot 'em ups ever produced. Its tactical Force pod, charged weaponry, and biological-industrial horror art style influenced decades of horizontal shooters, directly shaping titles like *Gradius*, *Einhander*, and *Ikaruga*.",
+    "wiki": "R-Type",
+    "youtube": "R-Type original arcade 1988 gameplay",
+    "source": "https://en.wikipedia.org/wiki/R-Type"
+  }
+};
 window.ALL_DATA['1988-05'] = {
   "month": "1988-05",
   "region": "UK",
@@ -1806,9 +2028,30 @@ window.ALL_DATA['1988-05'] = {
         }
       ]
     }
-  ]
-}
-;
+  ],
+  "gaming": {
+    "title": "Speedball",
+    "developer": "The Bitmap Brothers",
+    "publisher": "Image Works",
+    "platforms": [
+      "Atari ST",
+      "Commodore Amiga",
+      "MS-DOS"
+    ],
+    "genre": "Futuristic Cyberpunk Sports",
+    "director": "Mike Montgomery / Steve Kelly / Eric Matthews",
+    "reviewScore": "90%",
+    "reviewQuote": "Fast, brutal, metallic, and utterly addictive. The Bitmap Brothers have made video game violence stylish.",
+    "reviewSource": "The Games Machine (Issue 7)",
+    "headline": "Chrome, Steel Balls, and Cyberpunk Mayhem",
+    "gameplay": "Developed by a swaggering new collective of East London coders known as The Bitmap Brothers, *Speedball* imagined a dystopian 21st-century bloodsport combining elements of five-a-side football, ice hockey, and roller derby. Teams clashed in enclosed, polished metallic arenas without referees or fouls. Players bounced heavy steel balls off side bumpers, slide-tackled rivals into unconsciousness, collected illicit stadium coins, and visited the locker room to bribe referees or pump their squad full of performance-enhancing stimulants.",
+    "reception": "Hitting 16-bit computers in May 1988, *Speedball* became an instant cult phenomenon. Critics lauded its razor-fast gameplay, distinctive metallic sound effects, and cool cyberpunk aesthetic. It swept European gaming awards, winning the prestigious **Golden Joystick Award for 16-Bit Game of the Year 1988**, and established The Bitmap Brothers as the gaming equivalent of rock stars.",
+    "impact": "*Speedball* put The Bitmap Brothers on the map, inaugurating a golden era of British 16-bit game design characterized by metallic pixel art, attitude, and cutting-edge synth soundtracks. It spawned the legendary 1990 sequel *Speedball 2: Brutal Deluxe* and proved that futuristic sports could stand shoulder-to-shoulder with conventional arcade genres.",
+    "wiki": "Speedball (video game)",
+    "youtube": "Speedball Atari ST 1988 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Speedball_(video_game)"
+  }
+};
 window.ALL_DATA['1988-06'] = {
   "month": "1988-06",
   "region": "UK",
@@ -1939,9 +2182,30 @@ window.ALL_DATA['1988-06'] = {
         }
       ]
     }
-  ]
-}
-;
+  ],
+  "gaming": {
+    "title": "F-19 Stealth Fighter",
+    "developer": "MicroProse",
+    "publisher": "MicroProse",
+    "platforms": [
+      "MS-DOS PC",
+      "Amiga",
+      "Atari ST"
+    ],
+    "genre": "Combat Flight Simulator",
+    "director": "Sid Meier / Andy Hollis",
+    "reviewScore": "94%",
+    "reviewQuote": "A technical masterpiece of geopolitics and aviation. Sneaking past Soviet radar networks is sheer, sweating tension.",
+    "reviewSource": "Computer Gaming World",
+    "headline": "Cold War Intrigue Months Ahead of the Pentagon",
+    "gameplay": "Co-designed by legendary programmer Sid Meier and flight sim engineer Andy Hollis, *F-19 Stealth Fighter* tackled one of the military's most guarded secrets: radar-deflecting stealth aviation. Working entirely from speculative aviation rumors—months before the Pentagon officially acknowledged the real F-117 Nighthawk in late 1988—the simulator plunged pilots into tense Cold War missions across the Persian Gulf, North Cape, Central Europe, and Libya. The core gameplay relied on tracking the aircraft's **radar cross-section**, flying under enemy radar cones, managing electronic countermeasures, and completing covert strikes without igniting World War III.",
+    "reception": "Released for PC MS-DOS in June 1988, *F-19* was hailed by military aviation enthusiasts and gaming journalists as a monumental leap forward for PC gaming. Reviewers lauded its sophisticated 3D vector landscape rendering, deep procedural mission debriefings, and authentic geopolitical depth. *Computer Gaming World* named it the Simulation of the Year.",
+    "impact": "*F-19 Stealth Fighter* cemented MicroProse's reputation as the preeminent flight simulation studio of the PC era and propelled Sid Meier into mainstream design stardom. Remarkably accurate in its aerodynamic and radar evasion theories despite being coded in total secrecy, it remains a high watermark of late-Cold War computing culture.",
+    "wiki": "F-19 Stealth Fighter",
+    "youtube": "F-19 Stealth Fighter PC MS-DOS 1988",
+    "source": "https://en.wikipedia.org/wiki/F-19_Stealth_Fighter"
+  }
+};
 window.ALL_DATA['1988-07'] = {
   "month": "1988-07",
   "region": "UK",
@@ -2072,9 +2336,31 @@ window.ALL_DATA['1988-07'] = {
         }
       ]
     }
-  ]
-}
-;
+  ],
+  "gaming": {
+    "title": "The NewZealand Story",
+    "developer": "Taito",
+    "publisher": "Taito / Ocean Software",
+    "platforms": [
+      "Arcade",
+      "Commodore 64",
+      "Amiga",
+      "ZX Spectrum"
+    ],
+    "genre": "Platformer",
+    "director": "Kazutomo Ishida",
+    "reviewScore": "92%",
+    "reviewQuote": "Unbelievably charming, fiendishly difficult, and packed with hidden secret warps. An arcade masterpiece.",
+    "reviewSource": "Crash (Issue 68)",
+    "headline": "A Sneaker-Wearing Kiwi and the Great Maze Escape",
+    "gameplay": "Starring **Tiki the Kiwi**—a bright yellow flightless bird sporting red sneakers—*The NewZealand Story* sent players on a daring rescue mission across Auckland and the North Island to liberate his kiwi brethren from a villainous blue leopard seal. Beyond running and firing arrows, Tiki could hijack balloons, floating rubber ducks, mechanical blimps, and alien UFOs to navigate sprawling, multi-tiered maze levels, discovering hidden spatial warps and battling gigantic robotic whales from within their digestive tracts.",
+    "reception": "Landing in arcades in July 1988 before making its celebrated journey to home computers via Ocean Software, the game was adored by critics and coin-op regulars alike. Its deceptively cute cartoon visuals masked an uncompromising, razor-sharp difficulty curve that demanded pinpoint accuracy. *Zzap!64* awarded the home conversion a 91% Sizzler, while *Crash* gave it 92%, calling it one of the most imaginative platformers of the decade.",
+    "impact": "*The NewZealand Story* became one of Taito's signature arcade triumphs alongside *Bubble Bobble* and *Rainbow Islands*, proving that colourful, character-driven platform adventures could dominate arcade floors. It remains a beloved staple of the golden age of coin-ops and home micro conversions.",
+    "wiki": "The NewZealand Story",
+    "youtube": "The NewZealand Story arcade 1988 gameplay",
+    "source": "https://en.wikipedia.org/wiki/The_NewZealand_Story"
+  }
+};
 window.ALL_DATA['1988-08'] = {
   "month": "1988-08",
   "region": "UK",
@@ -2205,9 +2491,29 @@ window.ALL_DATA['1988-08'] = {
         }
       ]
     }
-  ]
-}
-;
+  ],
+  "gaming": {
+    "title": "Altered Beast",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "platforms": [
+      "Arcade (Sega System 16)",
+      "Sega Mega Drive / Genesis"
+    ],
+    "genre": "Beat 'em Up / Action",
+    "director": "Makoto Uchida",
+    "reviewScore": "86%",
+    "reviewQuote": "Terrifying transformations, thunderous digitized speech, and mythic carnage. A showcase of Sega's coin-op power.",
+    "reviewSource": "Computer & Video Games (Issue 84)",
+    "headline": "Rise from Your Grave: Lycanthropy in Ancient Greece",
+    "gameplay": "Created by Makoto Uchida on Sega's formidable System 16 arcade board, *Altered Beast* opened with Zeus's booming, scratchy digitized declaration: **\"Rise from your grave!\"** Resurrected to rescue the goddess Athena from the demonic underworld lord Neff, players fought through waves of rotting zombies and flesh-eating demons. By defeating two-headed wolves and grabbing glowing Spirit Balls, the centurion warrior's muscles tore through his armor in a dramatic transformation sequence, morphing into a **Werewolf, Were-tiger, Were-bear, or Golden Werewolf** with screen-shredding energy charges.",
+    "reception": "Debuting in arcades in August 1988, *Altered Beast* drew immense crowds with its digitized voice acting, gigantic character sprites, and visceral body-horror power-ups. Critics praised its audio-visual spectacle, and it quickly established itself as one of the definitive summer arcade attractions in British seaside resorts and American shopping malls.",
+    "impact": "Uchida's arcade hit achieved legendary status when Sega made the brilliant strategic decision to bundle its 16-bit home conversion as the pack-in cartridge for the western launch of the Sega Genesis / Mega Drive in 1989. For millions of households, *Altered Beast* was their first jaw-dropping taste of 16-bit arcade perfection at home.",
+    "wiki": "Altered Beast",
+    "youtube": "Altered Beast arcade 1988",
+    "source": "https://en.wikipedia.org/wiki/Altered_Beast"
+  }
+};
 window.ALL_DATA['1988-09'] = {
   "month": "1988-09",
   "region": "UK",
@@ -2338,9 +2644,29 @@ window.ALL_DATA['1988-09'] = {
         }
       ]
     }
-  ]
-}
-;
+  ],
+  "gaming": {
+    "title": "Snatcher",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "platforms": [
+      "PC-8801",
+      "MSX2"
+    ],
+    "genre": "Cyberpunk Graphic Adventure / Visual Novel",
+    "director": "Hideo Kojima",
+    "reviewScore": "92%",
+    "reviewQuote": "A dark, mature interactive neo-noir detective thriller that elevates game storytelling into high cinematic art.",
+    "reviewSource": "MSX Magazine / Famitsu",
+    "headline": "Neo-Kobe Cyberpunk and Kojima's Cinematic Ambition",
+    "gameplay": "Conceived and scripted by Hideo Kojima, *Snatcher* took heavy inspiration from Ridley Scott's *Blade Runner* and James Cameron's *The Terminator*. Set in the neon-soaked, post-apocalyptic metropolis of **Neo Kobe City**, the game cast players as Gillian Seed, an amnesiac detective assigned to the anti-cyberoid taskforce JUNKER. Accompanied by his robotic support navigator Metal Gear Mk. II, Gillian investigated a string of gruesome murders committed by \"Snatchers\"—synthetic androids that killed VIP citizens and stole their skins to infiltrate human society.",
+    "reception": "Released in Japan across the PC-8801 and MSX2 formats in September 1988, *Snatcher* stunned critics with its unprecedented literary depth, moody chiptune jazz soundtrack, and sharp comedic banter. Kojima combined first-person graphic adventure deduction with fast-paced shooting gallery gunfights, creating a narrative pace far superior to conventional Japanese text adventures of the period.",
+    "impact": "Though initially restricted to Japanese personal computers before receiving a legendary Mega-CD translation in 1994, *Snatcher* is recognized as a pioneering triumph in interactive storytelling. It showcased Kojima's obsession with cinematic framing, adult themes, and existential science fiction, establishing themes he would explore for decades in the *Metal Gear* saga.",
+    "wiki": "Snatcher (video game)",
+    "youtube": "Snatcher PC-8801 original 1988 intro",
+    "source": "https://en.wikipedia.org/wiki/Snatcher_(video_game)"
+  }
+};
 window.ALL_DATA['1988-10'] = {
   "month": "1988-10",
   "region": "UK",
@@ -2471,9 +2797,28 @@ window.ALL_DATA['1988-10'] = {
         }
       ]
     }
-  ]
-}
-;
+  ],
+  "gaming": {
+    "title": "Super Mario Bros. 3",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Nintendo Famicom / NES"
+    ],
+    "genre": "Platformer",
+    "director": "Shigeru Miyamoto / Takashi Tezuka",
+    "reviewScore": "98%",
+    "reviewQuote": "A triumphant, overflowing masterpiece of joy, variety, and boundless imagination. The ultimate video game.",
+    "reviewSource": "Famitsu / Electronic Gaming Monthly",
+    "headline": "Raccoon Tails, Airships, and Platforming Perfection",
+    "gameplay": "Directed by Shigeru Miyamoto and Takashi Tezuka with music by Koji Kondo, *Super Mario Bros. 3* shattered all expectations of what 8-bit hardware could achieve. The game introduced an innovative overhead **World Map** (from the giant hazards of Giant Land to the floating sky castles of Sky Land), airship levels commanded by Bowser's Koopalings, and an unforgettable arsenal of whimsical suits: the Super Leaf transforming Mario into **Raccoon Mario** (flying by building momentum), the Frog Suit for underwater mastery, the Tanooki Suit, Hammer Bros Suit, and Goomba's Shoe.",
+    "reception": "Launching in Japan on 23 October 1988, the cartridge triggered immediate retail frenzy. Japanese electronics stores sold out within hours, with delivery trucks under security escort. Critics were unanimous in their praise, declaring it not merely the best Mario game, but the finest platform game ever constructed, praising its secrets, pitch-perfect controls, and astonishing thematic variety.",
+    "impact": "Selling over 17 million copies, *Super Mario Bros. 3* remains widely regarded by gaming historians and publications as one of the greatest video games of all time. Its world map structure, inventory storage, and suit-based transformations became permanent design pillars of the platforming genre.",
+    "wiki": "Super Mario Bros. 3",
+    "youtube": "Super Mario Bros 3 Japanese Famicom 1988 commercial",
+    "source": "https://en.wikipedia.org/wiki/Super_Mario_Bros._3"
+  }
+};
 window.ALL_DATA['1988-11'] = {
   "month": "1988-11",
   "region": "UK",
@@ -2604,9 +2949,31 @@ window.ALL_DATA['1988-11'] = {
         }
       ]
     }
-  ]
-}
-;
+  ],
+  "gaming": {
+    "title": "MicroProse Soccer",
+    "developer": "Sensible Software",
+    "publisher": "MicroProse",
+    "platforms": [
+      "Commodore 64",
+      "ZX Spectrum",
+      "Amstrad CPC",
+      "Amiga"
+    ],
+    "genre": "Top-Down Sports / Football",
+    "director": "Jon Hare / Chris Yates",
+    "reviewScore": "90% Gold Medal",
+    "reviewQuote": "The most playable football game ever programmed. Fast, frantic, and that banana kick swerve is genius.",
+    "reviewSource": "Zzap!64 (Issue 44)",
+    "headline": "The Birth of the Banana Kick and Sensible Footy",
+    "gameplay": "Developed by Jon Hare and Chris Yates at Sensible Software, *MicroProse Soccer* liberated video game football from sluggish side-on simulations by adopting an overhead, dynamic vertical scrolling pitch filled with tiny, lightning-fast player sprites. Crucially, the game pioneered **after-touch ball swerve**—the legendary \"banana kick\" where a quick flick of the joystick curled the ball around diving goalkeepers. It also included an atmospheric six-a-side indoor arena mode with bouncy wooden sideboards, eliminating throw-ins for non-stop chaotic action.",
+    "reception": "Released in November 1988, the game was showered with awards. *Zzap!64* awarded it a coveted 90% \"Gold Medal\", *Crash* stamped it with 91%, and *The Games Machine* hailed its intuitive, addictive physics. Reviewers universally praised its muddy pitch weather effects (sliding tackles across puddles) and the pure, unadulterated joy of its two-player couch rivalry.",
+    "impact": "*MicroProse Soccer* is the direct evolutionary ancestor of *Sensible Soccer* and *Sensible World of Soccer*, establishing Sensible Software as the masters of British sports gaming. Its emphasis on arcade tempo, accessible one-button passing, and ball physics defined European football gaming for the next decade.",
+    "wiki": "MicroProse Soccer",
+    "youtube": "MicroProse Soccer C64 1988 gameplay",
+    "source": "https://en.wikipedia.org/wiki/MicroProse_Soccer"
+  }
+};
 window.ALL_DATA['1988-12'] = {
   "month": "1988-12",
   "region": "UK",
@@ -2737,9 +3104,3534 @@ window.ALL_DATA['1988-12'] = {
         }
       ]
     }
-  ]
-}
-;
+  ],
+  "gaming": {
+    "title": "Operation Wolf",
+    "developer": "Taito",
+    "publisher": "Ocean Software / Taito",
+    "platforms": [
+      "Arcade",
+      "ZX Spectrum",
+      "Commodore 64",
+      "Amstrad CPC",
+      "Amiga"
+    ],
+    "genre": "Rail Shooter / Light Gun",
+    "director": "Ocean Software (Programming Team)",
+    "reviewScore": "94% Crash Smash",
+    "reviewQuote": "A masterstroke of conversion programming. Relentless, blistering combat that pushes home hardware to the limit.",
+    "reviewSource": "Crash (Issue 60)",
+    "headline": "Uzi Recoil, Jungle Extraction, and Christmas Sales Domination",
+    "gameplay": "Adapted from Taito's coin-op smash featuring an arcade Uzi with real physical motor recoil, *Operation Wolf* charged players with infiltrating a heavily fortified tropical prison camp to rescue hostages. Across six gruelling operations—Communication Setup, Jungle Camp, Village, Powder Magazine, Prison, and Airport Runway—players sprayed machine gun fire and hurled explosive grenades at charging enemy infantry, patrol boats, armored gunships, and armored cars, while exercising trigger discipline to avoid shooting fleeing unarmed civilian nurses.",
+    "reception": "Ocean Software's 8-bit and 16-bit home conversions arrived in December 1988 to monumental critical and commercial acclaim. *Crash* awarded it 94%, *Sinclair User* gave it 93%, and *Zzap!64* stamped it with 91%. Critics marvelled at how smoothly the fast-paced scrolling arcade action translated to home micros without losing its intense arcade punch. It cleaned up at the Golden Joystick Awards, winning **Game of the Year 1988**.",
+    "impact": "*Operation Wolf* became the fastest-selling video game in UK history over the Christmas 1988 period, spending months locked at #1 across Europe. It set the definitive standard for military rail shooters, directly inspiring franchises like *Time Crisis* and *Virtua Cop*.",
+    "wiki": "Operation Wolf",
+    "youtube": "Operation Wolf ZX Spectrum 1988",
+    "source": "https://en.wikipedia.org/wiki/Operation_Wolf"
+  }
+};
+window.ALL_DATA['1989-01'] = {
+  "month": "1989-01",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-01-07-emperor-hirohito-death",
+      "date": "1989-01-07",
+      "topic": "deaths",
+      "text": "7 January saw the death of **Emperor Hirohito** of Japan at the age of 87, bringing the 62-year **Shōwa era** to a solemn close. His son Crown Prince Akihito immediately acceded to the Chrysanthemum Throne, inaugurating the new imperial era of *Heisei* (\"achieving peace\"). Western nations engaged in intense diplomatic debates over funeral delegations, mindful of lingering wartime memories, while Tokyo came to an absolute standstill as millions mourned.",
+      "wiki": "Hirohito",
+      "youtube": "Emperor Hirohito death news 1989",
+      "source": "https://en.wikipedia.org/wiki/Hirohito",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-01-08-kegworth-air-disaster",
+      "date": "1989-01-08",
+      "topic": "politics",
+      "text": "8 January saw **British Midland Flight 92** crash-land onto the western embankment of the **M1 motorway** near Kegworth, Leicestershire, miraculously missing motorway traffic but tragically claiming 47 lives. The Boeing 737 had suffered an engine fan-blade fracture, but the flight crew tragically shut down the functioning right-hand engine by mistake due to confusing instrument layouts. The disaster led to urgent overhauls in commercial cockpit design and flight-crew communication training.",
+      "wiki": "Kegworth air disaster",
+      "youtube": "Kegworth air disaster 1989 news report",
+      "source": "https://en.wikipedia.org/wiki/Kegworth_air_disaster",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-01-15-royal-rumble-studd",
+      "date": "1989-01-15",
+      "topic": "wrestling",
+      "text": "15 January saw veteran giant **Big John Studd** emerge victorious in the second annual **Royal Rumble** at The Summit in Houston, Texas, last eliminating \"Million Dollar Man\" Ted DiBiase. The match was overshadowed by seismic tension within The Mega Powers, after WWF Champion Randy Savage was inadvertently hurled over the top rope by tag partner Hulk Hogan, sparking a furious mid-ring shouting match that Miss Elizabeth desperately struggled to calm.",
+      "wiki": "Royal Rumble (1989)",
+      "youtube": "Royal Rumble 1989 Hogan eliminates Savage",
+      "source": "https://en.wikipedia.org/wiki/Royal_Rumble_(1989)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-01-20-george-bush-inauguration",
+      "date": "1989-01-20",
+      "topic": "politics",
+      "text": "20 January saw **George H. W. Bush** inaugurated as the 41st President of the United States on the West Front of the US Capitol, succeeding Ronald Reagan. Delivering a quiet, conciliatory address, Bush declared that \"a new breeze is blowing\" and famously pledged to cultivate \"a kinder, gentler nation\" guided by \"a thousand points of light\". The smooth transition ensured Cold War continuity as tensions began thawing across the Soviet sphere.",
+      "wiki": "Inauguration of George H. W. Bush",
+      "youtube": "George HW Bush inauguration speech 1989",
+      "source": "https://en.wikipedia.org/wiki/Inauguration_of_George_H._W._Bush",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-01-22-super-bowl-xxiii-montana",
+      "date": "1989-01-22",
+      "topic": "sport",
+      "text": "22 January saw quarterback **Joe Montana** cement his legend as the **San Francisco 49ers** snatched a dramatic 20–16 victory over the Cincinnati Bengals in Super Bowl XXIII at Joe Robbie Stadium in Miami. Trailing with just over three minutes on the clock, Montana famously pointed out comedian John Candy in the stands to calm his huddle before orchestrating an ice-cold 92-yard drive, hitting John Taylor for the winning touchdown with 34 seconds remaining.",
+      "wiki": "Super Bowl XXIII",
+      "youtube": "Super Bowl 23 Joe Montana John Taylor touchdown 1989",
+      "source": "https://en.wikipedia.org/wiki/Super_Bowl_XXIII",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    },
+    {
+      "id": "1989-01-07-kylie-jason-especially-for-you",
+      "date": "1989-01-07",
+      "topic": "music",
+      "text": "7 January saw *Neighbours* co-stars **Kylie Minogue and Jason Donovan** finally reach number one on the UK Singles Chart with their romantic duet ***Especially for You***. Written and produced by the hit factory Stock Aitken Waterman to capitalise on Scott and Charlene's record-breaking television wedding, the single spent three weeks at the summit, sparking pandemonium among teenage pop fans and shifting over a million physical copies across Britain.",
+      "wiki": "Especially for You",
+      "youtube": "Kylie Minogue Jason Donovan Especially For You Top of the Pops 1989",
+      "source": "https://www.officialcharts.com/songs/kylie-and-jason-especially-for-you/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (7 January 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Especially for You",
+          "by": "Kylie Minogue & Jason Donovan"
+        },
+        {
+          "pos": 2,
+          "title": "First Time",
+          "by": "Robin Beck"
+        },
+        {
+          "pos": 3,
+          "title": "Suddenly",
+          "by": "Angry Anderson"
+        },
+        {
+          "pos": 4,
+          "title": "She Makes My Day",
+          "by": "Robert Palmer"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (January 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Operation Wolf",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Target; Renegade",
+          "by": "Imagine"
+        },
+        {
+          "pos": 4,
+          "title": "Daley Thompson's Olympic Challenge",
+          "by": "Ocean Software"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "RoboCop",
+    "developer": "Ocean Software",
+    "publisher": "Ocean Software",
+    "platforms": [
+      "ZX Spectrum",
+      "Commodore 64",
+      "Amstrad CPC",
+      "Atari ST",
+      "Amiga"
+    ],
+    "genre": "Side-Scrolling Action / Shoot 'em Up",
+    "director": "Mike Lamb",
+    "reviewScore": "94% Crash Smash",
+    "reviewQuote": "A jaw-dropping masterpiece of film adaptation. Speech, target practice, and devastating firepower.",
+    "reviewSource": "Crash (Issue 60)",
+    "headline": "Part Man, Part Machine, All-Time Best Seller",
+    "gameplay": "Adapted from Paul Verhoeven's ultraviolent sci-fi classic, *RoboCop* put players in the heavy titanium boots of officer Alex Murphy patrolling the crime-ridden streets of dystopian Old Detroit. Programmed by Mike Lamb with art by Ronnie Fowles, the game mixed punchy horizontal street-level shooting with first-person shooting gallery interludes and photographic identikit hostage rescues, punctuated by digitized speech shouts of **\"Drop it!\"** and **\"Thank you for your cooperation.\"**",
+    "reception": "Arriving on UK home micros in January 1989 following Christmas distribution delays, *RoboCop* was greeted with rapturous critical acclaim. *Crash* stamped it with a 94% \"Crash Smash\", *Sinclair User* awarded it 95%, and *Zzap!64* awarded it 89%. Critics praised its gritty, cinematic atmosphere and Jonathan Dunn's iconic, melancholy title theme on the 128K Spectrum and Game Boy.",
+    "impact": "*RoboCop* became a legendary commercial phenomenon, spending a record-breaking **75 consecutive weeks** in the UK top ten charts and selling over one million copies across Europe. It proved that licensed film adaptations could become the absolute pinnacle of home computer gaming.",
+    "wiki": "RoboCop (1988 video game)",
+    "youtube": "RoboCop ZX Spectrum 1989 gameplay",
+    "source": "https://en.wikipedia.org/wiki/RoboCop_(1988_video_game)"
+  }
+};
+window.ALL_DATA['1989-02'] = {
+  "month": "1989-02",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-02-03-mega-powers-explode",
+      "date": "1989-02-03",
+      "topic": "wrestling",
+      "text": "3 February saw professional wrestling history pivot dramatically on NBC's *The Main Event II* when **The Mega Powers exploded**. During a tag bout against The Twin Towers, Miss Elizabeth was knocked unconscious at ringside; when Hulk Hogan carried her to the backstage medical room, an enraged Randy Savage felt abandoned, slapped Hogan across the face, and attacked him with the WWF Championship belt, setting up the most lucrative feud in wrestling history.",
+      "wiki": "The Main Event II",
+      "youtube": "The Mega Powers Explode NBC The Main Event 1989",
+      "source": "https://en.wikipedia.org/wiki/The_Main_Event_(WWF_TV_series)#The_Main_Event_II",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-02-14-salman-rushdie-fatwa",
+      "date": "1989-02-14",
+      "topic": "politics",
+      "text": "14 February saw Iran's Supreme Leader **Ayatollah Ruhollah Khomeini** issue a radio broadcast fatwa ordering Muslims worldwide to execute British-Indian author **Salman Rushdie** over alleged blasphemy in his novel *The Satanic Verses*. Rushdie was immediately placed under 24-hour armed police protection by Scotland Yard, while British bookstores were firebombed and diplomatic ties between London and Tehran were severed in an unprecedented clash of free speech and religious extremism.",
+      "wiki": "The Satanic Verses controversy",
+      "youtube": "Salman Rushdie fatwa BBC news 1989",
+      "source": "https://en.wikipedia.org/wiki/The_Satanic_Verses_controversy",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-02-15-soviet-afghan-withdrawal-complete",
+      "date": "1989-02-15",
+      "topic": "politics",
+      "text": "15 February saw the final column of Soviet troops, led by Lieutenant General Boris Gromov, cross the **Friendship Bridge** over the Amu Darya river into Uzbekistan, marking the official conclusion of the nine-year **Soviet–Afghan War**. The brutal conflict had cost over 14,000 Soviet lives and over one million Afghan lives, leaving the Soviet military deeply demoralized and contributing significantly to the economic and political collapse of the USSR.",
+      "wiki": "Soviet withdrawal from Afghanistan",
+      "youtube": "Soviet troops leave Afghanistan Friendship Bridge 1989",
+      "source": "https://en.wikipedia.org/wiki/Soviet_withdrawal_from_Afghanistan",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-02-14-first-gps-block-ii-satellite",
+      "date": "1989-02-14",
+      "topic": "science",
+      "text": "14 February saw the United States Air Force launch the first operational **Block II GPS satellite** into orbit aboard a Delta II rocket from Cape Canaveral, Florida. Marking the beginning of the fully deployed global positioning constellation, the satellite paved the way for military precision-guided munitions and laid the foundation for the commercial satellite navigation networks that would revolutionize global travel and civilian logistics.",
+      "wiki": "GPS satellite blocks",
+      "youtube": "Delta II rocket GPS launch 1989",
+      "source": "https://en.wikipedia.org/wiki/GPS_satellite_blocks#Block_II",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-02-04-marc-almond-gene-pitney-number-one",
+      "date": "1989-02-04",
+      "topic": "music",
+      "text": "4 February saw former Soft Cell frontman **Marc Almond** and American 1960s pop crooner **Gene Pitney** top the UK Singles Chart with their dramatic re-recording of ***Something's Gotten Hold of My Heart***. The unlikely duet became a runaway smash, topping the charts across Europe for four consecutive weeks and delivering Pitney his first-ever UK number-one single nearly three decades after his initial chart debut.",
+      "wiki": "Something's Gotten Hold of My Heart",
+      "youtube": "Marc Almond Gene Pitney Somethings Gotten Hold of My Heart TOTP 1989",
+      "source": "https://www.officialcharts.com/songs/marc-almond-feat-gene-pitney-somethings-gotten-hold-of-my-heart/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (11 February 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Something's Gotten Hold of My Heart",
+          "by": "Marc Almond & Gene Pitney"
+        },
+        {
+          "pos": 2,
+          "title": "Belfast Child",
+          "by": "Simple Minds"
+        },
+        {
+          "pos": 3,
+          "title": "Love Train",
+          "by": "Holly Johnson"
+        },
+        {
+          "pos": 4,
+          "title": "You Got It",
+          "by": "Roy Orbison"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (February 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Operation Wolf",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "After Burner",
+          "by": "Activision"
+        },
+        {
+          "pos": 4,
+          "title": "R-Type",
+          "by": "Electric Dreams"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Strider",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "platforms": [
+      "Arcade (CP System)",
+      "Sega Mega Drive",
+      "Amiga"
+    ],
+    "genre": "Hack and Slash / Action Platformer",
+    "director": "Kouichi Yotsui",
+    "reviewScore": "93%",
+    "reviewQuote": "Unbelievable acrobatic velocity, giant mechanical gorillas, and slicing through Soviet airships with a laser cypher.",
+    "reviewSource": "Computer & Video Games (Issue 89)",
+    "headline": "Acrobatic Ninja Sabotage in Neo-Soviet Moscow",
+    "gameplay": "Directed by Kouichi Yotsui on Capcom's mighty CP System arcade hardware, *Strider* dropped high-tech assassin **Strider Hiryu** into dystopian 2048 Kazakhstan to assassinate the Grandmaster Meio. Wielding his glowing plasma cypher sword **Falchion**, Hiryu defied gravity: vaulting over sheer cliffs with a climbing sickle, sliding beneath armed sentries, running up inverted ceiling ramps, and summoning robotic panther and hawk droids to dismantle mechanized Soviet warmachines.",
+    "reception": "Hitting arcades in February 1989, *Strider* dazzled players with its blistering scale and cinematic set-pieces, including an ascent up the sprawling flying fortress *Balrog* and an absurd battle against the giant robotic ouroboros *Ouroboros*. Critics lauded its peerless animation and dramatic synthesized score, hailing it as one of the most thrilling coin-op platformers ever built.",
+    "impact": "*Strider* became a signature Capcom masterpiece, establishing a benchmark for athletic traversal in action platformers that inspired games from *Ninja Gaiden* to *Shinobi*. Its 1990 conversion for the fledgling Sega Mega Drive was widely hailed as the definitive early showcase of 16-bit home console power.",
+    "wiki": "Strider (arcade game)",
+    "youtube": "Strider arcade 1989 original gameplay",
+    "source": "https://en.wikipedia.org/wiki/Strider_(arcade_game)"
+  }
+};
+window.ALL_DATA['1989-03'] = {
+  "month": "1989-03",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-03-12-tim-berners-lee-world-wide-web",
+      "date": "1989-03-12",
+      "topic": "tech",
+      "text": "12 March saw British computer scientist **Tim Berners-Lee** submit a modest academic proposal titled *Information Management: A Proposal* while working at the CERN physics laboratory in Switzerland. Describing a decentralized network linking text documents using hypertext links over the Internet, his supervisor Mike Sendall famously scrawled **\"Vague but exciting...\"** across the cover. The document laid the architectural blueprint for what became the **World Wide Web**.",
+      "wiki": "History of the World Wide Web",
+      "youtube": "Tim Berners-Lee invents World Wide Web BBC archive",
+      "source": "https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-03-24-exxon-valdez-oil-spill",
+      "date": "1989-03-24",
+      "topic": "science",
+      "text": "24 March saw the supertanker ***Exxon Valdez*** run aground on Bligh Reef in Alaska's Prince William Sound, rupturing its hull and discharging nearly 11 million gallons of crude oil into pristine Arctic waters. The environmental catastrophe blackened over 1,300 miles of coastline, killing hundreds of thousands of seabirds, otters, and seals, sparking worldwide outrage over corporate negligence and fundamentally reshaping maritime environmental legislation.",
+      "wiki": "Exxon Valdez oil spill",
+      "youtube": "Exxon Valdez oil spill ABC News March 1989",
+      "source": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-03-26-soviet-congress-elections",
+      "date": "1989-03-26",
+      "topic": "politics",
+      "text": "26 March saw the Soviet Union hold its first multi-candidate national elections for the **Congress of People's Deputies**, marking Mikhail Gorbachev's historic implementation of *demokratizatsiya*. In a devastating blow to the Communist Party establishment, reformists, dissidents, and anti-corruption crusaders—most notably **Boris Yeltsin** and Andrei Sakharov—swept major urban constituencies, setting the stage for democratic upheaval across the USSR.",
+      "wiki": "1989 Soviet Union legislative election",
+      "youtube": "1989 Soviet elections Boris Yeltsin news",
+      "source": "https://en.wikipedia.org/wiki/1989_Soviet_Union_legislative_election",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-03-03-madonna-like-a-prayer",
+      "date": "1989-03-03",
+      "topic": "music",
+      "text": "3 March saw **Madonna** premiere the music video for ***Like a Prayer***, igniting one of the fiercest cultural firestorms of the decade. Featuring burning crucifixes, stigmata, and a romantic narrative with a saintly Black icon, the video drew furious condemnation from the Vatican and prompted Pepsi to scrap a multi-million-dollar global sponsorship deal. Undeterred, the single shot directly to number one in the UK and US, staying atop the UK chart for three weeks.",
+      "wiki": "Like a Prayer (song)",
+      "youtube": "Madonna Like a Prayer official video 1989",
+      "source": "https://www.officialcharts.com/songs/madonna-like-a-prayer/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-03-25-jason-donovan-too-many-broken-hearts",
+      "date": "1989-03-25",
+      "topic": "music",
+      "text": "25 March saw Australian pop heartthrob **Jason Donovan** score his first solo UK number one single with the Stock Aitken Waterman-penned dance track ***Too Many Broken Hearts***. Filmed on location along the sun-drenched beaches of Sydney, the upbeat single spent two weeks at the summit of the charts and confirmed Donovan's status alongside Kylie Minogue as the reigning royalty of late-1980s teen pop.",
+      "wiki": "Too Many Broken Hearts",
+      "youtube": "Jason Donovan Too Many Broken Hearts TOTP 1989",
+      "source": "https://www.officialcharts.com/songs/jason-donovan-too-many-broken-hearts/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (25 March 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Too Many Broken Hearts",
+          "by": "Jason Donovan"
+        },
+        {
+          "pos": 2,
+          "title": "Like a Prayer",
+          "by": "Madonna"
+        },
+        {
+          "pos": 3,
+          "title": "Help!",
+          "by": "Bananarama & Lananeeneenoonoo"
+        },
+        {
+          "pos": 4,
+          "title": "Leave Me Alone",
+          "by": "Michael Jackson"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (March 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Last Ninja 2",
+          "by": "System 3"
+        },
+        {
+          "pos": 3,
+          "title": "Operation Wolf",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "After Burner",
+          "by": "Activision"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "SimCity",
+    "developer": "Maxis",
+    "publisher": "Maxis / Brøderbund",
+    "platforms": [
+      "Macintosh",
+      "Amiga",
+      "Atari ST",
+      "MS-DOS PC"
+    ],
+    "genre": "City-Building Simulation",
+    "director": "Will Wright",
+    "reviewScore": "95%",
+    "reviewQuote": "Hypnotically addictive. You don't play this game; you live inside its intricate economic and urban rhythms.",
+    "reviewSource": "Computer Gaming World",
+    "headline": "Mayors, Power Grids, and the Birth of System Simulation",
+    "gameplay": "Created by visionary designer Will Wright and co-founded with entrepreneur Jeff Braun at Maxis, *SimCity* introduced players to the revolutionary art of urban planning. Given an empty parcel of land, players acted as Mayor and City Planner: zoning residential, commercial, and industrial districts, routing power grids and roads, levying tax rates, managing crime rates, and occasionally triggering catastrophic earthquakes or rampaging monsters to test emergency disaster services.",
+    "reception": "Initially rejected by publishers who argued that a game with \"no win condition\" would bore players, *SimCity* became a staggering critical sensation upon its early 1989 release. Critics marveled at its living, breathing emergent systems, where traffic jams, pollution plumes, and property values reacted dynamically to player decisions. Publications praised it as a triumph of software engineering and public education.",
+    "impact": "*SimCity* pioneered the simulation genre, demonstrating that non-linear, open-ended systems could achieve massive mainstream commercial success. It spawned an iconic multi-million-selling franchise and laid the design philosophy for Will Wright's subsequent creations, culminating in *The Sims* a decade later.",
+    "wiki": "SimCity (1989 video game)",
+    "youtube": "SimCity 1989 original Mac PC gameplay",
+    "source": "https://en.wikipedia.org/wiki/SimCity_(1989_video_game)"
+  }
+};
+window.ALL_DATA['1989-04'] = {
+  "month": "1989-04",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-04-02-wrestlemania-v-mega-powers-explode",
+      "date": "1989-04-02",
+      "topic": "wrestling",
+      "text": "2 April saw **WrestleMania V** pack 18,946 fans into Trump Plaza in Atlantic City, New Jersey, headlined by the climactic showdown: **\"The Mega Powers Explode\"**. With Miss Elizabeth stationed in a neutral corner, **Hulk Hogan** survived Macho Man's flying elbow drop to \"Hulk Up\" and pin **Randy Savage**, capturing his second WWF World Heavyweight Championship and closing out the most lucrative, year-long storyline in wrestling history.",
+      "wiki": "WrestleMania V",
+      "youtube": "Hulk Hogan vs Randy Savage WrestleMania 5 1989",
+      "source": "https://en.wikipedia.org/wiki/WrestleMania_V",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-04-15-hillsborough-disaster",
+      "date": "1989-04-15",
+      "topic": "sport",
+      "text": "15 April saw Britain's worst sporting disaster unfold at **Hillsborough Stadium** in Sheffield during the FA Cup semi-final between Liverpool and Nottingham Forest. Catastrophic police crowd mismanagement led to thousands of fans being directed into already overcrowded standing pens behind the Leppings Lane goal, causing a lethal crush that resulted in the deaths of **95 Liverpool supporters** (later rising to 97) and injuries to over 700. The tragedy transformed British football stadium safety, leading to the landmark Taylor Report and the introduction of all-seater stadiums.",
+      "wiki": "Hillsborough disaster",
+      "youtube": "Hillsborough disaster BBC news April 1989",
+      "source": "https://en.wikipedia.org/wiki/Hillsborough_disaster",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-04-21-game-boy-launch-japan",
+      "date": "1989-04-21",
+      "topic": "tech",
+      "text": "21 April saw Nintendo officially release the **Game Boy** handheld console in Japan, designed by legendary hardware engineer **Gunpei Yokoi**. Foregoing high-power battery-hungry colour screens in favour of a low-cost, durable grey-scale LCD screen powered by four AA batteries, the system launched alongside *Super Mario Land* and *Tetris*, selling out its initial 300,000 unit manufacturing run in a single day and creating the modern portable gaming industry.",
+      "wiki": "Game Boy",
+      "youtube": "Nintendo Game Boy Japan launch 1989 commercial",
+      "source": "https://en.wikipedia.org/wiki/Game_Boy",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-04-18-tiananmen-protests-begin",
+      "date": "1989-04-18",
+      "topic": "politics",
+      "text": "18 April saw thousands of university students march into **Tiananmen Square** in Beijing following the death of reformist Communist Party official Hu Yaobang. Calling for freedom of speech, freedom of the press, democratic governance, and an end to official corruption, the peaceful vigil rapidly swelled into a nationwide protest movement, with students launching hunger strikes that seized the world's attention.",
+      "wiki": "1989 Tiananmen Square protests and massacre",
+      "youtube": "Tiananmen Square protests April 1989 news",
+      "source": "https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-04-15-the-bangles-eternal-flame-number-one",
+      "date": "1989-04-15",
+      "topic": "music",
+      "text": "15 April saw American all-female pop-rock quartet **The Bangles** claim the UK number one spot with their tender acoustic ballad ***Eternal Flame***. Sung with impassioned vulnerability by frontwoman Susanna Hoffs, the single dethroned Madonna's *Like a Prayer* and remained at the top of the British charts for four weeks, becoming one of the most enduring power ballads of the late 1980s.",
+      "wiki": "Eternal Flame (song)",
+      "youtube": "The Bangles Eternal Flame Top of the Pops 1989",
+      "source": "https://www.officialcharts.com/songs/bangles-eternal-flame/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (22 April 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Eternal Flame",
+          "by": "The Bangles"
+        },
+        {
+          "pos": 2,
+          "title": "Like a Prayer",
+          "by": "Madonna"
+        },
+        {
+          "pos": 3,
+          "title": "Baby I Don't Care",
+          "by": "Transvision Vamp"
+        },
+        {
+          "pos": 4,
+          "title": "If You Don't Know Me by Now",
+          "by": "Simply Red"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (April 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Operation Wolf",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Treasure Island Dizzy",
+          "by": "Codemasters"
+        },
+        {
+          "pos": 4,
+          "title": "MicroProse Soccer",
+          "by": "MicroProse"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Super Mario Land",
+    "developer": "Nintendo R&D1",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Game Boy"
+    ],
+    "genre": "Platformer",
+    "director": "Hiroji Kiyotake / Gunpei Yokoi",
+    "reviewScore": "90%",
+    "reviewQuote": "Mario in the palm of your hand! A magical, surreal portable adventure that makes the Game Boy essential.",
+    "reviewSource": "Famitsu / Computer & Video Games",
+    "headline": "Sarasaland, Submarines, and Mario Goes Portable",
+    "gameplay": "Directed by Hiroji Kiyotake and produced by Game Boy creator Gunpei Yokoi, *Super Mario Land* served as the premier showcase launch title for Nintendo's new handheld. Diverging wildly from the Mushroom Kingdom, the game was set in the exotic, mythological realms of **Sarasaland** (Birabuto, Muda, Easton, and Chai). Mario dodged exploding Koopas, piloted a yellow submarine (the Marine Pop) and airplane (the Sky Pop) in scrolling shoot 'em up stages, and hurled bouncing Superballs to rescue Princess Daisy from the alien invader Tatanga.",
+    "reception": "Releasing alongside the Game Boy on 21 April 1989 in Japan, *Super Mario Land* was an instant triumph. Gamers were captivated by having full, responsive Mario platforming in the palm of their hand. Hirokazu Tanaka's infectious, jaunty chiptune score became an instant earworm, and the game drove massive hardware sales across Tokyo electronics districts.",
+    "impact": "Selling an eye-watering **18.14 million copies**, *Super Mario Land* established the Game Boy as a pop-culture juggernaut, introduced Princess Daisy to the Nintendo universe, and proved that full-fledged, top-tier platforming adventures could thrive on pocket-sized portable screens.",
+    "wiki": "Super Mario Land",
+    "youtube": "Super Mario Land Game Boy 1989 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Super_Mario_Land"
+  }
+};
+window.ALL_DATA['1989-05'] = {
+  "month": "1989-05",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-05-02-hungary-dismantles-border-fence",
+      "date": "1989-05-02",
+      "topic": "politics",
+      "text": "2 May saw Hungarian border guards begin physically dismantling the electrified barbed-wire fence along the **Austrian border**, tearing the first tangible hole through the **Iron Curtain**. As images of border posts being snipped with wire-cutters broadcast across Europe, thousands of East German citizens seized the opportunity to travel to Hungary under the guise of holidays, creating an irreversible refugee corridor to the West that hastened the collapse of the Soviet bloc.",
+      "wiki": "Removal of Hungary's border fence with Austria",
+      "youtube": "Hungary dismantles border fence May 1989 news",
+      "source": "https://en.wikipedia.org/wiki/Removal_of_Hungary%27s_border_fence_with_Austria",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-05-26-arsenal-title-anfield-michael-thomas",
+      "date": "1989-05-26",
+      "topic": "sport",
+      "text": "26 May saw the most dramatic title decider in English football history as **Arsenal** defeated Liverpool 2–0 at Anfield to steal the First Division championship in the dying seconds. Arsenal needed to win by two clear goals; with seconds remaining on the clock, midfielder **Michael Thomas** burst through the midfield, slipped past Steve Nicol, and delicately flicked the ball over Bruce Grobbelaar, prompting commentator Brian Moore's immortal cry: **\"It's up for grabs now!\"**",
+      "wiki": "Liverpool 0–2 Arsenal (26 May 1989)",
+      "youtube": "Michael Thomas goal Liverpool 0-2 Arsenal 1989 Brian Moore",
+      "source": "https://en.wikipedia.org/wiki/Liverpool_0%E2%80%932_Arsenal_(26_May_1989)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-05-07-ric-flair-steamboat-wrestlewar",
+      "date": "1989-05-07",
+      "topic": "wrestling",
+      "text": "7 May saw **Ric Flair** defeat **Ricky \"The Dragon\" Steamboat** at NWA *WrestleWar 1989* in Nashville, Tennessee, regaining the NWA World Heavyweight Championship and concluding their legendary 1989 match trilogy, widely hailed as the greatest technical series in wrestling history. The post-match celebration erupted into chaos when special judge **Terry Funk** brutally attacked Flair, pile-driving him through an announcer's table to ignite their bloody feud.",
+      "wiki": "WrestleWar (1989)",
+      "youtube": "Ric Flair vs Ricky Steamboat WrestleWar 1989 Terry Funk",
+      "source": "https://en.wikipedia.org/wiki/WrestleWar_(1989)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-05-13-ferry-cross-the-mersey-hillsborough-single",
+      "date": "1989-05-13",
+      "topic": "music",
+      "text": "13 May saw a star-studded charity ensemble featuring **Paul McCartney, Gerry Marsden, Holly Johnson, and The Christians** top the UK Singles Chart with a poignant re-recording of ***Ferry Cross the Mersey***. Produced by Stock Aitken Waterman following the Hillsborough disaster, the track held the number-one spot for three consecutive weeks, raising over a million pounds for the disaster appeal fund and serving as an emotional anthem of solidarity across Merseyside.",
+      "wiki": "Ferry Cross the Mersey",
+      "youtube": "Ferry Cross the Mersey Hillsborough charity single 1989",
+      "source": "https://www.officialcharts.com/songs/the-christians-holly-johnson-paul-mccartney-gerry-marsden-ferry-cross-the-mersey/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-05-24-indiana-jones-last-crusade-premiere",
+      "date": "1989-05-24",
+      "topic": "film",
+      "text": "24 May saw Steven Spielberg and George Lucas release ***Indiana Jones and the Last Crusade*** in cinemas, pairing Harrison Ford with legendary former James Bond star **Sean Connery** as Indy's cantankerous father, Professor Henry Jones. Bursting with banter, Holy Grail lore, motorcycle sidecars, and desert tank battles, the blockbuster grossed over $474 million, becoming the highest-earning film of 1989 worldwide.",
+      "wiki": "Indiana Jones and the Last Crusade",
+      "youtube": "Indiana Jones and the Last Crusade trailer 1989",
+      "source": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (20 May 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Ferry Cross the Mersey",
+          "by": "The Christians, Holly Johnson, Paul McCartney, Gerry Marsden"
+        },
+        {
+          "pos": 2,
+          "title": "Manchild",
+          "by": "Neneh Cherry"
+        },
+        {
+          "pos": 3,
+          "title": "Eternal Flame",
+          "by": "The Bangles"
+        },
+        {
+          "pos": 4,
+          "title": "Lullaby",
+          "by": "The Cure"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (May 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "The NewZealand Story",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "MicroProse Soccer",
+          "by": "MicroProse"
+        },
+        {
+          "pos": 4,
+          "title": "Run the Gauntlet",
+          "by": "Ocean Software"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Populous",
+    "developer": "Bullfrog Productions",
+    "publisher": "Electronic Arts",
+    "platforms": [
+      "Commodore Amiga",
+      "Atari ST",
+      "MS-DOS PC"
+    ],
+    "genre": "God Game / Real-Time Strategy",
+    "director": "Peter Molyneux",
+    "reviewScore": "95%",
+    "reviewQuote": "An astonishing flash of genius. Shaping landscapes and guiding miniature civilizations makes you feel truly omnipotent.",
+    "reviewSource": "The Games Machine (Issue 19)",
+    "headline": "Divine Intervention and the Invention of the God Game",
+    "gameplay": "Conceived by Peter Molyneux and coded with Les Edgar at Guildford-based studio Bullfrog Productions, *Populous* birthed the **\"god game\"** genre. Viewed from an isometric 3D perspective, players took on the role of a divine deity directly manipulating terrain: raising flat land for miniature tribal followers to cultivate houses, lowering mountains, and directing them into holy war against rival non-believers. As mana gathered, divine powers were unleashed: raining volcanic fireballs, earthquakes, plagues, and summoning a devastating **Armageddon** to draw all living survivors into a final battle.",
+    "reception": "Releasing for 16-bit computers in May 1989, *Populous* became an overwhelming critical and commercial triumph. Critics gasped at its brilliant emergent artificial intelligence, intuitive mouse-driven terraforming, and pioneering two-player modem/null-cable multiplayer. *The Games Machine* awarded it 95%, and it swept industry honours, winning multiple Game of the Year awards.",
+    "impact": "Selling over four million copies, *Populous* saved Bullfrog from bankruptcy, launched Peter Molyneux into international design superstardom, and founded the god game and simulation genre that gave rise to *SimCity*, *Theme Park*, *Dungeon Keeper*, and *Black & White*.",
+    "wiki": "Populous (video game)",
+    "youtube": "Populous Amiga 1989 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Populous_(video_game)"
+  }
+};
+window.ALL_DATA['1989-06'] = {
+  "month": "1989-06",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-06-04-tiananmen-square-massacre",
+      "date": "1989-06-04",
+      "topic": "politics",
+      "text": "4 June saw the Chinese military violently crush pro-democracy demonstrations in **Tiananmen Square**, Beijing, dispatching heavily armed infantry and Type 59 tanks into crowds of student protesters, resulting in hundreds and possibly thousands of deaths. The following morning, global television broadcast the iconic defiance of **\"Tank Man\"**, an unidentified civilian holding shopping bags who repeatedly stood in front of a column of advancing tanks, creating an indelible universal symbol of resistance against tyranny.",
+      "wiki": "1989 Tiananmen Square protests and massacre",
+      "youtube": "Tiananmen Square Tank Man iconic footage June 1989",
+      "source": "https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-06-04-solidarity-polish-election",
+      "date": "1989-06-04",
+      "topic": "politics",
+      "text": "4 June saw Poland hold semi-free parliamentary elections, delivering a seismic landslide victory to Lech Wałęsa's **Solidarity trade union** movement. Solidarity swept 99 of the 100 seats in the newly created Senate and every single freely contested seat in the Sejm, breaking the Communist Party's monopoly on power and sparking the chain reaction that peacefully dissolved communist rule across Eastern Europe.",
+      "wiki": "1989 Polish legislative election",
+      "youtube": "Polish Solidarity election victory June 1989 news",
+      "source": "https://en.wikipedia.org/wiki/1989_Polish_legislative_election",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-06-23-batman-movie-premiere",
+      "date": "1989-06-23",
+      "topic": "film",
+      "text": "23 June saw Tim Burton's ***Batman*** hit cinemas, triggering an unprecedented cultural phenomenon known as \"Batmania\". Starring **Michael Keaton** as the brooding Dark Knight and **Jack Nicholson** in an anarchic, show-stealing turn as The Joker, the dark, stylish neo-noir thriller featured a brooding Danny Elfman score and Prince songs, grossing over $400 million and fundamentally reinventing the modern superhero blockbuster.",
+      "wiki": "Batman (1989 film)",
+      "youtube": "Batman 1989 theatrical trailer Michael Keaton Jack Nicholson",
+      "source": "https://en.wikipedia.org/wiki/Batman_(1989_film)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-06-17-soul-ii-soul-back-to-life",
+      "date": "1989-06-17",
+      "topic": "music",
+      "text": "17 June saw British sound system collective **Soul II Soul**, masterminded by Jazzie B and featuring powerhouse vocals from Caron Wheeler, hit number one on the UK Singles Chart with ***Back to Life (However Do You Want Me)***. Defining the buoyant sound of late-1980s Black British urban music with its fusion of R&B, hip-hop breaks, and lush string arrangements, the anthem stayed at number one for four weeks and conquered the US charts.",
+      "wiki": "Back to Life (However Do You Want Me)",
+      "youtube": "Soul II Soul Back To Life official video 1989",
+      "source": "https://www.officialcharts.com/songs/soul-ii-soul-back-to-life-however-do-you-want-me/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-06-24-jason-donovan-sealed-with-a-kiss",
+      "date": "1989-06-24",
+      "topic": "music",
+      "text": "24 June saw **Jason Donovan** score his second consecutive solo UK number-one single with his bubblegum pop cover of the 1960s classic ***Sealed with a Kiss***. Pushing Soul II Soul and Prince off the top spot, Donovan became the most commercially dominant solo male artist in Britain in 1989, shifting millions of albums for the PWL production stable.",
+      "wiki": "Sealed with a Kiss",
+      "youtube": "Jason Donovan Sealed With a Kiss TOTP 1989",
+      "source": "https://www.officialcharts.com/songs/jason-donovan-sealed-with-a-kiss/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (24 June 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Sealed with a Kiss",
+          "by": "Jason Donovan"
+        },
+        {
+          "pos": 2,
+          "title": "Back to Life (However Do You Want Me)",
+          "by": "Soul II Soul"
+        },
+        {
+          "pos": 3,
+          "title": "Batdance",
+          "by": "Prince"
+        },
+        {
+          "pos": 4,
+          "title": "It's Alright",
+          "by": "Pet Shop Boys"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (June 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "The NewZealand Story",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Out Run",
+          "by": "Sega / US Gold"
+        },
+        {
+          "pos": 4,
+          "title": "Silkworm",
+          "by": "Virgin Mastertronic"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Golden Axe",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "platforms": [
+      "Arcade (Sega System 16)",
+      "Sega Mega Drive",
+      "Amiga",
+      "Atari ST"
+    ],
+    "genre": "Side-Scrolling Hack and Slash / Beat 'em Up",
+    "director": "Makoto Uchida",
+    "reviewScore": "92%",
+    "reviewQuote": "Summoning screen-filling lightning bolts and riding fire-breathing bizarrians with a friend. Arcade fantasy bliss.",
+    "reviewSource": "Computer & Video Games (Issue 92)",
+    "headline": "Broadswords, Dragon Mounts, and Magic Potions",
+    "gameplay": "Created by Makoto Uchida on Sega's System 16 arcade board, *Golden Axe* dragged the cooperative brawler out of gritty urban alleyways and plunged it into high fantasy inspired by *Conan the Barbarian*. Players chose between three vengeful champions: **Ax Battler** the barbarian, **Tyris Flare** the Amazon, and **Gilius Thunderhead** the axe-wielding dwarf. Beyond bashing Death Adder's armored minions, players kicked sleeping blue thieves to loot magical potions, hopped aboard rideable chicken-leg Bizarrians and fire-spitting dragons, and burned magic pots to summon screen-clearing firestorms and earth-shattering boulders.",
+    "reception": "Debuting in arcades in June 1989, *Golden Axe* was an instant global coin-op sensation. Its dramatic orchestral chiptune themes, brutal bone-crushing sword hits, and simultaneous two-player cooperation drew packed crowds to arcade cabinets across the globe. Critics praised its vibrant fantasy pixel art and cinematic magic effects.",
+    "impact": "*Golden Axe* established a golden age for arcade fantasy beat 'em ups, directly inspiring Capcom's *Tower of Doom* and *Dungeons & Dragons*. Its legendary 1989 home conversion for the Sega Mega Drive became one of the key system-seller titles that established Sega's 16-bit console as a must-have for teenagers.",
+    "wiki": "Golden Axe (video game)",
+    "youtube": "Golden Axe original arcade 1989 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Golden_Axe_(video_game)"
+  }
+};
+window.ALL_DATA['1989-07'] = {
+  "month": "1989-07",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-07-14-french-revolution-bicentenary",
+      "date": "1989-07-14",
+      "topic": "politics",
+      "text": "14 July saw France stage lavish celebrations for the **Bicentenary of the French Revolution** in Paris, drawing 33 world leaders, including British Prime Minister Margaret Thatcher and US President George H. W. Bush. Highlights included the inauguration of the gleaming Grande Arche de la Défense and Jean-Paul Goude's theatrical parade down the Champs-Élysées, while Thatcher provoked French ire by declaring that human rights originated with the British Magna Carta.",
+      "wiki": "Bicentenary of the French Revolution",
+      "youtube": "French Revolution Bicentenary Paris parade 1989",
+      "source": "https://en.wikipedia.org/wiki/Bicentenary_of_the_French_Revolution",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-07-23-great-american-bash-flair-funk",
+      "date": "1989-07-23",
+      "topic": "wrestling",
+      "text": "23 July saw the NWA stage ***The Great American Bash 1989: The Glory Days*** at the Baltimore Arena, headlined by a bloody, visceral war where **Ric Flair** pinned **Terry Funk** with a quick inside cradle to retain the NWA World Heavyweight Championship. The night was widely heralded as one of the greatest pay-per-views in wrestling history, featuring an extraordinary WarGames match and The Great Muta defeating Sting for the TV Championship.",
+      "wiki": "The Great American Bash (1989)",
+      "youtube": "Ric Flair vs Terry Funk Great American Bash 1989",
+      "source": "https://en.wikipedia.org/wiki/The_Great_American_Bash_(1989)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-07-07-lethal-weapon-2-premiere",
+      "date": "1989-07-07",
+      "topic": "film",
+      "text": "7 July saw Richard Donner release ***Lethal Weapon 2*** in cinemas, reuniting Mel Gibson as unhinged detective Martin Riggs and Danny Glover as long-suffering partner Roger Murtaugh. Introducing Joe Pesci as motor-mouthed federal witness Leo Getz, the explosive buddy-cop sequel pitted the LAPD duo against ruthless, gold-smuggling South African diplomats hiding behind \"diplomatic immunity\", grossing over $227 million worldwide.",
+      "wiki": "Lethal Weapon 2",
+      "youtube": "Lethal Weapon 2 trailer 1989",
+      "source": "https://en.wikipedia.org/wiki/Lethal_Weapon_2",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    },
+    {
+      "id": "1989-07-05-seinfeld-pilot-broadcast",
+      "date": "1989-07-05",
+      "topic": "film",
+      "text": "5 July saw NBC broadcast the quiet pilot episode of *The Seinfeld Chronicles* (later retitled ***Seinfeld***), created by stand-up comedians **Jerry Seinfeld and Larry David**. Focusing on trivial minutiae—deciphering whether a visiting female acquaintance meant romance or friendship—the low-key pilot received mediocre test audience scores but was championed by NBC executive Rick Ludwin, ultimately evolving into one of the most celebrated and lucrative sitcoms in television history.",
+      "wiki": "The Seinfeld Chronicles",
+      "youtube": "Seinfeld pilot episode original broadcast 1989",
+      "source": "https://en.wikipedia.org/wiki/The_Seinfeld_Chronicles",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-07-22-jive-bunny-swing-the-mood-number-one",
+      "date": "1989-07-22",
+      "topic": "music",
+      "text": "22 July saw novelty DJ outfit **Jive Bunny and the Mastermixers** hit number one on the UK Singles Chart with their 1950s rock-and-roll medley ***Swing the Mood***. Created in Rotherham by father-and-son producers John and Andy Pickles with DJ Les Hemstock, the infectious pastiche stitched together Bill Haley, Chuck Berry, and Little Richard, staying at number one for five straight weeks and sparking an unlikely international novelty craze.",
+      "wiki": "Swing the Mood",
+      "youtube": "Jive Bunny Swing The Mood Top of the Pops 1989",
+      "source": "https://www.officialcharts.com/songs/jive-bunny-and-the-mastermixers-swing-the-mood/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (29 July 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Swing the Mood",
+          "by": "Jive Bunny and the Mastermixers"
+        },
+        {
+          "pos": 2,
+          "title": "You'll Never Stop Me Loving You",
+          "by": "Sonia"
+        },
+        {
+          "pos": 3,
+          "title": "On Our Own",
+          "by": "Bobby Brown"
+        },
+        {
+          "pos": 4,
+          "title": "Back to Life",
+          "by": "Soul II Soul"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (July 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Red Heat",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "The NewZealand Story",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "Shinobi",
+          "by": "Virgin Mastertronic"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Tetris (Game Boy)",
+    "developer": "Nintendo R&D1 / Bullet-Proof Software",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Game Boy"
+    ],
+    "genre": "Puzzle",
+    "director": "Alexey Pajitnov / Henk Rogers",
+    "reviewScore": "98%",
+    "reviewQuote": "The ultimate pack-in game. Hypnotic, mathematical perfection that will consume every waking hour of your life.",
+    "reviewSource": "Computer & Video Games (Issue 95)",
+    "headline": "Falling Tetrominoes, Type A Korobeiniki, and Handheld Domination",
+    "gameplay": "Originally invented in Soviet Moscow by mathematician Alexey Pajitnov, *Tetris* found its definitive worldwide form when Nintendo shrewdly bundled it with the Western launch of the Game Boy. Guided by simple geometry, players rotated falling geometric **tetrominoes** into solid horizontal rows to clear lines before the matrix stacked to the top. Featuring a gripping two-player Link Cable battle mode and Hirokazu Tanaka's jaunty 8-bit arrangement of Russian folk ballad **\"Korobeiniki\"** (Type A), it became an all-consuming addiction.",
+    "reception": "Arriving on Western Game Boys in July 1989, *Tetris* was universally heralded as an immaculate work of design genius. Unlike traditional character games aimed at youngsters, *Tetris* transcended every demographic: commuters, parents, and children alike fell victim to the \"Tetris effect\", closing their eyes at night only to see falling blocks drifting into empty slots. Critics universally declared it the greatest puzzle game in history.",
+    "impact": "Selling an extraordinary **35 million copies** on Game Boy alone, *Tetris* propelled Nintendo's handheld from a curious novelty into a global cultural phenomenon. It proved that simple, elegant game mechanics could conquer the world and remains one of the most played and cloned video games in human history.",
+    "wiki": "Tetris (Game Boy video game)",
+    "youtube": "Tetris Game Boy 1989 commercial",
+    "source": "https://en.wikipedia.org/wiki/Tetris_(Game_Boy_video_game)"
+  }
+};
+window.ALL_DATA['1989-08'] = {
+  "month": "1989-08",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-08-25-voyager-2-neptune-flyby",
+      "date": "1989-08-25",
+      "topic": "science",
+      "text": "25 August saw NASA's deep-space probe **Voyager 2** make its historic closest approach to **Neptune**, sweeping just 3,000 miles above the gas giant's north pole after a 12-year journey across the solar system. The spacecraft transmitted breathtaking, high-resolution photographs revealing vibrant azure clouds, five previously unknown moons, delicate planetary ring arcs, and the churning storm of the **Great Dark Spot**, alongside geysers of liquid nitrogen erupting from the frozen moon Triton.",
+      "wiki": "Voyager 2",
+      "youtube": "Voyager 2 Neptune flyby NASA live 1989",
+      "source": "https://en.wikipedia.org/wiki/Voyager_2",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-08-19-pan-european-picnic-hungary",
+      "date": "1989-08-19",
+      "topic": "politics",
+      "text": "19 August saw the **Pan-European Picnic** take place along the border between Hungary and Austria near Sopron, organized by peace activists with the tacit approval of Hungarian reformists. When border gates were symbolically opened for three hours, more than **600 East German citizens** burst through the barbed wire into neutral Austria, meeting no armed resistance from Hungarian border guards. The mass breakthrough opened the floodgates for tens of thousands of East Germans to flee to the West.",
+      "wiki": "Pan-European Picnic",
+      "youtube": "Pan-European Picnic August 1989 news",
+      "source": "https://en.wikipedia.org/wiki/Pan-European_Picnic",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-08-20-marchioness-disaster-thames",
+      "date": "1989-08-20",
+      "topic": "politics",
+      "text": "20 August saw the tragic **Marchioness disaster** occur on the River Thames in central London when the pleasure cruiser *Marchioness*, packed with young revellers celebrating a 26th birthday party, was struck twice and run down by the 1,875-ton aggregate dredger *Bowbelle* near Cannon Street Railway Bridge. The cruiser capsized and sank within thirty seconds in dark tidal waters, claiming **51 young lives** and sparking years of inquiries into maritime safety standards along London's waterways.",
+      "wiki": "Marchioness disaster",
+      "youtube": "Marchioness disaster ITN news August 1989",
+      "source": "https://en.wikipedia.org/wiki/Marchioness_disaster",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-08-28-summerslam-1989-hogan-zeus",
+      "date": "1989-08-28",
+      "topic": "wrestling",
+      "text": "28 August saw the WWF stage its second annual **SummerSlam** at the Meadowlands Arena in East Rutherford, New Jersey, headlined by a blockbuster tag clash pairing WWF Champion **Hulk Hogan and Brutus \"The Barber\" Beefcake** against \"Macho King\" Randy Savage and towering movie villain **Zeus** (played by actor Tiny Lister). Hogan pinned Zeus following a ringside purse strike from Miss Elizabeth, while The Ultimate Warrior dethroned Rick Rude to recapture the Intercontinental Championship.",
+      "wiki": "SummerSlam (1989)",
+      "youtube": "SummerSlam 1989 Hogan Beefcake vs Savage Zeus",
+      "source": "https://en.wikipedia.org/wiki/SummerSlam_(1989)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-08-12-sonia-youll-never-stop-me-number-one",
+      "date": "1989-08-12",
+      "topic": "music",
+      "text": "12 August saw 18-year-old Liverpool pop starlet **Sonia** score a memorable UK number one single with her infectious debut ***You'll Never Stop Me Loving You***. Produced by the prolific Stock Aitken Waterman team, the effervescent dance-pop anthem spent three weeks at the summit, continuing PWL's total stranglehold over the British pop charts throughout the summer of 1989.",
+      "wiki": "You'll Never Stop Me Loving You",
+      "youtube": "Sonia Youll Never Stop Me Loving You Top of the Pops 1989",
+      "source": "https://www.officialcharts.com/songs/sonia-youll-never-stop-me-loving-you/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (19 August 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Swing the Mood",
+          "by": "Jive Bunny and the Mastermixers"
+        },
+        {
+          "pos": 2,
+          "title": "You'll Never Stop Me Loving You",
+          "by": "Sonia"
+        },
+        {
+          "pos": 3,
+          "title": "Poison",
+          "by": "Alice Cooper"
+        },
+        {
+          "pos": 4,
+          "title": "Too Much",
+          "by": "Bros"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (August 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "The Untouchables",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Ghostbusters II",
+          "by": "Activision"
+        },
+        {
+          "pos": 4,
+          "title": "Operation Wolf",
+          "by": "Ocean Software"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "The Revenge of Shinobi",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "platforms": [
+      "Sega Mega Drive / Genesis"
+    ],
+    "genre": "Action Platformer",
+    "director": "Noriyoshi Ohba",
+    "reviewScore": "94%",
+    "reviewQuote": "A staggering showcase of 16-bit console power. Yuzo Koshiro's club-ready soundtrack alone is worth buying a Mega Drive for.",
+    "reviewSource": "Mean Machines / Computer & Video Games",
+    "headline": "Shurikens, Shadow Ninjas, and Yuzo Koshiro's Techno Revolution",
+    "gameplay": "Directed by Noriyoshi Ohba for Sega's new 16-bit Mega Drive, *The Revenge of Shinobi* (released in Japan as *The Super Shinobi*) set modern ninja master **Joe Musashi** on a bloody vengeance quest against the resurrected Neo Zeed crime syndicate. Players executed somersaulting double-jumps to hurl eight-way shuriken spreads, blocked projectiles with defensive ninjutsu guard postures, and invoked four elemental spells: Fushin (super jumps), Ikazuchi (protective lightning), Karyu (roaring fire dragons), and Mijin (explosive self-sacrifice suicide).",
+    "reception": "Debuting in late 1989, *The Revenge of Shinobi* was universally hailed as the first true masterpiece of the 16-bit console era. Critics were particularly enraptured by 21-year-old composer **Yuzo Koshiro's** revolutionary, house- and techno-infused FM synthesized score, which pushed the Yamaha YM2612 sound chip into uncharted musical territory. Early print runs famously featured unauthorized boss cameos from Godzilla, Spider-Man, the Terminator, and Batman.",
+    "impact": "*The Revenge of Shinobi* became a marquee system-seller for the Sega Mega Drive / Genesis, proving that home consoles could deliver superior visual complexity, mature action, and club-calibre audio that rivalled dedicated arcade machines.",
+    "wiki": "The Revenge of Shinobi",
+    "youtube": "The Revenge of Shinobi Mega Drive 1989 intro gameplay",
+    "source": "https://en.wikipedia.org/wiki/The_Revenge_of_Shinobi"
+  }
+};
+window.ALL_DATA['1989-09'] = {
+  "month": "1989-09",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-09-22-deal-barracks-bombing",
+      "date": "1989-09-22",
+      "topic": "politics",
+      "text": "22 September saw a devastating Provisional IRA bomb detonate inside the recreational centre at the **Royal Marines School of Music** in Deal, Kent. The timed 15-pound gelignite explosion caused the three-storey barracks building to collapse completely, killing **11 young bandsmen** and injuring 21 others. The tragedy sparked widespread national mourning across Britain, culminating in a poignant memorial parade through Deal by surviving bandsmen leaving empty spaces in their marching ranks.",
+      "wiki": "Deal barracks bombing",
+      "youtube": "Deal barracks bombing ITN news September 1989",
+      "source": "https://en.wikipedia.org/wiki/Deal_barracks_bombing",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-09-21-hurricane-hugo-carolinas",
+      "date": "1989-09-21",
+      "topic": "science",
+      "text": "21 September saw catastrophic **Hurricane Hugo** make landfall at Sullivan's Island near Charleston, South Carolina, as an intense Category 4 hurricane packing sustained winds of 140 mph. After devastating Guadeloupe, Montserrat, and Puerto Rico, the storm carved a path of devastation through the southeastern United States, causing over $10 billion in damage (the costliest Atlantic hurricane in US history at the time) and resulting in 67 direct fatalities.",
+      "wiki": "Hurricane Hugo",
+      "youtube": "Hurricane Hugo CBS news Dan Rather September 1989",
+      "source": "https://en.wikipedia.org/wiki/Hurricane_Hugo",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-09-29-dead-poets-society-uk-release",
+      "date": "1989-09-29",
+      "topic": "film",
+      "text": "29 September saw Peter Weir's acclaimed drama ***Dead Poets Society*** open in British cinemas, starring **Robin Williams** in an Oscar-nominated performance as unconventional English teacher John Keating at a conservative 1950s New England prep boarding school. Urging his students to \"seize the day\" (*Carpe diem*) and stand on their desks to look at the world from a different perspective, the emotionally charged film grossed over $235 million and popularized the immortal classroom salute: **\"O Captain! My Captain!\"**",
+      "wiki": "Dead Poets Society",
+      "youtube": "Dead Poets Society O Captain My Captain scene 1989",
+      "source": "https://en.wikipedia.org/wiki/Dead_Poets_Society",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-09-02-black-box-ride-on-time-number-one",
+      "date": "1989-09-02",
+      "topic": "music",
+      "text": "2 September saw Italian house music trio **Black Box** ascend to number one on the UK Singles Chart with their unstoppable piano-house anthem ***Ride on Time***. Built around a soaring, uncredited vocal sample of American singer Loleatta Holloway's 1980 disco track *Love Sensation*, the euphoric rave staple held the UK top spot for six consecutive weeks, becoming the best-selling single of 1989 in the United Kingdom despite subsequent copyright lawsuits.",
+      "wiki": "Ride on Time",
+      "youtube": "Black Box Ride On Time Top of the Pops 1989",
+      "source": "https://www.officialcharts.com/songs/black-box-ride-on-time/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-09-17-seattle-sounders-championship",
+      "date": "1989-09-17",
+      "topic": "sport",
+      "text": "17 September saw the high-stakes sports drama conclude as British middle-distance runner **Sebastian Coe** confirmed his retirement from professional athletics following a farewell competition in Rome. The two-time Olympic 1500m gold medallist hung up his spikes as one of the most decorated track legends in sporting history, having set eight outdoor and three indoor world records in a storied career that defined Britain's golden era of 1980s athletics.",
+      "wiki": "Sebastian Coe",
+      "youtube": "Sebastian Coe athletics career BBC documentary",
+      "source": "https://en.wikipedia.org/wiki/Sebastian_Coe",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (16 September 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Ride on Time",
+          "by": "Black Box"
+        },
+        {
+          "pos": 2,
+          "title": "Swing the Mood",
+          "by": "Jive Bunny and the Mastermixers"
+        },
+        {
+          "pos": 3,
+          "title": "Right Here Waiting",
+          "by": "Richard Marx"
+        },
+        {
+          "pos": 4,
+          "title": "The Best",
+          "by": "Tina Turner"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (September 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Untouchables",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Ghostbusters II",
+          "by": "Activision"
+        },
+        {
+          "pos": 4,
+          "title": "Shinobi",
+          "by": "Virgin Mastertronic"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Prince of Persia",
+    "developer": "Brøderbund",
+    "publisher": "Brøderbund",
+    "platforms": [
+      "Apple II",
+      "MS-DOS PC",
+      "Amiga",
+      "Atari ST"
+    ],
+    "genre": "Cinematic Platformer",
+    "director": "Jordan Mechner",
+    "reviewScore": "96%",
+    "reviewQuote": "Astonishing, lifelike human rotoscoped animation. Leaping across crumbling flagstones and duelling palace guards is pure swashbuckling magic.",
+    "reviewSource": "Computer Gaming World",
+    "headline": "Rotoscoped Swashbuckling, Pressure Plates, and 60 Minutes to Live",
+    "gameplay": "Created almost single-handedly over several obsessive years by young designer Jordan Mechner on the Apple II, *Prince of Persia* birthed the **cinematic platformer**. Imprisoned in the Sultan's sprawling dungeon by the treacherous Grand Vizier Jaffar, the nameless protagonist had exactly **60 real-time minutes** to escape and rescue the captive Princess. Mechner revolutionized video game traversal by filming his teenage brother running, jumping, and clambering in white clothes, meticulously tracing the film frames using **rotoscoping** to produce eerily lifelike human movement.",
+    "reception": "Releasing in late 1989, *Prince of Persia* stunned the software industry with its physical realism and deadly puzzle precision. Unlike twitchy arcade jumpers, the Prince had realistic momentum: falling from great heights proved fatal, while stepping on hidden pressure plates triggered slicing steel jaws, wall darts, and falling flagstones. Critics showered its sword-duelling mechanics and cinematic tension with rave reviews.",
+    "impact": "*Prince of Persia* became a global gaming phenomenon, ported to dozens of home systems and selling over two million copies. It established the cinematic platformer genre, directly paving the way for classics like *Another World* and *Flashback*, and spawned the multi-million-selling modern *Sands of Time* and *Assassin's Creed* dynasties.",
+    "wiki": "Prince of Persia (1989 video game)",
+    "youtube": "Prince of Persia Apple II 1989 original gameplay",
+    "source": "https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game)"
+  }
+};
+window.ALL_DATA['1989-10'] = {
+  "month": "1989-10",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-10-17-loma-prieta-earthquake",
+      "date": "1989-10-17",
+      "topic": "science",
+      "text": "17 October saw the powerful **Loma Prieta earthquake** (magnitude 6.9) strike the San Francisco Bay Area during live pre-game television coverage of Game 3 of the 1989 World Series at Candlestick Park. The 15-second tremor ruptured the San Andreas Fault, violently collapsing a 1.25-mile upper deck of the double-decker Cypress Street Viaduct on Interstate 880 in Oakland and dislodging a section of the San Francisco–Oakland Bay Bridge, tragically claiming **63 lives** and injuring over 3,700.",
+      "wiki": "1989 Loma Prieta earthquake",
+      "youtube": "Loma Prieta earthquake live on ABC World Series 1989",
+      "source": "https://en.wikipedia.org/wiki/1989_Loma_Prieta_earthquake",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-10-19-guildford-four-convictions-quashed",
+      "date": "1989-10-19",
+      "topic": "politics",
+      "text": "19 October saw the Court of Appeal in London quash the wrongful convictions of the **Guildford Four**—Gerard Conlon, Patrick Armstrong, Paul Hill, and Carole Richardson—after they had spent **15 years in prison** for the 1974 IRA pub bombings in Guildford and Woolwich. Emerging onto the steps of the Old Bailey, a triumphant Gerard Conlon declared to the world press: **\"I am an innocent man!\"** The historic exoneration exposed grave police fabrication of evidence and led directly to sweeping reforms in British criminal justice.",
+      "wiki": "Guildford Four and Maguire Seven",
+      "youtube": "Guildford Four walk free Gerry Conlon speech 1989",
+      "source": "https://en.wikipedia.org/wiki/Guildford_Four_and_Maguire_Seven",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-10-28-halloween-havoc-thunderdome",
+      "date": "1989-10-28",
+      "topic": "wrestling",
+      "text": "28 October saw the NWA inaugurate **Halloween Havoc 1989** at the Philadelphia Civic Center, headlined by an insane \"Thunderdome\" steel cage match surrounding an electrified dome. NWA World Champion **Ric Flair and Sting** joined forces to battle **The Great Muta and Terry Funk**, with legendary former champion Bruno Sammartino serving as special guest referee. The match ended in bloody chaos when Funk's manager Gary Hart accidentally threw in the towel while Funk was trapped in Flair's Figure-Four leglock.",
+      "wiki": "Halloween Havoc (1989)",
+      "youtube": "Halloween Havoc 1989 Thunderdome cage match Flair Sting",
+      "source": "https://en.wikipedia.org/wiki/Halloween_Havoc_(1989)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-10-21-lisa-stansfield-all-around-the-world-number-one",
+      "date": "1989-10-21",
+      "topic": "music",
+      "text": "21 October saw Rochdale soul singer **Lisa Stansfield** reach number one on the UK Singles Chart with her breakout hit ***All Around the World***. Co-written with Ian Devaney and Andy Morris, the sophisticated blue-eyed soul groove, famous for Stansfield's distinctive kiss-curl hairstyle and passionate vocal delivery, remained at number one for two weeks and topped the US R&B charts, a rare feat for a British female artist.",
+      "wiki": "All Around the World (Lisa Stansfield song)",
+      "youtube": "Lisa Stansfield All Around The World Top of the Pops 1989",
+      "source": "https://www.officialcharts.com/songs/lisa-stansfield-all-around-the-world/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-10-09-leipzig-monday-demonstration",
+      "date": "1989-10-09",
+      "topic": "politics",
+      "text": "9 October saw the pivotal **Monday demonstration** in Leipzig, East Germany, swell to over **70,000 peaceful citizens** chanting *\"Wir sind das Volk!\"* (\"We are the people!\") outside the St. Nicholas Church. Despite intense fears of a bloody \"Tiananmen-style\" crackdown by heavily armed Stasi and military forces, security forces refrained from firing, demonstrating that the East German communist regime had lost the will to enforce rule by terror.",
+      "wiki": "Monday demonstrations in East Germany",
+      "youtube": "Leipzig Monday demonstration October 1989 news",
+      "source": "https://en.wikipedia.org/wiki/Monday_demonstrations_in_East_Germany",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (28 October 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "All Around the World",
+          "by": "Lisa Stansfield"
+        },
+        {
+          "pos": 2,
+          "title": "Ride on Time",
+          "by": "Black Box"
+        },
+        {
+          "pos": 3,
+          "title": "Leave a Light On",
+          "by": "Belinda Carlisle"
+        },
+        {
+          "pos": 4,
+          "title": "That's What I Like",
+          "by": "Jive Bunny and the Mastermixers"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (October 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Batman: The Movie",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "The Untouchables",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "Ghostbusters II",
+          "by": "Activision"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Batman: The Movie",
+    "developer": "Ocean Software",
+    "publisher": "Ocean Software",
+    "platforms": [
+      "ZX Spectrum",
+      "Commodore 64",
+      "Amstrad CPC",
+      "Amiga",
+      "Atari ST"
+    ],
+    "genre": "Multi-Genre Action / Platformer",
+    "director": "Mike Lamb / John O'Brien",
+    "reviewScore": "93% Crash Smash",
+    "reviewQuote": "Batmobile driving, Batwing gas balloon slicing, and grappling across Gotham. Ocean's greatest movie licence yet.",
+    "reviewSource": "Crash (Issue 70)",
+    "headline": "Batmania, Batrope Grappling, and Ocean's Christmas Champion",
+    "gameplay": "Securing the official video game licence to Tim Burton's Hollywood smash hit, Ocean Software crafted a multi-tier masterpiece spanning five diverse stages: grappling through the Axis Chemical Plant to confront Jack Napier, an adrenaline-pumping 3D **Batmobile driving sequence** navigating Gotham traffic with grappling-hook turns, chemical laboratory puzzle deduction, piloting the Batwing to slice Joker's poisonous parade balloons, and a climactic cathedral duel against The Joker atop the bell tower.",
+    "reception": "Released in October 1989 to coincide with the film's European theatrical premiere, *Batman: The Movie* was greeted with sensational praise. *Crash* stamped it with a 93% \"Crash Smash\", *Zzap!64* awarded it 91%, and *Computer & Video Games* praised its impeccable multi-genre variety. The game set unprecedented sales records across the UK, quickly surpassing even *RoboCop*.",
+    "impact": "*Batman: The Movie* won the prestigious **Golden Joystick Award for Game of the Year 1989**, becoming a legendary staple of British computing history and the definitive pack-in software title for the iconic Commodore 64 and Amiga 500 \"Batman Packs\" that dominated Christmas wish-lists for years.",
+    "wiki": "Batman: The Movie (video game)",
+    "youtube": "Batman The Movie Ocean 1989 Amiga Spectrum gameplay",
+    "source": "https://en.wikipedia.org/wiki/Batman:_The_Movie_(video_game)"
+  }
+};
+window.ALL_DATA['1989-11'] = {
+  "month": "1989-11",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-11-09-fall-of-the-berlin-wall",
+      "date": "1989-11-09",
+      "topic": "politics",
+      "text": "9 November saw the **Fall of the Berlin Wall**, ending 28 years of Cold War division. During a confused live television press conference, East German politburo spokesman **Günter Schabowski** mistakenly announced that private border crossings would take effect \"immediately, without delay\". Thousands of ecstatic East Berliners rushed to the Bornholmer Straße checkpoint; overwhelmed border guards stood down and opened the gates, sparking joyous street parties as citizens began demolishing the concrete barrier with sledgehammers.",
+      "wiki": "Fall of the Berlin Wall",
+      "youtube": "Fall of the Berlin Wall BBC news 9 November 1989",
+      "source": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-11-17-velvet-revolution-prague",
+      "date": "1989-11-17",
+      "topic": "politics",
+      "text": "17 November saw riot police violently attack a peaceful student demonstration in Prague, sparking the **Velvet Revolution** in Czechoslovakia. In response to police brutality, hundreds of thousands of citizens led by dissident playwright **Václav Havel** and the Civic Forum took to Wenceslas Square for ten days of non-violent protests, jingling household keys to symbolize the unlocking of doors, forcing the entire Communist Party leadership to resign and bringing 41 years of authoritarian rule to a peaceful end.",
+      "wiki": "Velvet Revolution",
+      "youtube": "Velvet Revolution Prague November 1989 news",
+      "source": "https://en.wikipedia.org/wiki/Velvet_Revolution",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-11-23-survivor-series-1989",
+      "date": "1989-11-23",
+      "topic": "wrestling",
+      "text": "23 November saw the WWF stage its third annual **Survivor Series** at the Rosemont Horizon in Rosemont, Illinois, marking the first time all elimination teams adopted official team monikers. In the main event, **The Hulkamaniacs** (Hulk Hogan, Jake \"The Snake\" Roberts, and Demolition) defeated The Million Dollar Team, with Hogan surviving as sole victor, while The Ultimate Warriors swept The Heenan Family to set the stage for Warrior's historic title clash with Hogan.",
+      "wiki": "Survivor Series (1989)",
+      "youtube": "Survivor Series 1989 Hulkamaniacs vs Million Dollar Team",
+      "source": "https://en.wikipedia.org/wiki/Survivor_Series_(1989)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-11-25-new-kids-on-the-block-you-got-it",
+      "date": "1989-11-25",
+      "topic": "music",
+      "text": "25 November saw American boyband phenomenon **New Kids on the Block** capture the UK number one spot with their breakthrough pop single ***You Got It (The Right Stuff)***. Created by mastermind producer Maurice Starr, the Boston quintet sparked absolute hysteria among British teenage fans, filling tabloid front pages and kicking off a dominant era of choreographed boyband mania that swept across the 1990s.",
+      "wiki": "You Got It (The Right Stuff)",
+      "youtube": "New Kids on the Block You Got It The Right Stuff Top of the Pops 1989",
+      "source": "https://www.officialcharts.com/songs/new-kids-on-the-block-you-got-it-the-right-stuff/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    },
+    {
+      "id": "1989-11-18-cobe-satellite-launched",
+      "date": "1989-11-18",
+      "topic": "science",
+      "text": "18 November saw NASA launch the **Cosmic Background Explorer (COBE)** satellite into orbit aboard a Delta rocket from Vandenberg Air Force Base in California. Designed to measure the cosmic microwave background radiation left over from the Big Bang, COBE's subsequent discoveries provided definitive, Nobel Prize-winning observational proof for the origin and structure of the universe.",
+      "wiki": "Cosmic Background Explorer",
+      "youtube": "NASA COBE satellite launch November 1989",
+      "source": "https://en.wikipedia.org/wiki/Cosmic_Background_Explorer",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (25 November 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "You Got It (The Right Stuff)",
+          "by": "New Kids on the Block"
+        },
+        {
+          "pos": 2,
+          "title": "All Around the World",
+          "by": "Lisa Stansfield"
+        },
+        {
+          "pos": 3,
+          "title": "Girl I'm Gonna Miss You",
+          "by": "Milli Vanilli"
+        },
+        {
+          "pos": 4,
+          "title": "Homely Girl",
+          "by": "UB40"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (November 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Batman: The Movie",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "The Untouchables",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Operation Wolf",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "Ghostbusters II",
+          "by": "Activision"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Chase H.Q.",
+    "developer": "Taito",
+    "publisher": "Ocean Software / Taito",
+    "platforms": [
+      "Arcade",
+      "ZX Spectrum",
+      "Commodore 64",
+      "Amstrad CPC",
+      "Amiga"
+    ],
+    "genre": "Vehicular Combat / Racing",
+    "director": "Hiroyuki Sakamoto",
+    "reviewScore": "95% Crash Smash",
+    "reviewQuote": "This is Nancy at Chase HQ! Fast, furious, and utterly exhilarating. Ocean's greatest conversion of the year.",
+    "reviewSource": "Crash (Issue 71)",
+    "headline": "Nancy at Chase H.Q., Turbo Boosters, and High-Speed Ramming",
+    "gameplay": "Adapted from Taito's coin-op arcade sensation by Ocean Software's star programmer John O'Brien, *Chase H.Q.* cast players as undercover detectives Tony Gibson and Raymond Broady of the Special Investigation Department. Behind the wheel of a black **Porsche 928**, players sped down congested highways, listening for dispatcher Nancy's radio broadcasts: **\"This is Nancy at Chase H.Q. We've got an emergency here!\"** After catching the fleeing criminal's car before the timer expired, players fired emergency nitro boosters to physically ram the suspect's vehicle into a flaming wreck to make the arrest.",
+    "reception": "Hitting home computers in November 1989, *Chase H.Q.* was greeted with universal critical acclaim. *Crash* awarded the ZX Spectrum version an astonishing 95% \"Crash Smash\", hailing its blistering frame rate, textured roadside scenery, and digitized speech shouts as technical witchcraft on 8-bit hardware. *Zzap!64* awarded it 92%, calling it the most exciting driving game on home computers.",
+    "impact": "*Chase H.Q.* became a gigantic commercial triumph across Europe throughout late 1989, holding top spots on software charts for months. Its signature concept of using the player's vehicle as a physical weapon directly laid the design foundation for arcade racing franchises like *Burnout* and *Need for Speed: Hot Pursuit*.",
+    "wiki": "Chase H.Q.",
+    "youtube": "Chase HQ Spectrum 1989 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Chase_H.Q."
+  }
+};
+window.ALL_DATA['1989-12'] = {
+  "month": "1989-12",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-12-25-romanian-revolution-execution-ceausescu",
+      "date": "1989-12-25",
+      "topic": "politics",
+      "text": "25 December saw the bloody climax of the **Romanian Revolution** as long-ruling dictator **Nicolae Ceaușescu** and his wife Elena were convicted of genocide and corruption by a secret military tribunal and immediately executed by a firing squad in Târgoviște. Days earlier, a hostile crowd had booed Ceaușescu during a televised speech in Bucharest, triggering mass street fighting that killed over 1,000 citizens, bringing a violent end to 42 years of communist rule in Romania.",
+      "wiki": "Romanian Revolution",
+      "youtube": "Romanian Revolution Nicolae Ceausescu execution news 1989",
+      "source": "https://en.wikipedia.org/wiki/Romanian_Revolution",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-12-20-operation-just-cause-panama",
+      "date": "1989-12-20",
+      "topic": "politics",
+      "text": "20 December saw the United States launch **Operation Just Cause**, deploying over 27,000 troops into Panama to overthrow de facto military dictator **Manuel Noriega**, who had been indicted on federal drug trafficking charges. Noriega sought asylum in the Vatican diplomatic mission in Panama City, where US military forces psychological warfare units blasted non-stop, blaring rock music—including The Clash and Guns N' Roses—until he surrendered on 3 January 1990.",
+      "wiki": "United States invasion of Panama",
+      "youtube": "US invasion of Panama Operation Just Cause December 1989",
+      "source": "https://en.wikipedia.org/wiki/United_States_invasion_of_Panama",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-12-17-the-simpsons-premiere",
+      "date": "1989-12-17",
+      "topic": "film",
+      "text": "17 December saw the very first full-length episode of Matt Groening's animated sitcom ***The Simpsons*** (\"Simpsons Roasting on an Open Fire\") broadcast on the Fox network in the United States. Following Homer Simpson's desperate quest to earn Christmas money as a department store Santa Claus, the episode ended with the family adopting abandoned greyhound **Santa's Little Helper**, launching the longest-running scripted primetime series in television history.",
+      "wiki": "Simpsons Roasting on an Open Fire",
+      "youtube": "The Simpsons first episode Christmas special 1989",
+      "source": "https://en.wikipedia.org/wiki/Simpsons_Roasting_on_an_Open_Fire",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-12-23-band-aid-ii-christmas-number-one",
+      "date": "1989-12-23",
+      "topic": "music",
+      "text": "23 December saw supergroup charity ensemble **Band Aid II** capture the prestigious UK Christmas number-one spot with a new version of ***Do They Know It's Christmas?***. Re-recorded at PWL studios by Stock Aitken Waterman at the behest of Bob Geldof, the remake featured pop heavyweights including Kylie Minogue, Jason Donovan, Bros, Bananarama, and Chris Rea, selling over half a million copies to aid ongoing famine relief in Ethiopia.",
+      "wiki": "Do They Know It's Christmas%3F#Band_Aid_II",
+      "youtube": "Band Aid II Do They Know Its Christmas Top of the Pops 1989",
+      "source": "https://www.officialcharts.com/songs/band-aid-ii-do-they-know-its-christmas/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-12-13-starrcade-1989-future-shock",
+      "date": "1989-12-13",
+      "topic": "wrestling",
+      "text": "13 December saw the NWA present **Starrcade 1989: Future Shock** at The Omni in Atlanta, Georgia, utilizing an innovative round-robin tournament structure across a single evening. **Sting** emerged triumphant in the Iron Man singles tournament, defeating Ric Flair in the final match with a small package pin, while The Steiner Brothers captured the Iron Team tournament, establishing Sting as the NWA's premiere rising star heading into the 1990s.",
+      "wiki": "Starrcade (1989)",
+      "youtube": "Sting vs Ric Flair Starrcade 1989 Iron Man tournament",
+      "source": "https://en.wikipedia.org/wiki/Starrcade_(1989)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (23 December 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Do They Know It's Christmas?",
+          "by": "Band Aid II"
+        },
+        {
+          "pos": 2,
+          "title": "Let's Party",
+          "by": "Jive Bunny and the Mastermixers"
+        },
+        {
+          "pos": 3,
+          "title": "When You Come Back to Me",
+          "by": "Jason Donovan"
+        },
+        {
+          "pos": 4,
+          "title": "Dear Jessie",
+          "by": "Madonna"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (December 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Batman: The Movie",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Chase H.Q.",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Ghouls 'n Ghosts",
+          "by": "US Gold"
+        },
+        {
+          "pos": 4,
+          "title": "The Untouchables",
+          "by": "Ocean Software"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Shadow of the Beast",
+    "developer": "Reflections Interactive",
+    "publisher": "Psygnosis",
+    "platforms": [
+      "Commodore Amiga",
+      "Atari ST",
+      "Sega Mega Drive"
+    ],
+    "genre": "Side-Scrolling Action Platformer",
+    "director": "Martin Edmondson / Paul Howarth",
+    "reviewScore": "90%",
+    "reviewQuote": "An unbelievable technical tour de force. Thirteen layers of parallax scrolling and Roger Dean artwork turn the Amiga into a 16-bit dream machine.",
+    "reviewSource": "The Games Machine (Issue 21)",
+    "headline": "Thirteen Layers of Parallax and 16-Bit Graphical Stunner",
+    "gameplay": "Developed by Newcastle-based Reflections Interactive (led by Martin Edmondson and Paul Howarth) and published by Liverpool's Psygnosis in their signature Roger Dean-illustrated packaging, *Shadow of the Beast* followed Aarbron, a human kidnapped as a child and mutated into a monstrous warrior-servant by the Beast Lord Maletoth. Escaping through eerie alien wastelands, underground caves, and mechanical castles, Aarbron fought to regain his humanity with brutal punches and ducking sweeps.",
+    "reception": "Releasing for the Commodore Amiga in late 1989, *Shadow of the Beast* blew the 16-bit gaming world away. The game utilized custom copper coprocessor coding to display up to **13 layers of multi-directional parallax scrolling** and 128 colours on screen simultaneously at a locked 50 frames per second, complemented by David Whittaker's haunting, pan-flute synthesized soundtrack.",
+    "impact": "*Shadow of the Beast* became the definitive graphical benchmark and system-seller for the Commodore Amiga across Europe, proving that 16-bit home computers could vastly surpass contemporary home consoles in sheer visual opulence. Reflections Interactive used their technical prowess to eventually create the multi-million-selling *Driver* franchise.",
+    "wiki": "Shadow of the Beast (1989 video game)",
+    "youtube": "Shadow of the Beast Amiga 1989 original gameplay",
+    "source": "https://en.wikipedia.org/wiki/Shadow_of_the_Beast_(1989_video_game)"
+  }
+};
+window.ALL_DATA['1990-01'] = {
+  "month": "1990-01",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-01-03-manuel-noriega-surrenders",
+      "date": "1990-01-03",
+      "topic": "politics",
+      "text": "3 January saw deposed Panamanian military dictator **Manuel Noriega** finally surrender to US military authorities in Panama City after spending ten days holed up inside the Apostolic Nunciature (Vatican embassy). Surrounded by Delta Force operatives and tormented by blaring psychological warfare rock music from external loudspeakers, Noriega emerged in full military uniform and was immediately flown to Miami under federal drug trafficking indictments.",
+      "wiki": "Manuel Noriega",
+      "youtube": "Manuel Noriega surrender January 1990 ABC news",
+      "source": "https://en.wikipedia.org/wiki/Manuel_Noriega",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-01-21-royal-rumble-1990-hogan-warrior",
+      "date": "1990-01-21",
+      "topic": "wrestling",
+      "text": "21 January saw the WWF stage the third annual **Royal Rumble** at the Orlando Arena in Florida. While WWF Champion **Hulk Hogan** won the 30-man match by last eliminating Mr. Perfect, the contest was immortalized by a heart-stopping mid-match face-off between Hogan and Intercontinental Champion **The Ultimate Warrior**. Standing alone in the ring as 16,000 fans erupted into thunderous roars, the two titans criss-crossed the ropes into a collision that set up WrestleMania VI.",
+      "wiki": "Royal Rumble (1990)",
+      "youtube": "Hulk Hogan vs Ultimate Warrior face off Royal Rumble 1990",
+      "source": "https://en.wikipedia.org/wiki/Royal_Rumble_(1990)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-01-25-burns-day-storm",
+      "date": "1990-01-25",
+      "topic": "science",
+      "text": "25 January saw the violent **Burns' Day Storm** batter southern England, Wales, and north-western Europe with hurricane-force wind gusts exceeding 100 mph. Unlike the 1987 Great Storm which struck overnight, the 1990 tempest struck in the middle of a working Thursday afternoon, blowing over lorries, tearing down power lines, uprooting millions of trees, and tragically resulting in **47 deaths** across the United Kingdom.",
+      "wiki": "Burns' Day storm",
+      "youtube": "Burns Day Storm January 1990 BBC news",
+      "source": "https://en.wikipedia.org/wiki/Burns%27_Day_storm",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-01-27-sinead-oconnor-nothing-compares-2-u",
+      "date": "1990-01-27",
+      "topic": "music",
+      "text": "27 January saw Irish singer-songwriter **Sinéad O'Connor** ascend to number one on the UK Singles Chart with her heartbreaking interpretation of Prince's ***Nothing Compares 2 U***. Accompanied by John Maybury's iconic, tear-stained close-up music video filmed in Paris, the raw ballad dominated the UK summit for four consecutive weeks, transforming O'Connor into an international superstar.",
+      "wiki": "Nothing Compares 2 U",
+      "youtube": "Sinead OConnor Nothing Compares 2 U official video 1990",
+      "source": "https://www.officialcharts.com/songs/sinead-oconnor-nothing-compares-2-u/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-01-11-lithuania-independence-rally",
+      "date": "1990-01-11",
+      "topic": "politics",
+      "text": "11 January saw over **250,000 citizens** rally in the central square of Vilnius, Lithuania, demanding full national independence from the Soviet Union. Confronted in person by visiting Soviet leader Mikhail Gorbachev, who desperately pleaded for political unity, the crowd waved pre-Soviet national flags and chanted for sovereign freedom, setting in motion the formal secession that shattered the USSR.",
+      "wiki": "Singing Revolution",
+      "youtube": "Gorbachev in Lithuania January 1990 news",
+      "source": "https://en.wikipedia.org/wiki/Singing_Revolution",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (27 January 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Nothing Compares 2 U",
+          "by": "Sinéad O'Connor"
+        },
+        {
+          "pos": 2,
+          "title": "Hangin' Tough",
+          "by": "New Kids on the Block"
+        },
+        {
+          "pos": 3,
+          "title": "Tears on My Pillow",
+          "by": "Kylie Minogue"
+        },
+        {
+          "pos": 4,
+          "title": "Going Doally",
+          "by": "Reeves and Mortimer"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (January 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Batman: The Movie",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Chase H.Q.",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "The Untouchables",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Golden Axe (Mega Drive)",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "platforms": [
+      "Sega Mega Drive / Genesis"
+    ],
+    "genre": "Hack and Slash / Beat 'em Up",
+    "director": "Makoto Uchida",
+    "reviewScore": "91%",
+    "reviewQuote": "An unbelievable home arcade conversion. The Mega Drive has brought real coin-op fantasy into our living rooms.",
+    "reviewSource": "Mean Machines (Issue 1)",
+    "headline": "Barbaric Blades, Magic Potions, and 16-Bit Living Room Glory",
+    "gameplay": "Adapted directly from Sega's arcade hit by a dedicated internal console team, *Golden Axe* on the Mega Drive proved that Sega's 16-bit hardware could deliver uncompromising arcade experiences at home. Choosing between Ax Battler, Tyris Flare, and Gilius Thunderhead, players battled Death Adder's brutal army across the Turtle Village and the Eagle Island. Crucially, the home console version expanded upon the arcade coin-op by adding an **exclusive Duel Mode** and an entire extra final castle stage confronting Death Adder himself.",
+    "reception": "Hitting UK and European import shops in January 1990, *Golden Axe* was praised as a technological triumph. Critics marvelled that the Mega Drive's 68000 processor faithfully reproduced the massive character sprites, ground-shaking magic animations, and digitized death groans with almost zero slowdown. *Computer & Video Games* awarded it 91%, cementing it as an essential early purchase.",
+    "impact": "*Golden Axe* was a cornerstone software pillar in establishing the Sega Mega Drive / Genesis as a hip, mature alternative to the 8-bit Nintendo Entertainment System, demonstrating the immense gulf in power between 8-bit and 16-bit gaming eras.",
+    "wiki": "Golden Axe (video game)",
+    "youtube": "Golden Axe Sega Genesis Mega Drive 1990 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Golden_Axe_(video_game)"
+  }
+};
+window.ALL_DATA['1990-02'] = {
+  "month": "1990-02",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-02-11-nelson-mandela-released",
+      "date": "1990-02-11",
+      "topic": "politics",
+      "text": "11 February saw anti-apartheid leader **Nelson Mandela** walk out of Victor Verster Prison near Paarl, South Africa, a free man after **27 years of imprisonment**. Hand-in-hand with his wife Winnie, the 71-year-old African National Congress icon raised a clenched fist to roaring crowds and a global television audience of millions, declaring that his release was only the beginning of the struggle to completely dismantle apartheid and establish universal democratic franchise.",
+      "wiki": "Nelson Mandela",
+      "youtube": "Nelson Mandela walks free from prison February 1990 BBC",
+      "source": "https://en.wikipedia.org/wiki/Nelson_Mandela",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-02-11-buster-douglas-knocks-out-mike-tyson",
+      "date": "1990-02-11",
+      "topic": "sport",
+      "text": "11 February saw 42-to-1 underdog **Buster Douglas** pull off the greatest upset in boxing history by knocking out undisputed, undefeated heavyweight champion **Mike Tyson** in the 10th round at the Tokyo Dome in Japan. Despite being dropped in the eighth round, Douglas out-jabbed \"Iron Mike\" and unleashed a devastating four-punch combination in the tenth, sending Tyson scrambling across the canvas for his mouthpiece to claim the undisputed world championship.",
+      "wiki": "Mike Tyson vs. Buster Douglas",
+      "youtube": "Mike Tyson vs Buster Douglas 10th round knockout 1990",
+      "source": "https://en.wikipedia.org/wiki/Mike_Tyson_vs._Buster_Douglas",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-02-14-pale-blue-dot-voyager-1",
+      "date": "1990-02-14",
+      "topic": "science",
+      "text": "14 February saw NASA's deep-space probe **Voyager 1**, operating 3.7 billion miles from the sun, turn its camera back toward the inner solar system to capture the historic **\"Pale Blue Dot\"** photograph. Taken at the urgent request of astronomer Carl Sagan, the image revealed planet Earth as a fragile, lonely speck of light less than a single pixel in size, suspended in the vast cosmic dark and inspiring Sagan's celebrated meditation on human humility.",
+      "wiki": "Pale Blue Dot",
+      "youtube": "Carl Sagan Pale Blue Dot original speech",
+      "source": "https://en.wikipedia.org/wiki/Pale_Blue_Dot",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-02-25-wrestlewar-1990-horsemen-turn-on-sting",
+      "date": "1990-02-25",
+      "topic": "wrestling",
+      "text": "25 February saw NWA *WrestleWar 1990* in Greensboro, North Carolina, ignite a furious feud when **The Four Horsemen** brutally betrayed rising star **Sting**. After Sting earned the number-one contendership to Ric Flair's NWA World Heavyweight Championship and refused to step aside, Flair, Arn Anderson, and Ole Anderson jumped Sting in a savage backstage ambush, kicking him out of the faction and triggering months of heated championship warfare.",
+      "wiki": "WrestleWar (1990)",
+      "youtube": "Four Horsemen kick Sting out WrestleWar 1990",
+      "source": "https://en.wikipedia.org/wiki/WrestleWar_(1990)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-02-24-beats-international-dub-be-good-to-me",
+      "date": "1990-02-24",
+      "topic": "music",
+      "text": "24 February saw Norman Cook's electronic collective **Beats International** climb to number one on the UK Singles Chart with ***Dub Be Good to Me***. Featuring lead vocals from Lindy Layton and borrowing the iconic bassline from The Clash's *The Guns of Brixton*, the breezy dub-reggae crossover held the top spot for four consecutive weeks and served as the international launchpad for Cook's subsequent mega-career as Fatboy Slim.",
+      "wiki": "Dub Be Good to Me",
+      "youtube": "Beats International Dub Be Good To Me Top of the Pops 1990",
+      "source": "https://www.officialcharts.com/songs/beats-international-dub-be-good-to-me/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (24 February 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Dub Be Good to Me",
+          "by": "Beats International"
+        },
+        {
+          "pos": 2,
+          "title": "Nothing Compares 2 U",
+          "by": "Sinéad O'Connor"
+        },
+        {
+          "pos": 3,
+          "title": "Get Up! (Before the Night Is Over)",
+          "by": "Technotronic"
+        },
+        {
+          "pos": 4,
+          "title": "Enjoy the Silence",
+          "by": "Depeche Mode"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (February 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Chase H.Q.",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Batman: The Movie",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "Ghouls 'n Ghosts",
+          "by": "US Gold"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Dragon Quest IV: Chapters of the Chosen",
+    "developer": "Chunsoft",
+    "publisher": "Enix",
+    "platforms": [
+      "Nintendo Famicom / NES"
+    ],
+    "genre": "Role-Playing Game (JRPG)",
+    "director": "Yuji Horii",
+    "reviewScore": "37/40",
+    "reviewQuote": "An episodic narrative marvel. Splitting the epic across distinct character chapters was a stroke of storytelling genius.",
+    "reviewSource": "Famitsu",
+    "headline": "Five Chapters, Autonomous AI, and Horii's Narrative Peak",
+    "gameplay": "Penned by writer Yuji Horii with character art by Akira Toriyama, *Dragon Quest IV* broke radical ground for 8-bit console RPGs by adopting an **episodic, multi-chapter narrative structure**. Instead of controlling a single band of heroes from start to finish, the first four chapters followed separate characters with unique playstyles—Ragnar McRyan the soldier, Princess Alena the martial artist, Torneko Taloon the merchant running his own shop, and Meena and Maya seeking vengeance—before Chapter Five united all companions under the Hero to battle Psaro the Manslayer.",
+    "reception": "Launching in Japan on 11 February 1990, *Dragon Quest IV* was greeted with massive, orderly weekend queues outside retail outlets. Critics showered praise on its innovative **Tactics AI system**, where party members acted autonomously based on behavioral doctrines assigned by the player. It sold over three million copies in Japan alone within months.",
+    "impact": "*Dragon Quest IV* revolutionized video game storytelling by proving that console games could handle intricate ensemble character arcs, multiple perspectives, and tactical automated combat routines. It remains celebrated as one of the finest role-playing accomplishments of the 8-bit era.",
+    "wiki": "Dragon Quest IV",
+    "youtube": "Dragon Quest 4 Famicom 1990 intro gameplay",
+    "source": "https://en.wikipedia.org/wiki/Dragon_Quest_IV"
+  }
+};
+window.ALL_DATA['1990-03'] = {
+  "month": "1990-03",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-03-31-poll-tax-riot-london",
+      "date": "1990-03-31",
+      "topic": "politics",
+      "text": "31 March saw central London plunge into chaotic civil unrest during the **Trafalgar Square Poll Tax riot**. Over 200,000 demonstrators gathered in the capital to protest Margaret Thatcher's deeply unpopular Community Charge. When police blocked the entrance to Whitehall, violent street battles erupted throughout Trafalgar Square and the West End, leaving buildings looted, cars set ablaze, 541 police officers and civilians injured, and 339 arrested, fatally mortally wounding Thatcher's premiership.",
+      "wiki": "Poll tax riots",
+      "youtube": "Poll Tax riot Trafalgar Square 31 March 1990 ITN news",
+      "source": "https://en.wikipedia.org/wiki/Poll_tax_riots",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-03-11-lithuania-declares-independence",
+      "date": "1990-03-11",
+      "topic": "politics",
+      "text": "11 March saw the Supreme Council of Lithuania vote overwhelmingly (124–0) to approve the **Act of the Re-Establishment of the State of Lithuania**, declaring the nation free and independent from the Soviet Union. As the very first Soviet republic to unilaterally break away from Moscow, Lithuania triggered an immediate economic embargo and military standoff with Mikhail Gorbachev's government, accelerating the unravelling of the Soviet empire.",
+      "wiki": "Act of the Re-Establishment of the State of Lithuania",
+      "youtube": "Lithuania declares independence March 1990 news",
+      "source": "https://en.wikipedia.org/wiki/Act_of_the_Re-Establishment_of_the_State_of_Lithuania",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-03-21-namibia-independence",
+      "date": "1990-03-21",
+      "topic": "politics",
+      "text": "21 March saw **Namibia** celebrate official national independence at midnight in Windhoek, ending 75 years of South African occupation and apartheid administration. In an emotional stadium ceremony attended by UN Secretary-General Javier Pérez de Cuéllar and Nelson Mandela, the South African flag was lowered and SWAPO leader **Sam Nujoma** was sworn in as the fledgling republic's first democratic President.",
+      "wiki": "Namibia",
+      "youtube": "Namibia independence celebration March 1990 news",
+      "source": "https://en.wikipedia.org/wiki/Namibia",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-03-23-pretty-woman-premiere",
+      "date": "1990-03-23",
+      "topic": "film",
+      "text": "23 March saw Garry Marshall release the romantic comedy ***Pretty Woman*** in cinemas, starring Richard Gere as ruthless corporate raider Edward Lewis and **Julia Roberts** in an electrifying, star-making turn as Hollywood Boulevard escort Vivian Ward. Filled with iconic Rodeo Drive shopping montages and Roy Orbison songs, the Cinderella-inspired romance grossed over $463 million, making Roberts the undisputed box-office queen of the 1990s.",
+      "wiki": "Pretty Woman",
+      "youtube": "Pretty Woman original theatrical trailer 1990",
+      "source": "https://en.wikipedia.org/wiki/Pretty_Woman",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-03-31-snap-the-power-number-one",
+      "date": "1990-03-31",
+      "topic": "music",
+      "text": "31 March saw Frankfurt dance project **Snap!** blast to number one on the UK Singles Chart with their explosive Eurodance anthem ***The Power***. Driven by rapper Turbo B's booming intro (**\"I've got the power!\"**) and Penny Ford's soaring vocal hooks over a thunderous hip-hop breakbeat, the track spent two weeks at the summit, inaugurating the dominant Eurodance sound of the early 1990s.",
+      "wiki": "The Power (Snap! song)",
+      "youtube": "Snap The Power Top of the Pops 1990",
+      "source": "https://www.officialcharts.com/songs/snap-the-power/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (31 March 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Power",
+          "by": "Snap!"
+        },
+        {
+          "pos": 2,
+          "title": "Love Shack",
+          "by": "The B-52's"
+        },
+        {
+          "pos": 3,
+          "title": "Dub Be Good to Me",
+          "by": "Beats International"
+        },
+        {
+          "pos": 4,
+          "title": "Blue Savannah",
+          "by": "Erasure"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (March 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Chase H.Q.",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Batman: The Movie",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Rainbow Islands",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "Puzznic",
+          "by": "Ocean Software"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Turrican",
+    "developer": "Rainbow Arts",
+    "publisher": "Rainbow Arts",
+    "platforms": [
+      "Commodore 64",
+      "Amiga",
+      "Atari ST"
+    ],
+    "genre": "Run and Gun / Action Platformer",
+    "director": "Manfred Trenz",
+    "reviewScore": "96% Gold Medal",
+    "reviewQuote": "A technical triumph of astonishing magnitude. Huge sprawling levels, devastating weapons, and Chris Hülsbeck's god-tier soundtrack.",
+    "reviewSource": "Zzap!64 (Issue 62)",
+    "headline": "Sprawling Alien Mazes and Hülsbeck's Chiptune Symphony",
+    "gameplay": "Created by solo German programming genius Manfred Trenz on the Commodore 64, *Turrican* took the multi-directional action shooting of *Metroid* and married it with the blisteringly fast run-and-gun combat of *Contra*. Donning a bio-mechanical combat suit on the lost colony of Alterra, players navigated five massive, non-linear multi-screen worlds packed with secret alcoves, wielding multi-directional laser beams, bouncing smart mines, and morphing into an invulnerable **buzzsaw gyroscope wheel** to lay down carpet bombs.",
+    "reception": "Releasing in March 1990, *Turrican* blew European home computer gamers away. *Zzap!64* awarded it an astonishing 96% \"Gold Medal\", *The Games Machine* gave it 93%, and *Amiga Power* later named its 16-bit conversion one of the greatest shooters in history. Particular reverence was directed at composer **Chris Hülsbeck**, whose epic, prog-rock synth soundtrack pushed the C64 SID chip and Amiga Paula sound chip to their absolute outer limits.",
+    "impact": "*Turrican* established European home computer developers as masters of sprawling, exploratory action shooters. It launched a revered franchise across 16-bit systems, proving that Western microcomputer games could match and even exceed Japanese arcade titles in scale and mechanical depth.",
+    "wiki": "Turrican",
+    "youtube": "Turrican C64 1990 original gameplay Chris Hulsbeck",
+    "source": "https://en.wikipedia.org/wiki/Turrican"
+  }
+};
+window.ALL_DATA['1990-04'] = {
+  "month": "1990-04",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-04-01-wrestlemania-vi-ultimate-challenge",
+      "date": "1990-04-01",
+      "topic": "wrestling",
+      "text": "1 April saw a deafening crowd of 67,678 fans pack the Toronto SkyDome for **WrestleMania VI**, headlined by the historic title-for-title clash: **\"The Ultimate Challenge\"**. Intercontinental Champion **The Ultimate Warrior** defeated WWF World Heavyweight Champion **Hulk Hogan** cleanly after dodging a leg drop and hitting his signature running splash. In an emotional, era-defining post-match moment, Hogan handed the world championship belt to Warrior and raised his hand in respect.",
+      "wiki": "WrestleMania VI",
+      "youtube": "Hulk Hogan vs Ultimate Warrior WrestleMania 6 1990",
+      "source": "https://en.wikipedia.org/wiki/WrestleMania_VI",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-04-24-hubble-space-telescope-launch",
+      "date": "1990-04-24",
+      "topic": "science",
+      "text": "24 April saw NASA successfully deploy the **Hubble Space Telescope** into low Earth orbit aboard Space Shuttle *Discovery* (mission STS-31) from Kennedy Space Center, Florida. Designed to observe the cosmos free from the distorting effects of the Earth's atmosphere, the $1.5 billion observatory soon revealed a devastating spherical aberration in its primary mirror, sparking public controversy that was triumphantly resolved three years later by a daring space shuttle repair mission.",
+      "wiki": "Hubble Space Telescope",
+      "youtube": "Hubble Space Telescope launch STS-31 April 1990",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-04-08-twin-peaks-premiere",
+      "date": "1990-04-08",
+      "topic": "film",
+      "text": "8 April saw ABC broadcast the pilot episode of David Lynch and Mark Frost's surreal mystery series ***Twin Peaks***, captivating television audiences with the iconic query: **\"Who killed Laura Palmer?\"** Starring Kyle MacLachlan as coffee-and-cherry-pie-loving FBI Special Agent Dale Cooper, the atmospheric Pacific Northwest drama combined quirky soap opera melodrama with terrifying supernatural horror and Angelo Badalamenti's haunting synth score, radically transforming modern episodic television.",
+      "wiki": "Twin Peaks",
+      "youtube": "Twin Peaks pilot opening 1990",
+      "source": "https://en.wikipedia.org/wiki/Twin_Peaks",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-04-14-madonna-vogue-number-one",
+      "date": "1990-04-14",
+      "topic": "music",
+      "text": "14 April saw **Madonna** score her seventh UK number one single with the deep-house dance track ***Vogue***. Inspired by the underground Harlem ballroom drag scene, the track's dramatic spoken-word breakdown celebrating golden-age Hollywood legends (Marilyn Monroe, James Dean, Marlon Brando) and David Fincher's sleek, black-and-white music video turned \"voguing\" into a global dance craze, spending four weeks atop the British charts.",
+      "wiki": "Vogue (Madonna song)",
+      "youtube": "Madonna Vogue official music video 1990",
+      "source": "https://www.officialcharts.com/songs/madonna-vogue/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-04-22-earth-day-twentieth-anniversary",
+      "date": "1990-04-22",
+      "topic": "science",
+      "text": "22 April saw over **200 million people across 141 countries** participate in the 20th anniversary of **Earth Day**, marking the moment the environmental movement became a truly global political phenomenon. With mass recycling drives, tree-planting campaigns, and rallies from London to Tokyo, the worldwide mobilization gave tremendous momentum to the 1992 United Nations Earth Summit in Rio de Janeiro.",
+      "wiki": "Earth Day",
+      "youtube": "Earth Day 1990 global news report",
+      "source": "https://en.wikipedia.org/wiki/Earth_Day",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (21 April 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Vogue",
+          "by": "Madonna"
+        },
+        {
+          "pos": 2,
+          "title": "The Power",
+          "by": "Snap!"
+        },
+        {
+          "pos": 3,
+          "title": "Love Shack",
+          "by": "The B-52's"
+        },
+        {
+          "pos": 4,
+          "title": "Kingston Town",
+          "by": "UB40"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (April 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Rainbow Islands",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Chase H.Q.",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Puzznic",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "Batman: The Movie",
+          "by": "Ocean Software"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Final Fantasy III",
+    "developer": "Square",
+    "publisher": "Square",
+    "platforms": [
+      "Nintendo Famicom"
+    ],
+    "genre": "Role-Playing Game (JRPG)",
+    "director": "Hironobu Sakaguchi",
+    "reviewScore": "36/40",
+    "reviewQuote": "A towering high-water mark for the 8-bit Famicom. The job-switching system and summon magic are perfection.",
+    "reviewSource": "Famitsu",
+    "headline": "Job Classes, Summoned Monsters, and the 8-Bit Crystal Peak",
+    "gameplay": "Directed by Hironobu Sakaguchi with battle programming by Nasir Gebelli and an iconic soundtrack by Nobuo Uematsu, *Final Fantasy III* took the 8-bit Famicom to its absolute technical limits. Following four orphan youths blessed by the Wind Crystal, the game introduced the revolutionary **Job System**, allowing players to freely reassign character classes mid-game across 22 vocations (including White Mage, Dragoon, Ninja, and Sage). It was also the very first entry to introduce **Summon Magic**, allowing casters to call Bahamut, Shiva, and Ifrit directly into battle.",
+    "reception": "Releasing in Japan on 27 April 1990, *Final Fantasy III* was hailed as a tour de force, pushing past the limitations of the aging Famicom hardware with sprawling multi-tier airships (the *Invincible*) and breathtaking visual detail. It sold 1.4 million cartridges in Japan, solidifying Square as Enix's fiercest rival in the golden age of JRPGs.",
+    "impact": "*Final Fantasy III* established the flexible job-changing mechanics and summon beast lore that became permanent hallmarks of the franchise, directly paving the way for the masterpiece *Final Fantasy V* and the global explosion of the series on 16-bit and 32-bit platforms.",
+    "wiki": "Final Fantasy III",
+    "youtube": "Final Fantasy 3 Famicom 1990 commercial and intro",
+    "source": "https://en.wikipedia.org/wiki/Final_Fantasy_III"
+  }
+};
+window.ALL_DATA['1990-05'] = {
+  "month": "1990-05",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-05-22-yemeni-unification",
+      "date": "1990-05-22",
+      "topic": "politics",
+      "text": "22 May saw North Yemen (the Yemen Arab Republic) and South Yemen (the Marxist People's Democratic Republic of Yemen) officially unite to establish the unified **Republic of Yemen**. Following decades of Cold War border skirmishes and ideological proxy warfare, the historic reunification was celebrated in Aden, with northern leader **Ali Abdullah Saleh** assuming office as the new republic's President.",
+      "wiki": "Yemeni unification",
+      "youtube": "Yemen unification ceremony May 1990 news",
+      "source": "https://en.wikipedia.org/wiki/Yemeni_unification",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-05-29-boris-yeltsin-elected-russian-parliament",
+      "date": "1990-05-29",
+      "topic": "politics",
+      "text": "29 May saw populist political maverick **Boris Yeltsin** elected Chairman of the Supreme Soviet of the Russian SFSR on the third round of balloting in Moscow, despite fierce personal opposition from Soviet President Mikhail Gorbachev. Yeltsin's dramatic triumph made him the de facto leader of the Russian republic, immediately setting up a titanic constitutional rivalry between Russian national sovereignty and the central Soviet apparatus.",
+      "wiki": "Boris Yeltsin",
+      "youtube": "Boris Yeltsin elected Russian leader May 1990 BBC news",
+      "source": "https://en.wikipedia.org/wiki/Boris_Yeltsin",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-05-25-back-to-the-future-part-iii-premiere",
+      "date": "1990-05-25",
+      "topic": "film",
+      "text": "25 May saw Robert Zemeckis release ***Back to the Future Part III*** in cinemas, wrapping up the beloved time-travel trilogy in the Old West of 1885. Starring **Michael J. Fox** as Marty McFly (adopting the moniker \"Clint Eastwood\") and Christopher Lloyd as Doc Brown falling head-over-heels in love with frontier schoolteacher Clara Clayton (Mary Steenburgen), the train-powered Western romp grossed $244 million and delivered a heartwarming, critically acclaimed farewell to the DeLorean.",
+      "wiki": "Back to the Future Part III",
+      "youtube": "Back to the Future Part 3 theatrical trailer 1990",
+      "source": "https://en.wikipedia.org/wiki/Back_to_the_Future_Part_III",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-05-12-adamski-seal-killer-number-one",
+      "date": "1990-05-12",
+      "topic": "music",
+      "text": "12 May saw acid-house producer **Adamski** and young London vocalist **Seal** reach number one on the UK Singles Chart with the revolutionary rave anthem ***Killer***. Powered by a driving, pulsing Roland bassline and Seal's soaring, soulful vocal performance, the breakthrough track held the UK summit for four consecutive weeks, bridging underground warehouse rave culture with mainstream British pop.",
+      "wiki": "Killer (Adamski song)",
+      "youtube": "Adamski Seal Killer Top of the Pops 1990",
+      "source": "https://www.officialcharts.com/songs/adamski-killer/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-05-19-capital-combat-robocop-wrestling",
+      "date": "1990-05-19",
+      "topic": "wrestling",
+      "text": "19 May saw the NWA stage one of the most surreal promotional spectacles in wrestling history at *Capital Combat: Return of RoboCop* in Washington D.C. In an elaborate promotional tie-in for the upcoming film *RoboCop 2*, **Sting** was trapped in a steel cage by The Four Horsemen before an actor in an authentic **RoboCop suit** stomped down the aisle, bent the steel bars open with his bare hands, and chased off the bewildered heels to the delight of the crowd.",
+      "wiki": "Capital Combat",
+      "youtube": "RoboCop saves Sting Capital Combat 1990",
+      "source": "https://en.wikipedia.org/wiki/Capital_Combat",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (19 May 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Killer",
+          "by": "Adamski & Seal"
+        },
+        {
+          "pos": 2,
+          "title": "Vogue",
+          "by": "Madonna"
+        },
+        {
+          "pos": 3,
+          "title": "Dirty Cash (Money Talks)",
+          "by": "The Adventures of Stevie V"
+        },
+        {
+          "pos": 4,
+          "title": "Better the Devil You Know",
+          "by": "Kylie Minogue"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (May 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Rainbow Islands",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Puzznic",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Pipe Mania",
+          "by": "Empire"
+        },
+        {
+          "pos": 4,
+          "title": "Bloodwych",
+          "by": "Mirrorsoft"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Kick Off 2",
+    "developer": "Anco Software",
+    "publisher": "Anco Software",
+    "platforms": [
+      "Commodore Amiga",
+      "Atari ST"
+    ],
+    "genre": "Top-Down Football / Sports",
+    "director": "Dino Dini",
+    "reviewScore": "96%",
+    "reviewQuote": "The greatest football game ever conceived. Fast, surgical, and utterly uncompromising in its technical brilliance.",
+    "reviewSource": "Amiga Format (Issue 12)",
+    "headline": "Aftertouch Curves, Overhead View, and Dino Dini's Football Masterpiece",
+    "gameplay": "Created by Bristol-based coding virtuoso Dino Dini for Anco Software on the Commodore Amiga and Atari ST, *Kick Off 2* perfected the overhead simulation of association football. Unlike arcade games where the ball glued magically to a striker's boots, Dini's physics engine treated the ball as a completely independent, rolling projectile: players had to tap the joystick precisely to dribble, calculate defensive sliding tackles, bend shots around goalkeepers using **aftertouch swerve**, and master set-piece routines.",
+    "reception": "Arriving on 16-bit computers in May 1990 just in time for the Italia '90 World Cup, *Kick Off 2* received ecstatic, worshipful reviews. *Amiga Format* awarded it a dazzling 96%, *The One* gave it 94%, and *CU Amiga* stamped it with 95%. Critics universally proclaimed it the undisputed king of computer football, citing its ferocious tempo and infinite skill ceiling.",
+    "impact": "*Kick Off 2* sparked intense international competitive leagues and tournaments across Europe and established the high-speed overhead football template that defined 1990s computer gaming, directly inspiring Jon Hare's legendary response with *Sensible Soccer* two years later.",
+    "wiki": "Kick Off 2",
+    "youtube": "Kick Off 2 Amiga 1990 gameplay Dino Dini",
+    "source": "https://en.wikipedia.org/wiki/Kick_Off_2"
+  }
+};
+window.ALL_DATA['1990-06'] = {
+  "month": "1990-06",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-06-08-italia-90-world-cup-kicks-off",
+      "date": "1990-06-08",
+      "topic": "sport",
+      "text": "8 June saw the **1990 FIFA World Cup (Italia '90)** kick off at the San Siro in Milan with one of the greatest shocks in football history: unfancied **Cameroon**, led by 38-year-old supersub Roger Milla, stunned defending champions Argentina 1–0 despite finishing the match with nine men. The tournament captured global imaginations with Luciano Pavarotti singing *Nessun dorma*, defensive masterclasses, and an intoxicating Italian summer atmosphere.",
+      "wiki": "1990 FIFA World Cup",
+      "youtube": "Cameroon vs Argentina World Cup 1990 opening match",
+      "source": "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-06-01-total-recall-premiere",
+      "date": "1990-06-01",
+      "topic": "film",
+      "text": "1 June saw Paul Verhoeven's sci-fi action thriller ***Total Recall***, loosely adapted from Philip K. Dick's story *We Can Remember It for You Wholesale*, explode into cinemas. Starring **Arnold Schwarzenegger** as construction worker Douglas Quaid discovering his memory has been artificially wiped and Sharon Stone as his lethal double-agent wife, the $65 million spectacle delivered jaw-dropping practical mutant effects, Martian shootouts, and mind-bending reality twists, grossing over $261 million.",
+      "wiki": "Total Recall (1990 film)",
+      "youtube": "Total Recall 1990 theatrical trailer Arnold Schwarzenegger",
+      "source": "https://en.wikipedia.org/wiki/Total_Recall_(1990_film)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-06-09-new-order-world-in-motion-number-one",
+      "date": "1990-06-09",
+      "topic": "music",
+      "text": "9 June saw synth-pop pioneers **New Order** secure their first and only UK number one single with the official England World Cup anthem ***World in Motion***. Co-written with comedian Keith Allen and featuring an unforgettable mid-song rap delivered with swagger by England winger **John Barnes** (**\"You've got to hold and give, but do it at the right time\"**), the track dethroned traditional terrace novelty anthems and soundtracked England's heroic run to the semi-finals.",
+      "wiki": "World in Motion",
+      "youtube": "New Order World in Motion official video John Barnes rap 1990",
+      "source": "https://www.officialcharts.com/songs/new-order-world-in-motion/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-06-01-chemical-weapons-accord-bush-gorbachev",
+      "date": "1990-06-01",
+      "topic": "politics",
+      "text": "1 June saw US President George H. W. Bush and Soviet leader Mikhail Gorbachev sign the historic **Chemical Weapons Accord** during a high-stakes summit in Washington D.C. The bilateral treaty committed both superpowers to halt all production of chemical weapons immediately and systematically destroy at least 80% of their existing chemical munitions stockpiles, marking a monumental step toward dismantling Cold War arsenals.",
+      "wiki": "Chemical Weapons Convention",
+      "youtube": "Bush Gorbachev chemical weapons treaty Washington 1990",
+      "source": "https://en.wikipedia.org/wiki/Chemical_Weapons_Convention",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-06-23-elton-john-sacrifices-healing-hands",
+      "date": "1990-06-23",
+      "topic": "music",
+      "text": "23 June saw **Elton John** reach number one on the UK Singles Chart with his double A-side release ***Sacrifice / Healing Hands***. Championed by BBC Radio 1 DJ Steve Wright, the poignant ballad stayed atop the British charts for five consecutive weeks, giving the music legend his very first solo UK number-one single after more than two decades of international chart-topping success.",
+      "wiki": "Sacrifice (Elton John song)",
+      "youtube": "Elton John Sacrifice official music video 1990",
+      "source": "https://www.officialcharts.com/songs/elton-john-healing-hands-sacrifice/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (16 June 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "World in Motion",
+          "by": "New Order"
+        },
+        {
+          "pos": 2,
+          "title": "It Must Have Been Love",
+          "by": "Roxette"
+        },
+        {
+          "pos": 3,
+          "title": "Killer",
+          "by": "Adamski & Seal"
+        },
+        {
+          "pos": 4,
+          "title": "Ooops Up",
+          "by": "Snap!"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (June 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Kick Off 2",
+          "by": "Anco Software"
+        },
+        {
+          "pos": 2,
+          "title": "Italy 1990",
+          "by": "US Gold"
+        },
+        {
+          "pos": 3,
+          "title": "Rainbow Islands",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "World Cup Soccer: Italia '90",
+          "by": "Virgin Mastertronic"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Super Mario Bros. 3 (Western Release)",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Nintendo Entertainment System (NES)"
+    ],
+    "genre": "Platformer",
+    "director": "Shigeru Miyamoto / Takashi Tezuka",
+    "reviewScore": "98%",
+    "reviewQuote": "The greatest 8-bit platformer ever built. Overflowing with secrets, Raccoon suits, and pure unadulterated joy.",
+    "reviewSource": "Mean Machines (Issue 1)",
+    "headline": "Batmania for Mario: The Golden Age of NES Platforming",
+    "gameplay": "Promoted relentlessly across the West through the Hollywood movie *The Wizard* (where Fred Savage's character famously unveiled it in a tournament), *Super Mario Bros. 3* arrived on Western NES consoles in mid-1990. Directed by Shigeru Miyamoto and Takashi Tezuka, the game introduced the world to **Raccoon Mario** (taking flight with a swishing tail), Frog Suits, Tanooki Suits, and eight massive themed worlds (including the surreal Giant Land) navigated via an interactive overhead map.",
+    "reception": "Releasing across North America and Europe throughout mid-1990, *Super Mario Bros. 3* sparked absolute retail hysteria. Department stores sold out instantly, with delivery trucks under armed watch. *Mean Machines* awarded it an astonishing 98%, calling it the finest platformer ever constructed on any system, praising its responsive inertia, immaculate secrets, and Koji Kondo's timeless musical score.",
+    "impact": "Selling over **17 million copies**, *Super Mario Bros. 3* generated over $500 million in revenue, surpassing the box office hauls of contemporary Hollywood blockbusters and cementing Mario as the undisputed king of popular entertainment at the dawn of the 1990s.",
+    "wiki": "Super Mario Bros. 3",
+    "youtube": "Super Mario Bros 3 NES Western commercial 1990",
+    "source": "https://en.wikipedia.org/wiki/Super_Mario_Bros._3"
+  }
+};
+window.ALL_DATA['1990-07'] = {
+  "month": "1990-07",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-07-04-italia-90-semi-final-gazza",
+      "date": "1990-07-04",
+      "topic": "sport",
+      "text": "4 July saw England suffer a heartbreaking defeat to **West Germany** in the semi-finals of the **1990 FIFA World Cup** at the Stadio delle Alpi in Turin. Following a 1–1 draw after extra time with Gary Lineker equalising late on, England were eliminated 4–3 on **penalties** after misses by Stuart Pearce and Chris Waddle. The match was etched into British cultural memory by the sight of 23-year-old midfielder **Paul Gascoigne** shedding tears upon receiving a yellow card that would have ruled him out of the final.",
+      "wiki": "1990 FIFA World Cup knockout stage",
+      "youtube": "England vs West Germany 1990 World Cup semi final penalty shootout",
+      "source": "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_knockout_stage",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-07-07-three-tenors-debut-rome",
+      "date": "1990-07-07",
+      "topic": "music",
+      "text": "7 July saw Italian operatic tenors Luciano Pavarotti and **Plácido Domingo**, alongside Spanish tenor **José Carreras**, perform together for the first time as **The Three Tenors** at the ancient Baths of Caracalla in Rome on the eve of the World Cup Final. Conducted by Zubin Mehta before an audience of 6,000 and broadcast to an estimated 800 million viewers globally, their live recording became the best-selling classical album in music history.",
+      "wiki": "The Three Tenors",
+      "youtube": "The Three Tenors concert Rome 1990 Nessun Dorma",
+      "source": "https://en.wikipedia.org/wiki/The_Three_Tenors",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-07-07-great-american-bash-sting-flair",
+      "date": "1990-07-07",
+      "topic": "wrestling",
+      "text": "7 July saw the National Wrestling Alliance present ***The Great American Bash 1990*** from the Baltimore Arena in Maryland. In the emotional culmination of an eight-month recovery from a severe patellar tendon rupture, fan-favourite **Sting** pinned legendary champion **Ric Flair** with an inside cradle to capture his first **NWA World Heavyweight Championship**, protected at ringside from the Four Horsemen by his Steiner Brothers and Lex Luger allies.",
+      "wiki": "The Great American Bash (1990)",
+      "youtube": "Sting vs Ric Flair Great American Bash 1990 full match",
+      "source": "https://en.wikipedia.org/wiki/The_Great_American_Bash_(1990)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-07-08-west-germany-wins-world-cup",
+      "date": "1990-07-08",
+      "topic": "sport",
+      "text": "8 July saw **West Germany** crowned world champions after defeating Argentina 1–0 in the final of the **1990 FIFA World Cup** at Rome's Stadio Olimpico. In a stormy encounter that saw Argentina's Gustavo Dezotti and Pedro Monzón become the first players ever sent off in a World Cup final, German defender **Andreas Brehme** scored the decisive 85th-minute **penalty kick** to give manager Franz Beckenbauer his historic triumph.",
+      "wiki": "1990 FIFA World Cup final",
+      "youtube": "West Germany vs Argentina 1990 World Cup Final Brehme penalty",
+      "source": "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_final",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-07-21-roger-waters-the-wall-berlin",
+      "date": "1990-07-21",
+      "topic": "music",
+      "text": "21 July saw former Pink Floyd bassist **Roger Waters** stage a monumental performance of ***The Wall – Live in Berlin*** on Potsdamer Platz, the former no-man's-land between East and West Berlin. Staged before an enormous crowd of over **350,000 spectators** to commemorate the fall of the Berlin Wall, the charity spectacle featured guest artists including Scorpions, Cyndi Lauper, and Bryan Adams playing in front of an actual 170-metre-wide brick wall that was dramatically toppled.",
+      "wiki": "The Wall – Live in Berlin",
+      "youtube": "Roger Waters The Wall Live in Berlin 1990 full concert",
+      "source": "https://en.wikipedia.org/wiki/The_Wall_%E2%80%93_Live_in_Berlin",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-07-27-belarus-sovereignty-declaration",
+      "date": "1990-07-27",
+      "topic": "politics",
+      "text": "27 July saw the Supreme Soviet of the **Byelorussian SSR** formally adopt the **Declaration of State Sovereignty**, declaring the supremacy of Belarusian laws over Soviet central legislation. Marking a vital step in the accelerating dissolution of the USSR, the parliament declared the republic's intention to establish a democratic state, independent foreign policy, and **non-nuclear territory**.",
+      "wiki": "Declaration of State Sovereignty of Belarus",
+      "youtube": "Belarus independence declaration 1990 archive news",
+      "source": "https://en.wikipedia.org/wiki/Declaration_of_State_Sovereignty_of_Belarus",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (28 July 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Sacrifice / Healing Hands",
+          "by": "Elton John"
+        },
+        {
+          "pos": 2,
+          "title": "Turtle Power",
+          "by": "Partners in Kryme"
+        },
+        {
+          "pos": 3,
+          "title": "Nessun Dorma",
+          "by": "Luciano Pavarotti"
+        },
+        {
+          "pos": 4,
+          "title": "World in Motion",
+          "by": "New Order"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (July 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Kick Off 2",
+          "by": "Anco Software"
+        },
+        {
+          "pos": 2,
+          "title": "Italy 1990",
+          "by": "US Gold"
+        },
+        {
+          "pos": 3,
+          "title": "World Cup Soccer: Italia '90",
+          "by": "Virgin Mastertronic"
+        },
+        {
+          "pos": 4,
+          "title": "Rainbow Islands",
+          "by": "Ocean Software"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Metal Gear 2: Solid Snake",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "platforms": [
+      "MSX2"
+    ],
+    "genre": "Stealth / Action-Adventure",
+    "director": "Hideo Kojima",
+    "reviewScore": "95%",
+    "reviewQuote": "A breathtaking espionage masterpiece that takes storytelling and stealth mechanics to heights thought impossible on 8-bit computers.",
+    "reviewSource": "MSX Magazine Japan (July 1990)",
+    "headline": "Espionage, Kneeling Grass, and Kojima's Tactical Masterpiece",
+    "gameplay": "Released for the MSX2 computer in Japan on 20 July 1990, *Metal Gear 2: Solid Snake* dramatically expanded stealth-action gaming. Directed and written by **Hideo Kojima**, the sequel introduced revolutionary mechanics including crawling through ducts and under desks to evade detection, making noise to distract guards, and navigating with a nine-quadrant **radar screen** tracking enemy movement. Unlike the simplistic sight-lines of the 1987 original, enemies in *Metal Gear 2* possessed a 45-degree field of vision and turned their heads while patrolling.",
+    "reception": "Acclaimed upon release across Japan as a technical and narrative tour de force, *Metal Gear 2* pushed the MSX2 hardware to its absolute limits with sophisticated sound-chip utilisation and elaborate anime-style portraits. Critics lauded the game's mature anti-war themes, philosophical dialogues concerning nuclear proliferation, and tense cinematic pacing, establishing Kojima as a visionary designer.",
+    "impact": "While unreleased in the West for over a decade until its inclusion in 2005's *Metal Gear Solid 3: Subsistence*, *Metal Gear 2* served as the direct structural and narrative blueprint for 1998's groundbreaking 3D blockbuster *Metal Gear Solid* on PlayStation.",
+    "wiki": "Metal Gear 2: Solid Snake",
+    "youtube": "Metal Gear 2 Solid Snake MSX2 1990 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Metal_Gear_2:_Solid_Snake"
+  }
+};
+window.ALL_DATA['1990-08'] = {
+  "month": "1990-08",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-08-02-iraqi-invasion-of-kuwait",
+      "date": "1990-08-02",
+      "topic": "politics",
+      "text": "2 August saw over **100,000 Iraqi troops** and 700 tanks ordered by Saddam Hussein invade and annex neighbouring **Kuwait** in a swift dawn assault. The Kuwaiti royal family fled to Saudi Arabia as Iraqi forces seized oil refineries and government buildings, prompting immediate worldwide outrage, United Nations condemnation, and an emergency freeze on **Iraqi foreign assets**.",
+      "wiki": "Invasion of Kuwait",
+      "youtube": "Iraq invades Kuwait August 1990 BBC news report",
+      "source": "https://en.wikipedia.org/wiki/Invasion_of_Kuwait",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-08-06-un-resolution-661-sanctions",
+      "date": "1990-08-06",
+      "topic": "politics",
+      "text": "6 August saw the United Nations Security Council pass **Resolution 661**, imposing comprehensive worldwide economic, financial, and military sanctions against **Iraq**. Voting 13–0 with Cuba and Yemen abstaining, the Council ordered an international embargo on all trade and oil imports from Iraqi-occupied Kuwait, severing Saddam Hussein's regime from the **global economy**.",
+      "wiki": "United Nations Security Council Resolution 661",
+      "youtube": "UN Security Council vote sanctions on Iraq August 1990 news",
+      "source": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_661",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-08-08-operation-desert-shield-begins",
+      "date": "1990-08-08",
+      "topic": "politics",
+      "text": "8 August saw US President George H.W. Bush announce the deployment of American ground, naval, and air forces to Saudi Arabia under **Operation Desert Shield**. Following urgent consultations with British Prime Minister Margaret Thatcher and King Fahd of Saudi Arabia, thousands of allied troops and combat aircraft deployed to the Persian Gulf to protect vital **Saudi oilfields** and deter further **Iraqi aggression**.",
+      "wiki": "Gulf War",
+      "youtube": "George Bush announces Operation Desert Shield August 8 1990",
+      "source": "https://en.wikipedia.org/wiki/Gulf_War",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-08-11-turtle-power-number-one",
+      "date": "1990-08-11",
+      "topic": "music",
+      "text": "11 August saw hip-hop duo Partners in Kryme conquer the top of the UK Singles Chart with ***Turtle Power!***, the infectious soundtrack theme from the smash-hit live-action film ***Teenage Mutant Ninja Turtles***. Despite famously misidentifying Raphael as the team's leader in its lyrics, the fast-paced rap track captivated British youth and held the **number-one spot** for four consecutive weeks.",
+      "wiki": "Turtle Power!",
+      "youtube": "Partners in Kryme Turtle Power official music video 1990",
+      "source": "https://en.wikipedia.org/wiki/Turtle_Power!",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-08-23-armenia-declares-independence",
+      "date": "1990-08-23",
+      "topic": "politics",
+      "text": "23 August saw the Supreme Council of Armenia formally adopt the **Declaration of Independence of Armenia** from the Soviet Union. The historic resolution officially changed the republic's name from the Armenian SSR to the Republic of Armenia, created sovereign armed forces, and initiated the process of national secession as the **Soviet federation** continued to fracture.",
+      "wiki": "Declaration of Independence of Armenia",
+      "youtube": "Armenia declaration of independence August 1990 news",
+      "source": "https://en.wikipedia.org/wiki/Declaration_of_Independence_of_Armenia",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-08-27-summerslam-1990-steel-cage",
+      "date": "1990-08-27",
+      "topic": "wrestling",
+      "text": "27 August saw the World Wrestling Federation stage ***SummerSlam 1990*** before 19,304 spectators at the Spectrum in Philadelphia. WWF Champion **The Ultimate Warrior** retained his title against **\"Ravishing\" Rick Rude** in a brutal blue steel cage match by escaping over the top, while \"The Texas Tornado\" Kerry Von Erich dramatically pinned Mr. Perfect to capture the **Intercontinental Championship**.",
+      "wiki": "SummerSlam (1990)",
+      "youtube": "Ultimate Warrior vs Rick Rude SummerSlam 1990 steel cage match",
+      "source": "https://en.wikipedia.org/wiki/SummerSlam_(1990)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (18 August 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Turtle Power",
+          "by": "Partners in Kryme"
+        },
+        {
+          "pos": 2,
+          "title": "Tom's Diner",
+          "by": "DNA feat. Suzanne Vega"
+        },
+        {
+          "pos": 3,
+          "title": "Tonight",
+          "by": "New Kids on the Block"
+        },
+        {
+          "pos": 4,
+          "title": "Itsy Bitsy Teeny Weeny Yellow Polka Dot Bikini",
+          "by": "Bombalurina"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (August 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Italy 1990",
+          "by": "US Gold"
+        },
+        {
+          "pos": 2,
+          "title": "Kick Off 2",
+          "by": "Anco Software"
+        },
+        {
+          "pos": 3,
+          "title": "Turrican",
+          "by": "Rainbow Arts"
+        },
+        {
+          "pos": 4,
+          "title": "Golden Axe",
+          "by": "Virgin Mastertronic"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Dr. Mario",
+    "developer": "Nintendo R&D1",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Nintendo Entertainment System",
+      "Game Boy"
+    ],
+    "genre": "Action / Puzzle",
+    "director": "Takahiro Harada",
+    "reviewScore": "89%",
+    "reviewQuote": "A fiendishly addictive puzzle game that combines Tetris-style urgency with virus-busting strategy. Once you start matching capsules, you simply cannot put it down.",
+    "reviewSource": "Mean Machines",
+    "headline": "Vitamin Pills, Dancing Germs, and Miyamoto-Free Puzzling Perfection",
+    "gameplay": "Produced by legendary Game Boy creator **Gunpei Yokoi** and directed by Takahiro Harada, *Dr. Mario* debuted on Famicom and Game Boy in late summer 1990. Players helped Mario toss two-coloured medical vitamin capsules into a medicine bottle to destroy red, yellow, and blue viruses. Aligning four or more matching colour segments horizontally or vertically eliminated the viruses, whilst cascading multi-clears delivered crushing junk pieces to opponents in the blisteringly competitive **two-player versus mode**.",
+    "reception": "Reviewers lauded *Dr. Mario* as Nintendo's most polished original puzzle title since *Tetris*. Critics singled out the timeless infectious soundtrack composed by Hirokazu Tanaka—specifically the selectable chiptune tracks 'Fever' and 'Chill'—which became instantly recognisable worldwide gaming anthems.",
+    "impact": "Selling over 10 million copies across its NES and Game Boy incarnations, *Dr. Mario* spawned a multi-decade franchise, appeared across virtually every subsequent Nintendo system, and established Mario's medical persona as an enduring pop-culture staple.",
+    "wiki": "Dr. Mario",
+    "youtube": "Dr Mario NES 1990 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Dr._Mario"
+  }
+};
+window.ALL_DATA['1990-09'] = {
+  "month": "1990-09",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-09-10-fresh-prince-of-bel-air-premiere",
+      "date": "1990-09-10",
+      "topic": "film",
+      "text": "10 September saw NBC broadcast the series premiere of the groundbreaking sitcom ***The Fresh Prince of Bel-Air***. Starring 21-year-old Philadelphia hip-hop star **Will Smith** as a street-smart teenager sent to live with his wealthy relatives in California, the show became an immediate transatlantic hit, celebrated for addressing race, class, and family dynamics with infectious humour and **iconic 1990s fashion**.",
+      "wiki": "The Fresh Prince of Bel-Air",
+      "youtube": "The Fresh Prince of Bel-Air original 1990 theme song and intro",
+      "source": "https://en.wikipedia.org/wiki/The_Fresh_Prince_of_Bel-Air",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-09-12-two-plus-four-agreement-signed",
+      "date": "1990-09-12",
+      "topic": "politics",
+      "text": "12 September saw the foreign ministers of East Germany, West Germany, France, the Soviet Union, the United Kingdom, and the United States sign the historic **Two Plus Four Agreement** in Moscow. Officially titled the *Treaty on the Final Settlement with Respect to Germany*, the accord renounced all four-power occupation rights and paved the legal path for full **German reunification** as a sovereign **democratic nation**.",
+      "wiki": "Treaty on the Final Settlement with Respect to Germany",
+      "youtube": "Two Plus Four Treaty signing Moscow September 12 1990",
+      "source": "https://en.wikipedia.org/wiki/Treaty_on_the_Final_Settlement_with_Respect_to_Germany",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-09-15-the-joker-number-one-levis",
+      "date": "1990-09-15",
+      "topic": "music",
+      "text": "15 September saw American rock group The Steve Miller Band soar to number one on the UK Singles Chart with ***The Joker***, sixteen years after its original 1973 release. Powered by Hugh Johnson's wildly stylish **Levi's 501 jeans television commercial** featuring motorcycle-riding star Peter Carey, the resurrected track spent two weeks atop the **British charts**.",
+      "wiki": "The Joker (song)",
+      "youtube": "Levis 501 The Joker commercial 1990 Steve Miller Band",
+      "source": "https://en.wikipedia.org/wiki/The_Joker_(song)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-09-19-goodfellas-cinema-release",
+      "date": "1990-09-19",
+      "topic": "film",
+      "text": "19 September saw Martin Scorsese's biographical crime drama ***Goodfellas*** open in North American cinemas before its international rollout. Starring Ray Liotta, Robert De Niro, and **Joe Pesci**, the visceral adaptation of Nicholas Pileggi's *Wiseguy* was hailed as an instant cinematic masterpiece for its kinetic camera movements, freeze frames, and unvarnished portrait of **American mafia life**.",
+      "wiki": "Goodfellas",
+      "youtube": "Goodfellas original theatrical trailer 1990 Martin Scorsese",
+      "source": "https://en.wikipedia.org/wiki/Goodfellas",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-09-29-washington-national-cathedral-complete",
+      "date": "1990-09-29",
+      "topic": "science",
+      "text": "29 September saw the final decorative finial placed on the **Washington National Cathedral**, marking the formal completion of the world's sixth-largest cathedral after **83 years of construction**. Initiated in 1907 with a foundation stone laid by President Theodore Roosevelt, the Neo-Gothic landmark was officially dedicated in the presence of President **George H.W. Bush**.",
+      "wiki": "Washington National Cathedral",
+      "youtube": "Washington National Cathedral completion September 1990 dedication",
+      "source": "https://en.wikipedia.org/wiki/Washington_National_Cathedral",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (22 September 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Joker",
+          "by": "The Steve Miller Band"
+        },
+        {
+          "pos": 2,
+          "title": "Groove Is in the Heart",
+          "by": "Deee-Lite"
+        },
+        {
+          "pos": 3,
+          "title": "Four Bacharach & David Songs (EP)",
+          "by": "Deacon Blue"
+        },
+        {
+          "pos": 4,
+          "title": "I've Been Thinking About You",
+          "by": "Londonbeat"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (September 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "RoboCop 2",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Teenage Mutant Hero Turtles",
+          "by": "Mirrorsoft"
+        },
+        {
+          "pos": 3,
+          "title": "Kick Off 2",
+          "by": "Anco Software"
+        },
+        {
+          "pos": 4,
+          "title": "Shadow of the Beast II",
+          "by": "Psygnosis"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Wing Commander",
+    "developer": "Origin Systems",
+    "publisher": "Origin Systems",
+    "platforms": [
+      "MS-DOS",
+      "Amiga"
+    ],
+    "genre": "Space Combat Simulation",
+    "director": "Chris Roberts",
+    "reviewScore": "96%",
+    "reviewQuote": "Wing Commander is a monumental leap forward in PC entertainment. The graphics are simply stunning and the cinematic atmosphere makes you feel like you are genuinely living inside a sci-fi blockbuster.",
+    "reviewSource": "Computer Gaming World",
+    "headline": "Dogfights in the Kilrathi Void, 256 VGA Colours, and Cinematic PC Greatness",
+    "gameplay": "Released on 26 September 1990 for MS-DOS computers, *Wing Commander* revolutionised space combat gaming. Designed and directed by **Chris Roberts**, the game cast players as a rookie starfighter pilot aboard the carrier *TCS Tiger's Claw*, battling the predatory feline Kilrathi empire. Roberts pioneered dynamic bitmap sprite scaling to simulate full 3D space dogfights, paired with interactive shipboard cockpit views, wingman tactical radio commands, and a **branching mission tree** where failure in battle redirected the campaign without ending the game.",
+    "reception": "Demanding state-of-the-art 386 processors, 256-colour VGA displays, and Sound Blaster audio cards, *Wing Commander* astonished contemporary critics. Publications hailed its living, breathing shipboard environment—where pilots gossiped in the officer's bar and attended military funeral ceremonies for fallen wingmen—as the pinnacle of computer gaming immersion.",
+    "impact": "The game sparked a legendary multi-million-selling franchise, accelerated PC hardware upgrades across the world, and established Origin Systems' famous studio motto: 'We Create Worlds'.",
+    "wiki": "Wing Commander (video game)",
+    "youtube": "Wing Commander 1990 PC DOS intro and gameplay",
+    "source": "https://en.wikipedia.org/wiki/Wing_Commander_(video_game)"
+  }
+};
+window.ALL_DATA['1990-10'] = {
+  "month": "1990-10",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-10-03-german-reunification-day",
+      "date": "1990-10-03",
+      "topic": "politics",
+      "text": "3 October saw the official **German reunification** (*Tag der Deutschen Einheit*) take place at midnight, as the German Democratic Republic (East Germany) formally dissolved and integrated into the Federal Republic of Germany. Tens of thousands of jubilant citizens gathered before the **Brandenburg Gate** and the Reichstag in Berlin under displays of fireworks, bringing a formal end to **45 years of Cold War division**.",
+      "wiki": "German reunification",
+      "youtube": "German reunification Brandenburg Gate October 3 1990 midnight celebration",
+      "source": "https://en.wikipedia.org/wiki/German_reunification",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-10-05-ghost-cinema-release-uk",
+      "date": "1990-10-05",
+      "topic": "film",
+      "text": "5 October saw Paramount Pictures' romantic fantasy thriller ***Ghost*** receive its nationwide theatrical release in the United Kingdom. Starring Patrick Swayze, **Demi Moore**, and Whoopi Goldberg, the poignant supernatural drama captivated audiences and critics alike, turning the film's famous pottery-wheel scene set to The Righteous Brothers' *Unchained Melody* into an **iconic pop-culture touchstone**.",
+      "wiki": "Ghost (1990 film)",
+      "youtube": "Ghost 1990 original trailer Patrick Swayze Demi Moore",
+      "source": "https://en.wikipedia.org/wiki/Ghost_(1990_film)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-10-15-mikhail-gorbachev-nobel-peace-prize",
+      "date": "1990-10-15",
+      "topic": "politics",
+      "text": "15 October saw Soviet President **Mikhail Gorbachev** awarded the **Nobel Peace Prize** by the Norwegian Nobel Committee in Oslo. The committee honoured the Soviet leader for his pioneering policies of *glasnost* and *perestroika*, his crucial role in arms reduction negotiations, and his refusal to use military force as communist regimes crumbled peacefully across **Eastern Europe**.",
+      "wiki": "Mikhail Gorbachev",
+      "youtube": "Gorbachev wins Nobel Peace Prize October 1990 news",
+      "source": "https://en.wikipedia.org/wiki/Mikhail_Gorbachev",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-10-27-halloween-havoc-1990-sting-sid",
+      "date": "1990-10-27",
+      "topic": "wrestling",
+      "text": "27 October saw the NWA hold ***Halloween Havoc 1990*** at the UIC Pavilion in Chicago. In a chaotic main event, NWA World Heavyweight Champion **Sting** defended his title against 6-foot-9 monster **Sid Vicious**. When a fake Sting (secretly Barry Windham) swapped places and took a count-out loss, the real Sting emerged to restart the match and pin Vicious with a **sunset flip**.",
+      "wiki": "Halloween Havoc (1990)",
+      "youtube": "Sting vs Sid Vicious Halloween Havoc 1990 match",
+      "source": "https://en.wikipedia.org/wiki/Halloween_Havoc_(1990)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-10-28-show-me-heaven-maria-mckee",
+      "date": "1990-10-28",
+      "topic": "music",
+      "text": "28 October saw American singer Maria McKee spend her fourth consecutive week at number one on the UK Singles Chart with ***Show Me Heaven***. Taken from the soundtrack to Tom Cruise's NASCAR drama ***Days of Thunder***, the soaring orchestral power ballad remained at the summit for four weeks and stood as one of the best-selling **British singles of the autumn**.",
+      "wiki": "Show Me Heaven",
+      "youtube": "Maria McKee Show Me Heaven Days of Thunder video 1990",
+      "source": "https://en.wikipedia.org/wiki/Show_Me_Heaven",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (27 October 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Show Me Heaven",
+          "by": "Maria McKee"
+        },
+        {
+          "pos": 2,
+          "title": "A Little Time",
+          "by": "The Beautiful South"
+        },
+        {
+          "pos": 3,
+          "title": "So Hard",
+          "by": "Pet Shop Boys"
+        },
+        {
+          "pos": 4,
+          "title": "Blue Savannah",
+          "by": "Erasure"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (October 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Teenage Mutant Hero Turtles",
+          "by": "Mirrorsoft"
+        },
+        {
+          "pos": 2,
+          "title": "RoboCop 2",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Lotus Esprit Turbo Challenge",
+          "by": "Gremlin Graphics"
+        },
+        {
+          "pos": 4,
+          "title": "Rick Dangerous 2",
+          "by": "Micro Style"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "The Secret of Monkey Island",
+    "developer": "Lucasfilm Games",
+    "publisher": "Lucasfilm Games",
+    "platforms": [
+      "MS-DOS",
+      "Amiga",
+      "Atari ST"
+    ],
+    "genre": "Point-and-Click Graphic Adventure",
+    "director": "Ron Gilbert",
+    "reviewScore": "96%",
+    "reviewQuote": "Without doubt the funniest, most imaginative, and best-constructed adventure game ever produced. Ron Gilbert and his team have created an outright masterpiece.",
+    "reviewSource": "Amiga Power / The One",
+    "headline": "Rubber Chickens, Insult Sword Fighting, and Guybrush Threepwood's Pirate Quest",
+    "gameplay": "Released in October 1990 by Lucasfilm Games, *The Secret of Monkey Island* redefined graphic adventures. Conceived and directed by **Ron Gilbert** alongside co-writers Tim Schafer and Dave Grossman, players guided enthusiastic wannabe-pirate **Guybrush Threepwood** across Mêlée Island to pass the Three Trials and defeat the ghost pirate LeChuck. Gilbert revolutionised the genre through his SCUMM engine interface, eliminating cruel unwinnable states, dead-ends, and unfair player deaths, whilst replacing arbitrary puzzles with clever inventory logic and the legendary **insult sword fighting** minigame.",
+    "reception": "Critics showered *The Secret of Monkey Island* with near-universal acclaim upon release. Reviewers praised its lush 256-colour VGA pirate backdrops, witty comedic dialogue, and Michael Land's atmospheric Caribbean reggae musical score, hailing it as an artistic triumph that surpassed rival Sierra On-Line adventure titles.",
+    "impact": "Consistently ranked among the greatest video games of all time, *Monkey Island* birthed an iconic multi-game franchise, elevated video game comedy writing to an artform, and established Lucasfilm Games (soon LucasArts) as the undisputed gold standard of adventure gaming.",
+    "wiki": "The Secret of Monkey Island",
+    "youtube": "The Secret of Monkey Island 1990 PC VGA gameplay",
+    "source": "https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island"
+  }
+};
+window.ALL_DATA['1990-11'] = {
+  "month": "1990-11",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-11-03-unchained-melody-number-one",
+      "date": "1990-11-03",
+      "topic": "music",
+      "text": "3 November saw The Righteous Brothers' 1965 recording of ***Unchained Melody*** hit number one on the UK Singles Chart, twenty-five years after its debut. Propelled by the record-breaking box office run of the romantic fantasy film ***Ghost***, the soulful classic enjoyed a stunning four-week residency at the summit, becoming Britain's **best-selling single of 1990**.",
+      "wiki": "Unchained Melody",
+      "youtube": "The Righteous Brothers Unchained Melody official video 1990",
+      "source": "https://en.wikipedia.org/wiki/Unchained_Melody",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-11-20-margaret-thatcher-leadership-ballot",
+      "date": "1990-11-20",
+      "topic": "politics",
+      "text": "20 November saw Prime Minister **Margaret Thatcher** fail to secure an outright first-round majority in the Conservative Party leadership contest against former defence secretary **Michael Heseltine**. Though winning 204 votes to Heseltine's 152, Thatcher fell four votes short of the required 15% winning margin under party rules, prompting intense cabinet consultations over her **political survival**.",
+      "wiki": "1990 Conservative Party leadership election",
+      "youtube": "Margaret Thatcher leadership ballot Paris November 20 1990",
+      "source": "https://en.wikipedia.org/wiki/1990_Conservative_Party_leadership_election",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-11-21-super-famicom-launch-japan",
+      "date": "1990-11-21",
+      "topic": "tech",
+      "text": "21 November saw Nintendo release the 16-bit **Super Famicom** console in Japan, sparking monumental street queues of over 1.5 million eager customers outside electronics shops across Tokyo. Powered by Ricoh's 16-bit processor, custom Sony audio DSP, and revolutionary Mode 7 scaling hardware, the console debuted alongside two seminal launch titles: ***Super Mario World*** and high-speed hovercraft racer ***F-Zero***.",
+      "wiki": "Super Nintendo Entertainment System",
+      "youtube": "Super Famicom launch day queues Tokyo Japan November 1990 news",
+      "source": "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-11-22-margaret-thatcher-resigns-prime-minister",
+      "date": "1990-11-22",
+      "topic": "politics",
+      "text": "22 November saw **Margaret Thatcher** dramatically announce her resignation as Prime Minister of the United Kingdom after over **11 years in Downing Street**. Having lost the confidence of key cabinet colleagues over the unpopular Poll Tax and European integration, the 'Iron Lady' tearfully departed Number 10, paving the way for Chancellor **John Major** to become Britain's new prime minister.",
+      "wiki": "Margaret Thatcher",
+      "youtube": "Margaret Thatcher resigns Downing Street statement November 22 1990",
+      "source": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-11-22-undertaker-debut-survivor-series",
+      "date": "1990-11-22",
+      "topic": "wrestling",
+      "text": "22 November saw the World Wrestling Federation stage ***Survivor Series 1990*** at the Hartford Civic Center in Connecticut. While Hulk Hogan and The Ultimate Warrior survived the grand finale match, the night was defined by the chilling debut of **The Undertaker** (Mark Calaway) as Ted DiBiase's mystery partner, introduced alongside manager Brother Love before annihilating Koko B. Ware in under **two minutes**.",
+      "wiki": "Survivor Series (1990)",
+      "youtube": "The Undertaker debut Survivor Series 1990 full match",
+      "source": "https://en.wikipedia.org/wiki/Survivor_Series_(1990)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-11-29-un-resolution-678-iraq-ultimatum",
+      "date": "1990-11-29",
+      "topic": "politics",
+      "text": "29 November saw the United Nations Security Council pass **Resolution 678**, issuing an explicit final ultimatum to Saddam Hussein's Iraq. The resolution authorized member states to use **'all necessary means'** to uphold Resolution 660 and expel Iraqi forces from Kuwait unless Iraq completely and unconditionally withdrew its troops by **15 January 1991**.",
+      "wiki": "United Nations Security Council Resolution 678",
+      "youtube": "UN Security Council passes Resolution 678 Iraq ultimatum November 1990",
+      "source": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_678",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (24 November 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Unchained Melody",
+          "by": "The Righteous Brothers"
+        },
+        {
+          "pos": 2,
+          "title": "Fantasy",
+          "by": "Earth, Wind & Fire"
+        },
+        {
+          "pos": 3,
+          "title": "I've Been Thinking About You",
+          "by": "Londonbeat"
+        },
+        {
+          "pos": 4,
+          "title": "To Love Somebody",
+          "by": "Jimmy Somerville"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (November 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Lotus Esprit Turbo Challenge",
+          "by": "Gremlin Graphics"
+        },
+        {
+          "pos": 2,
+          "title": "Teenage Mutant Hero Turtles",
+          "by": "Mirrorsoft"
+        },
+        {
+          "pos": 3,
+          "title": "RoboCop 2",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "Shadow of the Beast II",
+          "by": "Psygnosis"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Super Mario World",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Super Famicom / SNES"
+    ],
+    "genre": "Platformer",
+    "director": "Takashi Tezuka",
+    "reviewScore": "98%",
+    "reviewQuote": "Super Mario World is the finest platform game ever created. Yoshi is an inspired addition, the secret exits are ingenious, and it proves 16-bit gaming has truly arrived.",
+    "reviewSource": "Famitsu / Computer & Video Games",
+    "headline": "Yoshi's Debut, Dinosaur Land, and 96 Exits of 16-Bit Perfection",
+    "gameplay": "Released in Japan on 21 November 1990 alongside the Super Famicom console, *Super Mario World* elevated platform game design to legendary heights. Directed by **Takashi Tezuka** and produced by Shigeru Miyamoto, the game introduced Mario's green dinosaur companion **Yoshi**, capable of swallowing enemies, spitting fireballs, and granting high-jumping mobility. Players explored the vast expanse of Dinosaur Land across **96 distinct exits**, discovering hidden keyhole exits, flying with the Cape Feather, and conquering secret Star World and Special World stages.",
+    "reception": "Japanese critics and import magazines hailed *Super Mario World* as an absolute masterpiece. Reviewers praised its vibrant colour palettes, expressive sprite animations, dynamic Koji Kondo musical themes that rearranged seamlessly when riding Yoshi, and masterclass level design that balanced accessible fun with deviously challenging secret objectives.",
+    "impact": "Selling over 20 million copies worldwide and bundling with Western Super Nintendo hardware in 1991/1992, *Super Mario World* remains a towering benchmark for 2D platforming excellence and one of the most beloved video games ever made.",
+    "wiki": "Super Mario World",
+    "youtube": "Super Mario World Super Famicom 1990 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Super_Mario_World"
+  }
+};
+window.ALL_DATA['1990-12'] = {
+  "month": "1990-12",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-12-01-channel-tunnel-breakthrough",
+      "date": "1990-12-01",
+      "topic": "tech",
+      "text": "1 December saw British construction worker Graham Fagg and French miner Phillippe Cozette break through the final rock partition of the **Channel Tunnel** service bore, 40 metres beneath the English Channel seabed. Shaking hands through the opening draped in national flags, their historic breakthrough established the first fixed dry-land connection between **Great Britain** and continental Europe since the **last Ice Age** 8,000 years prior.",
+      "wiki": "Channel Tunnel",
+      "youtube": "Channel Tunnel breakthrough December 1 1990 BBC news report",
+      "source": "https://en.wikipedia.org/wiki/Channel_Tunnel",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-12-07-home-alone-uk-release",
+      "date": "1990-12-07",
+      "topic": "film",
+      "text": "7 December saw director Chris Columbus and writer John Hughes' festive comedy ***Home Alone*** open across British cinemas. Starring eight-year-old **Macaulay Culkin** as Kevin McCallister, an accidental castaway defending his Chicago suburban home from bumbling burglars with elaborate booby traps, the film became an unprecedented global box office phenomenon and an enduring **Christmas holiday classic**.",
+      "wiki": "Home Alone",
+      "youtube": "Home Alone original 1990 cinema trailer Macaulay Culkin",
+      "source": "https://en.wikipedia.org/wiki/Home_Alone",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-12-09-lech-walesa-elected-president",
+      "date": "1990-12-09",
+      "topic": "politics",
+      "text": "9 December saw legendary Solidarity trade union leader **Lech Wałęsa** win a landslide victory in the second round of Poland's presidential election, securing over 74% of the popular vote against Stanisław Tymiński. Former Gdańsk shipyard electrician and Nobel Peace laureate, Wałęsa became the first democratically elected **President of Poland** in post-war history, cementing the nation's peaceful transition from **communist rule**.",
+      "wiki": "1990 Polish presidential election",
+      "youtube": "Lech Walesa wins Polish presidency December 1990 news",
+      "source": "https://en.wikipedia.org/wiki/1990_Polish_presidential_election",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-12-16-starrcade-1990-black-scorpion",
+      "date": "1990-12-16",
+      "topic": "wrestling",
+      "text": "16 December saw the NWA stage ***Starrcade 1990: Collision Course*** at the Kiel Auditorium in St. Louis, Missouri. In a climactic steel cage confrontation, NWA World Heavyweight Champion **Sting** defended his belt against his mysterious, cloaked tormentor **The Black Scorpion**. After trapping him with a diving flying bodypress, Sting unmasked the villain to reveal his eternal nemesis, **Ric Flair**.",
+      "wiki": "Starrcade (1990)",
+      "youtube": "Sting unmasks the Black Scorpion Starrcade 1990 steel cage match",
+      "source": "https://en.wikipedia.org/wiki/Starrcade_(1990)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-12-20-first-world-wide-web-site-cern",
+      "date": "1990-12-20",
+      "topic": "tech",
+      "text": "20 December saw British computer scientist **Tim Berners-Lee** put the world's first website and hypertext server into live operation on a NeXT workstation at CERN in Switzerland. Located at the URL `info.cern.ch`, the historic site described the fundamentals of the **World Wide Web**, explaining how users could access hypertext documents, search for information, and set up their own **web servers**.",
+      "wiki": "World Wide Web",
+      "youtube": "Tim Berners-Lee invents World Wide Web 1990 archive CERN",
+      "source": "https://en.wikipedia.org/wiki/World_Wide_Web",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-12-23-cliff-richard-saviours-day-christmas-number-one",
+      "date": "1990-12-23",
+      "topic": "music",
+      "text": "23 December saw veteran pop icon **Cliff Richard** clinch the prestigious UK Christmas number-one spot with his festive gospel ballad ***Saviour's Day***. Overcoming fierce competition from Vanilla Ice's hip-hop anthem *Ice Ice Baby*, Richard secured his third solo Christmas chart-topper and the fourteenth UK number-one single of his storied **four-decade recording career**.",
+      "wiki": "Saviour's Day",
+      "youtube": "Cliff Richard Saviours Day official Christmas video 1990",
+      "source": "https://en.wikipedia.org/wiki/Saviour%27s_Day",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (29 December 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Saviour's Day",
+          "by": "Cliff Richard"
+        },
+        {
+          "pos": 2,
+          "title": "Ice Ice Baby",
+          "by": "Vanilla Ice"
+        },
+        {
+          "pos": 3,
+          "title": "All Together Now",
+          "by": "The Farm"
+        },
+        {
+          "pos": 4,
+          "title": "Unchained Melody",
+          "by": "The Righteous Brothers"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (December 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "RoboCop 2",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Teenage Mutant Hero Turtles",
+          "by": "Mirrorsoft"
+        },
+        {
+          "pos": 3,
+          "title": "Lotus Esprit Turbo Challenge",
+          "by": "Gremlin Graphics"
+        },
+        {
+          "pos": 4,
+          "title": "Manchester United",
+          "by": "Krisalis Software"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Commander Keen in Invasion of the Vorticons",
+    "developer": "Ideas from the Deep (id Software)",
+    "publisher": "Apogee Software",
+    "platforms": [
+      "MS-DOS"
+    ],
+    "genre": "Platformer",
+    "director": "Tom Hall",
+    "reviewScore": "90%",
+    "reviewQuote": "Smooth scrolling on an IBM PC that rivals the Nintendo Entertainment System! Commander Keen is a landmark achievement for shareware computer gaming.",
+    "reviewSource": "PC Gamer / Apogee Newsletter",
+    "headline": "Pogo Sticks, Vorticons, and Carmack's Engine that Birthed id Software",
+    "gameplay": "Released on 14 December 1990 for MS-DOS as shareware by Apogee Software, *Commander Keen in Invasion of the Vorticons* was developed by Ideas from the Deep—a team comprising **John Carmack**, **John Romero**, Tom Hall, and Adrian Carmack. Players guided eight-year-old boy genius Billy Blaze (Commander Keen) across Mars to recover stolen ship parts using a trusty raygun and high-bouncing **pogo stick**, evading alien Vorticons and hazard spikes. Carmack achieved what the industry believed impossible on PC hardware: silky-smooth 16-colour EGA **adaptive tile refresh** scrolling matching the responsiveness of console platformers.",
+    "reception": "Distributing Episode 1 *Marooned on Mars* as free shareware while selling Episodes 2 and 3 by mail order, *Commander Keen* became an unprecedented commercial sensation. Apogee generated tens of thousands of dollars in monthly orders, proving the viability of PC shareware and astonishing computer players accustomed to sluggish, jerky PC action titles.",
+    "impact": "The enormous success of *Commander Keen* provided the founding capital and technical confidence for the team to formally establish **id Software** in February 1991, laying the groundwork for *Wolfenstein 3D*, *Doom*, and the 3D first-person shooter revolution.",
+    "wiki": "Commander Keen in Invasion of the Vorticons",
+    "youtube": "Commander Keen Invasion of the Vorticons 1990 DOS gameplay",
+    "source": "https://en.wikipedia.org/wiki/Commander_Keen_in_Invasion_of_the_Vorticons"
+  }
+};
 window.ALL_DATA['1991-03'] = {
   "month": "1991-03",
   "region": "UK",
@@ -2971,9 +6863,28 @@ window.ALL_DATA['1991-03'] = {
       ]
     }
   ],
-  "chartSource": "Official Charts Company / Gallup UK charts, March 1991"
-}
-;
+  "chartSource": "Official Charts Company / Gallup UK charts, March 1991",
+  "gaming": {
+    "title": "Street Fighter II: The World Warrior",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "platforms": [
+      "Arcade (CP System)"
+    ],
+    "genre": "One-on-One Fighting",
+    "director": "Yoshiki Okamoto / Akira Nishitani",
+    "reviewScore": "97%",
+    "reviewQuote": "An absolute revelation. Eight masterfully balanced fighters, lightning combos, and arcade competitive perfection.",
+    "reviewSource": "Computer & Video Games (Issue 114)",
+    "headline": "Eight World Warriors and the Coin-Op Golden Age",
+    "gameplay": "Directed by Yoshiki Okamoto and Akira Nishitani on Capcom's powerhouse CP System arcade hardware, *Street Fighter II: The World Warrior* exploded into arcades in March 1991. The game revolutionized head-to-head competition by offering **eight distinct playable characters**, each with unique fighting styles and nationalities: Ryu, Ken, Chun-Li, Guile, Blanka, E. Honda, Zangief, and Dhalsim. Crucially, an accidental coding quirk discovered during development allowed players to cancel recovery frames into subsequent attacks, birthing the concept of **multi-hit combos**.",
+    "reception": "Debuting in March 1991, *Street Fighter II* became an instant worldwide cultural phenomenon. Massive crowds gathered around arcade cabinets with quarters and 10p coins lined up along the bezel to claim next match. Critics lauded its immaculate competitive balance, Yoko Shimomura's iconic character themes, and Chun-Li's breakthrough status as gaming's first iconic female martial arts hero.",
+    "impact": "*Street Fighter II* single-handedly revitalized the global arcade industry in the early 1990s, generating billions in coin drop and establishing the tournament fighting community that thrives today. It remains the definitive blueprint against which all competitive fighters are judged.",
+    "wiki": "Street Fighter II: The World Warrior",
+    "youtube": "Street Fighter 2 original arcade 1991",
+    "source": "https://en.wikipedia.org/wiki/Street_Fighter_II:_The_World_Warrior"
+  }
+};
 window.ALL_DATA['1996-10'] = {
   "month": "1996-10",
   "region": "UK",
@@ -3205,9 +7116,30 @@ window.ALL_DATA['1996-10'] = {
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Gallup C&VG, October 1996"
-}
-;
+  "chartSource": "Official Charts Company / ELSPA Gallup C&VG, October 1996",
+  "gaming": {
+    "title": "Tomb Raider",
+    "developer": "Core Design",
+    "publisher": "Eidos Interactive",
+    "platforms": [
+      "Sega Saturn",
+      "Sony PlayStation",
+      "MS-DOS PC"
+    ],
+    "genre": "3D Action-Adventure",
+    "director": "Toby Gard",
+    "reviewScore": "95%",
+    "reviewQuote": "Astonishing 3D scale, breathtaking athletic precision, and the arrival of a genuine cultural icon in Lara Croft.",
+    "reviewSource": "Computer & Video Games (Issue 180)",
+    "headline": "Peruvian Tombs, T-Rex Encounters, and the Rise of Lara Croft",
+    "gameplay": "Created by a small team in Derby led by artist Toby Gard, *Tomb Raider* debuted British aristocrat and archaeologist-adventurer **Lara Croft**. Guided through perilous lost tombs in Peru, Greece, Egypt, and Atlantis, players solved intricate mechanical block puzzles, executed running long jumps and swan dives, and unholstered dual pistols to battle wolves, bats, and a terrifying, sudden encounter with a roaring 3D **Tyrannosaurus Rex**.",
+    "reception": "Released across Europe in late October 1996 (first on Sega Saturn before its celebrated PlayStation launch in November), *Tomb Raider* was a critical sensation. *Computer & Video Games* awarded it 95%, praising its cinematic camera work, eerie acoustic silence, and Nathan McCree's soaring oboe and choir musical cues. Lara Croft became an instant mainstream celebrity, appearing on the cover of style magazine *The Face*.",
+    "impact": "Selling over seven million copies, *Tomb Raider* established the PlayStation as a hip cultural staple of 1990s Cool Britannia and demonstrated the immense commercial power of female protagonists in video games. It redefined 3D environmental platforming and launched one of gaming's most enduring multimedia franchises.",
+    "wiki": "Tomb Raider (1996 video game)",
+    "youtube": "Tomb Raider 1 original 1996 trailer",
+    "source": "https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game)"
+  }
+};
 window.ALL_DATA['1996-11'] = {
   "month": "1996-11",
   "region": "UK",
@@ -3379,7 +7311,28 @@ window.ALL_DATA['1996-11'] = {
       ]
     }
   ],
-  "chartSource": "Supplied page: C&VG, November 1996"
+  "chartSource": "Supplied page: C&VG, November 1996",
+  "gaming": {
+    "title": "Command & Conquer: Red Alert",
+    "developer": "Westwood Studios",
+    "publisher": "Virgin Interactive",
+    "platforms": [
+      "MS-DOS PC",
+      "Windows 95"
+    ],
+    "genre": "Real-Time Strategy (RTS)",
+    "director": "Brett Sperry / Eydie Laramore",
+    "reviewScore": "94%",
+    "reviewQuote": "Albert Einstein, Soviet Mammoth Tanks, and Hell March. Westwood has delivered the definitive PC strategy experience.",
+    "reviewSource": "PC Gamer (Issue 37)",
+    "headline": "Time Travel, Mammoth Tanks, and the Thumping Hell March",
+    "gameplay": "Developed by Westwood Studios in Las Vegas, *Command & Conquer: Red Alert* plunged players into an alternate timeline where Albert Einstein used a chrono-displacement device to assassinate Adolf Hitler in 1924, inadvertently unleashing an unchecked Soviet Union under Joseph Stalin to invade Western Europe. Players chose between the technologically cunning **Allies** (Chronospheres, GPS satellites, Tanya Adams) and the brute mechanized strength of the **Soviets** (Mammoth Tanks, Tesla Coils, Iron Curtain invulnerability).",
+    "reception": "Releasing in November 1996, *Red Alert* became an astronomical commercial smash on PC, shifting over 1.5 million copies in its first month alone. Critics praised its campy live-action FMV cutscenes starring Frank Klepacki's legendary industrial metal track **\"Hell March\"**, while local LAN and modem multiplayer turned dorm rooms and offices into late-night tank-rush warzones.",
+    "impact": "*Red Alert* cemented Westwood Studios alongside Blizzard as the twin rulers of the real-time strategy golden age. Its fast-paced base building, instant unit queues, and irresistible alternate-history swagger established it as one of the most beloved PC strategy games of all time.",
+    "wiki": "Command & Conquer: Red Alert",
+    "youtube": "Command and Conquer Red Alert 1 intro 1996",
+    "source": "https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert"
+  }
 };
 window.ALL_DATA['1998-01'] = {
   "month": "1998-01",
@@ -3822,9 +7775,28 @@ window.ALL_DATA['1998-02'] = {
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, February 1998"
-}
-;
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, February 1998",
+  "gaming": {
+    "title": "Xenogears",
+    "developer": "Square",
+    "publisher": "Square",
+    "platforms": [
+      "Sony PlayStation"
+    ],
+    "genre": "Role-Playing Game (JRPG)",
+    "director": "Tetsuya Takahashi",
+    "reviewScore": "91%",
+    "reviewQuote": "A staggering, mind-bending epic of mecha warfare, Jungian psychology, and religious existentialism.",
+    "reviewSource": "Electronic Gaming Monthly (Issue 113)",
+    "headline": "Martial Arts, Giant Mecha, and Philosophical Audacity",
+    "gameplay": "Originally pitched as a dark treatment for *Final Fantasy VII*, *Xenogears* was directed by Tetsuya Takahashi with character writing by Soraya Saga and a breathtaking Celtic-infused score by Yasunori Mitsuda. Casting players as martial artist Fei Fong Wong, the game pioneered a dual-layer combat system: kinetic ground combat stringing together fighting-game button combos (Deathblows) and high-stakes **Gear battles** piloting gigantic armored robots, carefully managing fuel reserves and engine output levels.",
+    "reception": "Releasing in Japan in February 1998 (and in North America later that year), *Xenogears* electrified RPG enthusiasts with its unflinching narrative maturity. Tackling Freudian psychology, Nietzschean will, and Gnostic religious subversion, it was hailed by *Famitsu* and western gaming press alike as one of the most intellectually daring narratives ever written for a video game.",
+    "impact": "*Xenogears* achieved legendary cult status, establishing Takahashi's reputation as a world-class visionary and paving the way for the acclaimed *Xenosaga* and *Xenoblade Chronicles* franchises. Decades later, its ambitious scope and Mitsuda's iconic score remain universally revered in the pantheon of PlayStation classics.",
+    "wiki": "Xenogears",
+    "youtube": "Xenogears PS1 1998 intro",
+    "source": "https://en.wikipedia.org/wiki/Xenogears"
+  }
+};
 window.ALL_DATA['1998-03'] = {
   "month": "1998-03",
   "region": "UK",
@@ -4032,9 +8004,29 @@ window.ALL_DATA['1998-03'] = {
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, March 1998"
-}
-;
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, March 1998",
+  "gaming": {
+    "title": "StarCraft",
+    "developer": "Blizzard Entertainment",
+    "publisher": "Blizzard Entertainment",
+    "platforms": [
+      "Windows PC",
+      "Mac OS"
+    ],
+    "genre": "Real-Time Strategy (RTS)",
+    "director": "Chris Metzen / James Phinney",
+    "reviewScore": "92%",
+    "reviewQuote": "The greatest real-time strategy game ever created. Three completely distinct factions in razor-sharp balance.",
+    "reviewSource": "PC Gamer (Issue 50)",
+    "headline": "The Zerg Swarm, Battle.net, and the Dawn of Global Esports",
+    "gameplay": "Moving away from the fantasy setting of *Warcraft*, Blizzard unleashed *StarCraft* in the distant Koprulu Sector. The game revolutionized the real-time strategy genre by introducing three radically asymmetric factions: the resilient and adaptable human **Terrans**, the voracious, biological swarm of the **Zerg**, and the enigmatic, technologically superior psionic **Protoss**. Each faction featured completely unique resource dynamics, building mechanics, and combat doctrines, locked in immaculate competitive equilibrium.",
+    "reception": "Launching on 31 March 1998, *StarCraft* was showered with universal critical praise. Reviewers praised its engrossing, character-driven military campaign (following Jim Raynor and the tragic betrayal of Sarah Kerrigan into the Queen of Blades) and its rock-solid free online multiplayer via Blizzard's **Battle.net** service, which made matchmaking seamless worldwide.",
+    "impact": "*StarCraft* became the best-selling PC game of 1998, shifting millions of copies and finding an extraordinary second home in South Korea. There, it practically created modern **esports**: spawning professional leagues, live stadium tournaments, and full-time pro gamers broadcast on dedicated 24-hour cable television channels. It remains one of the most culturally influential PC titles in human history.",
+    "wiki": "StarCraft (video game)",
+    "youtube": "StarCraft 1 original 1998 trailer",
+    "source": "https://en.wikipedia.org/wiki/StarCraft_(video_game)"
+  }
+};
 window.ALL_DATA['1998-04'] = {
   "month": "1998-04",
   "region": "UK",
@@ -4198,9 +8190,28 @@ window.ALL_DATA['1998-04'] = {
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, April 1998"
-}
-;
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, April 1998",
+  "gaming": {
+    "title": "Unreal",
+    "developer": "Epic MegaGames / Digital Extremes",
+    "publisher": "GT Interactive",
+    "platforms": [
+      "Windows PC"
+    ],
+    "genre": "First-Person Shooter",
+    "director": "Tim Sweeney / Cliff Bleszinski",
+    "reviewScore": "94%",
+    "reviewQuote": "A technical miracle. Walking out of the prison ship into that vast, breathing alien world will leave you speechless.",
+    "reviewSource": "PC Zone (Issue 64)",
+    "headline": "Na Pali Vistas, 3dfx Glories, and the Engine That Built Modern Gaming",
+    "gameplay": "Stepping into the boots of escaped convict Prisoner 849, *Unreal* began inside the groaning wreckage of the crashed prison ship *Vortex Rikers* on the mysterious alien world of **Na Pali**. Engineered by coding savant Tim Sweeney with level design by Cliff Bleszinski, the game delivered jaw-dropping 3D scale: stepping through the ship's emergency hatch revealed expansive open-air valleys, shimmering translucent water surfaces, coloured volumetric lighting, and grazing alien wildlife, all defended by cunning, side-dodging Skaarj predators.",
+    "reception": "Arriving on PCs in April and May 1998, *Unreal* took the gaming world by storm, providing the ultimate benchmark for newly popular **3dfx Voodoo** 3D accelerator cards. *PC Zone* awarded it 94%, declaring that id Software's *Quake II* had just been thoroughly outclassed in sheer visual grandeur, while *PC Gamer* praised its rich, ambient Alexander Brandon tracking soundtrack.",
+    "impact": "Beyond its gripping single-player campaign, *Unreal* unleashed the **Unreal Engine** upon the world. Tim Sweeney's modular, highly licensable software architecture evolved to become the industry's dominant game development engine, powering hundreds of blockbuster games, virtual reality environments, and Hollywood film productions for the next quarter-century.",
+    "wiki": "Unreal (1998 video game)",
+    "youtube": "Unreal 1998 PC intro and gameplay",
+    "source": "https://en.wikipedia.org/wiki/Unreal_(1998_video_game)"
+  }
+};
 window.ALL_DATA['1998-05'] = {
   "month": "1998-05",
   "region": "UK",
@@ -4388,9 +8399,28 @@ window.ALL_DATA['1998-05'] = {
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, May 1998"
-}
-;
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, May 1998",
+  "gaming": {
+    "title": "Gran Turismo",
+    "developer": "Polyphony Digital",
+    "publisher": "Sony Computer Entertainment",
+    "platforms": [
+      "Sony PlayStation"
+    ],
+    "genre": "Racing Simulation",
+    "director": "Kazunori Yamauchi",
+    "reviewScore": "95%",
+    "reviewQuote": "The definitive automotive masterpiece. It redefines what home consoles are capable of simulating.",
+    "reviewSource": "Official PlayStation Magazine UK",
+    "headline": "The Real Driving Simulator and the 10-Million Seller",
+    "gameplay": "Conceived and directed by Kazunori Yamauchi over five obsessive years of development, *Gran Turismo* arrived with the bold subtitle **\"The Real Driving Simulator\"**. Bypassing arcade fantasy, the game introduced rigorous real-world vehicle physics, authentic tire friction, suspension weight transfer, and an unprecedented stable of **140 accurately modelled production cars** from Aston Martin, Chevrolet, Nissan, Honda, and Toyota. Players had to pass demanding driving licence tests, hone their braking lines, and upgrade everything from gear ratios to turbochargers.",
+    "reception": "Releasing across Europe on 8 May 1998 (following its record-setting Japanese debut), *Gran Turismo* generated sheer euphoria among critics and car enthusiasts alike. *Official UK PlayStation Magazine* awarded it a dazzling 95%, while *Computer & Video Games* praised its photo-realistic replay modes. Players spent countless weekends grinding the Sunday Cup to afford a second-hand Nissan Skyline GT-R.",
+    "impact": "*Gran Turismo* went on to sell an astonishing **10.85 million copies**, standing as the best-selling video game in the entire history of the original Sony PlayStation. It single-handedly transformed automotive video games into a billion-dollar simulation genre and ignited a global cultural obsession with Japanese import car tuning.",
+    "wiki": "Gran Turismo (video game)",
+    "youtube": "Gran Turismo 1 original PS1 intro 1998",
+    "source": "https://en.wikipedia.org/wiki/Gran_Turismo_(video_game)"
+  }
+};
 window.ALL_DATA['1998-06'] = {
   "month": "1998-06",
   "region": "UK",
@@ -4598,9 +8628,28 @@ window.ALL_DATA['1998-06'] = {
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, June 1998"
-}
-;
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, June 1998",
+  "gaming": {
+    "title": "Banjo-Kazooie",
+    "developer": "Rare",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Nintendo 64"
+    ],
+    "genre": "3D Platformer",
+    "director": "Gregg Mayles",
+    "reviewScore": "95%",
+    "reviewQuote": "The new king of 3D platformers. Bursting with charm, razor-sharp design, and musical genius.",
+    "reviewSource": "N64 Magazine (Issue 18)",
+    "headline": "Jigsaw Pieces, Rhyming Witches, and Rare's Golden Age",
+    "gameplay": "Developed by Rare's elite Twycross team led by Gregg Mayles, *Banjo-Kazooie* followed the adventures of mild-mannered honey bear **Banjo** and his sarcastic, red-crested Breegull sidekick **Kazooie** as they ventured to rescue young Tooty from the rhyming witch Gruntilda. The game expanded 3D exploration across nine enormous, interconnected worlds (from the sandy pirate shores of Treasure Trove Cove to the frosty peaks of Freezeezy Peak), with Kazooie providing talon-trots, aerial glides, and rapid-fire egg spitting to overcome obstacles.",
+    "reception": "Released in late June 1998, *Banjo-Kazooie* was greeted with ecstatic reviews, with critics hailing it as the first 3D platformer capable of matching or even surpassing *Super Mario 64*. *N64 Magazine* awarded it 95%, and IGN gave it a 9.6/10. Particular adoration was showered on composer Grant Kirkhope's dynamic, interactive music engine, where background instruments seamlessly morphed in real time as players dipped underwater or crept near enemy lairs.",
+    "impact": "Selling over three million copies, *Banjo-Kazooie* represented the zenith of the late-90s 3D \"collect-a-thon\" platformer, solidifying Rare's status as Nintendo's premier second-party development powerhouse. Its witty dialogue, flawless camera work, and enduring characters cemented it as an indelible classic of the 64-bit generation.",
+    "wiki": "Banjo-Kazooie",
+    "youtube": "Banjo-Kazooie N64 intro 1998",
+    "source": "https://en.wikipedia.org/wiki/Banjo-Kazooie"
+  }
+};
 window.ALL_DATA['1998-07'] = {
   "month": "1998-07",
   "region": "UK",
@@ -4776,9 +8825,28 @@ window.ALL_DATA['1998-07'] = {
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, July 1998"
-}
-;
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, July 1998",
+  "gaming": {
+    "title": "F-Zero X",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Nintendo 64"
+    ],
+    "genre": "Futuristic Anti-Gravity Racing",
+    "director": "Tadashi Sugiyama",
+    "reviewScore": "92%",
+    "reviewQuote": "Unrelenting, heart-in-the-mouth velocity at a flawless 60 frames per second. An adrenaline rush like no other.",
+    "reviewSource": "N64 Magazine (Issue 20)",
+    "headline": "30 Craft, Pipe Tracks, and 60 FPS Anti-Gravity Velocity",
+    "gameplay": "Directed by Tadashi Sugiyama with music by Taro Bando, *F-Zero X* delivered an uncompromising vision of futuristic speed. In a bold technical gamble, Nintendo's programmers stripped away complex background textures in exchange for pure, unadulterated performance: rendering **30 anti-gravity racers on screen simultaneously at a locked, butter-smooth 60 frames per second**. Pilots hurled craft like Captain Falcon's Blue Falcon through magnetic cylinder pipes, multi-tier loops, and death-defying corkscrews, spinning into rival hovercraft to knock them off sheer cliffs.",
+    "reception": "Launching in Japan in July 1998 before speeding to the West, *F-Zero X* received widespread acclaim for its ferocious sense of speed and surgical controls. *N64 Magazine* awarded it 92%, praising its death-match \"X-Cup\" mode (which procedurally generated random tracks on the fly) and its blaring, wailing heavy metal electric guitar soundtrack that perfectly complemented the dizzying pace.",
+    "impact": "*F-Zero X* set the gold standard for high-frame-rate console racing, proving that framerate and responsiveness mattered far more than superficial graphical sheen. It remains a fan-favorite cult masterpiece, with its brutal difficulty and precision physics celebrated by competitive speedrunners decades later.",
+    "wiki": "F-Zero X",
+    "youtube": "F-Zero X N64 gameplay 60fps",
+    "source": "https://en.wikipedia.org/wiki/F-Zero_X"
+  }
+};
 window.ALL_DATA['1998-08'] = {
   "month": "1998-08",
   "region": "UK",
@@ -4954,9 +9022,28 @@ window.ALL_DATA['1998-08'] = {
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, August 1998"
-}
-;
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, August 1998",
+  "gaming": {
+    "title": "Tenchu: Stealth Assassins",
+    "developer": "Acquire",
+    "publisher": "Sony Music Entertainment / Activision",
+    "platforms": [
+      "Sony PlayStation"
+    ],
+    "genre": "Stealth / Ninja Action",
+    "director": "Takuma Endo",
+    "reviewScore": "90%",
+    "reviewQuote": "Grappling hooks, moonlit feudal rooftops, and silent, bloody stealth kills. The definitive ninja simulator.",
+    "reviewSource": "Official PlayStation Magazine (Issue 36)",
+    "headline": "Grappling Hooks, Rooftop Shadows, and Feudal Assassination",
+    "gameplay": "Developed by Japanese studio Acquire, *Tenchu: Stealth Assassins* cast players as ninja operatives Rikimaru and Ayame of the Azuma Ninja Clan in 16th-century feudal Japan. Equipped with a versatile **ninja grappling hook**, players scaled moonlit pagoda roofs, crouched in bamboo groves, threw poisoned rice dumplings to distract guard dogs, and executed gruesome, cinematic **stealth kills** on unsuspecting samurai from the shadows.",
+    "reception": "Releasing in August 1998 in the West following its initial Japanese launch, *Tenchu* earned glowing reviews for its atmospheric feudal immersion, Noriyuki Asakura's haunting traditional vocal soundtrack, and its strict stealth scoring system, which penalized clumsy direct combat while rewarding players who completed missions entirely undetected with grandmaster ninja status.",
+    "impact": "Arriving right alongside *Metal Gear Solid*, *Tenchu* helped cement 1998 as the landmark year of the 3D stealth genre. Its signature mechanics—3D grappling hooks, dynamic detection meters, and instant-kill stealth takedowns—directly laid the gameplay foundation for modern ninja and stealth classics, including FromSoftware's *Sekiro: Shadows Die Twice* (which originated as a *Tenchu* prototype).",
+    "wiki": "Tenchu: Stealth Assassins",
+    "youtube": "Tenchu Stealth Assassins PS1 1998 intro",
+    "source": "https://en.wikipedia.org/wiki/Tenchu:_Stealth_Assassins"
+  }
+};
 window.ALL_DATA['1998-09'] = {
   "month": "1998-09",
   "region": "UK",
@@ -5132,9 +9219,28 @@ window.ALL_DATA['1998-09'] = {
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, September 1998"
-}
-;
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, September 1998",
+  "gaming": {
+    "title": "Metal Gear Solid",
+    "developer": "Konami Computer Entertainment Japan",
+    "publisher": "Konami",
+    "platforms": [
+      "Sony PlayStation"
+    ],
+    "genre": "Tactical Espionage Action",
+    "director": "Hideo Kojima",
+    "reviewScore": "95%",
+    "reviewQuote": "A cinematic tour de force that transcends the medium. Gaming's *Citizen Kane* moment has finally arrived.",
+    "reviewSource": "Official PlayStation Magazine UK",
+    "headline": "Shadow Moses, Psycho Mantis, and the Cinematic Revolution",
+    "gameplay": "Directed and produced by Hideo Kojima, *Metal Gear Solid* thrust veteran operative **Solid Snake** into the freezing, blizzard-lashed nuclear disposal facility on **Shadow Moses Island** in Alaska. Tasked with neutralizing a rogue FOXHOUND terrorist unit led by Liquid Snake, the game combined tactical stealth (radar cones, footprint tracking, thermal goggles) with Hollywood-calibre, fully-voiced real-time 3D cinematic cutscenes. The game famously broke the fourth wall: the telekinetic boss Psycho Mantis read the player's PlayStation memory card, commented on saved games, and forced players to plug their controller into port two to evade his mind control.",
+    "reception": "Released in September 1998 in Japan before sweeping across the West, *Metal Gear Solid* generated unprecedented critical delirium. *Official UK PlayStation Magazine* awarded it a near-flawless 95%, praising David Hayter's gritty voice acting and Harry Gregson-Williams' sweeping orchestral score. Critics declared it living proof that video games had matured into a premier dramatic storytelling art form.",
+    "impact": "Selling over six million copies, *Metal Gear Solid* popularized the stealth genre into a global mainstream obsession and transformed Hideo Kojima into gaming's first globally recognized auteur director. Its seamless marriage of cinematic narrative, cinematic camera angles, and deeply immersive meta-game mechanics permanently altered the course of game development.",
+    "wiki": "Metal Gear Solid (video game)",
+    "youtube": "Metal Gear Solid 1 original PS1 trailer 1998",
+    "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_(video_game)"
+  }
+};
 window.ALL_DATA['1998-10'] = {
   "month": "1998-10",
   "region": "UK",
@@ -5310,9 +9416,29 @@ window.ALL_DATA['1998-10'] = {
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, October 1998"
-}
-;
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, October 1998",
+  "gaming": {
+    "title": "Fallout 2",
+    "developer": "Black Isle Studios",
+    "publisher": "Interplay Productions",
+    "platforms": [
+      "Windows PC",
+      "Mac OS"
+    ],
+    "genre": "Post-Apocalyptic Role-Playing Game",
+    "director": "Feargus Urquhart / Tim Cain",
+    "reviewScore": "90%",
+    "reviewQuote": "Dark, satirical, massive, and morally complex. Western computer role-playing at its absolute peak.",
+    "reviewSource": "PC Gamer (Issue 56)",
+    "headline": "Wasteland Survival, the GECK, and Unapologetic Player Freedom",
+    "gameplay": "Developed by Black Isle Studios under director Feargus Urquhart, *Fallout 2* returned to the retro-futuristic, nuclear-ravaged wasteland of post-apocalyptic California in 2241. As the \"Chosen One\" of the primitive tribal village of Arroyo, players set out across a massive, morally ambiguous wasteland to retrieve the Garden of Eden Creation Kit (**G.E.C.K.**). The game expanded the iconic **S.P.E.C.I.A.L.** system, giving players absolute freedom to solve quests through silver-tongued diplomacy, scientific hacking, stealth, or gruesome tactical turn-based combat with targeted called shots.",
+    "reception": "Arriving on PCs in late October 1998, *Fallout 2* was celebrated for its razor-sharp satirical humor, rich branching dialogue trees, and astonishing scope. Reviewers praised its willingness to let players become anything from a saintly wasteland sheriff to a Mafia capo or boxing champion in New Reno, with *PC Gamer* awarding it 90% and praising its unmatched player agency.",
+    "impact": "*Fallout 2* is universally hailed as one of the greatest computer RPGs ever created, establishing the rich lore, dark comedic tone, and moral complexity that define the multi-billion-dollar *Fallout* franchise today. Its creators went on to found Obsidian Entertainment and shape modern RPG milestones like *Fallout: New Vegas*.",
+    "wiki": "Fallout 2",
+    "youtube": "Fallout 2 original intro 1998",
+    "source": "https://en.wikipedia.org/wiki/Fallout_2"
+  }
+};
 window.ALL_DATA['1998-11'] = {
   "month": "1998-11",
   "region": "UK",
@@ -5476,9 +9602,28 @@ window.ALL_DATA['1998-11'] = {
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, November 1998"
-}
-;
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, November 1998",
+  "gaming": {
+    "title": "Half-Life",
+    "developer": "Valve",
+    "publisher": "Sierra Studios",
+    "platforms": [
+      "Windows PC"
+    ],
+    "genre": "First-Person Shooter",
+    "director": "Gabe Newell / Marc Laidlaw",
+    "reviewScore": "96%",
+    "reviewQuote": "A revolutionary triumph of immersive storytelling. The tram ride into Black Mesa changes everything.",
+    "reviewSource": "PC Zone (Issue 71)",
+    "headline": "The Resonance Cascade, Crowbars, and the FPS Revolution",
+    "gameplay": "The debut title from Gabe Newell's fledgling studio Valve, *Half-Life* placed players inside the hazard suit of silent theoretical physicist **Gordon Freeman** at the secretive Black Mesa Research Facility in New Mexico. When a routine anti-mass spectrometer experiment triggered a catastrophic \"Resonance Cascade\", dimensional rifts tore open, flooding the complex with hostile alien Xen creatures and ruthless government cleanup commandos. Revolutionizing the genre, the game completely abolished pre-rendered cutscenes: the entire narrative unfolded seamlessly through Freeman's eyes in real-time, uninterrupted by loading pauses or level-clearing score screens.",
+    "reception": "Launching on 19 November 1998, *Half-Life* was showered with over 50 \"Game of the Year\" awards from publications across the planet. *PC Zone* awarded it a staggering 96%, while *PC Gamer* called it the finest shooter ever made. Critics were mesmerized by the cunning artificial intelligence of the Hazardous Environment Combat Unit (HECU) marines, who flanked, flushed Freeman out with grenades, and communicated tactically in real-time.",
+    "impact": "*Half-Life* fundamentally rewritten the grammar of narrative first-person shooters, inspiring every story-driven game that followed from *BioShock* to *Call of Duty*. Furthermore, its flexible engine birthed a golden age of community modding, spawning cultural juggernauts including *Counter-Strike* and *Team Fortress*, and propelled Valve to become the dominant titan of PC gaming.",
+    "wiki": "Half-Life (video game)",
+    "youtube": "Half-Life 1 original 1998 trailer",
+    "source": "https://en.wikipedia.org/wiki/Half-Life_(video_game)"
+  }
+};
 window.ALL_DATA['1998-12'] = {
   "month": "1998-12",
   "region": "UK",
@@ -5654,6 +9799,25 @@ window.ALL_DATA['1998-12'] = {
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, December 1998"
-}
-;
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, December 1998",
+  "gaming": {
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Nintendo 64"
+    ],
+    "genre": "Action-Adventure",
+    "director": "Toru Osawa / Shigeru Miyamoto",
+    "reviewScore": "10/10 (Highest in History)",
+    "reviewQuote": "The greatest video game ever created by human hands. Flawless, magical, and utterly timeless.",
+    "reviewSource": "Edge (Issue 66)",
+    "headline": "Hyrule Field, Z-Targeting, and the Crown Jewel of Gaming",
+    "gameplay": "Supervised by Shigeru Miyamoto, *The Legend of Zelda: Ocarina of Time* translated the open wilderness of Hyrule into full three-dimensional space with unprecedented grace. Following young Link's quest across time—pulling the Master Sword from the Temple of Time to awaken seven years later as an adult—the game solved 3D spatial combat forever by inventing **Z-targeting** (locking onto enemies with circling camera focus). Players galloped across the rolling hills of Hyrule Field on horseback aboard Epona, solved diabolical water level puzzles in the infamous Water Temple, and played melodies on a virtual musical instrument to alter day, night, and weather.",
+    "reception": "Releasing worldwide in late November and December 1998, *Ocarina of Time* received the most ecstatic, reverent reviews in video game history. Renowned UK publication *Edge* awarded it only the second perfect 10/10 in its history, while *Famitsu* bestowed its first-ever 40/40 score. It sold 2.5 million copies in its first 39 days alone, sparking retail shortages that left parents scrambling across the Christmas shopping season.",
+    "impact": "*Ocarina of Time* holds the Guinness World Record as the highest-reviewed video game of all time on Metacritic (99/100). Its groundbreaking innovations—context-sensitive action buttons, lock-on targeting, dynamic horse riding, and sweeping day/night 3D world architecture—became the universal grammar for all modern 3D action-adventure games.",
+    "wiki": "The Legend of Zelda: Ocarina of Time",
+    "youtube": "The Legend of Zelda Ocarina of Time N64 trailer 1998",
+    "source": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time"
+  }
+};

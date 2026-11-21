@@ -205,5 +205,25 @@
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, June 1998"
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, June 1998",
+  "gaming": {
+    "title": "Banjo-Kazooie",
+    "developer": "Rare",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Nintendo 64"
+    ],
+    "genre": "3D Platformer",
+    "director": "Gregg Mayles",
+    "reviewScore": "95%",
+    "reviewQuote": "The new king of 3D platformers. Bursting with charm, razor-sharp design, and musical genius.",
+    "reviewSource": "N64 Magazine (Issue 18)",
+    "headline": "Jigsaw Pieces, Rhyming Witches, and Rare's Golden Age",
+    "gameplay": "Developed by Rare's elite Twycross team led by Gregg Mayles, *Banjo-Kazooie* followed the adventures of mild-mannered honey bear **Banjo** and his sarcastic, red-crested Breegull sidekick **Kazooie** as they ventured to rescue young Tooty from the rhyming witch Gruntilda. The game expanded 3D exploration across nine enormous, interconnected worlds (from the sandy pirate shores of Treasure Trove Cove to the frosty peaks of Freezeezy Peak), with Kazooie providing talon-trots, aerial glides, and rapid-fire egg spitting to overcome obstacles.",
+    "reception": "Released in late June 1998, *Banjo-Kazooie* was greeted with ecstatic reviews, with critics hailing it as the first 3D platformer capable of matching or even surpassing *Super Mario 64*. *N64 Magazine* awarded it 95%, and IGN gave it a 9.6/10. Particular adoration was showered on composer Grant Kirkhope's dynamic, interactive music engine, where background instruments seamlessly morphed in real time as players dipped underwater or crept near enemy lairs.",
+    "impact": "Selling over three million copies, *Banjo-Kazooie* represented the zenith of the late-90s 3D \"collect-a-thon\" platformer, solidifying Rare's status as Nintendo's premier second-party development powerhouse. Its witty dialogue, flawless camera work, and enduring characters cemented it as an indelible classic of the 64-bit generation.",
+    "wiki": "Banjo-Kazooie",
+    "youtube": "Banjo-Kazooie N64 intro 1998",
+    "source": "https://en.wikipedia.org/wiki/Banjo-Kazooie"
+  }
 }

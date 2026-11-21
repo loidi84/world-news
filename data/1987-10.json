@@ -140,5 +140,27 @@
         }
       ]
     }
-  ]
+  ],
+  "gaming": {
+    "title": "Dungeon Master",
+    "developer": "FTL Games",
+    "publisher": "FTL Games",
+    "platforms": [
+      "Atari ST",
+      "Commodore Amiga",
+      "MS-DOS"
+    ],
+    "genre": "Real-Time Dungeon Crawler RPG",
+    "director": "Doug Bell / Dennis Walker",
+    "reviewScore": "96%",
+    "reviewQuote": "Not just a game; it is an incredible sensory shock that makes every other role-playing game look completely primitive.",
+    "reviewSource": "Computer & Video Games (Issue 75)",
+    "headline": "Real-Time Terror in the 16-Bit Deep",
+    "gameplay": "Programmed by Doug Bell and Dennis Walker for the 16-bit Atari ST, *Dungeon Master* dragged fantasy role-playing out of sluggish turn-based menus and thrust it into heart-racing **real-time 3D first-person survival**. Guiding a party of four champions down through the 14-level dungeon of Mount Anaias to retrieve the Firestaff, players had to cast spells on the fly by combining mystical rune symbols, manage physical torches as darkness closed in, and physically dodge charging giant mummies and screeching screamers before their characters starved to death.",
+    "reception": "Released in October 1987, *Dungeon Master* took the computer gaming world by storm. It made stunning use of the Atari ST's Yamaha sound chip, featuring revolutionary directional 3D audio where the skittering claws of giant scorpions could be heard creeping up behind the player's left shoulder. *Computer & Video Games* awarded it 96%, declaring it the single greatest reason to buy a 16-bit computer.",
+    "impact": "*Dungeon Master* became the best-selling Atari ST game of all time, shifting an estimated 40,000 copies in its first year alone and practically driving hardware sales across Europe. Its real-time rune magic system, hunger/thirst survival mechanics, and fluid 3D dungeon movement directly inspired classics from *Eye of the Beholder* to *Ultima Underworld* and *Legend of Grimrock*.",
+    "wiki": "Dungeon Master (video game)",
+    "youtube": "Dungeon Master Atari ST 1987 intro gameplay",
+    "source": "https://en.wikipedia.org/wiki/Dungeon_Master_(video_game)"
+  }
 }

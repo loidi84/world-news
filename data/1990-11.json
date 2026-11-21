@@ -1,0 +1,154 @@
+{
+  "month": "1990-11",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-11-03-unchained-melody-number-one",
+      "date": "1990-11-03",
+      "topic": "music",
+      "text": "3 November saw The Righteous Brothers' 1965 recording of ***Unchained Melody*** hit number one on the UK Singles Chart, twenty-five years after its debut. Propelled by the record-breaking box office run of the romantic fantasy film ***Ghost***, the soulful classic enjoyed a stunning four-week residency at the summit, becoming Britain's **best-selling single of 1990**.",
+      "wiki": "Unchained Melody",
+      "youtube": "The Righteous Brothers Unchained Melody official video 1990",
+      "source": "https://en.wikipedia.org/wiki/Unchained_Melody",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-11-20-margaret-thatcher-leadership-ballot",
+      "date": "1990-11-20",
+      "topic": "politics",
+      "text": "20 November saw Prime Minister **Margaret Thatcher** fail to secure an outright first-round majority in the Conservative Party leadership contest against former defence secretary **Michael Heseltine**. Though winning 204 votes to Heseltine's 152, Thatcher fell four votes short of the required 15% winning margin under party rules, prompting intense cabinet consultations over her **political survival**.",
+      "wiki": "1990 Conservative Party leadership election",
+      "youtube": "Margaret Thatcher leadership ballot Paris November 20 1990",
+      "source": "https://en.wikipedia.org/wiki/1990_Conservative_Party_leadership_election",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-11-21-super-famicom-launch-japan",
+      "date": "1990-11-21",
+      "topic": "tech",
+      "text": "21 November saw Nintendo release the 16-bit **Super Famicom** console in Japan, sparking monumental street queues of over 1.5 million eager customers outside electronics shops across Tokyo. Powered by Ricoh's 16-bit processor, custom Sony audio DSP, and revolutionary Mode 7 scaling hardware, the console debuted alongside two seminal launch titles: ***Super Mario World*** and high-speed hovercraft racer ***F-Zero***.",
+      "wiki": "Super Nintendo Entertainment System",
+      "youtube": "Super Famicom launch day queues Tokyo Japan November 1990 news",
+      "source": "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-11-22-margaret-thatcher-resigns-prime-minister",
+      "date": "1990-11-22",
+      "topic": "politics",
+      "text": "22 November saw **Margaret Thatcher** dramatically announce her resignation as Prime Minister of the United Kingdom after over **11 years in Downing Street**. Having lost the confidence of key cabinet colleagues over the unpopular Poll Tax and European integration, the 'Iron Lady' tearfully departed Number 10, paving the way for Chancellor **John Major** to become Britain's new prime minister.",
+      "wiki": "Margaret Thatcher",
+      "youtube": "Margaret Thatcher resigns Downing Street statement November 22 1990",
+      "source": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-11-22-undertaker-debut-survivor-series",
+      "date": "1990-11-22",
+      "topic": "wrestling",
+      "text": "22 November saw the World Wrestling Federation stage ***Survivor Series 1990*** at the Hartford Civic Center in Connecticut. While Hulk Hogan and The Ultimate Warrior survived the grand finale match, the night was defined by the chilling debut of **The Undertaker** (Mark Calaway) as Ted DiBiase's mystery partner, introduced alongside manager Brother Love before annihilating Koko B. Ware in under **two minutes**.",
+      "wiki": "Survivor Series (1990)",
+      "youtube": "The Undertaker debut Survivor Series 1990 full match",
+      "source": "https://en.wikipedia.org/wiki/Survivor_Series_(1990)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-11-29-un-resolution-678-iraq-ultimatum",
+      "date": "1990-11-29",
+      "topic": "politics",
+      "text": "29 November saw the United Nations Security Council pass **Resolution 678**, issuing an explicit final ultimatum to Saddam Hussein's Iraq. The resolution authorized member states to use **'all necessary means'** to uphold Resolution 660 and expel Iraqi forces from Kuwait unless Iraq completely and unconditionally withdrew its troops by **15 January 1991**.",
+      "wiki": "United Nations Security Council Resolution 678",
+      "youtube": "UN Security Council passes Resolution 678 Iraq ultimatum November 1990",
+      "source": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_678",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (24 November 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Unchained Melody",
+          "by": "The Righteous Brothers"
+        },
+        {
+          "pos": 2,
+          "title": "Fantasy",
+          "by": "Earth, Wind & Fire"
+        },
+        {
+          "pos": 3,
+          "title": "I've Been Thinking About You",
+          "by": "Londonbeat"
+        },
+        {
+          "pos": 4,
+          "title": "To Love Somebody",
+          "by": "Jimmy Somerville"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (November 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Lotus Esprit Turbo Challenge",
+          "by": "Gremlin Graphics"
+        },
+        {
+          "pos": 2,
+          "title": "Teenage Mutant Hero Turtles",
+          "by": "Mirrorsoft"
+        },
+        {
+          "pos": 3,
+          "title": "RoboCop 2",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "Shadow of the Beast II",
+          "by": "Psygnosis"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Super Mario World",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Super Famicom / SNES"
+    ],
+    "genre": "Platformer",
+    "director": "Takashi Tezuka",
+    "reviewScore": "98%",
+    "reviewQuote": "Super Mario World is the finest platform game ever created. Yoshi is an inspired addition, the secret exits are ingenious, and it proves 16-bit gaming has truly arrived.",
+    "reviewSource": "Famitsu / Computer & Video Games",
+    "headline": "Yoshi's Debut, Dinosaur Land, and 96 Exits of 16-Bit Perfection",
+    "gameplay": "Released in Japan on 21 November 1990 alongside the Super Famicom console, *Super Mario World* elevated platform game design to legendary heights. Directed by **Takashi Tezuka** and produced by Shigeru Miyamoto, the game introduced Mario's green dinosaur companion **Yoshi**, capable of swallowing enemies, spitting fireballs, and granting high-jumping mobility. Players explored the vast expanse of Dinosaur Land across **96 distinct exits**, discovering hidden keyhole exits, flying with the Cape Feather, and conquering secret Star World and Special World stages.",
+    "reception": "Japanese critics and import magazines hailed *Super Mario World* as an absolute masterpiece. Reviewers praised its vibrant colour palettes, expressive sprite animations, dynamic Koji Kondo musical themes that rearranged seamlessly when riding Yoshi, and masterclass level design that balanced accessible fun with deviously challenging secret objectives.",
+    "impact": "Selling over 20 million copies worldwide and bundling with Western Super Nintendo hardware in 1991/1992, *Super Mario World* remains a towering benchmark for 2D platforming excellence and one of the most beloved video games ever made.",
+    "wiki": "Super Mario World",
+    "youtube": "Super Mario World Super Famicom 1990 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Super_Mario_World"
+  }
+}

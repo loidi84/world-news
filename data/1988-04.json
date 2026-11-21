@@ -128,5 +128,28 @@
         }
       ]
     }
-  ]
+  ],
+  "gaming": {
+    "title": "R-Type",
+    "developer": "Irem",
+    "publisher": "Irem / Electric Dreams",
+    "platforms": [
+      "Arcade",
+      "Sega Master System",
+      "ZX Spectrum",
+      "Commodore 64"
+    ],
+    "genre": "Horizontal Shoot 'em Up",
+    "director": "Kazuma Kujo",
+    "reviewScore": "94%",
+    "reviewQuote": "The pinnacle of arcade shoot 'em ups. The Force pod mechanic and grotesque Bydo bosses are unmatched.",
+    "reviewSource": "Computer & Video Games (Issue 78)",
+    "headline": "Giger-Esque Nightmares and the Revolutionary Force Pod",
+    "gameplay": "Piloting the sleek experimental **R-9 Arrowhead** starfighter deep into the heart of the mutant biomechanical Bydo Empire, *R-Type* redefined horizontal shoot 'em ups. The game broke away from bullet-hell chaos by introducing surgical, puzzle-like memorization and two revolutionary mechanics: the **Wave Cannon** (holding fire to charge up a searing beam) and the **Force Pod**—an invulnerable glowing sphere that could be docked to the nose or tail of the ship, or launched independently into boss weak points to lay down protective crossfire.",
+    "reception": "Throughout April 1988, *R-Type* was the premier arcade attraction in arcades worldwide, before stunning conversions arrived on Sega's Master System and home computers. Critics gasped at its HR Giger-inspired organic aesthetics—most famously the terrifying giant stage 1 boss Dobkeratops, an alien fetus coiling inside a monstrous chest cavity. *Computer & Video Games* awarded it 94%, praising its tactical depth and immaculate level architecture.",
+    "impact": "*R-Type* is universally recognized as one of the most influential shoot 'em ups ever produced. Its tactical Force pod, charged weaponry, and biological-industrial horror art style influenced decades of horizontal shooters, directly shaping titles like *Gradius*, *Einhander*, and *Ikaruga*.",
+    "wiki": "R-Type",
+    "youtube": "R-Type original arcade 1988 gameplay",
+    "source": "https://en.wikipedia.org/wiki/R-Type"
+  }
 }

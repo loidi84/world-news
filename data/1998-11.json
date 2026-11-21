@@ -161,5 +161,25 @@
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, November 1998"
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, November 1998",
+  "gaming": {
+    "title": "Half-Life",
+    "developer": "Valve",
+    "publisher": "Sierra Studios",
+    "platforms": [
+      "Windows PC"
+    ],
+    "genre": "First-Person Shooter",
+    "director": "Gabe Newell / Marc Laidlaw",
+    "reviewScore": "96%",
+    "reviewQuote": "A revolutionary triumph of immersive storytelling. The tram ride into Black Mesa changes everything.",
+    "reviewSource": "PC Zone (Issue 71)",
+    "headline": "The Resonance Cascade, Crowbars, and the FPS Revolution",
+    "gameplay": "The debut title from Gabe Newell's fledgling studio Valve, *Half-Life* placed players inside the hazard suit of silent theoretical physicist **Gordon Freeman** at the secretive Black Mesa Research Facility in New Mexico. When a routine anti-mass spectrometer experiment triggered a catastrophic \"Resonance Cascade\", dimensional rifts tore open, flooding the complex with hostile alien Xen creatures and ruthless government cleanup commandos. Revolutionizing the genre, the game completely abolished pre-rendered cutscenes: the entire narrative unfolded seamlessly through Freeman's eyes in real-time, uninterrupted by loading pauses or level-clearing score screens.",
+    "reception": "Launching on 19 November 1998, *Half-Life* was showered with over 50 \"Game of the Year\" awards from publications across the planet. *PC Zone* awarded it a staggering 96%, while *PC Gamer* called it the finest shooter ever made. Critics were mesmerized by the cunning artificial intelligence of the Hazardous Environment Combat Unit (HECU) marines, who flanked, flushed Freeman out with grenades, and communicated tactically in real-time.",
+    "impact": "*Half-Life* fundamentally rewritten the grammar of narrative first-person shooters, inspiring every story-driven game that followed from *BioShock* to *Call of Duty*. Furthermore, its flexible engine birthed a golden age of community modding, spawning cultural juggernauts including *Counter-Strike* and *Team Fortress*, and propelled Valve to become the dominant titan of PC gaming.",
+    "wiki": "Half-Life (video game)",
+    "youtube": "Half-Life 1 original 1998 trailer",
+    "source": "https://en.wikipedia.org/wiki/Half-Life_(video_game)"
+  }
 }

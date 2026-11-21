@@ -152,5 +152,27 @@
         }
       ]
     }
-  ]
+  ],
+  "gaming": {
+    "title": "Barbarian: The Ultimate Warrior",
+    "developer": "Palace Software",
+    "publisher": "Palace Software",
+    "platforms": [
+      "Commodore 64",
+      "ZX Spectrum",
+      "Amstrad CPC"
+    ],
+    "genre": "One-on-One Fighting / Hack and Slash",
+    "director": "Steve Brown",
+    "reviewScore": "89%",
+    "reviewQuote": "Fluid animation, savage combat, and that unforgettable decapitation move make this an instant classic.",
+    "reviewSource": "Crash (Issue 42)",
+    "headline": "Swordplay, Decapitations, and Tabloid Outrage",
+    "gameplay": "Designed and animated by Steve Brown—who practised with wooden broadswords in his back garden—*Barbarian: The Ultimate Warrior* pitted two muscular swordsmen in bloody arena combat to rescue Princess Mariana from the evil sorcerer Drax. The game introduced a devastating **flying neck chop**: land the strike cleanly, and your opponent was instantly beheaded while a grinning green goblin jogged into the arena to boot the severed head off-screen like a football.",
+    "reception": "The game became an overnight sensation in June 1987, propelled in part by an audacious publicity campaign featuring page-three glamour model Maria Whittaker and gladiator bodybuilder Michael Van Wijk. Moral campaigner Mary Whitehouse and religious groups called for outright bans, which only fuelled sales. Gaming critics were genuinely impressed by the combat engine: *Zzap!64* awarded it 87% (Sizzler), praising its fluid multi-frame animation, while *Crash* awarded it 89%.",
+    "impact": "*Barbarian* was Palace Software's biggest commercial hit, shifting over 500,000 copies across Europe and proving that controversial marketing paired with tight mechanics could create a cultural lightning rod. Its fluid martial arts animations and instant-kill move helped pave the way for visceral fighting games like *Mortal Kombat* years later.",
+    "wiki": "Barbarian: The Ultimate Warrior",
+    "youtube": "Barbarian The Ultimate Warrior C64 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Barbarian:_The_Ultimate_Warrior"
+  }
 }

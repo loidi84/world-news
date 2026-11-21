@@ -152,5 +152,25 @@
         }
       ]
     }
-  ]
+  ],
+  "gaming": {
+    "title": "Mega Man",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "platforms": [
+      "Nintendo Famicom / NES"
+    ],
+    "genre": "Action Platformer",
+    "director": "Akira Kitamura / Keiji Inafune",
+    "reviewScore": "90%",
+    "reviewQuote": "Brilliant non-linear level choice and punishing, pixel-perfect platforming perfection.",
+    "reviewSource": "Famitsu / Electronic Gaming Monthly",
+    "headline": "The Blue Bomber and the Robot Master Revolution",
+    "gameplay": "Created by a small six-person team led by Akira Kitamura with character art by young artist Keiji Inafune, *Rockman* (released internationally as *Mega Man*) broke radical ground on the Famicom in December 1987. Abandoning strictly linear side-scrolling progression, the game allowed players to tackle its six themed stages in any order: **Cut Man, Guts Man, Ice Man, Bomb Man, Fire Man, and Elec Man**. Defeating a boss granted Mega Man their unique weapon, creating an intricate tactical rock-paper-scissors weakness cycle.",
+    "reception": "Debuting in Japan on 17 December 1987, the game earned glowing praise for its surgical, pixel-perfect jump-and-shoot mechanics and Manami Matsumae's hyper-infectious chiptune soundtrack. While initial commercial sales were modest—hobbled in the West by famously grotesque box art of a middle-aged man in a yellow-and-blue jumpsuit—word of mouth among schoolyards swiftly turned the Blue Bomber into a cult phenomenon.",
+    "impact": "*Mega Man* laid the foundation for one of the most prolific and iconic franchises in video game history, spawning over 50 sequels, spin-offs, and animated series. Its signature mechanics—absorbing boss weapons, non-linear stage selection, and demanding precision platforming—became a gold standard of the 8-bit era.",
+    "wiki": "Mega Man (video game)",
+    "youtube": "Mega Man 1 NES 1987 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Mega_Man_(video_game)"
+  }
 }

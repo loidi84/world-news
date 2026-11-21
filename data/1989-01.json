@@ -1,0 +1,158 @@
+{
+  "month": "1989-01",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-01-07-emperor-hirohito-death",
+      "date": "1989-01-07",
+      "topic": "deaths",
+      "text": "7 January saw the death of **Emperor Hirohito** of Japan at the age of 87, bringing the 62-year **Shōwa era** to a solemn close. His son Crown Prince Akihito immediately acceded to the Chrysanthemum Throne, inaugurating the new imperial era of *Heisei* (\"achieving peace\"). Western nations engaged in intense diplomatic debates over funeral delegations, mindful of lingering wartime memories, while Tokyo came to an absolute standstill as millions mourned.",
+      "wiki": "Hirohito",
+      "youtube": "Emperor Hirohito death news 1989",
+      "source": "https://en.wikipedia.org/wiki/Hirohito",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-01-08-kegworth-air-disaster",
+      "date": "1989-01-08",
+      "topic": "politics",
+      "text": "8 January saw **British Midland Flight 92** crash-land onto the western embankment of the **M1 motorway** near Kegworth, Leicestershire, miraculously missing motorway traffic but tragically claiming 47 lives. The Boeing 737 had suffered an engine fan-blade fracture, but the flight crew tragically shut down the functioning right-hand engine by mistake due to confusing instrument layouts. The disaster led to urgent overhauls in commercial cockpit design and flight-crew communication training.",
+      "wiki": "Kegworth air disaster",
+      "youtube": "Kegworth air disaster 1989 news report",
+      "source": "https://en.wikipedia.org/wiki/Kegworth_air_disaster",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-01-15-royal-rumble-studd",
+      "date": "1989-01-15",
+      "topic": "wrestling",
+      "text": "15 January saw veteran giant **Big John Studd** emerge victorious in the second annual **Royal Rumble** at The Summit in Houston, Texas, last eliminating \"Million Dollar Man\" Ted DiBiase. The match was overshadowed by seismic tension within The Mega Powers, after WWF Champion Randy Savage was inadvertently hurled over the top rope by tag partner Hulk Hogan, sparking a furious mid-ring shouting match that Miss Elizabeth desperately struggled to calm.",
+      "wiki": "Royal Rumble (1989)",
+      "youtube": "Royal Rumble 1989 Hogan eliminates Savage",
+      "source": "https://en.wikipedia.org/wiki/Royal_Rumble_(1989)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-01-20-george-bush-inauguration",
+      "date": "1989-01-20",
+      "topic": "politics",
+      "text": "20 January saw **George H. W. Bush** inaugurated as the 41st President of the United States on the West Front of the US Capitol, succeeding Ronald Reagan. Delivering a quiet, conciliatory address, Bush declared that \"a new breeze is blowing\" and famously pledged to cultivate \"a kinder, gentler nation\" guided by \"a thousand points of light\". The smooth transition ensured Cold War continuity as tensions began thawing across the Soviet sphere.",
+      "wiki": "Inauguration of George H. W. Bush",
+      "youtube": "George HW Bush inauguration speech 1989",
+      "source": "https://en.wikipedia.org/wiki/Inauguration_of_George_H._W._Bush",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-01-22-super-bowl-xxiii-montana",
+      "date": "1989-01-22",
+      "topic": "sport",
+      "text": "22 January saw quarterback **Joe Montana** cement his legend as the **San Francisco 49ers** snatched a dramatic 20–16 victory over the Cincinnati Bengals in Super Bowl XXIII at Joe Robbie Stadium in Miami. Trailing with just over three minutes on the clock, Montana famously pointed out comedian John Candy in the stands to calm his huddle before orchestrating an ice-cold 92-yard drive, hitting John Taylor for the winning touchdown with 34 seconds remaining.",
+      "wiki": "Super Bowl XXIII",
+      "youtube": "Super Bowl 23 Joe Montana John Taylor touchdown 1989",
+      "source": "https://en.wikipedia.org/wiki/Super_Bowl_XXIII",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    },
+    {
+      "id": "1989-01-07-kylie-jason-especially-for-you",
+      "date": "1989-01-07",
+      "topic": "music",
+      "text": "7 January saw *Neighbours* co-stars **Kylie Minogue and Jason Donovan** finally reach number one on the UK Singles Chart with their romantic duet ***Especially for You***. Written and produced by the hit factory Stock Aitken Waterman to capitalise on Scott and Charlene's record-breaking television wedding, the single spent three weeks at the summit, sparking pandemonium among teenage pop fans and shifting over a million physical copies across Britain.",
+      "wiki": "Especially for You",
+      "youtube": "Kylie Minogue Jason Donovan Especially For You Top of the Pops 1989",
+      "source": "https://www.officialcharts.com/songs/kylie-and-jason-especially-for-you/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (7 January 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Especially for You",
+          "by": "Kylie Minogue & Jason Donovan"
+        },
+        {
+          "pos": 2,
+          "title": "First Time",
+          "by": "Robin Beck"
+        },
+        {
+          "pos": 3,
+          "title": "Suddenly",
+          "by": "Angry Anderson"
+        },
+        {
+          "pos": 4,
+          "title": "She Makes My Day",
+          "by": "Robert Palmer"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (January 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Operation Wolf",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Target; Renegade",
+          "by": "Imagine"
+        },
+        {
+          "pos": 4,
+          "title": "Daley Thompson's Olympic Challenge",
+          "by": "Ocean Software"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "RoboCop",
+    "developer": "Ocean Software",
+    "publisher": "Ocean Software",
+    "platforms": [
+      "ZX Spectrum",
+      "Commodore 64",
+      "Amstrad CPC",
+      "Atari ST",
+      "Amiga"
+    ],
+    "genre": "Side-Scrolling Action / Shoot 'em Up",
+    "director": "Mike Lamb",
+    "reviewScore": "94% Crash Smash",
+    "reviewQuote": "A jaw-dropping masterpiece of film adaptation. Speech, target practice, and devastating firepower.",
+    "reviewSource": "Crash (Issue 60)",
+    "headline": "Part Man, Part Machine, All-Time Best Seller",
+    "gameplay": "Adapted from Paul Verhoeven's ultraviolent sci-fi classic, *RoboCop* put players in the heavy titanium boots of officer Alex Murphy patrolling the crime-ridden streets of dystopian Old Detroit. Programmed by Mike Lamb with art by Ronnie Fowles, the game mixed punchy horizontal street-level shooting with first-person shooting gallery interludes and photographic identikit hostage rescues, punctuated by digitized speech shouts of **\"Drop it!\"** and **\"Thank you for your cooperation.\"**",
+    "reception": "Arriving on UK home micros in January 1989 following Christmas distribution delays, *RoboCop* was greeted with rapturous critical acclaim. *Crash* stamped it with a 94% \"Crash Smash\", *Sinclair User* awarded it 95%, and *Zzap!64* awarded it 89%. Critics praised its gritty, cinematic atmosphere and Jonathan Dunn's iconic, melancholy title theme on the 128K Spectrum and Game Boy.",
+    "impact": "*RoboCop* became a legendary commercial phenomenon, spending a record-breaking **75 consecutive weeks** in the UK top ten charts and selling over one million copies across Europe. It proved that licensed film adaptations could become the absolute pinnacle of home computer gaming.",
+    "wiki": "RoboCop (1988 video game)",
+    "youtube": "RoboCop ZX Spectrum 1989 gameplay",
+    "source": "https://en.wikipedia.org/wiki/RoboCop_(1988_video_game)"
+  }
+}

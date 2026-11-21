@@ -1,0 +1,145 @@
+{
+  "month": "1989-09",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-09-22-deal-barracks-bombing",
+      "date": "1989-09-22",
+      "topic": "politics",
+      "text": "22 September saw a devastating Provisional IRA bomb detonate inside the recreational centre at the **Royal Marines School of Music** in Deal, Kent. The timed 15-pound gelignite explosion caused the three-storey barracks building to collapse completely, killing **11 young bandsmen** and injuring 21 others. The tragedy sparked widespread national mourning across Britain, culminating in a poignant memorial parade through Deal by surviving bandsmen leaving empty spaces in their marching ranks.",
+      "wiki": "Deal barracks bombing",
+      "youtube": "Deal barracks bombing ITN news September 1989",
+      "source": "https://en.wikipedia.org/wiki/Deal_barracks_bombing",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-09-21-hurricane-hugo-carolinas",
+      "date": "1989-09-21",
+      "topic": "science",
+      "text": "21 September saw catastrophic **Hurricane Hugo** make landfall at Sullivan's Island near Charleston, South Carolina, as an intense Category 4 hurricane packing sustained winds of 140 mph. After devastating Guadeloupe, Montserrat, and Puerto Rico, the storm carved a path of devastation through the southeastern United States, causing over $10 billion in damage (the costliest Atlantic hurricane in US history at the time) and resulting in 67 direct fatalities.",
+      "wiki": "Hurricane Hugo",
+      "youtube": "Hurricane Hugo CBS news Dan Rather September 1989",
+      "source": "https://en.wikipedia.org/wiki/Hurricane_Hugo",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-09-29-dead-poets-society-uk-release",
+      "date": "1989-09-29",
+      "topic": "film",
+      "text": "29 September saw Peter Weir's acclaimed drama ***Dead Poets Society*** open in British cinemas, starring **Robin Williams** in an Oscar-nominated performance as unconventional English teacher John Keating at a conservative 1950s New England prep boarding school. Urging his students to \"seize the day\" (*Carpe diem*) and stand on their desks to look at the world from a different perspective, the emotionally charged film grossed over $235 million and popularized the immortal classroom salute: **\"O Captain! My Captain!\"**",
+      "wiki": "Dead Poets Society",
+      "youtube": "Dead Poets Society O Captain My Captain scene 1989",
+      "source": "https://en.wikipedia.org/wiki/Dead_Poets_Society",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-09-02-black-box-ride-on-time-number-one",
+      "date": "1989-09-02",
+      "topic": "music",
+      "text": "2 September saw Italian house music trio **Black Box** ascend to number one on the UK Singles Chart with their unstoppable piano-house anthem ***Ride on Time***. Built around a soaring, uncredited vocal sample of American singer Loleatta Holloway's 1980 disco track *Love Sensation*, the euphoric rave staple held the UK top spot for six consecutive weeks, becoming the best-selling single of 1989 in the United Kingdom despite subsequent copyright lawsuits.",
+      "wiki": "Ride on Time",
+      "youtube": "Black Box Ride On Time Top of the Pops 1989",
+      "source": "https://www.officialcharts.com/songs/black-box-ride-on-time/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-09-17-seattle-sounders-championship",
+      "date": "1989-09-17",
+      "topic": "sport",
+      "text": "17 September saw the high-stakes sports drama conclude as British middle-distance runner **Sebastian Coe** confirmed his retirement from professional athletics following a farewell competition in Rome. The two-time Olympic 1500m gold medallist hung up his spikes as one of the most decorated track legends in sporting history, having set eight outdoor and three indoor world records in a storied career that defined Britain's golden era of 1980s athletics.",
+      "wiki": "Sebastian Coe",
+      "youtube": "Sebastian Coe athletics career BBC documentary",
+      "source": "https://en.wikipedia.org/wiki/Sebastian_Coe",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (16 September 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Ride on Time",
+          "by": "Black Box"
+        },
+        {
+          "pos": 2,
+          "title": "Swing the Mood",
+          "by": "Jive Bunny and the Mastermixers"
+        },
+        {
+          "pos": 3,
+          "title": "Right Here Waiting",
+          "by": "Richard Marx"
+        },
+        {
+          "pos": 4,
+          "title": "The Best",
+          "by": "Tina Turner"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (September 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Untouchables",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Ghostbusters II",
+          "by": "Activision"
+        },
+        {
+          "pos": 4,
+          "title": "Shinobi",
+          "by": "Virgin Mastertronic"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Prince of Persia",
+    "developer": "Brøderbund",
+    "publisher": "Brøderbund",
+    "platforms": [
+      "Apple II",
+      "MS-DOS PC",
+      "Amiga",
+      "Atari ST"
+    ],
+    "genre": "Cinematic Platformer",
+    "director": "Jordan Mechner",
+    "reviewScore": "96%",
+    "reviewQuote": "Astonishing, lifelike human rotoscoped animation. Leaping across crumbling flagstones and duelling palace guards is pure swashbuckling magic.",
+    "reviewSource": "Computer Gaming World",
+    "headline": "Rotoscoped Swashbuckling, Pressure Plates, and 60 Minutes to Live",
+    "gameplay": "Created almost single-handedly over several obsessive years by young designer Jordan Mechner on the Apple II, *Prince of Persia* birthed the **cinematic platformer**. Imprisoned in the Sultan's sprawling dungeon by the treacherous Grand Vizier Jaffar, the nameless protagonist had exactly **60 real-time minutes** to escape and rescue the captive Princess. Mechner revolutionized video game traversal by filming his teenage brother running, jumping, and clambering in white clothes, meticulously tracing the film frames using **rotoscoping** to produce eerily lifelike human movement.",
+    "reception": "Releasing in late 1989, *Prince of Persia* stunned the software industry with its physical realism and deadly puzzle precision. Unlike twitchy arcade jumpers, the Prince had realistic momentum: falling from great heights proved fatal, while stepping on hidden pressure plates triggered slicing steel jaws, wall darts, and falling flagstones. Critics showered its sword-duelling mechanics and cinematic tension with rave reviews.",
+    "impact": "*Prince of Persia* became a global gaming phenomenon, ported to dozens of home systems and selling over two million copies. It established the cinematic platformer genre, directly paving the way for classics like *Another World* and *Flashback*, and spawned the multi-million-selling modern *Sands of Time* and *Assassin's Creed* dynasties.",
+    "wiki": "Prince of Persia (1989 video game)",
+    "youtube": "Prince of Persia Apple II 1989 original gameplay",
+    "source": "https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game)"
+  }
+}

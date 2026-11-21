@@ -128,5 +128,26 @@
         }
       ]
     }
-  ]
+  ],
+  "gaming": {
+    "title": "Snatcher",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "platforms": [
+      "PC-8801",
+      "MSX2"
+    ],
+    "genre": "Cyberpunk Graphic Adventure / Visual Novel",
+    "director": "Hideo Kojima",
+    "reviewScore": "92%",
+    "reviewQuote": "A dark, mature interactive neo-noir detective thriller that elevates game storytelling into high cinematic art.",
+    "reviewSource": "MSX Magazine / Famitsu",
+    "headline": "Neo-Kobe Cyberpunk and Kojima's Cinematic Ambition",
+    "gameplay": "Conceived and scripted by Hideo Kojima, *Snatcher* took heavy inspiration from Ridley Scott's *Blade Runner* and James Cameron's *The Terminator*. Set in the neon-soaked, post-apocalyptic metropolis of **Neo Kobe City**, the game cast players as Gillian Seed, an amnesiac detective assigned to the anti-cyberoid taskforce JUNKER. Accompanied by his robotic support navigator Metal Gear Mk. II, Gillian investigated a string of gruesome murders committed by \"Snatchers\"—synthetic androids that killed VIP citizens and stole their skins to infiltrate human society.",
+    "reception": "Released in Japan across the PC-8801 and MSX2 formats in September 1988, *Snatcher* stunned critics with its unprecedented literary depth, moody chiptune jazz soundtrack, and sharp comedic banter. Kojima combined first-person graphic adventure deduction with fast-paced shooting gallery gunfights, creating a narrative pace far superior to conventional Japanese text adventures of the period.",
+    "impact": "Though initially restricted to Japanese personal computers before receiving a legendary Mega-CD translation in 1994, *Snatcher* is recognized as a pioneering triumph in interactive storytelling. It showcased Kojima's obsession with cinematic framing, adult themes, and existential science fiction, establishing themes he would explore for decades in the *Metal Gear* saga.",
+    "wiki": "Snatcher (video game)",
+    "youtube": "Snatcher PC-8801 original 1988 intro",
+    "source": "https://en.wikipedia.org/wiki/Snatcher_(video_game)"
+  }
 }

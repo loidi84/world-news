@@ -1,0 +1,142 @@
+{
+  "month": "1990-02",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-02-11-nelson-mandela-released",
+      "date": "1990-02-11",
+      "topic": "politics",
+      "text": "11 February saw anti-apartheid leader **Nelson Mandela** walk out of Victor Verster Prison near Paarl, South Africa, a free man after **27 years of imprisonment**. Hand-in-hand with his wife Winnie, the 71-year-old African National Congress icon raised a clenched fist to roaring crowds and a global television audience of millions, declaring that his release was only the beginning of the struggle to completely dismantle apartheid and establish universal democratic franchise.",
+      "wiki": "Nelson Mandela",
+      "youtube": "Nelson Mandela walks free from prison February 1990 BBC",
+      "source": "https://en.wikipedia.org/wiki/Nelson_Mandela",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-02-11-buster-douglas-knocks-out-mike-tyson",
+      "date": "1990-02-11",
+      "topic": "sport",
+      "text": "11 February saw 42-to-1 underdog **Buster Douglas** pull off the greatest upset in boxing history by knocking out undisputed, undefeated heavyweight champion **Mike Tyson** in the 10th round at the Tokyo Dome in Japan. Despite being dropped in the eighth round, Douglas out-jabbed \"Iron Mike\" and unleashed a devastating four-punch combination in the tenth, sending Tyson scrambling across the canvas for his mouthpiece to claim the undisputed world championship.",
+      "wiki": "Mike Tyson vs. Buster Douglas",
+      "youtube": "Mike Tyson vs Buster Douglas 10th round knockout 1990",
+      "source": "https://en.wikipedia.org/wiki/Mike_Tyson_vs._Buster_Douglas",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-02-14-pale-blue-dot-voyager-1",
+      "date": "1990-02-14",
+      "topic": "science",
+      "text": "14 February saw NASA's deep-space probe **Voyager 1**, operating 3.7 billion miles from the sun, turn its camera back toward the inner solar system to capture the historic **\"Pale Blue Dot\"** photograph. Taken at the urgent request of astronomer Carl Sagan, the image revealed planet Earth as a fragile, lonely speck of light less than a single pixel in size, suspended in the vast cosmic dark and inspiring Sagan's celebrated meditation on human humility.",
+      "wiki": "Pale Blue Dot",
+      "youtube": "Carl Sagan Pale Blue Dot original speech",
+      "source": "https://en.wikipedia.org/wiki/Pale_Blue_Dot",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-02-25-wrestlewar-1990-horsemen-turn-on-sting",
+      "date": "1990-02-25",
+      "topic": "wrestling",
+      "text": "25 February saw NWA *WrestleWar 1990* in Greensboro, North Carolina, ignite a furious feud when **The Four Horsemen** brutally betrayed rising star **Sting**. After Sting earned the number-one contendership to Ric Flair's NWA World Heavyweight Championship and refused to step aside, Flair, Arn Anderson, and Ole Anderson jumped Sting in a savage backstage ambush, kicking him out of the faction and triggering months of heated championship warfare.",
+      "wiki": "WrestleWar (1990)",
+      "youtube": "Four Horsemen kick Sting out WrestleWar 1990",
+      "source": "https://en.wikipedia.org/wiki/WrestleWar_(1990)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-02-24-beats-international-dub-be-good-to-me",
+      "date": "1990-02-24",
+      "topic": "music",
+      "text": "24 February saw Norman Cook's electronic collective **Beats International** climb to number one on the UK Singles Chart with ***Dub Be Good to Me***. Featuring lead vocals from Lindy Layton and borrowing the iconic bassline from The Clash's *The Guns of Brixton*, the breezy dub-reggae crossover held the top spot for four consecutive weeks and served as the international launchpad for Cook's subsequent mega-career as Fatboy Slim.",
+      "wiki": "Dub Be Good to Me",
+      "youtube": "Beats International Dub Be Good To Me Top of the Pops 1990",
+      "source": "https://www.officialcharts.com/songs/beats-international-dub-be-good-to-me/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (24 February 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Dub Be Good to Me",
+          "by": "Beats International"
+        },
+        {
+          "pos": 2,
+          "title": "Nothing Compares 2 U",
+          "by": "Sinéad O'Connor"
+        },
+        {
+          "pos": 3,
+          "title": "Get Up! (Before the Night Is Over)",
+          "by": "Technotronic"
+        },
+        {
+          "pos": 4,
+          "title": "Enjoy the Silence",
+          "by": "Depeche Mode"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (February 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Chase H.Q.",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Batman: The Movie",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "Ghouls 'n Ghosts",
+          "by": "US Gold"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Dragon Quest IV: Chapters of the Chosen",
+    "developer": "Chunsoft",
+    "publisher": "Enix",
+    "platforms": [
+      "Nintendo Famicom / NES"
+    ],
+    "genre": "Role-Playing Game (JRPG)",
+    "director": "Yuji Horii",
+    "reviewScore": "37/40",
+    "reviewQuote": "An episodic narrative marvel. Splitting the epic across distinct character chapters was a stroke of storytelling genius.",
+    "reviewSource": "Famitsu",
+    "headline": "Five Chapters, Autonomous AI, and Horii's Narrative Peak",
+    "gameplay": "Penned by writer Yuji Horii with character art by Akira Toriyama, *Dragon Quest IV* broke radical ground for 8-bit console RPGs by adopting an **episodic, multi-chapter narrative structure**. Instead of controlling a single band of heroes from start to finish, the first four chapters followed separate characters with unique playstyles—Ragnar McRyan the soldier, Princess Alena the martial artist, Torneko Taloon the merchant running his own shop, and Meena and Maya seeking vengeance—before Chapter Five united all companions under the Hero to battle Psaro the Manslayer.",
+    "reception": "Launching in Japan on 11 February 1990, *Dragon Quest IV* was greeted with massive, orderly weekend queues outside retail outlets. Critics showered praise on its innovative **Tactics AI system**, where party members acted autonomously based on behavioral doctrines assigned by the player. It sold over three million copies in Japan alone within months.",
+    "impact": "*Dragon Quest IV* revolutionized video game storytelling by proving that console games could handle intricate ensemble character arcs, multiple perspectives, and tactical automated combat routines. It remains celebrated as one of the finest role-playing accomplishments of the 8-bit era.",
+    "wiki": "Dragon Quest IV",
+    "youtube": "Dragon Quest 4 Famicom 1990 intro gameplay",
+    "source": "https://en.wikipedia.org/wiki/Dragon_Quest_IV"
+  }
+}

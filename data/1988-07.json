@@ -128,5 +128,28 @@
         }
       ]
     }
-  ]
+  ],
+  "gaming": {
+    "title": "The NewZealand Story",
+    "developer": "Taito",
+    "publisher": "Taito / Ocean Software",
+    "platforms": [
+      "Arcade",
+      "Commodore 64",
+      "Amiga",
+      "ZX Spectrum"
+    ],
+    "genre": "Platformer",
+    "director": "Kazutomo Ishida",
+    "reviewScore": "92%",
+    "reviewQuote": "Unbelievably charming, fiendishly difficult, and packed with hidden secret warps. An arcade masterpiece.",
+    "reviewSource": "Crash (Issue 68)",
+    "headline": "A Sneaker-Wearing Kiwi and the Great Maze Escape",
+    "gameplay": "Starring **Tiki the Kiwi**—a bright yellow flightless bird sporting red sneakers—*The NewZealand Story* sent players on a daring rescue mission across Auckland and the North Island to liberate his kiwi brethren from a villainous blue leopard seal. Beyond running and firing arrows, Tiki could hijack balloons, floating rubber ducks, mechanical blimps, and alien UFOs to navigate sprawling, multi-tiered maze levels, discovering hidden spatial warps and battling gigantic robotic whales from within their digestive tracts.",
+    "reception": "Landing in arcades in July 1988 before making its celebrated journey to home computers via Ocean Software, the game was adored by critics and coin-op regulars alike. Its deceptively cute cartoon visuals masked an uncompromising, razor-sharp difficulty curve that demanded pinpoint accuracy. *Zzap!64* awarded the home conversion a 91% Sizzler, while *Crash* gave it 92%, calling it one of the most imaginative platformers of the decade.",
+    "impact": "*The NewZealand Story* became one of Taito's signature arcade triumphs alongside *Bubble Bobble* and *Rainbow Islands*, proving that colourful, character-driven platform adventures could dominate arcade floors. It remains a beloved staple of the golden age of coin-ops and home micro conversions.",
+    "wiki": "The NewZealand Story",
+    "youtube": "The NewZealand Story arcade 1988 gameplay",
+    "source": "https://en.wikipedia.org/wiki/The_NewZealand_Story"
+  }
 }

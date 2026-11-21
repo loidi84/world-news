@@ -128,5 +128,29 @@
         }
       ]
     }
-  ]
+  ],
+  "gaming": {
+    "title": "Operation Wolf",
+    "developer": "Taito",
+    "publisher": "Ocean Software / Taito",
+    "platforms": [
+      "Arcade",
+      "ZX Spectrum",
+      "Commodore 64",
+      "Amstrad CPC",
+      "Amiga"
+    ],
+    "genre": "Rail Shooter / Light Gun",
+    "director": "Ocean Software (Programming Team)",
+    "reviewScore": "94% Crash Smash",
+    "reviewQuote": "A masterstroke of conversion programming. Relentless, blistering combat that pushes home hardware to the limit.",
+    "reviewSource": "Crash (Issue 60)",
+    "headline": "Uzi Recoil, Jungle Extraction, and Christmas Sales Domination",
+    "gameplay": "Adapted from Taito's coin-op smash featuring an arcade Uzi with real physical motor recoil, *Operation Wolf* charged players with infiltrating a heavily fortified tropical prison camp to rescue hostages. Across six gruelling operations—Communication Setup, Jungle Camp, Village, Powder Magazine, Prison, and Airport Runway—players sprayed machine gun fire and hurled explosive grenades at charging enemy infantry, patrol boats, armored gunships, and armored cars, while exercising trigger discipline to avoid shooting fleeing unarmed civilian nurses.",
+    "reception": "Ocean Software's 8-bit and 16-bit home conversions arrived in December 1988 to monumental critical and commercial acclaim. *Crash* awarded it 94%, *Sinclair User* gave it 93%, and *Zzap!64* stamped it with 91%. Critics marvelled at how smoothly the fast-paced scrolling arcade action translated to home micros without losing its intense arcade punch. It cleaned up at the Golden Joystick Awards, winning **Game of the Year 1988**.",
+    "impact": "*Operation Wolf* became the fastest-selling video game in UK history over the Christmas 1988 period, spending months locked at #1 across Europe. It set the definitive standard for military rail shooters, directly inspiring franchises like *Time Crisis* and *Virtua Cop*.",
+    "wiki": "Operation Wolf",
+    "youtube": "Operation Wolf ZX Spectrum 1988",
+    "source": "https://en.wikipedia.org/wiki/Operation_Wolf"
+  }
 }

@@ -173,5 +173,25 @@
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, August 1998"
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, August 1998",
+  "gaming": {
+    "title": "Tenchu: Stealth Assassins",
+    "developer": "Acquire",
+    "publisher": "Sony Music Entertainment / Activision",
+    "platforms": [
+      "Sony PlayStation"
+    ],
+    "genre": "Stealth / Ninja Action",
+    "director": "Takuma Endo",
+    "reviewScore": "90%",
+    "reviewQuote": "Grappling hooks, moonlit feudal rooftops, and silent, bloody stealth kills. The definitive ninja simulator.",
+    "reviewSource": "Official PlayStation Magazine (Issue 36)",
+    "headline": "Grappling Hooks, Rooftop Shadows, and Feudal Assassination",
+    "gameplay": "Developed by Japanese studio Acquire, *Tenchu: Stealth Assassins* cast players as ninja operatives Rikimaru and Ayame of the Azuma Ninja Clan in 16th-century feudal Japan. Equipped with a versatile **ninja grappling hook**, players scaled moonlit pagoda roofs, crouched in bamboo groves, threw poisoned rice dumplings to distract guard dogs, and executed gruesome, cinematic **stealth kills** on unsuspecting samurai from the shadows.",
+    "reception": "Releasing in August 1998 in the West following its initial Japanese launch, *Tenchu* earned glowing reviews for its atmospheric feudal immersion, Noriyuki Asakura's haunting traditional vocal soundtrack, and its strict stealth scoring system, which penalized clumsy direct combat while rewarding players who completed missions entirely undetected with grandmaster ninja status.",
+    "impact": "Arriving right alongside *Metal Gear Solid*, *Tenchu* helped cement 1998 as the landmark year of the 3D stealth genre. Its signature mechanics—3D grappling hooks, dynamic detection meters, and instant-kill stealth takedowns—directly laid the gameplay foundation for modern ninja and stealth classics, including FromSoftware's *Sekiro: Shadows Die Twice* (which originated as a *Tenchu* prototype).",
+    "wiki": "Tenchu: Stealth Assassins",
+    "youtube": "Tenchu Stealth Assassins PS1 1998 intro",
+    "source": "https://en.wikipedia.org/wiki/Tenchu:_Stealth_Assassins"
+  }
 }

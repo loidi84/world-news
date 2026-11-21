@@ -140,5 +140,27 @@
         }
       ]
     }
-  ]
+  ],
+  "gaming": {
+    "title": "Driller",
+    "developer": "Incentive Software",
+    "publisher": "Incentive Software",
+    "platforms": [
+      "ZX Spectrum",
+      "Commodore 64",
+      "Amstrad CPC"
+    ],
+    "genre": "3D Puzzle Adventure / Exploration",
+    "director": "Major Developments (Ian Andrew / Chris Valentyne)",
+    "reviewScore": "96% Gold Award",
+    "reviewQuote": "A breathtaking technical milestone. True solid 3D worlds running on an 8-bit computer seemed impossible until today.",
+    "reviewSource": "Zzap!64 (Issue 33)",
+    "headline": "The Solid 3D Freescape Miracle on 8-Bit Tape",
+    "gameplay": "Set on the abandoned gas-logged moon of **Mitral**, *Driller* tasked players with navigating a heavy exploration rig across 18 dangerous sectors to deploy drilling rigs and avert a cataclysmic volcanic eruption. The game was built upon the revolutionary **Freescape engine**, developed by Chris Valentyne and Ian Andrew. While contemporary 3D was limited to transparent wireframes (like *Elite*), Freescape rendered solid, flat-shaded polygon buildings, ramps, and observation towers in real time, granting players full freedom to look up, down, roll, and explore.",
+    "reception": "When *Driller* arrived in UK shops in November 1987, British games magazines lost their collective minds over its technical wizardry. *Crash* stamped it with a 96% \"Crash Smash\", *Zzap!64* gave it a 96% \"Gold Award\", and *Sinclair User* awarded it 95%. Critics marvelled that humble home micros with just 48K or 64K of RAM could render solid, shaded geometric architecture with such mathematical elegance.",
+    "impact": "*Driller* established Incentive Software as pioneers of first-person perspective environments, spawning a line of Freescape titles including *Dark Side* and *Castle Master*. It stands in gaming history as the direct technological grandfather of first-person shooters and 3D virtual worlds, proving that full 360-degree polygonal exploration was achievable years before *Wolfenstein 3D*.",
+    "wiki": "Driller (video game)",
+    "youtube": "Driller ZX Spectrum Freescape 1987",
+    "source": "https://en.wikipedia.org/wiki/Driller_(video_game)"
+  }
 }

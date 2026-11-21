@@ -169,5 +169,26 @@
       ]
     }
   ],
-  "chartSource": "Supplied page: C&VG, November 1996"
+  "chartSource": "Supplied page: C&VG, November 1996",
+  "gaming": {
+    "title": "Command & Conquer: Red Alert",
+    "developer": "Westwood Studios",
+    "publisher": "Virgin Interactive",
+    "platforms": [
+      "MS-DOS PC",
+      "Windows 95"
+    ],
+    "genre": "Real-Time Strategy (RTS)",
+    "director": "Brett Sperry / Eydie Laramore",
+    "reviewScore": "94%",
+    "reviewQuote": "Albert Einstein, Soviet Mammoth Tanks, and Hell March. Westwood has delivered the definitive PC strategy experience.",
+    "reviewSource": "PC Gamer (Issue 37)",
+    "headline": "Time Travel, Mammoth Tanks, and the Thumping Hell March",
+    "gameplay": "Developed by Westwood Studios in Las Vegas, *Command & Conquer: Red Alert* plunged players into an alternate timeline where Albert Einstein used a chrono-displacement device to assassinate Adolf Hitler in 1924, inadvertently unleashing an unchecked Soviet Union under Joseph Stalin to invade Western Europe. Players chose between the technologically cunning **Allies** (Chronospheres, GPS satellites, Tanya Adams) and the brute mechanized strength of the **Soviets** (Mammoth Tanks, Tesla Coils, Iron Curtain invulnerability).",
+    "reception": "Releasing in November 1996, *Red Alert* became an astronomical commercial smash on PC, shifting over 1.5 million copies in its first month alone. Critics praised its campy live-action FMV cutscenes starring Frank Klepacki's legendary industrial metal track **\"Hell March\"**, while local LAN and modem multiplayer turned dorm rooms and offices into late-night tank-rush warzones.",
+    "impact": "*Red Alert* cemented Westwood Studios alongside Blizzard as the twin rulers of the real-time strategy golden age. Its fast-paced base building, instant unit queues, and irresistible alternate-history swagger established it as one of the most beloved PC strategy games of all time.",
+    "wiki": "Command & Conquer: Red Alert",
+    "youtube": "Command and Conquer Red Alert 1 intro 1996",
+    "source": "https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert"
+  }
 }

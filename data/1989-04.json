@@ -1,0 +1,142 @@
+{
+  "month": "1989-04",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-04-02-wrestlemania-v-mega-powers-explode",
+      "date": "1989-04-02",
+      "topic": "wrestling",
+      "text": "2 April saw **WrestleMania V** pack 18,946 fans into Trump Plaza in Atlantic City, New Jersey, headlined by the climactic showdown: **\"The Mega Powers Explode\"**. With Miss Elizabeth stationed in a neutral corner, **Hulk Hogan** survived Macho Man's flying elbow drop to \"Hulk Up\" and pin **Randy Savage**, capturing his second WWF World Heavyweight Championship and closing out the most lucrative, year-long storyline in wrestling history.",
+      "wiki": "WrestleMania V",
+      "youtube": "Hulk Hogan vs Randy Savage WrestleMania 5 1989",
+      "source": "https://en.wikipedia.org/wiki/WrestleMania_V",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-04-15-hillsborough-disaster",
+      "date": "1989-04-15",
+      "topic": "sport",
+      "text": "15 April saw Britain's worst sporting disaster unfold at **Hillsborough Stadium** in Sheffield during the FA Cup semi-final between Liverpool and Nottingham Forest. Catastrophic police crowd mismanagement led to thousands of fans being directed into already overcrowded standing pens behind the Leppings Lane goal, causing a lethal crush that resulted in the deaths of **95 Liverpool supporters** (later rising to 97) and injuries to over 700. The tragedy transformed British football stadium safety, leading to the landmark Taylor Report and the introduction of all-seater stadiums.",
+      "wiki": "Hillsborough disaster",
+      "youtube": "Hillsborough disaster BBC news April 1989",
+      "source": "https://en.wikipedia.org/wiki/Hillsborough_disaster",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-04-21-game-boy-launch-japan",
+      "date": "1989-04-21",
+      "topic": "tech",
+      "text": "21 April saw Nintendo officially release the **Game Boy** handheld console in Japan, designed by legendary hardware engineer **Gunpei Yokoi**. Foregoing high-power battery-hungry colour screens in favour of a low-cost, durable grey-scale LCD screen powered by four AA batteries, the system launched alongside *Super Mario Land* and *Tetris*, selling out its initial 300,000 unit manufacturing run in a single day and creating the modern portable gaming industry.",
+      "wiki": "Game Boy",
+      "youtube": "Nintendo Game Boy Japan launch 1989 commercial",
+      "source": "https://en.wikipedia.org/wiki/Game_Boy",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-04-18-tiananmen-protests-begin",
+      "date": "1989-04-18",
+      "topic": "politics",
+      "text": "18 April saw thousands of university students march into **Tiananmen Square** in Beijing following the death of reformist Communist Party official Hu Yaobang. Calling for freedom of speech, freedom of the press, democratic governance, and an end to official corruption, the peaceful vigil rapidly swelled into a nationwide protest movement, with students launching hunger strikes that seized the world's attention.",
+      "wiki": "1989 Tiananmen Square protests and massacre",
+      "youtube": "Tiananmen Square protests April 1989 news",
+      "source": "https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-04-15-the-bangles-eternal-flame-number-one",
+      "date": "1989-04-15",
+      "topic": "music",
+      "text": "15 April saw American all-female pop-rock quartet **The Bangles** claim the UK number one spot with their tender acoustic ballad ***Eternal Flame***. Sung with impassioned vulnerability by frontwoman Susanna Hoffs, the single dethroned Madonna's *Like a Prayer* and remained at the top of the British charts for four weeks, becoming one of the most enduring power ballads of the late 1980s.",
+      "wiki": "Eternal Flame (song)",
+      "youtube": "The Bangles Eternal Flame Top of the Pops 1989",
+      "source": "https://www.officialcharts.com/songs/bangles-eternal-flame/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (22 April 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Eternal Flame",
+          "by": "The Bangles"
+        },
+        {
+          "pos": 2,
+          "title": "Like a Prayer",
+          "by": "Madonna"
+        },
+        {
+          "pos": 3,
+          "title": "Baby I Don't Care",
+          "by": "Transvision Vamp"
+        },
+        {
+          "pos": 4,
+          "title": "If You Don't Know Me by Now",
+          "by": "Simply Red"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (April 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Operation Wolf",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Treasure Island Dizzy",
+          "by": "Codemasters"
+        },
+        {
+          "pos": 4,
+          "title": "MicroProse Soccer",
+          "by": "MicroProse"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Super Mario Land",
+    "developer": "Nintendo R&D1",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Game Boy"
+    ],
+    "genre": "Platformer",
+    "director": "Hiroji Kiyotake / Gunpei Yokoi",
+    "reviewScore": "90%",
+    "reviewQuote": "Mario in the palm of your hand! A magical, surreal portable adventure that makes the Game Boy essential.",
+    "reviewSource": "Famitsu / Computer & Video Games",
+    "headline": "Sarasaland, Submarines, and Mario Goes Portable",
+    "gameplay": "Directed by Hiroji Kiyotake and produced by Game Boy creator Gunpei Yokoi, *Super Mario Land* served as the premier showcase launch title for Nintendo's new handheld. Diverging wildly from the Mushroom Kingdom, the game was set in the exotic, mythological realms of **Sarasaland** (Birabuto, Muda, Easton, and Chai). Mario dodged exploding Koopas, piloted a yellow submarine (the Marine Pop) and airplane (the Sky Pop) in scrolling shoot 'em up stages, and hurled bouncing Superballs to rescue Princess Daisy from the alien invader Tatanga.",
+    "reception": "Releasing alongside the Game Boy on 21 April 1989 in Japan, *Super Mario Land* was an instant triumph. Gamers were captivated by having full, responsive Mario platforming in the palm of their hand. Hirokazu Tanaka's infectious, jaunty chiptune score became an instant earworm, and the game drove massive hardware sales across Tokyo electronics districts.",
+    "impact": "Selling an eye-watering **18.14 million copies**, *Super Mario Land* established the Game Boy as a pop-culture juggernaut, introduced Princess Daisy to the Nintendo universe, and proved that full-fledged, top-tier platforming adventures could thrive on pocket-sized portable screens.",
+    "wiki": "Super Mario Land",
+    "youtube": "Super Mario Land Game Boy 1989 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Super_Mario_Land"
+  }
+}

@@ -128,5 +128,27 @@
         }
       ]
     }
-  ]
+  ],
+  "gaming": {
+    "title": "F-19 Stealth Fighter",
+    "developer": "MicroProse",
+    "publisher": "MicroProse",
+    "platforms": [
+      "MS-DOS PC",
+      "Amiga",
+      "Atari ST"
+    ],
+    "genre": "Combat Flight Simulator",
+    "director": "Sid Meier / Andy Hollis",
+    "reviewScore": "94%",
+    "reviewQuote": "A technical masterpiece of geopolitics and aviation. Sneaking past Soviet radar networks is sheer, sweating tension.",
+    "reviewSource": "Computer Gaming World",
+    "headline": "Cold War Intrigue Months Ahead of the Pentagon",
+    "gameplay": "Co-designed by legendary programmer Sid Meier and flight sim engineer Andy Hollis, *F-19 Stealth Fighter* tackled one of the military's most guarded secrets: radar-deflecting stealth aviation. Working entirely from speculative aviation rumors—months before the Pentagon officially acknowledged the real F-117 Nighthawk in late 1988—the simulator plunged pilots into tense Cold War missions across the Persian Gulf, North Cape, Central Europe, and Libya. The core gameplay relied on tracking the aircraft's **radar cross-section**, flying under enemy radar cones, managing electronic countermeasures, and completing covert strikes without igniting World War III.",
+    "reception": "Released for PC MS-DOS in June 1988, *F-19* was hailed by military aviation enthusiasts and gaming journalists as a monumental leap forward for PC gaming. Reviewers lauded its sophisticated 3D vector landscape rendering, deep procedural mission debriefings, and authentic geopolitical depth. *Computer Gaming World* named it the Simulation of the Year.",
+    "impact": "*F-19 Stealth Fighter* cemented MicroProse's reputation as the preeminent flight simulation studio of the PC era and propelled Sid Meier into mainstream design stardom. Remarkably accurate in its aerodynamic and radar evasion theories despite being coded in total secrecy, it remains a high watermark of late-Cold War computing culture.",
+    "wiki": "F-19 Stealth Fighter",
+    "youtube": "F-19 Stealth Fighter PC MS-DOS 1988",
+    "source": "https://en.wikipedia.org/wiki/F-19_Stealth_Fighter"
+  }
 }

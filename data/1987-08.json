@@ -152,5 +152,25 @@
         }
       ]
     }
-  ]
+  ],
+  "gaming": {
+    "title": "Street Fighter",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "platforms": [
+      "Arcade"
+    ],
+    "genre": "One-on-One Fighting",
+    "director": "Takashi Nishiyama / Hiroshi Matsumoto",
+    "reviewScore": "85%",
+    "reviewQuote": "Pneumatic smash pads and secret special moves turn street brawling into an arcade spectator sport.",
+    "reviewSource": "Computer & Video Games (Arcade Action)",
+    "headline": "The Secret Moves That Ignited Competitive Fighting",
+    "gameplay": "Directed by Takashi Nishiyama, Capcom's original *Street Fighter* arcade cabinet introduced wandering martial artist **Ryu** (and player two rival **Ken**) battling across five nations to defeat Muay Thai champion Sagat. The original deluxe cabinet featured revolutionary pneumatic rubber strike pads that detected the physical strength of the player's fist—punching harder delivered heavy damage—before being replaced by the standard six-button layout. Crucially, the game pioneered secret motion-input special moves: the **Hadoken**, **Shoryuken**, and **Tatsumaki Senpukyaku**.",
+    "reception": "Arriving in arcades in August 1987, the game drew boisterous crowds around cabinets. Players swapped hushed playground rumours about how to reliably trigger Ryu's devastating Dragon Punch, which could wipe out two-thirds of an opponent's life bar in a single blow. While critics noted the stiff timing required for inputs, the kinetic spectacle and digitized voice shouts captivated arcade-goers worldwide.",
+    "impact": "Though vastly eclipsed by its epochal 1991 sequel *Street Fighter II*, the 1987 original laid down the architectural grammar of competitive fighting games: six-button attack hierarchies, motion-based special attacks, and two-player head-to-head cabinet play. Nishiyama and Matsumoto subsequently took their fighting design philosophy to SNK to create *Fatal Fury* and *The King of Fighters*.",
+    "wiki": "Street Fighter (video game)",
+    "youtube": "Street Fighter 1 original arcade 1987",
+    "source": "https://en.wikipedia.org/wiki/Street_Fighter_(video_game)"
+  }
 }

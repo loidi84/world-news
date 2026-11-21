@@ -1,0 +1,145 @@
+{
+  "month": "1989-03",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-03-12-tim-berners-lee-world-wide-web",
+      "date": "1989-03-12",
+      "topic": "tech",
+      "text": "12 March saw British computer scientist **Tim Berners-Lee** submit a modest academic proposal titled *Information Management: A Proposal* while working at the CERN physics laboratory in Switzerland. Describing a decentralized network linking text documents using hypertext links over the Internet, his supervisor Mike Sendall famously scrawled **\"Vague but exciting...\"** across the cover. The document laid the architectural blueprint for what became the **World Wide Web**.",
+      "wiki": "History of the World Wide Web",
+      "youtube": "Tim Berners-Lee invents World Wide Web BBC archive",
+      "source": "https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-03-24-exxon-valdez-oil-spill",
+      "date": "1989-03-24",
+      "topic": "science",
+      "text": "24 March saw the supertanker ***Exxon Valdez*** run aground on Bligh Reef in Alaska's Prince William Sound, rupturing its hull and discharging nearly 11 million gallons of crude oil into pristine Arctic waters. The environmental catastrophe blackened over 1,300 miles of coastline, killing hundreds of thousands of seabirds, otters, and seals, sparking worldwide outrage over corporate negligence and fundamentally reshaping maritime environmental legislation.",
+      "wiki": "Exxon Valdez oil spill",
+      "youtube": "Exxon Valdez oil spill ABC News March 1989",
+      "source": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-03-26-soviet-congress-elections",
+      "date": "1989-03-26",
+      "topic": "politics",
+      "text": "26 March saw the Soviet Union hold its first multi-candidate national elections for the **Congress of People's Deputies**, marking Mikhail Gorbachev's historic implementation of *demokratizatsiya*. In a devastating blow to the Communist Party establishment, reformists, dissidents, and anti-corruption crusaders—most notably **Boris Yeltsin** and Andrei Sakharov—swept major urban constituencies, setting the stage for democratic upheaval across the USSR.",
+      "wiki": "1989 Soviet Union legislative election",
+      "youtube": "1989 Soviet elections Boris Yeltsin news",
+      "source": "https://en.wikipedia.org/wiki/1989_Soviet_Union_legislative_election",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-03-03-madonna-like-a-prayer",
+      "date": "1989-03-03",
+      "topic": "music",
+      "text": "3 March saw **Madonna** premiere the music video for ***Like a Prayer***, igniting one of the fiercest cultural firestorms of the decade. Featuring burning crucifixes, stigmata, and a romantic narrative with a saintly Black icon, the video drew furious condemnation from the Vatican and prompted Pepsi to scrap a multi-million-dollar global sponsorship deal. Undeterred, the single shot directly to number one in the UK and US, staying atop the UK chart for three weeks.",
+      "wiki": "Like a Prayer (song)",
+      "youtube": "Madonna Like a Prayer official video 1989",
+      "source": "https://www.officialcharts.com/songs/madonna-like-a-prayer/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-03-25-jason-donovan-too-many-broken-hearts",
+      "date": "1989-03-25",
+      "topic": "music",
+      "text": "25 March saw Australian pop heartthrob **Jason Donovan** score his first solo UK number one single with the Stock Aitken Waterman-penned dance track ***Too Many Broken Hearts***. Filmed on location along the sun-drenched beaches of Sydney, the upbeat single spent two weeks at the summit of the charts and confirmed Donovan's status alongside Kylie Minogue as the reigning royalty of late-1980s teen pop.",
+      "wiki": "Too Many Broken Hearts",
+      "youtube": "Jason Donovan Too Many Broken Hearts TOTP 1989",
+      "source": "https://www.officialcharts.com/songs/jason-donovan-too-many-broken-hearts/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (25 March 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Too Many Broken Hearts",
+          "by": "Jason Donovan"
+        },
+        {
+          "pos": 2,
+          "title": "Like a Prayer",
+          "by": "Madonna"
+        },
+        {
+          "pos": 3,
+          "title": "Help!",
+          "by": "Bananarama & Lananeeneenoonoo"
+        },
+        {
+          "pos": 4,
+          "title": "Leave Me Alone",
+          "by": "Michael Jackson"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (March 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Last Ninja 2",
+          "by": "System 3"
+        },
+        {
+          "pos": 3,
+          "title": "Operation Wolf",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "After Burner",
+          "by": "Activision"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "SimCity",
+    "developer": "Maxis",
+    "publisher": "Maxis / Brøderbund",
+    "platforms": [
+      "Macintosh",
+      "Amiga",
+      "Atari ST",
+      "MS-DOS PC"
+    ],
+    "genre": "City-Building Simulation",
+    "director": "Will Wright",
+    "reviewScore": "95%",
+    "reviewQuote": "Hypnotically addictive. You don't play this game; you live inside its intricate economic and urban rhythms.",
+    "reviewSource": "Computer Gaming World",
+    "headline": "Mayors, Power Grids, and the Birth of System Simulation",
+    "gameplay": "Created by visionary designer Will Wright and co-founded with entrepreneur Jeff Braun at Maxis, *SimCity* introduced players to the revolutionary art of urban planning. Given an empty parcel of land, players acted as Mayor and City Planner: zoning residential, commercial, and industrial districts, routing power grids and roads, levying tax rates, managing crime rates, and occasionally triggering catastrophic earthquakes or rampaging monsters to test emergency disaster services.",
+    "reception": "Initially rejected by publishers who argued that a game with \"no win condition\" would bore players, *SimCity* became a staggering critical sensation upon its early 1989 release. Critics marveled at its living, breathing emergent systems, where traffic jams, pollution plumes, and property values reacted dynamically to player decisions. Publications praised it as a triumph of software engineering and public education.",
+    "impact": "*SimCity* pioneered the simulation genre, demonstrating that non-linear, open-ended systems could achieve massive mainstream commercial success. It spawned an iconic multi-million-selling franchise and laid the design philosophy for Will Wright's subsequent creations, culminating in *The Sims* a decade later.",
+    "wiki": "SimCity (1989 video game)",
+    "youtube": "SimCity 1989 original Mac PC gameplay",
+    "source": "https://en.wikipedia.org/wiki/SimCity_(1989_video_game)"
+  }
+}

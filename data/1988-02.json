@@ -197,5 +197,25 @@
       ]
     }
   ],
-  "chartSource": "Official Charts Company / Gallup UK charts, February 1988"
+  "chartSource": "Official Charts Company / Gallup UK charts, February 1988",
+  "gaming": {
+    "title": "Dragon Quest III: The Seeds of Salvation",
+    "developer": "Chunsoft",
+    "publisher": "Enix",
+    "platforms": [
+      "Nintendo Famicom"
+    ],
+    "genre": "Turn-Based Role-Playing Game (JRPG)",
+    "director": "Yuji Horii",
+    "reviewScore": "38/40",
+    "reviewQuote": "An epic masterpiece of mythic proportions that practically caused a nationwide standstill across Japan.",
+    "reviewSource": "Famitsu",
+    "headline": "Akihabara Queues, Police Interventions, and a National Phenomenon",
+    "gameplay": "Created by writer Yuji Horii with character designs by *Dragon Ball* manga artist Akira Toriyama and a symphonic score by Koichi Sugiyama, *Dragon Quest III* expanded the 8-bit RPG horizon. Casting players as the son of the legendary hero Ortega, it introduced party customization at Patty's Party Planning Place, a full **vocation class system** (Warrior, Mage, Priest, Martial Artist, Merchant, Gadabout, and Sage), day/night cycles where monster behavior shifted after sunset, and a shocking late-game twist that linked its map directly to the kingdom of Alefgard from the first game.",
+    "reception": "The game's release on Wednesday, 10 February 1988 triggered unprecedented scenes across Japan. Over 300,000 school students, teenagers, and office workers skipped their obligations to join massive queues stretching blocks around major electronics stores in Akihabara. Japanese police arrested or cautioned over 300 youths for truancy, and widespread muggings for cartridges prompted Japanese authorities to formally ask Enix to only release subsequent franchise entries on weekends.",
+    "impact": "*Dragon Quest III* sold 3.8 million copies in Japan, solidifying the series as Japan's undisputed national video game obsession. Its vocation mechanics directly inspired *Final Fantasy III* and *V*, and its sweeping narrative blueprint established the golden age conventions of Japanese RPGs.",
+    "wiki": "Dragon Quest III",
+    "youtube": "Dragon Quest 3 Famicom 1988 launch",
+    "source": "https://en.wikipedia.org/wiki/Dragon_Quest_III"
+  }
 }

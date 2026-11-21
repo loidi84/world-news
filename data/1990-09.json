@@ -1,0 +1,143 @@
+{
+  "month": "1990-09",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-09-10-fresh-prince-of-bel-air-premiere",
+      "date": "1990-09-10",
+      "topic": "film",
+      "text": "10 September saw NBC broadcast the series premiere of the groundbreaking sitcom ***The Fresh Prince of Bel-Air***. Starring 21-year-old Philadelphia hip-hop star **Will Smith** as a street-smart teenager sent to live with his wealthy relatives in California, the show became an immediate transatlantic hit, celebrated for addressing race, class, and family dynamics with infectious humour and **iconic 1990s fashion**.",
+      "wiki": "The Fresh Prince of Bel-Air",
+      "youtube": "The Fresh Prince of Bel-Air original 1990 theme song and intro",
+      "source": "https://en.wikipedia.org/wiki/The_Fresh_Prince_of_Bel-Air",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-09-12-two-plus-four-agreement-signed",
+      "date": "1990-09-12",
+      "topic": "politics",
+      "text": "12 September saw the foreign ministers of East Germany, West Germany, France, the Soviet Union, the United Kingdom, and the United States sign the historic **Two Plus Four Agreement** in Moscow. Officially titled the *Treaty on the Final Settlement with Respect to Germany*, the accord renounced all four-power occupation rights and paved the legal path for full **German reunification** as a sovereign **democratic nation**.",
+      "wiki": "Treaty on the Final Settlement with Respect to Germany",
+      "youtube": "Two Plus Four Treaty signing Moscow September 12 1990",
+      "source": "https://en.wikipedia.org/wiki/Treaty_on_the_Final_Settlement_with_Respect_to_Germany",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-09-15-the-joker-number-one-levis",
+      "date": "1990-09-15",
+      "topic": "music",
+      "text": "15 September saw American rock group The Steve Miller Band soar to number one on the UK Singles Chart with ***The Joker***, sixteen years after its original 1973 release. Powered by Hugh Johnson's wildly stylish **Levi's 501 jeans television commercial** featuring motorcycle-riding star Peter Carey, the resurrected track spent two weeks atop the **British charts**.",
+      "wiki": "The Joker (song)",
+      "youtube": "Levis 501 The Joker commercial 1990 Steve Miller Band",
+      "source": "https://en.wikipedia.org/wiki/The_Joker_(song)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-09-19-goodfellas-cinema-release",
+      "date": "1990-09-19",
+      "topic": "film",
+      "text": "19 September saw Martin Scorsese's biographical crime drama ***Goodfellas*** open in North American cinemas before its international rollout. Starring Ray Liotta, Robert De Niro, and **Joe Pesci**, the visceral adaptation of Nicholas Pileggi's *Wiseguy* was hailed as an instant cinematic masterpiece for its kinetic camera movements, freeze frames, and unvarnished portrait of **American mafia life**.",
+      "wiki": "Goodfellas",
+      "youtube": "Goodfellas original theatrical trailer 1990 Martin Scorsese",
+      "source": "https://en.wikipedia.org/wiki/Goodfellas",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-09-29-washington-national-cathedral-complete",
+      "date": "1990-09-29",
+      "topic": "science",
+      "text": "29 September saw the final decorative finial placed on the **Washington National Cathedral**, marking the formal completion of the world's sixth-largest cathedral after **83 years of construction**. Initiated in 1907 with a foundation stone laid by President Theodore Roosevelt, the Neo-Gothic landmark was officially dedicated in the presence of President **George H.W. Bush**.",
+      "wiki": "Washington National Cathedral",
+      "youtube": "Washington National Cathedral completion September 1990 dedication",
+      "source": "https://en.wikipedia.org/wiki/Washington_National_Cathedral",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (22 September 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Joker",
+          "by": "The Steve Miller Band"
+        },
+        {
+          "pos": 2,
+          "title": "Groove Is in the Heart",
+          "by": "Deee-Lite"
+        },
+        {
+          "pos": 3,
+          "title": "Four Bacharach & David Songs (EP)",
+          "by": "Deacon Blue"
+        },
+        {
+          "pos": 4,
+          "title": "I've Been Thinking About You",
+          "by": "Londonbeat"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (September 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "RoboCop 2",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Teenage Mutant Hero Turtles",
+          "by": "Mirrorsoft"
+        },
+        {
+          "pos": 3,
+          "title": "Kick Off 2",
+          "by": "Anco Software"
+        },
+        {
+          "pos": 4,
+          "title": "Shadow of the Beast II",
+          "by": "Psygnosis"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Wing Commander",
+    "developer": "Origin Systems",
+    "publisher": "Origin Systems",
+    "platforms": [
+      "MS-DOS",
+      "Amiga"
+    ],
+    "genre": "Space Combat Simulation",
+    "director": "Chris Roberts",
+    "reviewScore": "96%",
+    "reviewQuote": "Wing Commander is a monumental leap forward in PC entertainment. The graphics are simply stunning and the cinematic atmosphere makes you feel like you are genuinely living inside a sci-fi blockbuster.",
+    "reviewSource": "Computer Gaming World",
+    "headline": "Dogfights in the Kilrathi Void, 256 VGA Colours, and Cinematic PC Greatness",
+    "gameplay": "Released on 26 September 1990 for MS-DOS computers, *Wing Commander* revolutionised space combat gaming. Designed and directed by **Chris Roberts**, the game cast players as a rookie starfighter pilot aboard the carrier *TCS Tiger's Claw*, battling the predatory feline Kilrathi empire. Roberts pioneered dynamic bitmap sprite scaling to simulate full 3D space dogfights, paired with interactive shipboard cockpit views, wingman tactical radio commands, and a **branching mission tree** where failure in battle redirected the campaign without ending the game.",
+    "reception": "Demanding state-of-the-art 386 processors, 256-colour VGA displays, and Sound Blaster audio cards, *Wing Commander* astonished contemporary critics. Publications hailed its living, breathing shipboard environment—where pilots gossiped in the officer's bar and attended military funeral ceremonies for fallen wingmen—as the pinnacle of computer gaming immersion.",
+    "impact": "The game sparked a legendary multi-million-selling franchise, accelerated PC hardware upgrades across the world, and established Origin Systems' famous studio motto: 'We Create Worlds'.",
+    "wiki": "Wing Commander (video game)",
+    "youtube": "Wing Commander 1990 PC DOS intro and gameplay",
+    "source": "https://en.wikipedia.org/wiki/Wing_Commander_(video_game)"
+  }
+}

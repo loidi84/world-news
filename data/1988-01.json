@@ -140,5 +140,27 @@
         }
       ]
     }
-  ]
+  ],
+  "gaming": {
+    "title": "Platoon",
+    "developer": "Ocean Software",
+    "publisher": "Ocean Software",
+    "platforms": [
+      "Commodore 64",
+      "ZX Spectrum",
+      "Amstrad CPC"
+    ],
+    "genre": "Multi-Genre Action / Movie Adaptation",
+    "director": "Zach Townsend",
+    "reviewScore": "91% Sizzler",
+    "reviewQuote": "A stunning, atmospheric triumph that captures the claustrophobia and raw tension of Oliver Stone's cinematic masterpiece.",
+    "reviewSource": "Zzap!64 (Issue 34)",
+    "headline": "Jungle Traps, Underground Tunnels, and Ocean's Hollywood Triumph",
+    "gameplay": "Programmed by Zach Townsend and based on Oliver Stone's Oscar-winning Vietnam war film, *Platoon* translated cinematic drama into a multi-stage tour de force across four distinct gameplay styles: navigating deadly jungle mazes while dodging tripwires and camouflaged snipers, exploring pitch-black underground tunnel complexes in a revolutionary first-person pseudo-3D perspective, defending a night-time perimeter village, and fighting through a storm-lashed bunker complex to settle the score with the treacherous Sergeant Barnes.",
+    "reception": "Hitting UK high streets in January 1988, *Platoon* became an immediate critical and commercial juggernaut. *Zzap!64* stamped it with a 91% \"Sizzler\", praising its haunting musical score and intense atmospheric dread, while *Crash* awarded it 88% and *Computer & Video Games* praised its cinematic variety with 89%. It shot directly to the top of the UK sales charts across Spectrum, Commodore 64, and Amstrad formats.",
+    "impact": "*Platoon* established Manchester-based Ocean Software as the undisputed global kings of the Hollywood movie tie-in, demonstrating that licensed games could deliver exceptional, multi-genre design rather than cheap cash-ins. It paved the way for Ocean's subsequent blockbuster adaptations including *RoboCop* and *Batman*.",
+    "wiki": "Platoon (video game)",
+    "youtube": "Platoon C64 game 1988",
+    "source": "https://en.wikipedia.org/wiki/Platoon_(video_game)"
+  }
 }

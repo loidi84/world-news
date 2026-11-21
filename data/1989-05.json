@@ -1,0 +1,144 @@
+{
+  "month": "1989-05",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-05-02-hungary-dismantles-border-fence",
+      "date": "1989-05-02",
+      "topic": "politics",
+      "text": "2 May saw Hungarian border guards begin physically dismantling the electrified barbed-wire fence along the **Austrian border**, tearing the first tangible hole through the **Iron Curtain**. As images of border posts being snipped with wire-cutters broadcast across Europe, thousands of East German citizens seized the opportunity to travel to Hungary under the guise of holidays, creating an irreversible refugee corridor to the West that hastened the collapse of the Soviet bloc.",
+      "wiki": "Removal of Hungary's border fence with Austria",
+      "youtube": "Hungary dismantles border fence May 1989 news",
+      "source": "https://en.wikipedia.org/wiki/Removal_of_Hungary%27s_border_fence_with_Austria",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-05-26-arsenal-title-anfield-michael-thomas",
+      "date": "1989-05-26",
+      "topic": "sport",
+      "text": "26 May saw the most dramatic title decider in English football history as **Arsenal** defeated Liverpool 2–0 at Anfield to steal the First Division championship in the dying seconds. Arsenal needed to win by two clear goals; with seconds remaining on the clock, midfielder **Michael Thomas** burst through the midfield, slipped past Steve Nicol, and delicately flicked the ball over Bruce Grobbelaar, prompting commentator Brian Moore's immortal cry: **\"It's up for grabs now!\"**",
+      "wiki": "Liverpool 0–2 Arsenal (26 May 1989)",
+      "youtube": "Michael Thomas goal Liverpool 0-2 Arsenal 1989 Brian Moore",
+      "source": "https://en.wikipedia.org/wiki/Liverpool_0%E2%80%932_Arsenal_(26_May_1989)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-05-07-ric-flair-steamboat-wrestlewar",
+      "date": "1989-05-07",
+      "topic": "wrestling",
+      "text": "7 May saw **Ric Flair** defeat **Ricky \"The Dragon\" Steamboat** at NWA *WrestleWar 1989* in Nashville, Tennessee, regaining the NWA World Heavyweight Championship and concluding their legendary 1989 match trilogy, widely hailed as the greatest technical series in wrestling history. The post-match celebration erupted into chaos when special judge **Terry Funk** brutally attacked Flair, pile-driving him through an announcer's table to ignite their bloody feud.",
+      "wiki": "WrestleWar (1989)",
+      "youtube": "Ric Flair vs Ricky Steamboat WrestleWar 1989 Terry Funk",
+      "source": "https://en.wikipedia.org/wiki/WrestleWar_(1989)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-05-13-ferry-cross-the-mersey-hillsborough-single",
+      "date": "1989-05-13",
+      "topic": "music",
+      "text": "13 May saw a star-studded charity ensemble featuring **Paul McCartney, Gerry Marsden, Holly Johnson, and The Christians** top the UK Singles Chart with a poignant re-recording of ***Ferry Cross the Mersey***. Produced by Stock Aitken Waterman following the Hillsborough disaster, the track held the number-one spot for three consecutive weeks, raising over a million pounds for the disaster appeal fund and serving as an emotional anthem of solidarity across Merseyside.",
+      "wiki": "Ferry Cross the Mersey",
+      "youtube": "Ferry Cross the Mersey Hillsborough charity single 1989",
+      "source": "https://www.officialcharts.com/songs/the-christians-holly-johnson-paul-mccartney-gerry-marsden-ferry-cross-the-mersey/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-05-24-indiana-jones-last-crusade-premiere",
+      "date": "1989-05-24",
+      "topic": "film",
+      "text": "24 May saw Steven Spielberg and George Lucas release ***Indiana Jones and the Last Crusade*** in cinemas, pairing Harrison Ford with legendary former James Bond star **Sean Connery** as Indy's cantankerous father, Professor Henry Jones. Bursting with banter, Holy Grail lore, motorcycle sidecars, and desert tank battles, the blockbuster grossed over $474 million, becoming the highest-earning film of 1989 worldwide.",
+      "wiki": "Indiana Jones and the Last Crusade",
+      "youtube": "Indiana Jones and the Last Crusade trailer 1989",
+      "source": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (20 May 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Ferry Cross the Mersey",
+          "by": "The Christians, Holly Johnson, Paul McCartney, Gerry Marsden"
+        },
+        {
+          "pos": 2,
+          "title": "Manchild",
+          "by": "Neneh Cherry"
+        },
+        {
+          "pos": 3,
+          "title": "Eternal Flame",
+          "by": "The Bangles"
+        },
+        {
+          "pos": 4,
+          "title": "Lullaby",
+          "by": "The Cure"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (May 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "The NewZealand Story",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "MicroProse Soccer",
+          "by": "MicroProse"
+        },
+        {
+          "pos": 4,
+          "title": "Run the Gauntlet",
+          "by": "Ocean Software"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Populous",
+    "developer": "Bullfrog Productions",
+    "publisher": "Electronic Arts",
+    "platforms": [
+      "Commodore Amiga",
+      "Atari ST",
+      "MS-DOS PC"
+    ],
+    "genre": "God Game / Real-Time Strategy",
+    "director": "Peter Molyneux",
+    "reviewScore": "95%",
+    "reviewQuote": "An astonishing flash of genius. Shaping landscapes and guiding miniature civilizations makes you feel truly omnipotent.",
+    "reviewSource": "The Games Machine (Issue 19)",
+    "headline": "Divine Intervention and the Invention of the God Game",
+    "gameplay": "Conceived by Peter Molyneux and coded with Les Edgar at Guildford-based studio Bullfrog Productions, *Populous* birthed the **\"god game\"** genre. Viewed from an isometric 3D perspective, players took on the role of a divine deity directly manipulating terrain: raising flat land for miniature tribal followers to cultivate houses, lowering mountains, and directing them into holy war against rival non-believers. As mana gathered, divine powers were unleashed: raining volcanic fireballs, earthquakes, plagues, and summoning a devastating **Armageddon** to draw all living survivors into a final battle.",
+    "reception": "Releasing for 16-bit computers in May 1989, *Populous* became an overwhelming critical and commercial triumph. Critics gasped at its brilliant emergent artificial intelligence, intuitive mouse-driven terraforming, and pioneering two-player modem/null-cable multiplayer. *The Games Machine* awarded it 95%, and it swept industry honours, winning multiple Game of the Year awards.",
+    "impact": "Selling over four million copies, *Populous* saved Bullfrog from bankruptcy, launched Peter Molyneux into international design superstardom, and founded the god game and simulation genre that gave rise to *SimCity*, *Theme Park*, *Dungeon Keeper*, and *Black & White*.",
+    "wiki": "Populous (video game)",
+    "youtube": "Populous Amiga 1989 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Populous_(video_game)"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "month": "1990-04",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-04-01-wrestlemania-vi-ultimate-challenge",
+      "date": "1990-04-01",
+      "topic": "wrestling",
+      "text": "1 April saw a deafening crowd of 67,678 fans pack the Toronto SkyDome for **WrestleMania VI**, headlined by the historic title-for-title clash: **\"The Ultimate Challenge\"**. Intercontinental Champion **The Ultimate Warrior** defeated WWF World Heavyweight Champion **Hulk Hogan** cleanly after dodging a leg drop and hitting his signature running splash. In an emotional, era-defining post-match moment, Hogan handed the world championship belt to Warrior and raised his hand in respect.",
+      "wiki": "WrestleMania VI",
+      "youtube": "Hulk Hogan vs Ultimate Warrior WrestleMania 6 1990",
+      "source": "https://en.wikipedia.org/wiki/WrestleMania_VI",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-04-24-hubble-space-telescope-launch",
+      "date": "1990-04-24",
+      "topic": "science",
+      "text": "24 April saw NASA successfully deploy the **Hubble Space Telescope** into low Earth orbit aboard Space Shuttle *Discovery* (mission STS-31) from Kennedy Space Center, Florida. Designed to observe the cosmos free from the distorting effects of the Earth's atmosphere, the $1.5 billion observatory soon revealed a devastating spherical aberration in its primary mirror, sparking public controversy that was triumphantly resolved three years later by a daring space shuttle repair mission.",
+      "wiki": "Hubble Space Telescope",
+      "youtube": "Hubble Space Telescope launch STS-31 April 1990",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-04-08-twin-peaks-premiere",
+      "date": "1990-04-08",
+      "topic": "film",
+      "text": "8 April saw ABC broadcast the pilot episode of David Lynch and Mark Frost's surreal mystery series ***Twin Peaks***, captivating television audiences with the iconic query: **\"Who killed Laura Palmer?\"** Starring Kyle MacLachlan as coffee-and-cherry-pie-loving FBI Special Agent Dale Cooper, the atmospheric Pacific Northwest drama combined quirky soap opera melodrama with terrifying supernatural horror and Angelo Badalamenti's haunting synth score, radically transforming modern episodic television.",
+      "wiki": "Twin Peaks",
+      "youtube": "Twin Peaks pilot opening 1990",
+      "source": "https://en.wikipedia.org/wiki/Twin_Peaks",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-04-14-madonna-vogue-number-one",
+      "date": "1990-04-14",
+      "topic": "music",
+      "text": "14 April saw **Madonna** score her seventh UK number one single with the deep-house dance track ***Vogue***. Inspired by the underground Harlem ballroom drag scene, the track's dramatic spoken-word breakdown celebrating golden-age Hollywood legends (Marilyn Monroe, James Dean, Marlon Brando) and David Fincher's sleek, black-and-white music video turned \"voguing\" into a global dance craze, spending four weeks atop the British charts.",
+      "wiki": "Vogue (Madonna song)",
+      "youtube": "Madonna Vogue official music video 1990",
+      "source": "https://www.officialcharts.com/songs/madonna-vogue/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-04-22-earth-day-twentieth-anniversary",
+      "date": "1990-04-22",
+      "topic": "science",
+      "text": "22 April saw over **200 million people across 141 countries** participate in the 20th anniversary of **Earth Day**, marking the moment the environmental movement became a truly global political phenomenon. With mass recycling drives, tree-planting campaigns, and rallies from London to Tokyo, the worldwide mobilization gave tremendous momentum to the 1992 United Nations Earth Summit in Rio de Janeiro.",
+      "wiki": "Earth Day",
+      "youtube": "Earth Day 1990 global news report",
+      "source": "https://en.wikipedia.org/wiki/Earth_Day",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (21 April 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Vogue",
+          "by": "Madonna"
+        },
+        {
+          "pos": 2,
+          "title": "The Power",
+          "by": "Snap!"
+        },
+        {
+          "pos": 3,
+          "title": "Love Shack",
+          "by": "The B-52's"
+        },
+        {
+          "pos": 4,
+          "title": "Kingston Town",
+          "by": "UB40"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (April 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Rainbow Islands",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Chase H.Q.",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Puzznic",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "Batman: The Movie",
+          "by": "Ocean Software"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Final Fantasy III",
+    "developer": "Square",
+    "publisher": "Square",
+    "platforms": [
+      "Nintendo Famicom"
+    ],
+    "genre": "Role-Playing Game (JRPG)",
+    "director": "Hironobu Sakaguchi",
+    "reviewScore": "36/40",
+    "reviewQuote": "A towering high-water mark for the 8-bit Famicom. The job-switching system and summon magic are perfection.",
+    "reviewSource": "Famitsu",
+    "headline": "Job Classes, Summoned Monsters, and the 8-Bit Crystal Peak",
+    "gameplay": "Directed by Hironobu Sakaguchi with battle programming by Nasir Gebelli and an iconic soundtrack by Nobuo Uematsu, *Final Fantasy III* took the 8-bit Famicom to its absolute technical limits. Following four orphan youths blessed by the Wind Crystal, the game introduced the revolutionary **Job System**, allowing players to freely reassign character classes mid-game across 22 vocations (including White Mage, Dragoon, Ninja, and Sage). It was also the very first entry to introduce **Summon Magic**, allowing casters to call Bahamut, Shiva, and Ifrit directly into battle.",
+    "reception": "Releasing in Japan on 27 April 1990, *Final Fantasy III* was hailed as a tour de force, pushing past the limitations of the aging Famicom hardware with sprawling multi-tier airships (the *Invincible*) and breathtaking visual detail. It sold 1.4 million cartridges in Japan, solidifying Square as Enix's fiercest rival in the golden age of JRPGs.",
+    "impact": "*Final Fantasy III* established the flexible job-changing mechanics and summon beast lore that became permanent hallmarks of the franchise, directly paving the way for the masterpiece *Final Fantasy V* and the global explosion of the series on 16-bit and 32-bit platforms.",
+    "wiki": "Final Fantasy III",
+    "youtube": "Final Fantasy 3 Famicom 1990 commercial and intro",
+    "source": "https://en.wikipedia.org/wiki/Final_Fantasy_III"
+  }
+}

@@ -161,5 +161,25 @@
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, April 1998"
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, April 1998",
+  "gaming": {
+    "title": "Unreal",
+    "developer": "Epic MegaGames / Digital Extremes",
+    "publisher": "GT Interactive",
+    "platforms": [
+      "Windows PC"
+    ],
+    "genre": "First-Person Shooter",
+    "director": "Tim Sweeney / Cliff Bleszinski",
+    "reviewScore": "94%",
+    "reviewQuote": "A technical miracle. Walking out of the prison ship into that vast, breathing alien world will leave you speechless.",
+    "reviewSource": "PC Zone (Issue 64)",
+    "headline": "Na Pali Vistas, 3dfx Glories, and the Engine That Built Modern Gaming",
+    "gameplay": "Stepping into the boots of escaped convict Prisoner 849, *Unreal* began inside the groaning wreckage of the crashed prison ship *Vortex Rikers* on the mysterious alien world of **Na Pali**. Engineered by coding savant Tim Sweeney with level design by Cliff Bleszinski, the game delivered jaw-dropping 3D scale: stepping through the ship's emergency hatch revealed expansive open-air valleys, shimmering translucent water surfaces, coloured volumetric lighting, and grazing alien wildlife, all defended by cunning, side-dodging Skaarj predators.",
+    "reception": "Arriving on PCs in April and May 1998, *Unreal* took the gaming world by storm, providing the ultimate benchmark for newly popular **3dfx Voodoo** 3D accelerator cards. *PC Zone* awarded it 94%, declaring that id Software's *Quake II* had just been thoroughly outclassed in sheer visual grandeur, while *PC Gamer* praised its rich, ambient Alexander Brandon tracking soundtrack.",
+    "impact": "Beyond its gripping single-player campaign, *Unreal* unleashed the **Unreal Engine** upon the world. Tim Sweeney's modular, highly licensable software architecture evolved to become the industry's dominant game development engine, powering hundreds of blockbuster games, virtual reality environments, and Hollywood film productions for the next quarter-century.",
+    "wiki": "Unreal (1998 video game)",
+    "youtube": "Unreal 1998 PC intro and gameplay",
+    "source": "https://en.wikipedia.org/wiki/Unreal_(1998_video_game)"
+  }
 }

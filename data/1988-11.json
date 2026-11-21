@@ -128,5 +128,28 @@
         }
       ]
     }
-  ]
+  ],
+  "gaming": {
+    "title": "MicroProse Soccer",
+    "developer": "Sensible Software",
+    "publisher": "MicroProse",
+    "platforms": [
+      "Commodore 64",
+      "ZX Spectrum",
+      "Amstrad CPC",
+      "Amiga"
+    ],
+    "genre": "Top-Down Sports / Football",
+    "director": "Jon Hare / Chris Yates",
+    "reviewScore": "90% Gold Medal",
+    "reviewQuote": "The most playable football game ever programmed. Fast, frantic, and that banana kick swerve is genius.",
+    "reviewSource": "Zzap!64 (Issue 44)",
+    "headline": "The Birth of the Banana Kick and Sensible Footy",
+    "gameplay": "Developed by Jon Hare and Chris Yates at Sensible Software, *MicroProse Soccer* liberated video game football from sluggish side-on simulations by adopting an overhead, dynamic vertical scrolling pitch filled with tiny, lightning-fast player sprites. Crucially, the game pioneered **after-touch ball swerve**—the legendary \"banana kick\" where a quick flick of the joystick curled the ball around diving goalkeepers. It also included an atmospheric six-a-side indoor arena mode with bouncy wooden sideboards, eliminating throw-ins for non-stop chaotic action.",
+    "reception": "Released in November 1988, the game was showered with awards. *Zzap!64* awarded it a coveted 90% \"Gold Medal\", *Crash* stamped it with 91%, and *The Games Machine* hailed its intuitive, addictive physics. Reviewers universally praised its muddy pitch weather effects (sliding tackles across puddles) and the pure, unadulterated joy of its two-player couch rivalry.",
+    "impact": "*MicroProse Soccer* is the direct evolutionary ancestor of *Sensible Soccer* and *Sensible World of Soccer*, establishing Sensible Software as the masters of British sports gaming. Its emphasis on arcade tempo, accessible one-button passing, and ball physics defined European football gaming for the next decade.",
+    "wiki": "MicroProse Soccer",
+    "youtube": "MicroProse Soccer C64 1988 gameplay",
+    "source": "https://en.wikipedia.org/wiki/MicroProse_Soccer"
+  }
 }

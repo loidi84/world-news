@@ -173,5 +173,25 @@
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, December 1998"
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, December 1998",
+  "gaming": {
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Nintendo 64"
+    ],
+    "genre": "Action-Adventure",
+    "director": "Toru Osawa / Shigeru Miyamoto",
+    "reviewScore": "10/10 (Highest in History)",
+    "reviewQuote": "The greatest video game ever created by human hands. Flawless, magical, and utterly timeless.",
+    "reviewSource": "Edge (Issue 66)",
+    "headline": "Hyrule Field, Z-Targeting, and the Crown Jewel of Gaming",
+    "gameplay": "Supervised by Shigeru Miyamoto, *The Legend of Zelda: Ocarina of Time* translated the open wilderness of Hyrule into full three-dimensional space with unprecedented grace. Following young Link's quest across time—pulling the Master Sword from the Temple of Time to awaken seven years later as an adult—the game solved 3D spatial combat forever by inventing **Z-targeting** (locking onto enemies with circling camera focus). Players galloped across the rolling hills of Hyrule Field on horseback aboard Epona, solved diabolical water level puzzles in the infamous Water Temple, and played melodies on a virtual musical instrument to alter day, night, and weather.",
+    "reception": "Releasing worldwide in late November and December 1998, *Ocarina of Time* received the most ecstatic, reverent reviews in video game history. Renowned UK publication *Edge* awarded it only the second perfect 10/10 in its history, while *Famitsu* bestowed its first-ever 40/40 score. It sold 2.5 million copies in its first 39 days alone, sparking retail shortages that left parents scrambling across the Christmas shopping season.",
+    "impact": "*Ocarina of Time* holds the Guinness World Record as the highest-reviewed video game of all time on Metacritic (99/100). Its groundbreaking innovations—context-sensitive action buttons, lock-on targeting, dynamic horse riding, and sweeping day/night 3D world architecture—became the universal grammar for all modern 3D action-adventure games.",
+    "wiki": "The Legend of Zelda: Ocarina of Time",
+    "youtube": "The Legend of Zelda Ocarina of Time N64 trailer 1998",
+    "source": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time"
+  }
 }

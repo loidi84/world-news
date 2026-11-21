@@ -185,5 +185,25 @@
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, May 1998"
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, May 1998",
+  "gaming": {
+    "title": "Gran Turismo",
+    "developer": "Polyphony Digital",
+    "publisher": "Sony Computer Entertainment",
+    "platforms": [
+      "Sony PlayStation"
+    ],
+    "genre": "Racing Simulation",
+    "director": "Kazunori Yamauchi",
+    "reviewScore": "95%",
+    "reviewQuote": "The definitive automotive masterpiece. It redefines what home consoles are capable of simulating.",
+    "reviewSource": "Official PlayStation Magazine UK",
+    "headline": "The Real Driving Simulator and the 10-Million Seller",
+    "gameplay": "Conceived and directed by Kazunori Yamauchi over five obsessive years of development, *Gran Turismo* arrived with the bold subtitle **\"The Real Driving Simulator\"**. Bypassing arcade fantasy, the game introduced rigorous real-world vehicle physics, authentic tire friction, suspension weight transfer, and an unprecedented stable of **140 accurately modelled production cars** from Aston Martin, Chevrolet, Nissan, Honda, and Toyota. Players had to pass demanding driving licence tests, hone their braking lines, and upgrade everything from gear ratios to turbochargers.",
+    "reception": "Releasing across Europe on 8 May 1998 (following its record-setting Japanese debut), *Gran Turismo* generated sheer euphoria among critics and car enthusiasts alike. *Official UK PlayStation Magazine* awarded it a dazzling 95%, while *Computer & Video Games* praised its photo-realistic replay modes. Players spent countless weekends grinding the Sunday Cup to afford a second-hand Nissan Skyline GT-R.",
+    "impact": "*Gran Turismo* went on to sell an astonishing **10.85 million copies**, standing as the best-selling video game in the entire history of the original Sony PlayStation. It single-handedly transformed automotive video games into a billion-dollar simulation genre and ignited a global cultural obsession with Japanese import car tuning.",
+    "wiki": "Gran Turismo (video game)",
+    "youtube": "Gran Turismo 1 original PS1 intro 1998",
+    "source": "https://en.wikipedia.org/wiki/Gran_Turismo_(video_game)"
+  }
 }

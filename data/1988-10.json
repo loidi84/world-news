@@ -128,5 +128,25 @@
         }
       ]
     }
-  ]
+  ],
+  "gaming": {
+    "title": "Super Mario Bros. 3",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Nintendo Famicom / NES"
+    ],
+    "genre": "Platformer",
+    "director": "Shigeru Miyamoto / Takashi Tezuka",
+    "reviewScore": "98%",
+    "reviewQuote": "A triumphant, overflowing masterpiece of joy, variety, and boundless imagination. The ultimate video game.",
+    "reviewSource": "Famitsu / Electronic Gaming Monthly",
+    "headline": "Raccoon Tails, Airships, and Platforming Perfection",
+    "gameplay": "Directed by Shigeru Miyamoto and Takashi Tezuka with music by Koji Kondo, *Super Mario Bros. 3* shattered all expectations of what 8-bit hardware could achieve. The game introduced an innovative overhead **World Map** (from the giant hazards of Giant Land to the floating sky castles of Sky Land), airship levels commanded by Bowser's Koopalings, and an unforgettable arsenal of whimsical suits: the Super Leaf transforming Mario into **Raccoon Mario** (flying by building momentum), the Frog Suit for underwater mastery, the Tanooki Suit, Hammer Bros Suit, and Goomba's Shoe.",
+    "reception": "Launching in Japan on 23 October 1988, the cartridge triggered immediate retail frenzy. Japanese electronics stores sold out within hours, with delivery trucks under security escort. Critics were unanimous in their praise, declaring it not merely the best Mario game, but the finest platform game ever constructed, praising its secrets, pitch-perfect controls, and astonishing thematic variety.",
+    "impact": "Selling over 17 million copies, *Super Mario Bros. 3* remains widely regarded by gaming historians and publications as one of the greatest video games of all time. Its world map structure, inventory storage, and suit-based transformations became permanent design pillars of the platforming genre.",
+    "wiki": "Super Mario Bros. 3",
+    "youtube": "Super Mario Bros 3 Japanese Famicom 1988 commercial",
+    "source": "https://en.wikipedia.org/wiki/Super_Mario_Bros._3"
+  }
 }

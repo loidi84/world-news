@@ -128,5 +128,26 @@
         }
       ]
     }
-  ]
+  ],
+  "gaming": {
+    "title": "Altered Beast",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "platforms": [
+      "Arcade (Sega System 16)",
+      "Sega Mega Drive / Genesis"
+    ],
+    "genre": "Beat 'em Up / Action",
+    "director": "Makoto Uchida",
+    "reviewScore": "86%",
+    "reviewQuote": "Terrifying transformations, thunderous digitized speech, and mythic carnage. A showcase of Sega's coin-op power.",
+    "reviewSource": "Computer & Video Games (Issue 84)",
+    "headline": "Rise from Your Grave: Lycanthropy in Ancient Greece",
+    "gameplay": "Created by Makoto Uchida on Sega's formidable System 16 arcade board, *Altered Beast* opened with Zeus's booming, scratchy digitized declaration: **\"Rise from your grave!\"** Resurrected to rescue the goddess Athena from the demonic underworld lord Neff, players fought through waves of rotting zombies and flesh-eating demons. By defeating two-headed wolves and grabbing glowing Spirit Balls, the centurion warrior's muscles tore through his armor in a dramatic transformation sequence, morphing into a **Werewolf, Were-tiger, Were-bear, or Golden Werewolf** with screen-shredding energy charges.",
+    "reception": "Debuting in arcades in August 1988, *Altered Beast* drew immense crowds with its digitized voice acting, gigantic character sprites, and visceral body-horror power-ups. Critics praised its audio-visual spectacle, and it quickly established itself as one of the definitive summer arcade attractions in British seaside resorts and American shopping malls.",
+    "impact": "Uchida's arcade hit achieved legendary status when Sega made the brilliant strategic decision to bundle its 16-bit home conversion as the pack-in cartridge for the western launch of the Sega Genesis / Mega Drive in 1989. For millions of households, *Altered Beast* was their first jaw-dropping taste of 16-bit arcade perfection at home.",
+    "wiki": "Altered Beast",
+    "youtube": "Altered Beast arcade 1988",
+    "source": "https://en.wikipedia.org/wiki/Altered_Beast"
+  }
 }

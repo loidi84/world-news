@@ -1,0 +1,143 @@
+{
+  "month": "1990-05",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-05-22-yemeni-unification",
+      "date": "1990-05-22",
+      "topic": "politics",
+      "text": "22 May saw North Yemen (the Yemen Arab Republic) and South Yemen (the Marxist People's Democratic Republic of Yemen) officially unite to establish the unified **Republic of Yemen**. Following decades of Cold War border skirmishes and ideological proxy warfare, the historic reunification was celebrated in Aden, with northern leader **Ali Abdullah Saleh** assuming office as the new republic's President.",
+      "wiki": "Yemeni unification",
+      "youtube": "Yemen unification ceremony May 1990 news",
+      "source": "https://en.wikipedia.org/wiki/Yemeni_unification",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-05-29-boris-yeltsin-elected-russian-parliament",
+      "date": "1990-05-29",
+      "topic": "politics",
+      "text": "29 May saw populist political maverick **Boris Yeltsin** elected Chairman of the Supreme Soviet of the Russian SFSR on the third round of balloting in Moscow, despite fierce personal opposition from Soviet President Mikhail Gorbachev. Yeltsin's dramatic triumph made him the de facto leader of the Russian republic, immediately setting up a titanic constitutional rivalry between Russian national sovereignty and the central Soviet apparatus.",
+      "wiki": "Boris Yeltsin",
+      "youtube": "Boris Yeltsin elected Russian leader May 1990 BBC news",
+      "source": "https://en.wikipedia.org/wiki/Boris_Yeltsin",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-05-25-back-to-the-future-part-iii-premiere",
+      "date": "1990-05-25",
+      "topic": "film",
+      "text": "25 May saw Robert Zemeckis release ***Back to the Future Part III*** in cinemas, wrapping up the beloved time-travel trilogy in the Old West of 1885. Starring **Michael J. Fox** as Marty McFly (adopting the moniker \"Clint Eastwood\") and Christopher Lloyd as Doc Brown falling head-over-heels in love with frontier schoolteacher Clara Clayton (Mary Steenburgen), the train-powered Western romp grossed $244 million and delivered a heartwarming, critically acclaimed farewell to the DeLorean.",
+      "wiki": "Back to the Future Part III",
+      "youtube": "Back to the Future Part 3 theatrical trailer 1990",
+      "source": "https://en.wikipedia.org/wiki/Back_to_the_Future_Part_III",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-05-12-adamski-seal-killer-number-one",
+      "date": "1990-05-12",
+      "topic": "music",
+      "text": "12 May saw acid-house producer **Adamski** and young London vocalist **Seal** reach number one on the UK Singles Chart with the revolutionary rave anthem ***Killer***. Powered by a driving, pulsing Roland bassline and Seal's soaring, soulful vocal performance, the breakthrough track held the UK summit for four consecutive weeks, bridging underground warehouse rave culture with mainstream British pop.",
+      "wiki": "Killer (Adamski song)",
+      "youtube": "Adamski Seal Killer Top of the Pops 1990",
+      "source": "https://www.officialcharts.com/songs/adamski-killer/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-05-19-capital-combat-robocop-wrestling",
+      "date": "1990-05-19",
+      "topic": "wrestling",
+      "text": "19 May saw the NWA stage one of the most surreal promotional spectacles in wrestling history at *Capital Combat: Return of RoboCop* in Washington D.C. In an elaborate promotional tie-in for the upcoming film *RoboCop 2*, **Sting** was trapped in a steel cage by The Four Horsemen before an actor in an authentic **RoboCop suit** stomped down the aisle, bent the steel bars open with his bare hands, and chased off the bewildered heels to the delight of the crowd.",
+      "wiki": "Capital Combat",
+      "youtube": "RoboCop saves Sting Capital Combat 1990",
+      "source": "https://en.wikipedia.org/wiki/Capital_Combat",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (19 May 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Killer",
+          "by": "Adamski & Seal"
+        },
+        {
+          "pos": 2,
+          "title": "Vogue",
+          "by": "Madonna"
+        },
+        {
+          "pos": 3,
+          "title": "Dirty Cash (Money Talks)",
+          "by": "The Adventures of Stevie V"
+        },
+        {
+          "pos": 4,
+          "title": "Better the Devil You Know",
+          "by": "Kylie Minogue"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (May 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Rainbow Islands",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Puzznic",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Pipe Mania",
+          "by": "Empire"
+        },
+        {
+          "pos": 4,
+          "title": "Bloodwych",
+          "by": "Mirrorsoft"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Kick Off 2",
+    "developer": "Anco Software",
+    "publisher": "Anco Software",
+    "platforms": [
+      "Commodore Amiga",
+      "Atari ST"
+    ],
+    "genre": "Top-Down Football / Sports",
+    "director": "Dino Dini",
+    "reviewScore": "96%",
+    "reviewQuote": "The greatest football game ever conceived. Fast, surgical, and utterly uncompromising in its technical brilliance.",
+    "reviewSource": "Amiga Format (Issue 12)",
+    "headline": "Aftertouch Curves, Overhead View, and Dino Dini's Football Masterpiece",
+    "gameplay": "Created by Bristol-based coding virtuoso Dino Dini for Anco Software on the Commodore Amiga and Atari ST, *Kick Off 2* perfected the overhead simulation of association football. Unlike arcade games where the ball glued magically to a striker's boots, Dini's physics engine treated the ball as a completely independent, rolling projectile: players had to tap the joystick precisely to dribble, calculate defensive sliding tackles, bend shots around goalkeepers using **aftertouch swerve**, and master set-piece routines.",
+    "reception": "Arriving on 16-bit computers in May 1990 just in time for the Italia '90 World Cup, *Kick Off 2* received ecstatic, worshipful reviews. *Amiga Format* awarded it a dazzling 96%, *The One* gave it 94%, and *CU Amiga* stamped it with 95%. Critics universally proclaimed it the undisputed king of computer football, citing its ferocious tempo and infinite skill ceiling.",
+    "impact": "*Kick Off 2* sparked intense international competitive leagues and tournaments across Europe and established the high-speed overhead football template that defined 1990s computer gaming, directly inspiring Jon Hare's legendary response with *Sensible Soccer* two years later.",
+    "wiki": "Kick Off 2",
+    "youtube": "Kick Off 2 Amiga 1990 gameplay Dino Dini",
+    "source": "https://en.wikipedia.org/wiki/Kick_Off_2"
+  }
+}

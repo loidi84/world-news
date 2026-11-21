@@ -205,5 +205,26 @@
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, March 1998"
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, March 1998",
+  "gaming": {
+    "title": "StarCraft",
+    "developer": "Blizzard Entertainment",
+    "publisher": "Blizzard Entertainment",
+    "platforms": [
+      "Windows PC",
+      "Mac OS"
+    ],
+    "genre": "Real-Time Strategy (RTS)",
+    "director": "Chris Metzen / James Phinney",
+    "reviewScore": "92%",
+    "reviewQuote": "The greatest real-time strategy game ever created. Three completely distinct factions in razor-sharp balance.",
+    "reviewSource": "PC Gamer (Issue 50)",
+    "headline": "The Zerg Swarm, Battle.net, and the Dawn of Global Esports",
+    "gameplay": "Moving away from the fantasy setting of *Warcraft*, Blizzard unleashed *StarCraft* in the distant Koprulu Sector. The game revolutionized the real-time strategy genre by introducing three radically asymmetric factions: the resilient and adaptable human **Terrans**, the voracious, biological swarm of the **Zerg**, and the enigmatic, technologically superior psionic **Protoss**. Each faction featured completely unique resource dynamics, building mechanics, and combat doctrines, locked in immaculate competitive equilibrium.",
+    "reception": "Launching on 31 March 1998, *StarCraft* was showered with universal critical praise. Reviewers praised its engrossing, character-driven military campaign (following Jim Raynor and the tragic betrayal of Sarah Kerrigan into the Queen of Blades) and its rock-solid free online multiplayer via Blizzard's **Battle.net** service, which made matchmaking seamless worldwide.",
+    "impact": "*StarCraft* became the best-selling PC game of 1998, shifting millions of copies and finding an extraordinary second home in South Korea. There, it practically created modern **esports**: spawning professional leagues, live stadium tournaments, and full-time pro gamers broadcast on dedicated 24-hour cable television channels. It remains one of the most culturally influential PC titles in human history.",
+    "wiki": "StarCraft (video game)",
+    "youtube": "StarCraft 1 original 1998 trailer",
+    "source": "https://en.wikipedia.org/wiki/StarCraft_(video_game)"
+  }
 }

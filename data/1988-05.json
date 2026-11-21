@@ -128,5 +128,27 @@
         }
       ]
     }
-  ]
+  ],
+  "gaming": {
+    "title": "Speedball",
+    "developer": "The Bitmap Brothers",
+    "publisher": "Image Works",
+    "platforms": [
+      "Atari ST",
+      "Commodore Amiga",
+      "MS-DOS"
+    ],
+    "genre": "Futuristic Cyberpunk Sports",
+    "director": "Mike Montgomery / Steve Kelly / Eric Matthews",
+    "reviewScore": "90%",
+    "reviewQuote": "Fast, brutal, metallic, and utterly addictive. The Bitmap Brothers have made video game violence stylish.",
+    "reviewSource": "The Games Machine (Issue 7)",
+    "headline": "Chrome, Steel Balls, and Cyberpunk Mayhem",
+    "gameplay": "Developed by a swaggering new collective of East London coders known as The Bitmap Brothers, *Speedball* imagined a dystopian 21st-century bloodsport combining elements of five-a-side football, ice hockey, and roller derby. Teams clashed in enclosed, polished metallic arenas without referees or fouls. Players bounced heavy steel balls off side bumpers, slide-tackled rivals into unconsciousness, collected illicit stadium coins, and visited the locker room to bribe referees or pump their squad full of performance-enhancing stimulants.",
+    "reception": "Hitting 16-bit computers in May 1988, *Speedball* became an instant cult phenomenon. Critics lauded its razor-fast gameplay, distinctive metallic sound effects, and cool cyberpunk aesthetic. It swept European gaming awards, winning the prestigious **Golden Joystick Award for 16-Bit Game of the Year 1988**, and established The Bitmap Brothers as the gaming equivalent of rock stars.",
+    "impact": "*Speedball* put The Bitmap Brothers on the map, inaugurating a golden era of British 16-bit game design characterized by metallic pixel art, attitude, and cutting-edge synth soundtracks. It spawned the legendary 1990 sequel *Speedball 2: Brutal Deluxe* and proved that futuristic sports could stand shoulder-to-shoulder with conventional arcade genres.",
+    "wiki": "Speedball (video game)",
+    "youtube": "Speedball Atari ST 1988 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Speedball_(video_game)"
+  }
 }

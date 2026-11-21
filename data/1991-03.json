@@ -229,5 +229,25 @@
       ]
     }
   ],
-  "chartSource": "Official Charts Company / Gallup UK charts, March 1991"
+  "chartSource": "Official Charts Company / Gallup UK charts, March 1991",
+  "gaming": {
+    "title": "Street Fighter II: The World Warrior",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "platforms": [
+      "Arcade (CP System)"
+    ],
+    "genre": "One-on-One Fighting",
+    "director": "Yoshiki Okamoto / Akira Nishitani",
+    "reviewScore": "97%",
+    "reviewQuote": "An absolute revelation. Eight masterfully balanced fighters, lightning combos, and arcade competitive perfection.",
+    "reviewSource": "Computer & Video Games (Issue 114)",
+    "headline": "Eight World Warriors and the Coin-Op Golden Age",
+    "gameplay": "Directed by Yoshiki Okamoto and Akira Nishitani on Capcom's powerhouse CP System arcade hardware, *Street Fighter II: The World Warrior* exploded into arcades in March 1991. The game revolutionized head-to-head competition by offering **eight distinct playable characters**, each with unique fighting styles and nationalities: Ryu, Ken, Chun-Li, Guile, Blanka, E. Honda, Zangief, and Dhalsim. Crucially, an accidental coding quirk discovered during development allowed players to cancel recovery frames into subsequent attacks, birthing the concept of **multi-hit combos**.",
+    "reception": "Debuting in March 1991, *Street Fighter II* became an instant worldwide cultural phenomenon. Massive crowds gathered around arcade cabinets with quarters and 10p coins lined up along the bezel to claim next match. Critics lauded its immaculate competitive balance, Yoko Shimomura's iconic character themes, and Chun-Li's breakthrough status as gaming's first iconic female martial arts hero.",
+    "impact": "*Street Fighter II* single-handedly revitalized the global arcade industry in the early 1990s, generating billions in coin drop and establishing the tournament fighting community that thrives today. It remains the definitive blueprint against which all competitive fighters are judged.",
+    "wiki": "Street Fighter II: The World Warrior",
+    "youtube": "Street Fighter 2 original arcade 1991",
+    "source": "https://en.wikipedia.org/wiki/Street_Fighter_II:_The_World_Warrior"
+  }
 }

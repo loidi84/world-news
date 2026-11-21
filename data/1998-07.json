@@ -173,5 +173,25 @@
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, July 1998"
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, July 1998",
+  "gaming": {
+    "title": "F-Zero X",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Nintendo 64"
+    ],
+    "genre": "Futuristic Anti-Gravity Racing",
+    "director": "Tadashi Sugiyama",
+    "reviewScore": "92%",
+    "reviewQuote": "Unrelenting, heart-in-the-mouth velocity at a flawless 60 frames per second. An adrenaline rush like no other.",
+    "reviewSource": "N64 Magazine (Issue 20)",
+    "headline": "30 Craft, Pipe Tracks, and 60 FPS Anti-Gravity Velocity",
+    "gameplay": "Directed by Tadashi Sugiyama with music by Taro Bando, *F-Zero X* delivered an uncompromising vision of futuristic speed. In a bold technical gamble, Nintendo's programmers stripped away complex background textures in exchange for pure, unadulterated performance: rendering **30 anti-gravity racers on screen simultaneously at a locked, butter-smooth 60 frames per second**. Pilots hurled craft like Captain Falcon's Blue Falcon through magnetic cylinder pipes, multi-tier loops, and death-defying corkscrews, spinning into rival hovercraft to knock them off sheer cliffs.",
+    "reception": "Launching in Japan in July 1998 before speeding to the West, *F-Zero X* received widespread acclaim for its ferocious sense of speed and surgical controls. *N64 Magazine* awarded it 92%, praising its death-match \"X-Cup\" mode (which procedurally generated random tracks on the fly) and its blaring, wailing heavy metal electric guitar soundtrack that perfectly complemented the dizzying pace.",
+    "impact": "*F-Zero X* set the gold standard for high-frame-rate console racing, proving that framerate and responsiveness mattered far more than superficial graphical sheen. It remains a fan-favorite cult masterpiece, with its brutal difficulty and precision physics celebrated by competitive speedrunners decades later.",
+    "wiki": "F-Zero X",
+    "youtube": "F-Zero X N64 gameplay 60fps",
+    "source": "https://en.wikipedia.org/wiki/F-Zero_X"
+  }
 }

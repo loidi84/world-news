@@ -1,0 +1,146 @@
+{
+  "month": "1989-10",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-10-17-loma-prieta-earthquake",
+      "date": "1989-10-17",
+      "topic": "science",
+      "text": "17 October saw the powerful **Loma Prieta earthquake** (magnitude 6.9) strike the San Francisco Bay Area during live pre-game television coverage of Game 3 of the 1989 World Series at Candlestick Park. The 15-second tremor ruptured the San Andreas Fault, violently collapsing a 1.25-mile upper deck of the double-decker Cypress Street Viaduct on Interstate 880 in Oakland and dislodging a section of the San Francisco–Oakland Bay Bridge, tragically claiming **63 lives** and injuring over 3,700.",
+      "wiki": "1989 Loma Prieta earthquake",
+      "youtube": "Loma Prieta earthquake live on ABC World Series 1989",
+      "source": "https://en.wikipedia.org/wiki/1989_Loma_Prieta_earthquake",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-10-19-guildford-four-convictions-quashed",
+      "date": "1989-10-19",
+      "topic": "politics",
+      "text": "19 October saw the Court of Appeal in London quash the wrongful convictions of the **Guildford Four**—Gerard Conlon, Patrick Armstrong, Paul Hill, and Carole Richardson—after they had spent **15 years in prison** for the 1974 IRA pub bombings in Guildford and Woolwich. Emerging onto the steps of the Old Bailey, a triumphant Gerard Conlon declared to the world press: **\"I am an innocent man!\"** The historic exoneration exposed grave police fabrication of evidence and led directly to sweeping reforms in British criminal justice.",
+      "wiki": "Guildford Four and Maguire Seven",
+      "youtube": "Guildford Four walk free Gerry Conlon speech 1989",
+      "source": "https://en.wikipedia.org/wiki/Guildford_Four_and_Maguire_Seven",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-10-28-halloween-havoc-thunderdome",
+      "date": "1989-10-28",
+      "topic": "wrestling",
+      "text": "28 October saw the NWA inaugurate **Halloween Havoc 1989** at the Philadelphia Civic Center, headlined by an insane \"Thunderdome\" steel cage match surrounding an electrified dome. NWA World Champion **Ric Flair and Sting** joined forces to battle **The Great Muta and Terry Funk**, with legendary former champion Bruno Sammartino serving as special guest referee. The match ended in bloody chaos when Funk's manager Gary Hart accidentally threw in the towel while Funk was trapped in Flair's Figure-Four leglock.",
+      "wiki": "Halloween Havoc (1989)",
+      "youtube": "Halloween Havoc 1989 Thunderdome cage match Flair Sting",
+      "source": "https://en.wikipedia.org/wiki/Halloween_Havoc_(1989)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-10-21-lisa-stansfield-all-around-the-world-number-one",
+      "date": "1989-10-21",
+      "topic": "music",
+      "text": "21 October saw Rochdale soul singer **Lisa Stansfield** reach number one on the UK Singles Chart with her breakout hit ***All Around the World***. Co-written with Ian Devaney and Andy Morris, the sophisticated blue-eyed soul groove, famous for Stansfield's distinctive kiss-curl hairstyle and passionate vocal delivery, remained at number one for two weeks and topped the US R&B charts, a rare feat for a British female artist.",
+      "wiki": "All Around the World (Lisa Stansfield song)",
+      "youtube": "Lisa Stansfield All Around The World Top of the Pops 1989",
+      "source": "https://www.officialcharts.com/songs/lisa-stansfield-all-around-the-world/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-10-09-leipzig-monday-demonstration",
+      "date": "1989-10-09",
+      "topic": "politics",
+      "text": "9 October saw the pivotal **Monday demonstration** in Leipzig, East Germany, swell to over **70,000 peaceful citizens** chanting *\"Wir sind das Volk!\"* (\"We are the people!\") outside the St. Nicholas Church. Despite intense fears of a bloody \"Tiananmen-style\" crackdown by heavily armed Stasi and military forces, security forces refrained from firing, demonstrating that the East German communist regime had lost the will to enforce rule by terror.",
+      "wiki": "Monday demonstrations in East Germany",
+      "youtube": "Leipzig Monday demonstration October 1989 news",
+      "source": "https://en.wikipedia.org/wiki/Monday_demonstrations_in_East_Germany",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (28 October 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "All Around the World",
+          "by": "Lisa Stansfield"
+        },
+        {
+          "pos": 2,
+          "title": "Ride on Time",
+          "by": "Black Box"
+        },
+        {
+          "pos": 3,
+          "title": "Leave a Light On",
+          "by": "Belinda Carlisle"
+        },
+        {
+          "pos": 4,
+          "title": "That's What I Like",
+          "by": "Jive Bunny and the Mastermixers"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (October 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Batman: The Movie",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "The Untouchables",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "Ghostbusters II",
+          "by": "Activision"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Batman: The Movie",
+    "developer": "Ocean Software",
+    "publisher": "Ocean Software",
+    "platforms": [
+      "ZX Spectrum",
+      "Commodore 64",
+      "Amstrad CPC",
+      "Amiga",
+      "Atari ST"
+    ],
+    "genre": "Multi-Genre Action / Platformer",
+    "director": "Mike Lamb / John O'Brien",
+    "reviewScore": "93% Crash Smash",
+    "reviewQuote": "Batmobile driving, Batwing gas balloon slicing, and grappling across Gotham. Ocean's greatest movie licence yet.",
+    "reviewSource": "Crash (Issue 70)",
+    "headline": "Batmania, Batrope Grappling, and Ocean's Christmas Champion",
+    "gameplay": "Securing the official video game licence to Tim Burton's Hollywood smash hit, Ocean Software crafted a multi-tier masterpiece spanning five diverse stages: grappling through the Axis Chemical Plant to confront Jack Napier, an adrenaline-pumping 3D **Batmobile driving sequence** navigating Gotham traffic with grappling-hook turns, chemical laboratory puzzle deduction, piloting the Batwing to slice Joker's poisonous parade balloons, and a climactic cathedral duel against The Joker atop the bell tower.",
+    "reception": "Released in October 1989 to coincide with the film's European theatrical premiere, *Batman: The Movie* was greeted with sensational praise. *Crash* stamped it with a 93% \"Crash Smash\", *Zzap!64* awarded it 91%, and *Computer & Video Games* praised its impeccable multi-genre variety. The game set unprecedented sales records across the UK, quickly surpassing even *RoboCop*.",
+    "impact": "*Batman: The Movie* won the prestigious **Golden Joystick Award for Game of the Year 1989**, becoming a legendary staple of British computing history and the definitive pack-in software title for the iconic Commodore 64 and Amiga 500 \"Batman Packs\" that dominated Christmas wish-lists for years.",
+    "wiki": "Batman: The Movie (video game)",
+    "youtube": "Batman The Movie Ocean 1989 Amiga Spectrum gameplay",
+    "source": "https://en.wikipedia.org/wiki/Batman:_The_Movie_(video_game)"
+  }
+}

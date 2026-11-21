@@ -229,5 +229,27 @@
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Gallup C&VG, October 1996"
+  "chartSource": "Official Charts Company / ELSPA Gallup C&VG, October 1996",
+  "gaming": {
+    "title": "Tomb Raider",
+    "developer": "Core Design",
+    "publisher": "Eidos Interactive",
+    "platforms": [
+      "Sega Saturn",
+      "Sony PlayStation",
+      "MS-DOS PC"
+    ],
+    "genre": "3D Action-Adventure",
+    "director": "Toby Gard",
+    "reviewScore": "95%",
+    "reviewQuote": "Astonishing 3D scale, breathtaking athletic precision, and the arrival of a genuine cultural icon in Lara Croft.",
+    "reviewSource": "Computer & Video Games (Issue 180)",
+    "headline": "Peruvian Tombs, T-Rex Encounters, and the Rise of Lara Croft",
+    "gameplay": "Created by a small team in Derby led by artist Toby Gard, *Tomb Raider* debuted British aristocrat and archaeologist-adventurer **Lara Croft**. Guided through perilous lost tombs in Peru, Greece, Egypt, and Atlantis, players solved intricate mechanical block puzzles, executed running long jumps and swan dives, and unholstered dual pistols to battle wolves, bats, and a terrifying, sudden encounter with a roaring 3D **Tyrannosaurus Rex**.",
+    "reception": "Released across Europe in late October 1996 (first on Sega Saturn before its celebrated PlayStation launch in November), *Tomb Raider* was a critical sensation. *Computer & Video Games* awarded it 95%, praising its cinematic camera work, eerie acoustic silence, and Nathan McCree's soaring oboe and choir musical cues. Lara Croft became an instant mainstream celebrity, appearing on the cover of style magazine *The Face*.",
+    "impact": "Selling over seven million copies, *Tomb Raider* established the PlayStation as a hip cultural staple of 1990s Cool Britannia and demonstrated the immense commercial power of female protagonists in video games. It redefined 3D environmental platforming and launched one of gaming's most enduring multimedia franchises.",
+    "wiki": "Tomb Raider (1996 video game)",
+    "youtube": "Tomb Raider 1 original 1996 trailer",
+    "source": "https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game)"
+  }
 }

@@ -173,5 +173,25 @@
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, September 1998"
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, September 1998",
+  "gaming": {
+    "title": "Metal Gear Solid",
+    "developer": "Konami Computer Entertainment Japan",
+    "publisher": "Konami",
+    "platforms": [
+      "Sony PlayStation"
+    ],
+    "genre": "Tactical Espionage Action",
+    "director": "Hideo Kojima",
+    "reviewScore": "95%",
+    "reviewQuote": "A cinematic tour de force that transcends the medium. Gaming's *Citizen Kane* moment has finally arrived.",
+    "reviewSource": "Official PlayStation Magazine UK",
+    "headline": "Shadow Moses, Psycho Mantis, and the Cinematic Revolution",
+    "gameplay": "Directed and produced by Hideo Kojima, *Metal Gear Solid* thrust veteran operative **Solid Snake** into the freezing, blizzard-lashed nuclear disposal facility on **Shadow Moses Island** in Alaska. Tasked with neutralizing a rogue FOXHOUND terrorist unit led by Liquid Snake, the game combined tactical stealth (radar cones, footprint tracking, thermal goggles) with Hollywood-calibre, fully-voiced real-time 3D cinematic cutscenes. The game famously broke the fourth wall: the telekinetic boss Psycho Mantis read the player's PlayStation memory card, commented on saved games, and forced players to plug their controller into port two to evade his mind control.",
+    "reception": "Released in September 1998 in Japan before sweeping across the West, *Metal Gear Solid* generated unprecedented critical delirium. *Official UK PlayStation Magazine* awarded it a near-flawless 95%, praising David Hayter's gritty voice acting and Harry Gregson-Williams' sweeping orchestral score. Critics declared it living proof that video games had matured into a premier dramatic storytelling art form.",
+    "impact": "Selling over six million copies, *Metal Gear Solid* popularized the stealth genre into a global mainstream obsession and transformed Hideo Kojima into gaming's first globally recognized auteur director. Its seamless marriage of cinematic narrative, cinematic camera angles, and deeply immersive meta-game mechanics permanently altered the course of game development.",
+    "wiki": "Metal Gear Solid (video game)",
+    "youtube": "Metal Gear Solid 1 original PS1 trailer 1998",
+    "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_(video_game)"
+  }
 }

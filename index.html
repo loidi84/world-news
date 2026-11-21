@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Monthly World News</title>
 <link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#c8202f">
+<meta id="meta-theme" name="theme-color" content="#c8202f">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="World News">
@@ -146,39 +146,97 @@ select{flex:1;min-width:0}button{cursor:pointer;white-space:nowrap}
 <div class="sp" id="sp" style="display:none"><div class="spi">
 <div class="sph"><b>Settings</b><button class="go" id="spx">Done</button></div>
 <h3>Appearance</h3><div class="row"><span>Theme</span><select id="theme_sel"><option value="auto">System default</option><option value="light">Retro Paper (Light)</option><option value="dark">Midnight Paper (Dark)</option></select></div>
-<h3>Edition</h3><div class="row"><span>Show stories from</span><select id="ed_sel"><option value="all">All editions</option><option value="magazine">Magazine page only</option><option value="researched">Researched only</option></select></div>
-<h3>News topics and priorities</h3><div id="tl"></div>
-<h3>Export</h3><button id="exb" style="width:100%">Export this year as e-book (EPUB)</button>
+<h3>News topics</h3><div id="tl"></div>
 </div></div>
 <script src="data/bundle.js"></script>
 <script>
 const MONTHS=["January","February","March","April","May","June","July","August","September","October","November","December"];
 const TOPICS=[
-  {key:"business",name:"Business and economy",p:2},
-  {key:"film",name:"Film and TV",p:2},
-  {key:"music",name:"Music",p:2},
-  {key:"deaths",name:"Notable deaths",p:2},
-  {key:"politics",name:"Politics and world events",p:1},
-  {key:"science",name:"Science and space",p:2},
-  {key:"sport",name:"Sport",p:2},
-  {key:"tech",name:"Technology",p:2},
-  {key:"games",name:"Video games",p:3},
-  {key:"wrestling",name:"Wrestling",p:3}
+  {key:"business",name:"Business and economy"},
+  {key:"film",name:"Film and TV"},
+  {key:"music",name:"Music"},
+  {key:"deaths",name:"Notable deaths"},
+  {key:"politics",name:"Politics and world events"},
+  {key:"science",name:"Science and space"},
+  {key:"sport",name:"Sport"},
+  {key:"tech",name:"Technology"},
+  {key:"games",name:"Video games"},
+  {key:"wrestling",name:"Wrestling"}
 ];
-const PRIORITY_WEIGHTS=[0,1,2,4]; // Off, Low, Med, High
 const $=i=>document.getElementById(i);
 const mS=$("m"),yS=$("y"),box=$("box");
 
-MONTHS.forEach((n,i)=>mS.add(new Option(n,i)));
-for(let y=1970;y<=2010;y++) yS.add(new Option(y,y));
-mS.value=0; yS.value=1998; // January 1998 default
+function getAvailableDates(){
+  const dates={};
+  const keys=window.ALL_DATA?Object.keys(window.ALL_DATA):[
+    "1987-06","1987-07","1987-08","1987-09","1987-10","1987-11","1987-12",
+    "1988-01","1988-02","1988-03","1988-04","1988-05","1988-06","1988-07","1988-08","1988-09","1988-10","1988-11","1988-12",
+    "1991-03",
+    "1996-10","1996-11",
+    "1998-01","1998-02","1998-03","1998-04","1998-05","1998-06","1998-07","1998-08","1998-09","1998-10","1998-11","1998-12"
+  ];
+  keys.forEach(k=>{
+    const parts=k.split("-").map(Number);
+    if(parts.length===2){
+      const y=parts[0], m=parts[1]-1;
+      if(!dates[y]) dates[y]=[];
+      if(!dates[y].includes(m)) dates[y].push(m);
+    }
+  });
+  Object.keys(dates).forEach(y=>dates[y].sort((a,b)=>a-b));
+  return dates;
+}
+
+const availableDates=getAvailableDates();
+
+function updateSelectors(curY, curM){
+  // 1. Year selector: show only years with data (or curY if stepped into)
+  const years=Object.keys(availableDates).map(Number).sort((a,b)=>a-b);
+  if(!years.includes(curY)) years.push(curY);
+  years.sort((a,b)=>a-b);
+
+  yS.innerHTML="";
+  years.forEach(y=>{
+    yS.add(new Option(y, y));
+  });
+  yS.value=curY;
+
+  // 2. Month selector: show only months available for curY (or curM if stepped into)
+  const months=availableDates[curY]?[...availableDates[curY]]:[];
+  if(!months.includes(curM)) months.push(curM);
+  months.sort((a,b)=>a-b);
+
+  mS.innerHTML="";
+  months.forEach(m=>{
+    mS.add(new Option(MONTHS[m], m));
+  });
+  mS.value=curM;
+}
+
+updateSelectors(1998, 0); // January 1998 default
 
 let tab="n";
 let currentData=null;
 let currentPage=1;
 const PAGE_SIZE=4;
-let userPriorities={};
-TOPICS.forEach(t=>userPriorities[t.key]=t.p);
+
+function loadUserTopics(){
+  try{
+    const s=localStorage.getItem("world_news_topics");
+    if(s) return JSON.parse(s);
+  }catch(e){}
+  const d={};
+  TOPICS.forEach(t=>d[t.key]=true);
+  return d;
+}
+
+function saveUserTopics(){
+  try{
+    localStorage.setItem("world_news_topics",JSON.stringify(userTopics));
+  }catch(e){}
+}
+
+let userTopics=loadUserTopics();
 
 const esc=s=>(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
 const ap=s=>(s||"").replace(/(\w)'(\w)/g,"$1\u2019$2").replace(/'(\d\d)/g,"\u2019$1");
@@ -187,26 +245,33 @@ const Y=q=>"https://www.youtube.com/results?search_query="+encodeURIComponent(q)
 const fmt=t=>esc(ap(t)).replace(/^(\d{1,2}\s+[A-Za-z]+)/,"<b>$1</b>").replace(/\*\*([^*]+)\*\*/g,"<b>$1</b>").replace(/\*([^*]+)\*/g,"<i>$1</i>");
 const A=(h,t)=>'<a href="'+h+'" target="_blank" rel="noopener">'+t+' \u2197</a>';
 
-function formatLinks(item, defaultTag){
-  const tag=item.edition||(item.status==="from_magazine"?"Magazine page":(defaultTag||"Researched"));
+const TOPIC_TAGS={
+  business:"Business",
+  film:"Film & TV",
+  music:"Music",
+  deaths:"Obituary",
+  politics:"Politics",
+  science:"Science",
+  sport:"Sport",
+  tech:"Tech",
+  games:"Games",
+  wrestling:"Wrestling"
+};
+
+function formatLinks(item){
+  const tag=item.topic?(TOPIC_TAGS[item.topic]||item.topic):"";
   const hasWikiSrc=item.source&&/wikipedia\.org/i.test(item.source);
   const wikiHref=hasWikiSrc?item.source:(item.wiki?W(item.wiki):"");
   const wikiLink=wikiHref?A(wikiHref,"Wikipedia"):"";
   const ytLink=item.youtube?A(Y(item.youtube),"YouTube"):"";
   const srcLink=(item.source&&item.source.startsWith("http")&&!hasWikiSrc)?A(item.source,"Source"):"";
-  return '<div class="lk">'+wikiLink+ytLink+srcLink+'<span class="tag">'+esc(tag)+'</span></div>';
+  const tagHtml=tag?'<span class="tag">'+esc(tag)+'</span>':'';
+  return '<div class="lk">'+wikiLink+ytLink+srcLink+tagHtml+'</div>';
 }
 
 function getVisiblePool(){
   if(!currentData||!currentData.news||!currentData.news.length) return [];
-  const ed=$("ed_sel").value;
-  let pool=currentData.news.filter(n=>{
-    if(ed==="magazine" && n.edition!=="Magazine page" && n.status!=="from_magazine") return false;
-    if(ed==="researched" && n.edition!=="Researched") return false;
-    const prio=userPriorities[n.topic]!==undefined?userPriorities[n.topic]:2;
-    return prio>0;
-  });
-
+  let pool=currentData.news.filter(n=>userTopics[n.topic]!==false);
   if(!pool.length) return [];
 
   // Sort strictly in chronological date order
@@ -258,7 +323,7 @@ function news(){
 
   box.innerHTML='<div class="headbar"><div class="head">'+MONTHS[+mS.value]+'<br>World News</div>'+badgeHtml+'</div>'+
     stories.map(n=>{
-      return '<p>'+fmt(n.text)+'</p>'+formatLinks(n,"Researched");
+      return '<p>'+fmt(n.text)+'</p>'+formatLinks(n);
     }).join("") + footHtml;
 }
 
@@ -367,7 +432,7 @@ function step(d){
   let m=+mS.value+d, y=+yS.value;
   if(m<0){m=11;y--}else if(m>11){m=0;y++}
   if(y<1970||y>2010) return;
-  mS.value=m; yS.value=y;
+  updateSelectors(y, m);
   currentPage=1;
   show();
 }
@@ -401,27 +466,37 @@ window.flipPage=function(delta){
 $("page-btn").onclick=()=>window.flipPage(1);
 $("prev").onclick=()=>step(-1);
 $("next").onclick=()=>step(1);
-mS.onchange=show;
-yS.onchange=show;
+mS.onchange=()=>{
+  currentPage=1;
+  show();
+};
+yS.onchange=()=>{
+  const newY=+yS.value;
+  const availMonths=availableDates[newY]||[0];
+  let newM=+mS.value;
+  if(!availMonths.includes(newM)){
+    newM=availMonths[0];
+  }
+  updateSelectors(newY, newM);
+  currentPage=1;
+  show();
+};
 $("tn").onclick=()=>setTab("n");
 $("tg").onclick=()=>setTab("g");
 $("tc").onclick=()=>setTab("c");
 
 $("gear").onclick=()=>{$("sp").style.display="block"};
 $("spx").onclick=()=>{$("sp").style.display="none"; if(currentData&&tab==="n") news();};
-$("ed_sel").onchange=()=>{if(currentData&&tab==="n") news();};
-$("exb").onclick=()=>{$("exb").textContent="Export would build the EPUB here"};
 
 $("tl").innerHTML=TOPICS.map(t=>{
-  const p=userPriorities[t.key];
-  return '<div class="row"><span>'+t.name+'</span><select data-topic="'+t.key+'">'+
-    ["Off","Low","Medium","High"].map((opt,i)=>'<option value="'+i+'"'+(p===i?" selected":"")+'>'+opt+'</option>').join("")+
-    '</select></div>';
+  const on=userTopics[t.key]!==false;
+  return '<label class="row" style="cursor:pointer;padding:6px 0;user-select:none"><span>'+esc(t.name)+'</span><input type="checkbox" data-topic="'+t.key+'"'+(on?' checked':'')+' style="width:20px;height:20px;accent-color:var(--red);cursor:pointer"></label>';
 }).join("");
 
-$("tl").querySelectorAll("select").forEach(sel=>{
-  sel.onchange=()=>{
-    userPriorities[sel.dataset.topic]=+sel.value;
+$("tl").querySelectorAll("input[type=checkbox]").forEach(box=>{
+  box.onchange=()=>{
+    userTopics[box.dataset.topic]=box.checked;
+    saveUserTopics();
     if(currentData&&tab==="n") news();
   };
 });
@@ -445,6 +520,8 @@ function applyTheme(mode){
   const btn=$("theme-btn");
   if(btn) btn.innerHTML=isDark?"&#9728;&#65039;":"&#127769;";
   if($("theme_sel")) $("theme_sel").value=localStorage.getItem("world_news_theme")||"auto";
+  const metaTheme=$("meta-theme");
+  if(metaTheme) metaTheme.setAttribute("content", isDark ? "#141416" : "#c8202f");
 }
 
 $("theme-btn").onclick=()=>{

@@ -185,5 +185,25 @@
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, February 1998"
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, February 1998",
+  "gaming": {
+    "title": "Xenogears",
+    "developer": "Square",
+    "publisher": "Square",
+    "platforms": [
+      "Sony PlayStation"
+    ],
+    "genre": "Role-Playing Game (JRPG)",
+    "director": "Tetsuya Takahashi",
+    "reviewScore": "91%",
+    "reviewQuote": "A staggering, mind-bending epic of mecha warfare, Jungian psychology, and religious existentialism.",
+    "reviewSource": "Electronic Gaming Monthly (Issue 113)",
+    "headline": "Martial Arts, Giant Mecha, and Philosophical Audacity",
+    "gameplay": "Originally pitched as a dark treatment for *Final Fantasy VII*, *Xenogears* was directed by Tetsuya Takahashi with character writing by Soraya Saga and a breathtaking Celtic-infused score by Yasunori Mitsuda. Casting players as martial artist Fei Fong Wong, the game pioneered a dual-layer combat system: kinetic ground combat stringing together fighting-game button combos (Deathblows) and high-stakes **Gear battles** piloting gigantic armored robots, carefully managing fuel reserves and engine output levels.",
+    "reception": "Releasing in Japan in February 1998 (and in North America later that year), *Xenogears* electrified RPG enthusiasts with its unflinching narrative maturity. Tackling Freudian psychology, Nietzschean will, and Gnostic religious subversion, it was hailed by *Famitsu* and western gaming press alike as one of the most intellectually daring narratives ever written for a video game.",
+    "impact": "*Xenogears* achieved legendary cult status, establishing Takahashi's reputation as a world-class visionary and paving the way for the acclaimed *Xenosaga* and *Xenoblade Chronicles* franchises. Decades later, its ambitious scope and Mitsuda's iconic score remain universally revered in the pantheon of PlayStation classics.",
+    "wiki": "Xenogears",
+    "youtube": "Xenogears PS1 1998 intro",
+    "source": "https://en.wikipedia.org/wiki/Xenogears"
+  }
 }

@@ -1,0 +1,142 @@
+{
+  "month": "1990-06",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-06-08-italia-90-world-cup-kicks-off",
+      "date": "1990-06-08",
+      "topic": "sport",
+      "text": "8 June saw the **1990 FIFA World Cup (Italia '90)** kick off at the San Siro in Milan with one of the greatest shocks in football history: unfancied **Cameroon**, led by 38-year-old supersub Roger Milla, stunned defending champions Argentina 1–0 despite finishing the match with nine men. The tournament captured global imaginations with Luciano Pavarotti singing *Nessun dorma*, defensive masterclasses, and an intoxicating Italian summer atmosphere.",
+      "wiki": "1990 FIFA World Cup",
+      "youtube": "Cameroon vs Argentina World Cup 1990 opening match",
+      "source": "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-06-01-total-recall-premiere",
+      "date": "1990-06-01",
+      "topic": "film",
+      "text": "1 June saw Paul Verhoeven's sci-fi action thriller ***Total Recall***, loosely adapted from Philip K. Dick's story *We Can Remember It for You Wholesale*, explode into cinemas. Starring **Arnold Schwarzenegger** as construction worker Douglas Quaid discovering his memory has been artificially wiped and Sharon Stone as his lethal double-agent wife, the $65 million spectacle delivered jaw-dropping practical mutant effects, Martian shootouts, and mind-bending reality twists, grossing over $261 million.",
+      "wiki": "Total Recall (1990 film)",
+      "youtube": "Total Recall 1990 theatrical trailer Arnold Schwarzenegger",
+      "source": "https://en.wikipedia.org/wiki/Total_Recall_(1990_film)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-06-09-new-order-world-in-motion-number-one",
+      "date": "1990-06-09",
+      "topic": "music",
+      "text": "9 June saw synth-pop pioneers **New Order** secure their first and only UK number one single with the official England World Cup anthem ***World in Motion***. Co-written with comedian Keith Allen and featuring an unforgettable mid-song rap delivered with swagger by England winger **John Barnes** (**\"You've got to hold and give, but do it at the right time\"**), the track dethroned traditional terrace novelty anthems and soundtracked England's heroic run to the semi-finals.",
+      "wiki": "World in Motion",
+      "youtube": "New Order World in Motion official video John Barnes rap 1990",
+      "source": "https://www.officialcharts.com/songs/new-order-world-in-motion/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-06-01-chemical-weapons-accord-bush-gorbachev",
+      "date": "1990-06-01",
+      "topic": "politics",
+      "text": "1 June saw US President George H. W. Bush and Soviet leader Mikhail Gorbachev sign the historic **Chemical Weapons Accord** during a high-stakes summit in Washington D.C. The bilateral treaty committed both superpowers to halt all production of chemical weapons immediately and systematically destroy at least 80% of their existing chemical munitions stockpiles, marking a monumental step toward dismantling Cold War arsenals.",
+      "wiki": "Chemical Weapons Convention",
+      "youtube": "Bush Gorbachev chemical weapons treaty Washington 1990",
+      "source": "https://en.wikipedia.org/wiki/Chemical_Weapons_Convention",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-06-23-elton-john-sacrifices-healing-hands",
+      "date": "1990-06-23",
+      "topic": "music",
+      "text": "23 June saw **Elton John** reach number one on the UK Singles Chart with his double A-side release ***Sacrifice / Healing Hands***. Championed by BBC Radio 1 DJ Steve Wright, the poignant ballad stayed atop the British charts for five consecutive weeks, giving the music legend his very first solo UK number-one single after more than two decades of international chart-topping success.",
+      "wiki": "Sacrifice (Elton John song)",
+      "youtube": "Elton John Sacrifice official music video 1990",
+      "source": "https://www.officialcharts.com/songs/elton-john-healing-hands-sacrifice/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (16 June 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "World in Motion",
+          "by": "New Order"
+        },
+        {
+          "pos": 2,
+          "title": "It Must Have Been Love",
+          "by": "Roxette"
+        },
+        {
+          "pos": 3,
+          "title": "Killer",
+          "by": "Adamski & Seal"
+        },
+        {
+          "pos": 4,
+          "title": "Ooops Up",
+          "by": "Snap!"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (June 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Kick Off 2",
+          "by": "Anco Software"
+        },
+        {
+          "pos": 2,
+          "title": "Italy 1990",
+          "by": "US Gold"
+        },
+        {
+          "pos": 3,
+          "title": "Rainbow Islands",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "World Cup Soccer: Italia '90",
+          "by": "Virgin Mastertronic"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Super Mario Bros. 3 (Western Release)",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Nintendo Entertainment System (NES)"
+    ],
+    "genre": "Platformer",
+    "director": "Shigeru Miyamoto / Takashi Tezuka",
+    "reviewScore": "98%",
+    "reviewQuote": "The greatest 8-bit platformer ever built. Overflowing with secrets, Raccoon suits, and pure unadulterated joy.",
+    "reviewSource": "Mean Machines (Issue 1)",
+    "headline": "Batmania for Mario: The Golden Age of NES Platforming",
+    "gameplay": "Promoted relentlessly across the West through the Hollywood movie *The Wizard* (where Fred Savage's character famously unveiled it in a tournament), *Super Mario Bros. 3* arrived on Western NES consoles in mid-1990. Directed by Shigeru Miyamoto and Takashi Tezuka, the game introduced the world to **Raccoon Mario** (taking flight with a swishing tail), Frog Suits, Tanooki Suits, and eight massive themed worlds (including the surreal Giant Land) navigated via an interactive overhead map.",
+    "reception": "Releasing across North America and Europe throughout mid-1990, *Super Mario Bros. 3* sparked absolute retail hysteria. Department stores sold out instantly, with delivery trucks under armed watch. *Mean Machines* awarded it an astonishing 98%, calling it the finest platformer ever constructed on any system, praising its responsive inertia, immaculate secrets, and Koji Kondo's timeless musical score.",
+    "impact": "Selling over **17 million copies**, *Super Mario Bros. 3* generated over $500 million in revenue, surpassing the box office hauls of contemporary Hollywood blockbusters and cementing Mario as the undisputed king of popular entertainment at the dawn of the 1990s.",
+    "wiki": "Super Mario Bros. 3",
+    "youtube": "Super Mario Bros 3 NES Western commercial 1990",
+    "source": "https://en.wikipedia.org/wiki/Super_Mario_Bros._3"
+  }
+}
