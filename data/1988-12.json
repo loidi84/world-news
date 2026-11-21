@@ -1,0 +1,132 @@
+{
+  "month": "1988-12",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1988-12-07-spitak-armenia-earthquake",
+      "date": "1988-12-07",
+      "topic": "deaths",
+      "text": "7 December saw a catastrophic magnitude 6.8 earthquake strike northern **Armenia** in the Soviet Union, devastating the cities of Spitak, Leninakan and Kirovakan. Poorly reinforced concrete apartment blocks collapsed instantly, killing an estimated 25,000 to 50,000 people and leaving half a million homeless in freezing winter conditions. In an unprecedented move that underscored his policy of *glasnost*, Soviet leader Mikhail Gorbachev cut short a state visit to the United Nations in New York and formally accepted search-and-rescue assistance from Western nations for the first time since World War II.",
+      "wiki": "1988 Armenian earthquake",
+      "youtube": "Armenia Spitak earthquake 1988 news report Soviet Union",
+      "source": "https://en.wikipedia.org/wiki/1988_Armenian_earthquake",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-12-12-clapham-junction-crash",
+      "date": "1988-12-12",
+      "topic": "deaths",
+      "text": "12 December saw the **Clapham Junction rail crash** occur in southwest London during morning rush hour, killing thirty-five people and injuring nearly five hundred in Britain's worst railway disaster in three decades. A crowded commuter train from Basingstoke ran into the rear of a stationary Poole service after an automatic line signal mistakenly showed green, with a third empty train subsequently ploughing into the wreckage. The disaster was traced to sloppy re-wiring by a fatigued railway technician who had worked thirteen consecutive weeks of overtime, leading to sweeping reforms in British Rail working hours and signalling standards.",
+      "wiki": "Clapham Junction rail crash",
+      "youtube": "Clapham rail disaster 1988 ITN news report London",
+      "source": "https://en.wikipedia.org/wiki/Clapham_Junction_rail_crash",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-12-18-cliff-richard-mistletoe-wine",
+      "date": "1988-12-18",
+      "topic": "music",
+      "text": "18 December saw veteran British pop icon **Cliff Richard** capture the coveted UK Christmas Number One with his festive hymn *Mistletoe and Wine*, marking his twelfth career chart-topping single. Originally penned for a stage musical adaptation of *The Little Match Girl*, Richard adapted the lyrics to emphasize Christian themes alongside traditional fireside imagery. Spending four consecutive weeks at number one, the track held off fierce festive competition from Australian soap star duo Kylie Minogue and Jason Donovan's *Especially for You*, cementing Sir Cliff's status as the ultimate British Christmas fixture.",
+      "wiki": "Mistletoe and Wine",
+      "youtube": "Cliff Richard Mistletoe and Wine official video 1988",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19881218/7501/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-12-21-lockerbie-pan-am-103",
+      "date": "1988-12-21",
+      "topic": "deaths",
+      "text": "21 December saw Britain suffer the deadliest terrorist attack in its history when **Pan Am Flight 103** was destroyed by a hidden Semtex bomb at 31,000 feet above the Scottish border town of **Lockerbie**. Operating from London Heathrow to New York JFK, the Boeing 747 disintegrated mid-air, raining flaming wreckage onto residential streets below and killing all 259 passengers and crew alongside eleven residents in the town. The atrocity sparked a sprawling decade-long international counter-terrorism investigation that ultimately pointed directly to Libyan state intelligence operatives.",
+      "wiki": "Pan Am Flight 103",
+      "youtube": "Lockerbie disaster Pan Am 103 1988 BBC news report",
+      "source": "https://en.wikipedia.org/wiki/Pan_Am_Flight_103",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-12-24-operation-wolf-christmas-number-one",
+      "date": "1988-12-24",
+      "topic": "games",
+      "text": "24 December saw Ocean Software's frantic coin-op port *Operation Wolf* capture the coveted Christmas number-one spot on the UK Gallup software charts, capping a banner commercial year for the Manchester publisher. Published across the **Commodore 64**, **ZX Spectrum** and **Amstrad CPC**, the military rail-shooter became the fastest-selling home computer game of the holiday season, fending off Ocean's own newly released *RoboCop* and System 3's *Last Ninja 2*. The conversion proved that eighties gamers were more than willing to overlook repetitive wrist-ache in exchange for blistering arcade intensity.",
+      "wiki": "Operation Wolf",
+      "youtube": "Operation Wolf C64 gameplay Ocean 1988",
+      "source": "https://en.wikipedia.org/wiki/Operation_Wolf",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19881218/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Mistletoe and Wine",
+          "by": "Cliff Richard"
+        },
+        {
+          "pos": 2,
+          "title": "Especially for You",
+          "by": "Kylie Minogue and Jason Donovan"
+        },
+        {
+          "pos": 3,
+          "title": "Suddenly",
+          "by": "Angry Anderson"
+        },
+        {
+          "pos": 4,
+          "title": "Cat Among the Pigeons / Silent Night",
+          "by": "Bros"
+        },
+        {
+          "pos": 5,
+          "title": "First Time",
+          "by": "Robin Beck"
+        }
+      ]
+    },
+    {
+      "section": "Computer Games (All Formats)",
+      "kind": "games",
+      "source": "https://en.wikipedia.org/wiki/Operation_Wolf",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Operation Wolf",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Last Ninja 2",
+          "by": "System 3"
+        },
+        {
+          "pos": 4,
+          "title": "Double Dragon",
+          "by": "Melbourne House"
+        },
+        {
+          "pos": 5,
+          "title": "R-Type",
+          "by": "Electric Dreams"
+        }
+      ]
+    }
+  ]
+}

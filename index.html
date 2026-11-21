@@ -10,45 +10,142 @@
 <link rel="icon" type="image/svg+xml" href="icon.svg">
 <link rel="apple-touch-icon" href="icon.svg">
 <style>
-:root{--bg:#d9d6cc;--ink:#1a1a1a;--paper:#fff;--red:#c8202f;--ui:#2b2b2b;--uitxt:#fff;color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#1c1c1e;--ui:#3a3a3d;--ink:#eee;color-scheme:dark}}
-:root[data-theme="dark"]{--bg:#1c1c1e;--ui:#3a3a3d;--ink:#eee;color-scheme:dark}
+:root{
+  --bg:#d9d6cc;
+  --paper:#ffffff;
+  --paper-ink:#1a1a1a;
+  --box-border:#111111;
+  --red:#c8202f;
+  --blue:#0072bc;
+  --ui:#2b2b2b;
+  --uitxt:#ffffff;
+  --link:#8a1a24;
+  --tag:#666666;
+  --foot-bg:#f4f2ec;
+  --foot-border:#888888;
+  --spotlight-title:#111111;
+  --chip-bg:#eeeeee;
+  --chip-ink:#333333;
+  --chip-border:#cccccc;
+  --quote-bg:#fef7db;
+  --quote-border:#d4a017;
+  --quote-text:#443200;
+  --ch-bg:#cfe6f5;
+  --ch-ink:#111111;
+  --ch-line:#6a7a88;
+  --ch-link:#2a5d85;
+  --ch-sub:#334455;
+  color-scheme:light;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px)
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#141416;
+    --paper:#222226;
+    --paper-ink:#f0ede6;
+    --box-border:#3e3e46;
+    --red:#e63946;
+    --blue:#38bdf8;
+    --ui:#2e2e34;
+    --uitxt:#f5f5f7;
+    --link:#ff8591;
+    --tag:#9a9aa2;
+    --foot-bg:#2a2a32;
+    --foot-border:#525260;
+    --spotlight-title:#ffffff;
+    --chip-bg:#323238;
+    --chip-ink:#e2e2e8;
+    --chip-border:#4a4a54;
+    --quote-bg:#2a2312;
+    --quote-border:#e0a31b;
+    --quote-text:#fde68a;
+    --ch-bg:#192535;
+    --ch-ink:#eaf0f8;
+    --ch-line:#35485f;
+    --ch-link:#7ec3f8;
+    --ch-sub:#8ca8c4;
+    color-scheme:dark
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#141416;
+  --paper:#222226;
+  --paper-ink:#f0ede6;
+  --box-border:#3e3e46;
+  --red:#e63946;
+  --blue:#38bdf8;
+  --ui:#2e2e34;
+  --uitxt:#f5f5f7;
+  --link:#ff8591;
+  --tag:#9a9aa2;
+  --foot-bg:#2a2a32;
+  --foot-border:#525260;
+  --spotlight-title:#ffffff;
+  --chip-bg:#323238;
+  --chip-ink:#e2e2e8;
+  --chip-border:#4a4a54;
+  --quote-bg:#2a2312;
+  --quote-border:#e0a31b;
+  --quote-text:#fde68a;
+  --ch-bg:#192535;
+  --ch-ink:#eaf0f8;
+  --ch-line:#35485f;
+  --ch-link:#7ec3f8;
+  --ch-sub:#8ca8c4;
+  color-scheme:dark
+}
 html{scroll-padding-top:env(safe-area-inset-top,0px)}
-body{margin:0;background:var(--bg);font-family:"Helvetica Neue",Arial,sans-serif;color:var(--ink)}
+body{margin:0;background:var(--bg);font-family:"Helvetica Neue",Arial,sans-serif;color:var(--paper-ink)}
 .wrap{max-width:460px;margin:0 auto;padding:16px}
-.ctl{display:flex;gap:8px;align-items:center;margin-bottom:14px}
-select,button{font:inherit;font-size:15px;padding:10px 12px;border:0;border-radius:6px;background:var(--ui);color:var(--uitxt)}
+.ctl{display:flex;gap:6px;align-items:center;margin-bottom:12px}
+select,button{font:inherit;font-size:14px;padding:9px 10px;border:0;border-radius:6px;background:var(--ui);color:var(--uitxt)}
 select{flex:1;min-width:0}button{cursor:pointer;white-space:nowrap}
-.tab.on{background:var(--paper);color:#111}.go{background:var(--red)}
-.box{background:var(--paper);border:4px solid #111;padding:18px 16px 14px;color:#1a1a1a}
-.head{display:inline-block;background:var(--red);color:#fff;font-weight:800;font-size:24px;line-height:1.05;text-transform:uppercase;padding:8px 14px;margin:0 0 14px -2px;letter-spacing:-.5px}
-.box p{margin:0 0 6px;text-indent:1.2em;font-size:15.5px;line-height:1.4}.box p.f{text-indent:0}
+.tab.on{background:var(--paper);color:var(--paper-ink);font-weight:700}.go{background:var(--red);color:#fff}
+.box{background:var(--paper);border:4px solid var(--box-border);padding:18px 16px 14px;color:var(--paper-ink)}
+.headbar{display:flex;justify-content:space-between;align-items:flex-start;margin:0 0 14px -2px}
+.head{display:inline-block;background:var(--red);color:#fff;font-weight:800;font-size:24px;line-height:1.05;text-transform:uppercase;padding:8px 14px;letter-spacing:-.5px}
+.p-badge{background:var(--box-border);color:#fff;font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;padding:6px 10px;border-radius:4px;margin-top:2px;white-space:nowrap}
+.box p{margin:0 0 6px;text-indent:1.2em;font-size:15.5px;line-height:1.4;color:var(--paper-ink)}.box p.f{text-indent:0}
 .lk{display:flex;gap:14px;align-items:center;margin:0 0 12px;font-size:12px}
-.lk a{color:#8a1a24;text-decoration:none;border-bottom:1px dotted #8a1a24}
-.tag{margin-left:auto;font-size:10px;text-transform:uppercase;letter-spacing:.05em;color:#666}
-.ch{background:#cfe6f5;border:4px solid #111;padding:14px 16px;color:#111}
+.lk a{color:var(--link);text-decoration:none;border-bottom:1px dotted var(--link)}
+.tag{margin-left:auto;font-size:10px;text-transform:uppercase;letter-spacing:.05em;color:var(--tag)}
+.page-foot{margin-top:16px;padding:12px 14px;background:var(--foot-bg);border:2px dashed var(--foot-border);border-radius:6px;text-align:center;font-weight:700;font-size:13.5px;color:var(--link);cursor:pointer;user-select:none;transition:background .15s}
+.page-foot:hover{opacity:.85}
+.spotlight-hero{border-bottom:2px solid var(--box-border);padding-bottom:12px;margin-bottom:14px}
+.spotlight-title{font-size:26px;font-weight:900;letter-spacing:-.5px;margin:0 0 4px;color:var(--spotlight-title);text-transform:uppercase}
+.spotlight-meta{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
+.meta-chip{font-size:11px;font-weight:700;padding:3px 8px;border-radius:3px;background:var(--chip-bg);color:var(--chip-ink);border:1px solid var(--chip-border)}
+.meta-chip.plat{background:#003791;color:#fff;border-color:#003791}
+.review-quote-box{background:var(--quote-bg);border-left:4px solid var(--quote-border);padding:10px 12px;margin:12px 0;font-size:13.5px;font-style:italic;color:var(--quote-text);line-height:1.35}
+.review-score-badge{display:inline-block;background:var(--red);color:#fff;font-style:normal;font-weight:900;font-size:12px;padding:2px 6px;border-radius:3px;margin-right:6px}
+.section-title{font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:var(--blue);margin:14px 0 6px}
+.gaming-links{border-top:1px solid var(--box-border);padding-top:12px;margin-top:16px}
+.ch{background:var(--ch-bg);border:4px solid var(--box-border);padding:14px 16px;color:var(--ch-ink)}
 .ch .t{font:italic 900 46px/1 Impact,"Arial Black",sans-serif;color:var(--red);transform:rotate(-4deg);margin:2px 0 14px}
-.ch .d{font-weight:800;font-size:22px;line-height:1;text-transform:uppercase;margin:0 0 10px;letter-spacing:-.5px}
+.ch .d{font-weight:800;font-size:22px;line-height:1;text-transform:uppercase;margin:0 0 10px;letter-spacing:-.5px;color:var(--ch-ink)}
 .ch .s{display:inline-block;color:#fff;font-weight:800;font-size:14px;text-transform:uppercase;padding:4px 10px;margin:10px 0 4px;min-width:55%}
-.ch .r{display:flex;gap:12px;padding:6px 0;border-bottom:1px solid #6a7a88;font-size:15px;line-height:1.3}
-.ch .r b{width:14px;flex:none}.ch .r span{flex:1}
+.ch .r{display:flex;gap:12px;padding:6px 0;border-bottom:1px solid var(--ch-line);font-size:15px;line-height:1.3}
+.ch .r b{width:14px;flex:none;color:var(--ch-ink)}.ch .r span{flex:1;color:var(--ch-ink)}
 .ch .r i{font-style:normal;display:flex;gap:8px;font-size:11px;align-items:center;flex:none}
-.ch .r i a{color:#2a5d85;text-decoration:none;border-bottom:1px dotted #2a5d85}
-.ch .src{font-size:11px;margin-top:10px;color:#345}
+.ch .r i a{color:var(--ch-link);text-decoration:none;border-bottom:1px dotted var(--ch-link)}
+.ch .src{font-size:11px;margin-top:10px;color:var(--ch-sub)}
 .msg{font-size:12px;opacity:.8;text-align:center;margin-top:12px;min-height:16px}
-.sp{position:fixed;inset:0;z-index:50;background:var(--bg);overflow-y:auto;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
-.spi{max-width:460px;margin:0 auto;padding:16px}.sph{display:flex;justify-content:space-between;align-items:center;font-size:20px}
-.sp h3{font-size:12px;text-transform:uppercase;letter-spacing:.07em;margin:24px 0 10px;opacity:.7}
+.sp{position:fixed;inset:0;z-index:50;background:var(--bg);color:var(--paper-ink);overflow-y:auto;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+.spi{max-width:460px;margin:0 auto;padding:16px;color:var(--paper-ink)}.sph{display:flex;justify-content:space-between;align-items:center;font-size:20px}
+.sp h3{font-size:12px;text-transform:uppercase;letter-spacing:.07em;margin:24px 0 10px;opacity:.8;color:var(--paper-ink)}
 .row{display:flex;align-items:center;gap:8px;padding:4px 0;font-size:14px}.row span{flex:1}.row select{flex:none;padding:6px 8px}
 </style></head><body>
 <div class="wrap">
 <div class="ctl"><button id="prev" aria-label="Previous month">&larr;</button><select id="m" aria-label="Month"></select><select id="y" aria-label="Year"></select><button id="next" aria-label="Next month">&rarr;</button></div>
-<div class="ctl"><button class="tab on" id="tn">News</button><button class="tab" id="tc">Charts</button><button class="go" id="more" style="flex:1">Show different stories</button><button id="gear" aria-label="Settings" style="font-size:20px;padding:6px 14px">&#9881;</button></div>
+<div class="ctl"><button class="tab on" id="tn">News</button><button class="tab" id="tg">Gaming</button><button class="tab" id="tc">Charts</button><button class="go" id="page-btn" style="flex:1">Page 1</button><button id="theme-btn" aria-label="Toggle dark/light mode" title="Toggle Dark/Light Mode" style="font-size:15px;padding:6px 10px">&#127769;</button><button id="gear" aria-label="Settings" style="font-size:18px;padding:6px 10px">&#9881;</button></div>
 <div class="box" id="box"></div>
 <div class="msg" id="msg"></div>
 </div>
 <div class="sp" id="sp" style="display:none"><div class="spi">
 <div class="sph"><b>Settings</b><button class="go" id="spx">Done</button></div>
+<h3>Appearance</h3><div class="row"><span>Theme</span><select id="theme_sel"><option value="auto">System default</option><option value="light">Retro Paper (Light)</option><option value="dark">Midnight Paper (Dark)</option></select></div>
 <h3>Edition</h3><div class="row"><span>Show stories from</span><select id="ed_sel"><option value="all">All editions</option><option value="magazine">Magazine page only</option><option value="researched">Researched only</option></select></div>
 <h3>News topics and priorities</h3><div id="tl"></div>
 <h3>Export</h3><button id="exb" style="width:100%">Export this year as e-book (EPUB)</button>
@@ -74,11 +171,12 @@ const mS=$("m"),yS=$("y"),box=$("box");
 
 MONTHS.forEach((n,i)=>mS.add(new Option(n,i)));
 for(let y=1970;y<=2010;y++) yS.add(new Option(y,y));
-mS.value=1; yS.value=1988; // Default pilot start: February 1988
+mS.value=0; yS.value=1998; // January 1998 default
 
 let tab="n";
 let currentData=null;
-let poolOffset=0;
+let currentPage=1;
+const PAGE_SIZE=4;
 let userPriorities={};
 TOPICS.forEach(t=>userPriorities[t.key]=t.p);
 
@@ -89,7 +187,17 @@ const Y=q=>"https://www.youtube.com/results?search_query="+encodeURIComponent(q)
 const fmt=t=>esc(ap(t)).replace(/^(\d{1,2}\s+[A-Za-z]+)/,"<b>$1</b>").replace(/\*\*([^*]+)\*\*/g,"<b>$1</b>").replace(/\*([^*]+)\*/g,"<i>$1</i>");
 const A=(h,t)=>'<a href="'+h+'" target="_blank" rel="noopener">'+t+' \u2197</a>';
 
-function getVisibleStories(){
+function formatLinks(item, defaultTag){
+  const tag=item.edition||(item.status==="from_magazine"?"Magazine page":(defaultTag||"Researched"));
+  const hasWikiSrc=item.source&&/wikipedia\.org/i.test(item.source);
+  const wikiHref=hasWikiSrc?item.source:(item.wiki?W(item.wiki):"");
+  const wikiLink=wikiHref?A(wikiHref,"Wikipedia"):"";
+  const ytLink=item.youtube?A(Y(item.youtube),"YouTube"):"";
+  const srcLink=(item.source&&item.source.startsWith("http")&&!hasWikiSrc)?A(item.source,"Source"):"";
+  return '<div class="lk">'+wikiLink+ytLink+srcLink+'<span class="tag">'+esc(tag)+'</span></div>';
+}
+
+function getVisiblePool(){
   if(!currentData||!currentData.news||!currentData.news.length) return [];
   const ed=$("ed_sel").value;
   let pool=currentData.news.filter(n=>{
@@ -101,35 +209,57 @@ function getVisibleStories(){
 
   if(!pool.length) return [];
 
-  // Sort by topic priority weight and importance
-  pool.sort((a,b)=>{
-    const wa=(PRIORITY_WEIGHTS[userPriorities[a.topic]||2]*10)+(a.importance||3);
-    const wb=(PRIORITY_WEIGHTS[userPriorities[b.topic]||2]*10)+(b.importance||3);
-    return wb-wa;
-  });
-
-  // Pick up to 4 stories based on poolOffset
-  const count=Math.min(4, pool.length);
-  const picked=[];
-  for(let i=0;i<count;i++){
-    const idx=(poolOffset+i)%pool.length;
-    picked.push(pool[idx]);
-  }
-  return picked;
+  // Sort strictly in chronological date order
+  pool.sort((a,b)=>(a.date||"").localeCompare(b.date||""));
+  return pool;
 }
 
 function news(){
   box.className="box";
-  const stories=getVisibleStories();
-  if(!stories.length){
-    box.innerHTML='<div class="head">'+MONTHS[+mS.value]+'<br>World News</div><p class="f">No stories match your topic filters for this month.</p>';
+  const pool=getVisiblePool();
+  const pageBtn=$("page-btn");
+  if(!pool.length){
+    pageBtn.style.display="none";
+    box.innerHTML='<div class="headbar"><div class="head">'+MONTHS[+mS.value]+'<br>World News</div></div><p class="f">No stories match your topic filters for this month.</p>';
     return;
   }
-  box.innerHTML='<div class="head">'+MONTHS[+mS.value]+'<br>World News</div>'+stories.map(n=>{
-    const tag=n.edition|| (n.status==="from_magazine"?"Magazine page":"Researched");
-    const srcLink=n.source&&n.source.startsWith("http")?A(n.source,"Source"):"";
-    return '<p>'+fmt(n.text)+'</p><div class="lk">'+A(W(n.wiki),"Wikipedia")+A(Y(n.youtube),"YouTube")+srcLink+'<span class="tag">'+esc(tag)+'</span></div>';
-  }).join("");
+
+  const totalPages=Math.max(1, Math.ceil(pool.length / PAGE_SIZE));
+  if(currentPage>totalPages) currentPage=1;
+  if(currentPage<1) currentPage=1;
+
+  const start=(currentPage-1)*PAGE_SIZE;
+  const stories=pool.slice(start, start+PAGE_SIZE);
+
+  // Update page button in control bar
+  pageBtn.style.display="";
+  if(totalPages>1){
+    pageBtn.disabled=false;
+    if(currentPage<totalPages){
+      pageBtn.innerHTML='Page '+(currentPage+1)+' &rarr;';
+    }else{
+      pageBtn.innerHTML='&larr; Page 1';
+    }
+  }else{
+    pageBtn.disabled=true;
+    pageBtn.textContent='Page 1 of 1';
+  }
+
+  const badgeHtml = totalPages > 1 ? '<div class="p-badge">PAGE '+currentPage+' OF '+totalPages+'</div>' : '';
+
+  let footHtml = '';
+  if(totalPages > 1){
+    if(currentPage < totalPages){
+      footHtml = '<div class="page-foot" onclick="window.flipPage(1)">Turn to Page '+(currentPage+1)+' of '+totalPages+' &rarr;</div>';
+    }else{
+      footHtml = '<div class="page-foot" onclick="window.flipPage(-1)">&larr; Back to Page 1 of '+totalPages+'</div>';
+    }
+  }
+
+  box.innerHTML='<div class="headbar"><div class="head">'+MONTHS[+mS.value]+'<br>World News</div>'+badgeHtml+'</div>'+
+    stories.map(n=>{
+      return '<p>'+fmt(n.text)+'</p>'+formatLinks(n,"Researched");
+    }).join("") + footHtml;
 }
 
 function charts(){
@@ -149,6 +279,47 @@ function charts(){
       return '<div class="r"><b>'+e.pos+'</b><span>'+esc(ap(e.title))+' ('+esc(e.by)+')</span><i>'+A(W(mus?e.title+" "+who+" song":e.title+" video game"),"Wiki")+A(Y(mus?who+" "+e.title:e.title+" "+c.section),"YouTube")+'</i></div>';
     }).join("")+(c.source?'<div class="src" style="font-size:10px;margin-bottom:6px">Source: '+esc(c.source)+'</div>':'');
   }).join("")+(currentData.chartSource?'<div class="src">Chart Source: '+esc(currentData.chartSource)+'</div>':'');
+}
+
+function gaming(){
+  box.className="box";
+  const g=currentData?currentData.gaming:null;
+  const monthName=MONTHS[+mS.value];
+  const yr=yS.value;
+  if(!g){
+    box.innerHTML='<div class="headbar"><div class="head" style="background:#0072bc">'+monthName+'<br>Gaming Spotlight</div></div><p class="f">No featured game spotlight for '+monthName+' '+yr+' in this archive.</p>';
+    return;
+  }
+
+  const plats=(g.platforms||[]).map(p=>'<span class="meta-chip plat">'+esc(p)+'</span>').join("");
+  const dev=g.developer?'<span class="meta-chip">'+esc(g.developer)+'</span>':'';
+  const genre=g.genre?'<span class="meta-chip">'+esc(g.genre)+'</span>':'';
+  const dir=g.director?'<span class="meta-chip">Dir: '+esc(g.director)+'</span>':'';
+
+  let quoteHtml='';
+  if(g.reviewScore || g.reviewQuote){
+    const sc=g.reviewScore?'<span class="review-score-badge">'+esc(g.reviewScore)+'</span>':'';
+    const src=g.reviewSource?'<div style="font-size:11px;margin-top:4px;color:#775a00;font-style:normal;font-weight:700">&mdash; '+esc(g.reviewSource)+'</div>':'';
+    quoteHtml='<div class="review-quote-box">'+sc+'"'+esc(g.reviewQuote)+'"'+src+'</div>';
+  }
+
+  const gp=g.gameplay?'<div class="section-title">The Game &amp; Atmosphere</div><p class="f">'+fmt(g.gameplay)+'</p>':'';
+  const rec=g.reception?'<div class="section-title">Contemporary Reception ('+yr+')</div><p class="f">'+fmt(g.reception)+'</p>':'';
+  const imp=g.impact?'<div class="section-title">Historical Impact &amp; Legacy</div><p class="f">'+fmt(g.impact)+'</p>':'';
+
+  const hasWikiSrc=g.source&&/wikipedia\.org/i.test(g.source);
+  const wikiHref=hasWikiSrc?g.source:(g.wiki?W(g.wiki):"");
+  const wikiLink=wikiHref?A(wikiHref,"Wikipedia"):"";
+  const ytLink=g.youtube?A(Y(g.youtube),"YouTube"):"";
+  const srcLink=(g.source&&g.source.startsWith("http")&&!hasWikiSrc)?A(g.source,"Source"):"";
+
+  const links='<div class="lk gaming-links">'+
+    wikiLink+ytLink+srcLink+
+    '<span class="tag">'+esc(g.developer||"Gaming Feature")+'</span></div>';
+
+  box.innerHTML='<div class="headbar"><div class="head" style="background:#0072bc">'+monthName+' '+yr+'<br>Gaming Spotlight</div><div class="p-badge" style="background:#0072bc">FEATURE</div></div>'+
+    '<div class="spotlight-hero"><div class="spotlight-title">'+esc(g.title)+'</div><div class="spotlight-meta">'+plats+dev+genre+dir+'</div></div>'+
+    quoteHtml+gp+rec+imp+links;
 }
 
 async function loadData(y,m){
@@ -173,17 +344,23 @@ async function show(){
   $("msg").textContent="";
   const y=+yS.value, m=+mS.value;
   currentData=await loadData(y,m);
-  poolOffset=0;
+  currentPage=1;
 
   if(!currentData){
-    $("more").disabled=true;
+    $("page-btn").disabled=true;
+    $("page-btn").textContent="Page 1 of 1";
     box.className="box";
-    box.innerHTML='<div class="head">'+MONTHS[m]+'<br>'+(tab==="c"?"Charts":"World News")+'</div><p class="f">No data for '+MONTHS[m]+' '+y+' in this preview. In the finished app, every month from 1970 to 2010 would be filled in ahead of time.</p>';
+    box.innerHTML='<div class="headbar"><div class="head">'+MONTHS[m]+'<br>'+(tab==="c"?"Charts":"World News")+'</div></div><p class="f">No data for '+MONTHS[m]+' '+y+' in this preview. In the finished app, every month from 1970 to 2010 would be filled in ahead of time.</p>';
     return;
   }
 
-  $("more").disabled=(currentData.news||[]).length<=4;
-  tab==="c"?charts():news();
+  if(tab==="n"){
+    $("page-btn").style.display="";
+    news();
+  }else{
+    $("page-btn").style.display="none";
+    tab==="g"?gaming():charts();
+  }
 }
 
 function step(d){
@@ -191,36 +368,44 @@ function step(d){
   if(m<0){m=11;y--}else if(m>11){m=0;y++}
   if(y<1970||y>2010) return;
   mS.value=m; yS.value=y;
+  currentPage=1;
   show();
 }
 
 function setTab(t){
   tab=t;
   $("tn").classList.toggle("on",t==="n");
+  $("tg").classList.toggle("on",t==="g");
   $("tc").classList.toggle("on",t==="c");
-  if(currentData){
-    tab==="c"?charts():news();
+  if(t==="n"){
+    $("page-btn").style.display="";
+    news();
+  }else{
+    $("page-btn").style.display="none";
+    t==="g"?gaming():charts();
   }
 }
 
+window.flipPage=function(delta){
+  const pool=getVisiblePool();
+  const totalPages=Math.max(1, Math.ceil(pool.length / PAGE_SIZE));
+  if(delta>0){
+    currentPage=(currentPage>=totalPages)?1:currentPage+1;
+  }else{
+    currentPage=(currentPage<=1)?totalPages:currentPage-1;
+  }
+  news();
+  window.scrollTo({top:0,behavior:"smooth"});
+};
+
+$("page-btn").onclick=()=>window.flipPage(1);
 $("prev").onclick=()=>step(-1);
 $("next").onclick=()=>step(1);
 mS.onchange=show;
 yS.onchange=show;
 $("tn").onclick=()=>setTab("n");
+$("tg").onclick=()=>setTab("g");
 $("tc").onclick=()=>setTab("c");
-
-$("more").onclick=()=>{
-  if(!currentData||!currentData.news) return;
-  const pool=getVisibleStories();
-  if((currentData.news||[]).length>4){
-    poolOffset=(poolOffset+2)%currentData.news.length;
-    news();
-    $("msg").textContent="Showing different stories from the pool.";
-  }else{
-    $("msg").textContent="All available stories for this month are currently shown.";
-  }
-};
 
 $("gear").onclick=()=>{$("sp").style.display="block"};
 $("spx").onclick=()=>{$("sp").style.display="none"; if(currentData&&tab==="n") news();};
@@ -237,8 +422,48 @@ $("tl").innerHTML=TOPICS.map(t=>{
 $("tl").querySelectorAll("select").forEach(sel=>{
   sel.onchange=()=>{
     userPriorities[sel.dataset.topic]=+sel.value;
+    if(currentData&&tab==="n") news();
   };
 });
+
+function getEffectiveTheme(){
+  const saved=localStorage.getItem("world_news_theme");
+  if(saved==="light"||saved==="dark") return saved;
+  return (window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches)?"dark":"light";
+}
+
+function applyTheme(mode){
+  const root=document.documentElement;
+  if(mode==="light"||mode==="dark"){
+    localStorage.setItem("world_news_theme", mode);
+    root.setAttribute("data-theme", mode);
+  }else{
+    localStorage.removeItem("world_news_theme");
+    root.removeAttribute("data-theme");
+  }
+  const isDark=getEffectiveTheme()==="dark";
+  const btn=$("theme-btn");
+  if(btn) btn.innerHTML=isDark?"&#9728;&#65039;":"&#127769;";
+  if($("theme_sel")) $("theme_sel").value=localStorage.getItem("world_news_theme")||"auto";
+}
+
+$("theme-btn").onclick=()=>{
+  const current=getEffectiveTheme();
+  applyTheme(current==="dark"?"light":"dark");
+};
+
+if($("theme_sel")){
+  $("theme_sel").onchange=(e)=>{
+    applyTheme(e.target.value);
+  };
+}
+
+if(window.matchMedia){
+  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change",()=>{
+    if(!localStorage.getItem("world_news_theme")) applyTheme("auto");
+  });
+}
+applyTheme(localStorage.getItem("world_news_theme")||"auto");
 
 show();
 </script></body></html>

@@ -15,6 +15,18 @@
       "importance": 4
     },
     {
+      "id": "1998-01-07-lunar-prospector-launch",
+      "date": "1998-01-07",
+      "topic": "science",
+      "text": "7 January saw NASA launch the **Lunar Prospector** orbiter from Cape Canaveral atop an Athena II rocket, tasked with mapping the Moon's surface composition and searching for polar ice. Operating on a shoestring budget, the compact probe carried five scientific instruments and an ounce of ashes belonging to famed astrogeologist **Eugene Shoemaker**. Mission scientists were thrilled when subsequent data revealed significant hydrogen deposits at the lunar poles, raising hopes that future colonists might not have to import all their tea water from Earth.",
+      "wiki": "Lunar Prospector",
+      "youtube": "Lunar Prospector launch 1998 NASA",
+      "source": "https://en.wikipedia.org/wiki/Lunar_Prospector",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
       "id": "1998-01-18-royal-rumble-austin",
       "date": "1998-01-18",
       "topic": "wrestling",
@@ -217,5 +229,25 @@
       ]
     }
   ],
-  "chartSource": "Official Charts Company / ELSPA Chart-Track, January 1998"
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, January 1998",
+  "gaming": {
+    "title": "Resident Evil 2",
+    "developer": "Capcom",
+    "publisher": "Capcom / Virgin Interactive",
+    "platforms": [
+      "Sony PlayStation"
+    ],
+    "genre": "Survival Horror",
+    "director": "Hideki Kamiya",
+    "reviewScore": "95%",
+    "reviewQuote": "Better than the original in every conceivable way... A towering masterpiece of digital dread.",
+    "reviewSource": "Computer & Video Games (Issue 198)",
+    "headline": "A Masterclass in Digital Dread",
+    "gameplay": "Directed by 27-year-old Hideki Kamiya and supervised by Shinji Mikami, *Resident Evil 2* expanded the claustrophobic zombie outbreak of the original Spencer Mansion into the apocalyptic ruins of **Raccoon City**. Introducing rookie cop Leon S. Kennedy and college student Claire Redfield, the game made brilliant use of two CDs and an innovative \"Zapping System\" where actions taken on Disc 1 dynamically altered puzzles, item layouts, and enemy encounters on Disc 2.",
+    "reception": "The game was greeted with near-universal critical adoration upon release in late January 1998. *Official PlayStation Magazine UK* awarded it 10/10, declaring it the definitive PlayStation adventure, while US magazine *Electronic Gaming Monthly* bestowed its prestigious \"Game of the Month\" honour. Reviewers universally praised the cinematic pacing and terrifying Licker monsters, happily forgiving the notoriously stubborn tank controls in exchange for sheer tension.",
+    "impact": "*Resident Evil 2* shattered commercial records by raking in over $19 million in its opening weekend in the United States alone—surpassing the box-office hauls of almost every Hollywood blockbuster that season. It firmly cemented survival horror as an A-list commercial genre, proved video games could deliver Hollywood-calibre interactive horror, and spawned an acclaimed full remake over two decades later in 2019.",
+    "wiki": "Resident Evil 2",
+    "youtube": "Resident Evil 2 original PS1 trailer 1998",
+    "source": "https://en.wikipedia.org/wiki/Resident_Evil_2"
+  }
 }

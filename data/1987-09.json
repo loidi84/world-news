@@ -1,0 +1,132 @@
+{
+  "month": "1987-09",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1987-09-04-randy-savage-king-ring",
+      "date": "1987-09-04",
+      "topic": "wrestling",
+      "text": "4 September saw **\"Macho Man\" Randy Savage** triumph in the WWF's third annual **King of the Ring** tournament at the Providence Civic Center in Rhode Island. Accompanied by Miss Elizabeth, Savage battled through a gruelling 16-man bracket, defeating Nikolai Volkoff, Jim Brunzell and Danny Davis before toppling 460-pound behemoth King Kong Bundy in the final with his patented top-rope elbow drop. The deafening roar of approval from the sold-out 12,000-strong arena crowd accelerated Savage's transition into a beloved fan favourite.",
+      "wiki": "King of the Ring (1987)",
+      "youtube": "Randy Savage wins 1987 King of the Ring",
+      "source": "https://en.wikipedia.org/wiki/King_of_the_Ring_(1987)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1987-09-13-goiania-accident",
+      "date": "1987-09-13",
+      "topic": "science",
+      "text": "13 September saw a catastrophic radiological emergency begin in **Goiânia, Brazil**, after scrap scavengers entered an abandoned hospital clinic and salvaged a heavy radiotherapy machine. Enchanted by the glowing blue Caesium-137 powder contained within, the men distributed fragments of the lethal radioactive material to friends and family as curious souvenirs. Four people died from acute radiation sickness and hundreds suffered severe contamination, forcing Brazilian health authorities to bulldoze entire suburban homes into sealed lead containers.",
+      "wiki": "Goiânia accident",
+      "youtube": "Goiania accident 1987 radiation news report",
+      "source": "https://en.wikipedia.org/wiki/Goi%C3%A2nia_accident",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1987-09-16-montreal-protocol-signed",
+      "date": "1987-09-16",
+      "topic": "science",
+      "text": "16 September saw representatives from twenty-four nations assemble in Canada to sign the landmark **Montreal Protocol**, committing to phase out production of chlorofluorocarbons (CFCs) that were depleting the Earth's **ozone layer**. Motivated by scientific alarm over an expanding atmospheric hole above Antarctica, the treaty proved to be an unprecedented diplomatic triumph of international environmental cooperation. Observers lauded the agreement as rare proof that the global community could act with collective urgency when skin cancer was on the ballot.",
+      "wiki": "Montreal Protocol",
+      "youtube": "Montreal Protocol signed 1987 news report ozone layer",
+      "source": "https://en.wikipedia.org/wiki/Montreal_Protocol",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1987-09-18-renegade-ocean-chart",
+      "date": "1987-09-18",
+      "topic": "games",
+      "text": "18 September saw Ocean Software's gritty arcade conversion *Renegade* conquer the UK Gallup software charts, establishing itself as an essential smash hit across the **ZX Spectrum** and **Commodore 64**. Programmed under Ocean's Imagine label, the relentless side-scrolling beat-'em-up let players kick, punch and headbutt street thugs off train platforms and across grim subway alleys to rescue their girlfriend. The title effectively defined the urban street-brawler genre for home micro owners, offering satisfyingly crunchy eight-bit vigilante violence.",
+      "wiki": "Renegade (video game)",
+      "youtube": "Renegade ZX Spectrum Ocean gameplay 1987",
+      "source": "https://en.wikipedia.org/wiki/Renegade_(video_game)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1987-09-28-star-trek-tng-premiere",
+      "date": "1987-09-28",
+      "topic": "film",
+      "text": "28 September saw *Star Trek: The Next Generation* beam onto North American television screens with the epic two-hour pilot episode *Encounter at Farpoint*. Introducing classically trained British actor **Patrick Stewart** as the cerebral, dignified Captain Jean-Luc Picard aboard the USS Enterprise-D, the series initially faced severe doubts from viewers fiercely loyal to Kirk and Spock. The debut introduced the omnipotent cosmic trickster Q and established a thoughtful, philosophical tone that would launch an eighteen-year television dynasty.",
+      "wiki": "Encounter at Farpoint",
+      "youtube": "Star Trek The Next Generation Encounter at Farpoint trailer 1987",
+      "source": "https://en.wikipedia.org/wiki/Encounter_at_Farpoint",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19870913/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Never Gonna Give You Up",
+          "by": "Rick Astley"
+        },
+        {
+          "pos": 2,
+          "title": "What Have I Done to Deserve This?",
+          "by": "Pet Shop Boys with Dusty Springfield"
+        },
+        {
+          "pos": 3,
+          "title": "Wipeout",
+          "by": "Fat Boys and The Beach Boys"
+        },
+        {
+          "pos": 4,
+          "title": "Pump Up the Volume",
+          "by": "M/A/R/R/S"
+        },
+        {
+          "pos": 5,
+          "title": "Some People",
+          "by": "Cliff Richard"
+        }
+      ]
+    },
+    {
+      "section": "Computer Games (All Formats)",
+      "kind": "games",
+      "source": "https://archive.org/details/popular-computing-weekly-1987-09-18",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Renegade",
+          "by": "Imagine / Ocean"
+        },
+        {
+          "pos": 2,
+          "title": "California Games",
+          "by": "Epyx / US Gold"
+        },
+        {
+          "pos": 3,
+          "title": "Milk Race",
+          "by": "Mastertronic"
+        },
+        {
+          "pos": 4,
+          "title": "BMX Simulator",
+          "by": "Codemasters"
+        },
+        {
+          "pos": 5,
+          "title": "Exolon",
+          "by": "Hewson"
+        }
+      ]
+    }
+  ]
+}

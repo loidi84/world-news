@@ -1,0 +1,156 @@
+{
+  "month": "1987-08",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1987-08-16-flight-255-survivor",
+      "date": "1987-08-16",
+      "topic": "science",
+      "text": "16 August saw Northwest Airlines Flight 255 crash moments after departing Detroit Metropolitan Airport, resulting in the tragic deaths of 154 people aboard and two motorists on the ground. Miraculously, four-year-old **Cecelia Cichan** was discovered alive by emergency crews amidst the charred wreckage, surviving as the disaster's lone survivor despite severe burns. Aviation investigators subsequently determined that the flight crew had omitted wing flap deployment during cockpit checklists, prompting urgent overhauls of international pre-flight alert protocols.",
+      "wiki": "Northwest Airlines Flight 255",
+      "youtube": "Northwest Flight 255 crash sole survivor 1987 news report",
+      "source": "https://en.wikipedia.org/wiki/Northwest_Airlines_Flight_255",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1987-08-17-rudolf-hess-death",
+      "date": "1987-08-17",
+      "topic": "deaths",
+      "text": "17 August saw 93-year-old **Rudolf Hess**, former Deputy Führer of Nazi Germany, die by suicide in West Berlin's forbidding Spandau Prison. Incarcerated since his bizarre solo flight to Scotland in May 1941, Hess had spent his final twenty years as the monolithic red-brick complex's sole inmate, watched over by soldiers of the four Allied powers. In order to prevent the site from ever becoming a neo-Nazi rallying point, military authorities had the entire Victorian prison demolished and ground into road ballast.",
+      "wiki": "Rudolf Hess",
+      "youtube": "Rudolf Hess death Spandau prison 1987 BBC news",
+      "source": "https://en.wikipedia.org/wiki/Rudolf_Hess",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1987-08-19-hungerford-massacre",
+      "date": "1987-08-19",
+      "topic": "politics",
+      "text": "19 August saw horror engulf the quiet Berkshire market town of **Hungerford** when a lone gunman armed with a semi-automatic rifle murdered sixteen people, including a responding police officer, before taking his own life. The tragedy was the deadliest shooting incident in modern British history, sending profound waves of grief and disbelief across the nation. In response to overwhelming public shock, Parliament moved swiftly to introduce the Firearms (Amendment) Act 1988, instituting strict bans on semi-automatic centre-fire rifles.",
+      "wiki": "Hungerford massacre",
+      "youtube": "Hungerford massacre 1987 ITN news report",
+      "source": "https://en.wikipedia.org/wiki/Hungerford_massacre",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1987-08-21-milk-race-gallup-lead",
+      "date": "1987-08-21",
+      "topic": "games",
+      "text": "21 August saw Mastertronic's budget cycling simulation *Milk Race* retain the number one position on the UK Gallup software charts, fending off Codemasters' *BMX Simulator* and Hewson's *Exolon*. Created in partnership with the Milk Marketing Board to celebrate the historic British cycling race, the £1.99 tape tasked players with navigating winding road stages while managing physical fatigue and energy-restoring dairy sips. Micro owners happily endured blatant corporate branding in exchange for one of the most addictive budget titles ever coded for the **ZX Spectrum**.",
+      "wiki": "Milk Race (video game)",
+      "youtube": "Milk Race ZX Spectrum Mastertronic gameplay 1987",
+      "source": "https://archive.org/details/popular-computing-weekly-1987-08-21",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1987-08-29-rick-astley-number-one",
+      "date": "1987-08-29",
+      "topic": "music",
+      "text": "29 August saw 21-year-old Lancashire recording studio tea boy **Rick Astley** climb to number one on the UK singles chart with his debut solo release *Never Gonna Give You Up*. Engineered by pop producers Stock Aitken Waterman, the infectious dance-pop track married bright Hi-NRG synthesizers with Astley's astonishingly deep, soulful baritone. The single went on to become Britain's biggest-selling 45 of 1987, completely oblivious to the fact that twenty years later it would become the undisputed global currency of internet trickery.",
+      "wiki": "Never Gonna Give You Up",
+      "youtube": "Rick Astley Never Gonna Give You Up official music video 1987",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19870823/7501/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1987-08-30-street-fighter-arcade",
+      "date": "1987-08-30",
+      "topic": "games",
+      "text": "30 August saw Japanese coin-op developer Capcom introduce arcade players to *Street Fighter*, quietly establishing the foundations of competitive video gaming. Directed by Takashi Nishiyama, the arcade title introduced wandering martial artists **Ryu** and **Ken**, pioneering directional button combos to unleash special attacks like the fiery Hadoken and rising Shoryuken. While the deluxe cabinet's pneumatic punch pads were infamous for spraining wrists, the game set the fundamental rules for the 2D fighting phenomenon.",
+      "wiki": "Street Fighter (video game)",
+      "youtube": "Street Fighter original arcade gameplay Capcom 1987",
+      "source": "https://en.wikipedia.org/wiki/Street_Fighter_(video_game)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1987-08-31-michael-jackson-bad",
+      "date": "1987-08-31",
+      "topic": "music",
+      "text": "31 August saw pop superstar **Michael Jackson** release his eagerly anticipated studio album *Bad*, facing the near-impossible challenge of following up *Thriller*, the best-selling record in human history. Paired with an eighteen-minute short film directed by Martin Scorsese, the record showcased a tougher aesthetic and ultimately produced five consecutive US Billboard number-one singles. Critics praised Quincy Jones's impeccable studio craft, even if cynical observers noted that Jackson was the least convincing leather-clad street hoodlum in cinema history.",
+      "wiki": "Bad (album)",
+      "youtube": "Michael Jackson Bad official short film 1987",
+      "source": "https://en.wikipedia.org/wiki/Bad_(album)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19870816/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "I Just Can't Stop Loving You",
+          "by": "Michael Jackson with Siedah Garrett"
+        },
+        {
+          "pos": 2,
+          "title": "Never Gonna Give You Up",
+          "by": "Rick Astley"
+        },
+        {
+          "pos": 3,
+          "title": "Toy Boy",
+          "by": "Sinitta"
+        },
+        {
+          "pos": 4,
+          "title": "True Faith",
+          "by": "New Order"
+        },
+        {
+          "pos": 5,
+          "title": "La Bamba",
+          "by": "Los Lobos"
+        }
+      ]
+    },
+    {
+      "section": "Computer Games (All Formats)",
+      "kind": "games",
+      "source": "https://archive.org/details/popular-computing-weekly-1987-08-21",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Milk Race",
+          "by": "Mastertronic"
+        },
+        {
+          "pos": 2,
+          "title": "BMX Simulator",
+          "by": "Codemasters"
+        },
+        {
+          "pos": 3,
+          "title": "Paperboy",
+          "by": "Elite Systems"
+        },
+        {
+          "pos": 4,
+          "title": "Road Runner",
+          "by": "US Gold / Atari"
+        },
+        {
+          "pos": 5,
+          "title": "Exolon",
+          "by": "Hewson"
+        }
+      ]
+    }
+  ]
+}

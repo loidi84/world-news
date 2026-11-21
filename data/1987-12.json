@@ -1,0 +1,156 @@
+{
+  "month": "1987-12",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1987-12-08-inf-treaty-signed",
+      "date": "1987-12-08",
+      "topic": "politics",
+      "text": "8 December saw US President Ronald Reagan and Soviet General Secretary Mikhail Gorbachev sign the historic **INF Treaty** (Intermediate-Range Nuclear Forces Treaty) during a momentous superpower summit in Washington D.C. The groundbreaking accord mandated the complete elimination of an entire category of land-based nuclear and conventional cruise missiles, initiating unprecedented on-site inspection protocols on both sides of the Iron Curtain. Reagan famously deployed the Russian proverb \"trust, but verify\", to which a grinning Gorbachev dryly replied that he heard it repeated at every single meeting.",
+      "wiki": "Intermediate-Range Nuclear Forces Treaty",
+      "youtube": "INF Treaty signed Reagan Gorbachev 1987 news report",
+      "source": "https://en.wikipedia.org/wiki/Intermediate-Range_Nuclear_Forces_Treaty",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1987-12-09-first-intifada-begins",
+      "date": "1987-12-09",
+      "topic": "politics",
+      "text": "9 December saw the eruption of the **First Intifada** across the Gaza Strip and West Bank following a traffic collision at the Erez checkpoint that killed four Palestinian labourers. The incident quickly triggered widespread civil disobedience, commercial strikes, barricades and stone-throwing confrontations against the Israeli Defense Forces. The grassroots Palestinian uprising fundamentally altered international perceptions of the Israeli-Palestinian conflict, demonstrating that the status quo of military occupation was no longer tenable and ultimately laying the groundwork for the Oslo Accords.",
+      "wiki": "First Intifada",
+      "youtube": "First Intifada begins 1987 news report Gaza West Bank",
+      "source": "https://en.wikipedia.org/wiki/First_Intifada",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1987-12-17-mega-man-famicom",
+      "date": "1987-12-17",
+      "topic": "games",
+      "text": "17 December saw Capcom unleash action platformer *Mega Man* (originally *Rockman*) on the Nintendo Famicom in Japan, introducing players to the titular blue robotic hero. Conceived by artist Keiji Inafune and directed by Akira Kitamura, the game broke ground by allowing players to tackle six eccentric Robot Masters in any chosen order, absorbing each boss's signature weapon upon defeat. Gamers immediately fell in love with the precise jump-and-shoot mechanics and vibrant chiptune soundtrack, overlooking the notoriously punishing difficulty of the Yellow Devil boss fight.",
+      "wiki": "Mega Man (video game)",
+      "youtube": "Mega Man original NES gameplay Capcom 1987",
+      "source": "https://en.wikipedia.org/wiki/Mega_Man_(video_game)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1987-12-18-final-fantasy-famicom",
+      "date": "1987-12-18",
+      "topic": "games",
+      "text": "18 December saw struggling Tokyo software house Square release *Final Fantasy* on the Famicom, conceived by creator Hironobu Sakaguchi as his swan song before potentially quitting the video game industry. Drawing inspiration from Western tabletop roleplaying and *Dragon Quest*, the epic fantasy quest tasked four nameless **Warriors of Light** with restoring elemental crystals across a sprawling overworld. The game was a colossal commercial triumph, rescuing Square from impending financial collapse and kicking off one of the most celebrated RPG dynasties in entertainment history.",
+      "wiki": "Final Fantasy (video game)",
+      "youtube": "Final Fantasy original Famicom gameplay 1987 Square",
+      "source": "https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1987-12-19-out-run-christmas-number-one",
+      "date": "1987-12-19",
+      "topic": "games",
+      "text": "19 December saw U.S. Gold's home conversion of Sega's arcade sensation *Out Run* zoom straight to number one on the UK Gallup software charts, establishing itself as the runaway Christmas bestseller of 1987. Putting armchair drivers behind the wheel of a roaring red convertible alongside a blonde companion, the game captured living rooms across the **Commodore 64**, **ZX Spectrum** and **Amstrad CPC**. Micro owners joyfully whistled along to digital versions of *Magical Sound Shower* while repeatedly crashing into roadside palm trees and telephone poles.",
+      "wiki": "Out Run",
+      "youtube": "Out Run C64 US Gold gameplay 1987",
+      "source": "https://en.wikipedia.org/wiki/Out_Run",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1987-12-20-always-on-my-mind-xmas-one",
+      "date": "1987-12-20",
+      "topic": "music",
+      "text": "20 December saw synth-pop duo **Pet Shop Boys** capture the coveted UK Christmas Number One with their sweeping Hi-NRG reimagining of Elvis Presley's *Always on My Mind*. Originally arranged for an ITV television special commemorating the tenth anniversary of Presley's passing, the track generated such overwhelming public demand that Neil Tennant and Chris Lowe rushed into the studio to record an official single. In doing so, they narrowly held off The Pogues and Kirsty MacColl's iconic *Fairytale of New York*, dashing Shane MacGowan's festive chart ambitions with pure electronic pomp.",
+      "wiki": "Always on My Mind",
+      "youtube": "Pet Shop Boys Always On My Mind official video 1987",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19871220/7501/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1987-12-20-dona-paz-disaster",
+      "date": "1987-12-20",
+      "topic": "deaths",
+      "text": "20 December saw the deadliest peacetime maritime disaster in recorded history occur in the Philippines when passenger ferry **MV Doña Paz** collided with oil tanker MT Vector in the Tablas Strait. The collision ignited thousands of barrels of refined petroleum, setting the surrounding sea ablaze and rapidly engulfing the severely overcrowded passenger vessel in a wall of fire. An estimated 4,386 people perished in the inferno, with only twenty-six survivors rescued from the burning waters, leading to scathing international criticism of coastal maritime safety standards and reckless ticket overselling.",
+      "wiki": "MV Doña Paz",
+      "youtube": "MV Dona Paz maritime disaster 1987 news report Philippines",
+      "source": "https://en.wikipedia.org/wiki/MV_Do%C3%B1a_Paz",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19871220/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Always on My Mind",
+          "by": "Pet Shop Boys"
+        },
+        {
+          "pos": 2,
+          "title": "Fairytale of New York",
+          "by": "The Pogues featuring Kirsty MacColl"
+        },
+        {
+          "pos": 3,
+          "title": "Rockin' Around the Christmas Tree",
+          "by": "Mel and Kim"
+        },
+        {
+          "pos": 4,
+          "title": "When I Fall in Love",
+          "by": "Rick Astley"
+        },
+        {
+          "pos": 5,
+          "title": "When I Fall in Love",
+          "by": "Nat 'King' Cole"
+        }
+      ]
+    },
+    {
+      "section": "Computer Games (All Formats)",
+      "kind": "games",
+      "source": "https://en.wikipedia.org/wiki/Out_Run",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Out Run",
+          "by": "U.S. Gold"
+        },
+        {
+          "pos": 2,
+          "title": "Grand Prix Simulator",
+          "by": "Codemasters"
+        },
+        {
+          "pos": 3,
+          "title": "Live Ammo",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "Platoon",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 5,
+          "title": "Renegade",
+          "by": "Ocean / Imagine"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "month": "1988-09",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1988-09-17-seoul-olympics-open",
+      "date": "1988-09-17",
+      "topic": "sport",
+      "text": "17 September saw the **1988 Summer Olympics** officially open in **Seoul**, South Korea, marking the country's triumphant international coming-out party as a modern industrial democracy. Boycotted only by North Korea, Cuba, and a handful of allies, the games saw the return of full superpower athletic competition between the United States and the Soviet Union for the first time in twelve years. Nearly 8,400 athletes from 159 nations marched into the Olympic Stadium, heralding an unforgettable fortnight of world records and high-stakes drama.",
+      "wiki": "1988 Summer Olympics",
+      "youtube": "Seoul Olympics 1988 Opening Ceremony highlights",
+      "source": "https://en.wikipedia.org/wiki/1988_Summer_Olympics",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-09-18-hollies-miller-lite-number-one",
+      "date": "1988-09-18",
+      "topic": "music",
+      "text": "18 September saw 1960s beat legends **The Hollies** claim the number one spot on the UK singles chart with *He Ain't Heavy, He's My Brother*, nineteen years after the song was originally recorded. The remarkable chart resurrection was ignited by a stylish television advertising campaign for Miller Lite lager, in which an American serviceman carries his buddy through rainstorms. The reissued ballad spent two weeks at the summit of the British charts, proving that emotional British pop classicism could be thoroughly revived by a great television commercial.",
+      "wiki": "He Ain't Heavy, He's My Brother",
+      "youtube": "The Hollies He Aint Heavy Hes My Brother Miller Lite advert 1988",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19880918/7501/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1988-09-24-ben-johnson-100m-doping",
+      "date": "1988-09-24",
+      "topic": "sport",
+      "text": "24 September saw Canadian sprinter **Ben Johnson** stun the world by winning the Olympic 100 metres final in Seoul in an astonishing world record time of 9.79 seconds, obliterating fierce rival Carl Lewis. Just three days later on 27 September, Olympic officials dropped an earthquake upon international athletics by announcing that Johnson had tested positive for the anabolic steroid stanozolol. Disqualified in disgrace and stripped of both his Olympic gold medal and world record, Johnson flew home in ignominy as the games suffered the darkest doping scandal in sports history.",
+      "wiki": "100 metres at the 1988 Summer Olympics",
+      "youtube": "Ben Johnson 1988 Seoul 100m final and doping scandal news report",
+      "source": "https://en.wikipedia.org/wiki/100_metres_at_the_1988_Summer_Olympics",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-09-29-space-shuttle-discovery-return",
+      "date": "1988-09-29",
+      "topic": "science",
+      "text": "29 September saw NASA achieve a triumphant \"Return to Flight\" as Space Shuttle **Discovery** roared into orbit from Launch Complex 39B at Kennedy Space Center on mission STS-26. Marking the very first American crewed spaceflight since the tragic loss of *Challenger* thirty-two months earlier, the mission carried a veteran crew of five astronauts commanded by Frederick Hauck. Millions of anxious television viewers breathed a collective sigh of relief when the twin solid rocket boosters safely separated, restoring American confidence in its human spaceflight program.",
+      "wiki": "STS-26",
+      "youtube": "Space Shuttle Discovery STS-26 launch 1988 NASA Return to Flight",
+      "source": "https://en.wikipedia.org/wiki/STS-26",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-09-30-daley-thompson-game",
+      "date": "1988-09-30",
+      "topic": "games",
+      "text": "30 September saw Ocean Software's decathlon title *Daley Thompson's Olympic Challenge* climb into the top tiers of the UK Gallup software charts, riding the wave of excitement surrounding the Seoul Games. Published for the **ZX Spectrum**, **Commodore 64** and **Amstrad CPC**, the multi-event sports title had players vigorously waggling joysticks to exhaustion in pursuit of gold medals in the 100m, long jump, shot put and pole vault. British micro owners happily wrecked cheap microswitch joysticks in their bedrooms to emulate their favourite Olympic decathlete.",
+      "wiki": "Daley Thompson's Olympic Challenge",
+      "youtube": "Daley Thompsons Olympic Challenge ZX Spectrum gameplay Ocean 1988",
+      "source": "https://en.wikipedia.org/wiki/Daley_Thompson%27s_Olympic_Challenge",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19880918/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "He Ain't Heavy, He's My Brother",
+          "by": "The Hollies"
+        },
+        {
+          "pos": 2,
+          "title": "A Groovy Kind of Love",
+          "by": "Phil Collins"
+        },
+        {
+          "pos": 3,
+          "title": "The Only Way Is Up",
+          "by": "Yazz and the Plastic Population"
+        },
+        {
+          "pos": 4,
+          "title": "One Moment in Time",
+          "by": "Whitney Houston"
+        },
+        {
+          "pos": 5,
+          "title": "Teardrops",
+          "by": "Womack & Womack"
+        }
+      ]
+    },
+    {
+      "section": "Computer Games (All Formats)",
+      "kind": "games",
+      "source": "https://en.wikipedia.org/wiki/Daley_Thompson%27s_Olympic_Challenge",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Daley Thompson's Olympic Challenge",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Target: Renegade",
+          "by": "Imagine / Ocean"
+        },
+        {
+          "pos": 3,
+          "title": "Bionic Commando",
+          "by": "Capcom / Go!"
+        },
+        {
+          "pos": 4,
+          "title": "Track & Field",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 5,
+          "title": "Double Dragon",
+          "by": "Melbourne House / Virgin"
+        }
+      ]
+    }
+  ]
+}

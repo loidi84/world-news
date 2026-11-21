@@ -1,0 +1,144 @@
+{
+  "month": "1988-03",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1988-03-06-operation-flavius",
+      "date": "1988-03-06",
+      "topic": "politics",
+      "text": "6 March saw British special forces carry out **Operation Flavius** in Gibraltar, shooting dead three unarmed members of a Provisional IRA active service unit in broad daylight. Military intelligence had suspected the trio were preparing to detonate a car bomb targeting the Royal Anglian Regiment during a ceremonial parade. The killings sparked fierce international controversy regarding an alleged British military \"shoot-to-kill\" policy, triggering an intensely volatile fortnight of funeral unrest and retaliatory bloodshed across Belfast.",
+      "wiki": "Operation Flavius",
+      "youtube": "Operation Flavius Gibraltar IRA shooting 1988 news report",
+      "source": "https://en.wikipedia.org/wiki/Operation_Flavius",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-03-16-milltown-cemetery-attack",
+      "date": "1988-03-16",
+      "topic": "politics",
+      "text": "16 March saw horrifying scenes broadcast on evening news bulletins when lone loyalist gunman Michael Stone launched a grenade and pistol assault on mourners at Belfast's **Milltown Cemetery**. Interrupting the funeral of the three IRA members killed in Gibraltar, Stone killed three people and wounded more than sixty as he retreated across gravestones while under pursuit by an enraged crowd. The attack was captured in astonishing detail by television news crews, shocking the public with its brazen, broad-daylight savagery.",
+      "wiki": "Milltown Cemetery attack",
+      "youtube": "Milltown Cemetery attack 1988 Michael Stone news footage",
+      "source": "https://en.wikipedia.org/wiki/Milltown_Cemetery_attack",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-03-19-corporals-killings",
+      "date": "1988-03-19",
+      "topic": "deaths",
+      "text": "19 March saw profound shock grip the United Kingdom following the horrific **Corporals killings** in West Belfast. Plainclothes British Army soldiers David Howes and Derek Wood inadvertently drove an unmarked car into the funeral cortege of an IRA member killed days earlier at Milltown Cemetery. Surrounding mourners, fearing a repeat loyalist gun attack, dragged the two soldiers from their vehicle before handing them over to IRA operatives who beat and fatally shot them in a nearby derelict lot.",
+      "wiki": "Corporals killings",
+      "youtube": "Corporals killings Belfast 1988 news report",
+      "source": "https://en.wikipedia.org/wiki/Corporals_killings",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-03-20-aswad-dont-turn-around",
+      "date": "1988-03-20",
+      "topic": "music",
+      "text": "20 March saw British roots-reggae stalwarts **Aswad** score their first UK number-one single as their slick pop-reggae cover of *Don't Turn Around* reached the chart summit. Having performed on the London circuit for over a decade with uncompromising political dub, the trio struck commercial gold after reworking an obscure Tina Turner B-side with producer Chris Porter. The sunny track narrowly pushed teen heartthrobs Bros down to number two, proving that British listeners were eager for brassy Caribbean rhythms as spring approached.",
+      "wiki": "Don't Turn Around",
+      "youtube": "Aswad Dont Turn Around official music video 1988",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19880320/7501/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1988-03-25-target-renegade-software",
+      "date": "1988-03-25",
+      "topic": "games",
+      "text": "25 March saw Imagine Software's street-brawling sequel *Target: Renegade* make an explosive impact on UK retail sales, swiftly climbing into the upper reaches of the Gallup software charts across the **ZX Spectrum** and **Commodore 64**. Featuring gritty multi-level combat, weapon pick-ups like lead pipes, and a revolutionary two-player simultaneous cooperative mode, the title improved upon its predecessor in every mechanical respect. Micro gamers rejoiced at the ability to team up with a friend to kick leather-clad bikers and crooked cops off car park rooftops.",
+      "wiki": "Target: Renegade",
+      "youtube": "Target Renegade ZX Spectrum gameplay Imagine 1988",
+      "source": "https://en.wikipedia.org/wiki/Target:_Renegade",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1988-03-27-wrestlemania-iv-savage-champion",
+      "date": "1988-03-27",
+      "topic": "wrestling",
+      "text": "27 March saw **WrestleMania IV** take place before 18,000 fans at the historic Boardwalk Hall in Atlantic City, New Jersey, sponsored by real estate mogul Donald Trump. Headlined by a sprawling 14-man single-elimination tournament for the vacant WWF World Heavyweight Championship, the marathon event culminated in **\"Macho Man\" Randy Savage** defeating \"Million Dollar Man\" Ted DiBiase in the final. Assisted by a timely chair shot from ringside ally Hulk Hogan, Savage hoisted the championship belt with Miss Elizabeth perched on his shoulders, inaugurating the golden year of the Mega Powers.",
+      "wiki": "WrestleMania IV",
+      "youtube": "WrestleMania IV Randy Savage wins WWF Championship 1988",
+      "source": "https://en.wikipedia.org/wiki/WrestleMania_IV",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19880320/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Don't Turn Around",
+          "by": "Aswad"
+        },
+        {
+          "pos": 2,
+          "title": "Drop the Boy",
+          "by": "Bros"
+        },
+        {
+          "pos": 3,
+          "title": "Can I Play with Madness",
+          "by": "Iron Maiden"
+        },
+        {
+          "pos": 4,
+          "title": "Could've Been",
+          "by": "Tiffany"
+        },
+        {
+          "pos": 5,
+          "title": "I Should Be So Lucky",
+          "by": "Kylie Minogue"
+        }
+      ]
+    },
+    {
+      "section": "Computer Games (All Formats)",
+      "kind": "games",
+      "source": "https://en.wikipedia.org/wiki/Target:_Renegade",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Platoon",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Match Day II",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Target: Renegade",
+          "by": "Imagine / Ocean"
+        },
+        {
+          "pos": 4,
+          "title": "Grand Prix Simulator",
+          "by": "Codemasters"
+        },
+        {
+          "pos": 5,
+          "title": "Out Run",
+          "by": "U.S. Gold"
+        }
+      ]
+    }
+  ]
+}

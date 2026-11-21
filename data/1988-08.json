@@ -1,0 +1,132 @@
+{
+  "month": "1988-08",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1988-08-08-burma-8888-uprising",
+      "date": "1988-08-08",
+      "topic": "politics",
+      "text": "8 August saw hundreds of thousands of university students, monks, and ordinary citizens take to the streets across Burma on **8-8-88**, launching the historic **8888 Uprising** against General Ne Win's authoritarian socialist regime. Demanding multi-party democratic governance and an end to crippling economic hardship, the demonstrators brought the capital of Rangoon to a complete standstill. The civilian protests brought future Nobel laureate **Aung San Suu Kyi** to international prominence, before being brutally crushed weeks later by a bloody military junta coup.",
+      "wiki": "8888 Uprising",
+      "youtube": "8888 Uprising Burma 1988 news report",
+      "source": "https://en.wikipedia.org/wiki/8888_Uprising",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-08-17-zia-ul-haq-plane-crash",
+      "date": "1988-08-17",
+      "topic": "deaths",
+      "text": "17 August saw Pakistani military dictator President **Muhammad Zia-ul-Haq** die in a mysterious aviation crash when his official C-130 Hercules aircraft plummeted into the desert near Bahawalpur shortly after takeoff. The disaster also killed thirty others aboard, including prominent senior Pakistani military generals and United States Ambassador Arnold Raphel. The abrupt demise of Zia, who had ruled Pakistan with an iron fist since his 1977 coup, paved the way for open democratic general elections and the historic election of Benazir Bhutto.",
+      "wiki": "Death and state funeral of Muhammad Zia-ul-Haq",
+      "youtube": "Zia ul Haq plane crash 1988 news report Pakistan",
+      "source": "https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Muhammad_Zia-ul-Haq",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-08-20-iran-iraq-war-ceasefire",
+      "date": "1988-08-20",
+      "topic": "politics",
+      "text": "20 August saw the guns fall silent across the Persian Gulf as the catastrophic **Iran-Iraq War** officially terminated with a UN-brokered ceasefire under United Nations Security Council Resolution 598. Spanning nearly eight years of brutal trench warfare, ballistic missile attacks against civilian cities and widespread chemical weapons usage, the conflict claimed an estimated one million lives with zero territorial adjustments for either nation. Both Saddam Hussein and Ayatollah Khomeini claimed victory from the ruins, leaving behind devastated national treasuries.",
+      "wiki": "Iran–Iraq War",
+      "youtube": "Iran Iraq War ends 1988 news report ceasefire",
+      "source": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-08-21-yazz-only-way-is-up",
+      "date": "1988-08-21",
+      "topic": "music",
+      "text": "21 August saw British club vocalist **Yazz** and the Plastic Population reach number one on the UK singles chart with their stomping Hi-NRG acid-house anthem *The Only Way Is Up*. Produced by Coldcut and featuring infectious horn fanfares alongside a driving breakbeat, the euphoric track spent five consecutive weeks at number one, becoming the ultimate commercial anthem of Britain's **Second Summer of Love**. The single cemented acid house's transition from underground motorway raves straight into high street record shops.",
+      "wiki": "The Only Way Is Up",
+      "youtube": "Yazz and the Plastic Population The Only Way Is Up official video 1988",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19880821/7501/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-08-29-summerslam-inaugural",
+      "date": "1988-08-29",
+      "topic": "wrestling",
+      "text": "29 August saw the World Wrestling Federation inaugurate **SummerSlam** before a roaring sell-out crowd at Madison Square Garden in New York City. The marquee main event saw the **Mega Powers** (WWF World Heavyweight Champion Randy Savage and Hulk Hogan) take on the \"Mega Bucks\" duo of Ted DiBiase and André the Giant, with special guest referee Jesse \"The Body\" Ventura. The climax saw Miss Elizabeth famously remove her red skirt to distract DiBiase and André, allowing Savage and Hogan to clear the ring and celebrate in theatrical triumph.",
+      "wiki": "SummerSlam (1988)",
+      "youtube": "SummerSlam 1988 main event Mega Powers vs Mega Bucks",
+      "source": "https://en.wikipedia.org/wiki/SummerSlam_(1988)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19880821/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Only Way Is Up",
+          "by": "Yazz and the Plastic Population"
+        },
+        {
+          "pos": 2,
+          "title": "Superfly Guy",
+          "by": "S'Express"
+        },
+        {
+          "pos": 3,
+          "title": "The Locomotion",
+          "by": "Kylie Minogue"
+        },
+        {
+          "pos": 4,
+          "title": "Push It",
+          "by": "Salt-N-Pepa"
+        },
+        {
+          "pos": 5,
+          "title": "Monkey",
+          "by": "George Michael"
+        }
+      ]
+    },
+    {
+      "section": "Computer Games (All Formats)",
+      "kind": "games",
+      "source": "https://en.wikipedia.org/wiki/Target:_Renegade",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Target: Renegade",
+          "by": "Imagine / Ocean"
+        },
+        {
+          "pos": 2,
+          "title": "Daley Thompson's Olympic Challenge",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Bionic Commando",
+          "by": "Capcom / Go!"
+        },
+        {
+          "pos": 4,
+          "title": "IK+",
+          "by": "System 3"
+        },
+        {
+          "pos": 5,
+          "title": "Platoon",
+          "by": "Ocean Software"
+        }
+      ]
+    }
+  ]
+}
