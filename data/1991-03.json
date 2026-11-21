@@ -1,0 +1,233 @@
+{
+  "month": "1991-03",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1991-03-07-street-fighter-ii-arcade",
+      "date": "1991-03-07",
+      "topic": "games",
+      "text": "7 March saw Capcom unleash *Street Fighter II: The World Warrior* into amusement arcades, triggering an unprecedented revolution in competitive gaming. Introducing an international cast of martial artists including Ryu, Chun-Li and Guile alongside an accidental combo system, the coin-op cabinet quickly attracted throngs of players eager to stack 10p coins on the marquee. Arcade operators found their machines constantly surrounded by bruised egos and frantic button-mashers practicing dragon punches.",
+      "wiki": "Street Fighter II: The World Warrior",
+      "youtube": "Street Fighter II The World Warrior arcade 1991",
+      "source": "https://en.wikipedia.org/wiki/Street_Fighter_II:_The_World_Warrior",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1991-03-09-clash-number-one",
+      "date": "1991-03-09",
+      "topic": "music",
+      "text": "9 March saw punk icons **The Clash** achieve their first and only UK number one single with *Should I Stay or Should I Go*, nearly a decade after its original release. The sudden chart resurrection was sparked by a suave **Levi's** denim commercial set in a pool hall that captivated television viewers. Veteran punk purists found themselves pondering the philosophical irony of anti-establishment anthems being propelled to chart glory by television trouser adverts.",
+      "wiki": "Should I Stay or Should I Go",
+      "youtube": "The Clash Should I Stay or Should I Go Levis advert 1991",
+      "source": "https://www.officialcharts.com/songs/the-clash-should-i-stay-or-should-i-go/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1991-03-14-birmingham-six-freed",
+      "date": "1991-03-14",
+      "topic": "politics",
+      "text": "14 March saw the **Birmingham Six** walk free from the Old Bailey after sixteen years of wrongful imprisonment for the 1974 pub bombings. The Court of Appeal quashed their convictions after forensic evidence of nitroglycerine contact was revealed to be worthless and police interview records were shown to have been fabricated. Their release exposed one of the gravest miscarriages of justice in modern British legal history, prompting the immediate establishment of a Royal Commission into the criminal justice system.",
+      "wiki": "Birmingham Six",
+      "youtube": "Birmingham Six freed 1991 Court of Appeal",
+      "source": "https://en.wikipedia.org/wiki/Birmingham_Six",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-03-15-the-stonk-red-nose-day",
+      "date": "1991-03-15",
+      "topic": "music",
+      "text": "15 March saw comedy duo **Hale and Pace** release their novelty track *The Stonk* as the official single for the 1991 **Red Nose Day** appeal. Produced by Queen guitarist Brian May and backed by an all-star rhythm section of British rock veterans, the deliberately ridiculous dance tune surged straight to number one on the UK singles chart. While critics winced at the dance instructions, the single raised over £1 million to support Comic Relief projects across Africa and the UK.",
+      "wiki": "The Stonk",
+      "youtube": "Hale and Pace The Stonk official video Comic Relief",
+      "source": "https://en.wikipedia.org/wiki/The_Stonk",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    },
+    {
+      "id": "1991-03-21-leo-fender-death",
+      "date": "1991-03-21",
+      "topic": "deaths",
+      "text": "21 March saw the death of American instrument pioneer **Leo Fender** at the age of 81 in California. Fender had revolutionized the sound of modern music by creating the **Telecaster**, the Stratocaster, and the Precision Bass, despite famously never learning how to play the guitar or tune one by ear himself. His durable solid-body designs became the essential weapons of choice for generations of musicians from Buddy Holly to Jimi Hendrix.",
+      "wiki": "Leo Fender",
+      "youtube": "Leo Fender electric guitar history documentary",
+      "source": "https://en.wikipedia.org/wiki/Leo_Fender",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1991-03-21-poll-tax-scrapped",
+      "date": "1991-03-21",
+      "topic": "politics",
+      "text": "21 March saw Environment Secretary **Michael Heseltine** announce the abolition of the widely despised **Community Charge**, effectively burying the policy that had doomed Margaret Thatcher's premiership. Addressing the House of Commons, Heseltine unveiled plans for a new property-banded **Council Tax** to take effect within two years. To soothe furious voters in the interim, the government promptly slashed existing bills by £140, paying for the retreat with a steep hike in VAT.",
+      "wiki": "Community Charge",
+      "youtube": "Michael Heseltine scraps poll tax 1991 House of Commons",
+      "source": "https://api.parliament.uk/historic-hansard/commons/1991/mar/21/local-government-finance-1",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-03-24-wrestlemania-vii",
+      "date": "1991-03-24",
+      "topic": "wrestling",
+      "text": "24 March saw **Hulk Hogan** dethrone Iraqi-sympathiser Sgt. Slaughter to reclaim the WWF World Heavyweight Championship at *WrestleMania VII* in Los Angeles. The show's most dramatic moment arrived when **The Ultimate Warrior** defeated Randy \"Macho King\" Savage in a career-ending retirement match. After an incensed Sensational Sherri attacked the beaten Savage, his estranged manager **Miss Elizabeth** rushed from the crowd to rescue him, uniting the pair in an emotional embrace that left grown wrestling fans weeping into their programmes.",
+      "wiki": "WrestleMania VII",
+      "youtube": "WrestleMania VII Randy Savage Miss Elizabeth reunion",
+      "source": "https://en.wikipedia.org/wiki/WrestleMania_VII",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-03-25-oscars-dances-with-wolves",
+      "date": "1991-03-25",
+      "topic": "film",
+      "text": "25 March saw Kevin Costner's three-hour frontier epic *Dances with Wolves* sweep the **63rd Academy Awards** at the Shrine Auditorium in Los Angeles, collecting seven Oscars including Best Picture and Best Director. Host Billy Crystal oversaw a ceremony that also awarded **Jeremy Irons** Best Actor for *Reversal of Fortune* and **Kathy Bates** Best Actress for *Misery*. Hollywood traditionalists who had previously mocked Costner's project as \"Kevin's Gate\" were forced into a dignified silence as the trophies piled up.",
+      "wiki": "63rd Academy Awards",
+      "youtube": "63rd Academy Awards 1991 Best Picture Dances with Wolves",
+      "source": "https://en.wikipedia.org/wiki/63rd_Academy_Awards",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19910317/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Stonk",
+          "by": "Hale & Pace and The Stonkers"
+        },
+        {
+          "pos": 2,
+          "title": "Should I Stay or Should I Go",
+          "by": "The Clash"
+        },
+        {
+          "pos": 3,
+          "title": "Rhythm of My Heart",
+          "by": "Rod Stewart"
+        },
+        {
+          "pos": 4,
+          "title": "Joyride",
+          "by": "Roxette"
+        },
+        {
+          "pos": 5,
+          "title": "The One and Only",
+          "by": "Chesney Hawkes"
+        }
+      ]
+    },
+    {
+      "section": "All Formats",
+      "kind": "games",
+      "source": "https://computerhits.org/ (Gallup UK Full Price Chart, Week to 1991-03-16)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Teenage Mutant Hero Turtles",
+          "by": "Mirrorsoft"
+        },
+        {
+          "pos": 2,
+          "title": "Turrican II",
+          "by": "Rainbow Arts"
+        },
+        {
+          "pos": 3,
+          "title": "Dizzy Collection",
+          "by": "Codemasters"
+        },
+        {
+          "pos": 4,
+          "title": "Castle of Illusion Starring Mickey Mouse",
+          "by": "Sega"
+        },
+        {
+          "pos": 5,
+          "title": "Fists of Fury",
+          "by": "Mastertronic"
+        }
+      ]
+    },
+    {
+      "section": "Commodore 64",
+      "kind": "games",
+      "source": "https://computerhits.org/ (Gallup UK Chart, March 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Teenage Mutant Hero Turtles",
+          "by": "Mirrorsoft"
+        },
+        {
+          "pos": 2,
+          "title": "Turrican II",
+          "by": "Rainbow Arts"
+        },
+        {
+          "pos": 3,
+          "title": "Double Dragon",
+          "by": "Mastertronic"
+        },
+        {
+          "pos": 4,
+          "title": "Paperboy",
+          "by": "Elite Systems"
+        },
+        {
+          "pos": 5,
+          "title": "Kwik Snax",
+          "by": "Codemasters"
+        }
+      ]
+    },
+    {
+      "section": "Amiga",
+      "kind": "games",
+      "source": "https://computerhits.org/ (Gallup UK Chart, March 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Lemmings",
+          "by": "Psygnosis"
+        },
+        {
+          "pos": 2,
+          "title": "Turrican II",
+          "by": "Rainbow Arts"
+        },
+        {
+          "pos": 3,
+          "title": "Gods",
+          "by": "Renegade"
+        },
+        {
+          "pos": 4,
+          "title": "Speedball 2: Brutal Deluxe",
+          "by": "Image Works"
+        },
+        {
+          "pos": 5,
+          "title": "Shadow of the Beast II",
+          "by": "Psygnosis"
+        }
+      ]
+    }
+  ],
+  "chartSource": "Official Charts Company / Gallup UK charts, March 1991"
+}

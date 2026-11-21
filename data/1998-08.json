@@ -1,0 +1,177 @@
+{
+  "month": "1998-08",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1998-08-09-boyzone-no-matter-what",
+      "date": "1998-08-09",
+      "topic": "music",
+      "text": "9 August saw Irish boy band **Boyzone** climb to number one on the UK singles chart with their soaring ballad *No Matter What*, penned by Andrew Lloyd Webber and Jim Steinman for the stage musical *Whistle Down the Wind*. Fronted by Ronan Keating and Stephen Gately, the earnest acoustic singalong spent three weeks at the summit and went on to become the best-selling single of 1998 in the United Kingdom. Hardened indie rockers covered their ears in despair, entirely powerless against the sheer, unbridled commercial force of Irish pop.",
+      "wiki": "No Matter What (Boyzone song)",
+      "youtube": "Boyzone No Matter What official video 1998",
+      "source": "https://www.officialcharts.com/songs/boyzone-no-matter-what/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-08-15-imac-g3-launch",
+      "date": "1998-08-15",
+      "topic": "tech",
+      "text": "15 August saw Apple unleash the **iMac G3** onto computer store shelves in its eye-catching translucent \"Bondi Blue\" teardrop casing, sparking a design revolution across consumer electronics. Championed by newly returned chief executive **Steve Jobs** and British industrial designer Jony Ive, the all-in-one machine brazenly abandoned legacy serial ports and 3.5-inch floppy drives in favor of futuristic USB ports and an integrated dial-up modem. The candy-coloured machine rescued Apple from the brink of financial bankruptcy and banished boring beige computing towers for good.",
+      "wiki": "IMac G3",
+      "youtube": "Steve Jobs introduces original iMac 1998",
+      "source": "https://en.wikipedia.org/wiki/IMac_G3",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-08-15-omagh-bombing",
+      "date": "1998-08-15",
+      "topic": "politics",
+      "text": "15 August saw tragedy strike Northern Ireland when a 500-pound car bomb planted by the dissident **Real IRA** ripped through the crowded market town of **Omagh** in County Tyrone, killing 29 people and injuring over 200. Carried out mere months after the Good Friday Agreement, the carnage united politicians, church leaders, and ordinary citizens across all political and religious divides in universal horror and outrage. Rather than derailing the fragile peace process as its perpetrators had intended, the atrocity permanently extinguished public tolerance for paramilitary violence.",
+      "wiki": "Omagh bombing",
+      "youtube": "Omagh bombing news report August 1998",
+      "source": "https://en.wikipedia.org/wiki/Omagh_bombing",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-08-17-clinton-grand-jury-speech",
+      "date": "1998-08-17",
+      "topic": "politics",
+      "text": "17 August saw US President **Bill Clinton** address the American public on television to confess that he had misled the country about an extramarital relationship with Monica Lewinsky that was not appropriate. Delivered shortly after completing four hours of gruelling closed-circuit testimony before Kenneth Starr's grand jury, the combative four-minute speech mixed personal contrition with biting fury at prosecutors peering into his private life. Late-night comedians sharpen their pens with glee as the Washington political establishment immediately geared up for full-blown impeachment hearings.",
+      "wiki": "Bill Clinton's address to the nation (August 17, 1998)",
+      "youtube": "Bill Clinton address to nation August 17 1998 Lewinsky",
+      "source": "https://en.wikipedia.org/wiki/Bill_Clinton%27s_address_to_the_nation_(August_17,_1998)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-08-28-lock-stock-two-smoking-barrels",
+      "date": "1998-08-28",
+      "topic": "film",
+      "text": "28 August saw British director Guy Ritchie burst onto cinema screens with his razor-sharp Cockney crime comedy *Lock, Stock and Two Smoking Barrels*. Starring a rogue's gallery of London hard-men, including former Olympic diver **Jason Statham** and Wimbledon midfield enforcer **Vinnie Jones**, the film dazzled audiences with quick-fire banter, freeze-frame camera work, and intersecting antique shotgun capers. The sleeper hit rejuvenated modern British cinema and immediately spawned a swarm of imitators, each considerably less stylish than the last.",
+      "wiki": "Lock, Stock and Two Smoking Barrels",
+      "youtube": "Lock Stock and Two Smoking Barrels trailer 1998",
+      "source": "https://en.wikipedia.org/wiki/Lock,_Stock_and_Two_Smoking_Barrels",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-08-30-summerslam-highway-to-hell",
+      "date": "1998-08-30",
+      "topic": "wrestling",
+      "text": "30 August saw the WWF pack a feverish crowd of over 21,000 fans into Madison Square Garden for *SummerSlam* under the banner **Highway to Hell**. In an acclaimed semi-main event, **Triple H** climbed a 14-foot ladder to defeat The Rock for the Intercontinental Championship, cementing both men as future main-event superstars. In the main event, WWF Champion **\"Stone Cold\" Steve Austin** overcame The Undertaker with a low blow and a Stunner, keeping his title reign intact while both competitors earned a roaring standing ovation.",
+      "wiki": "SummerSlam (1998)",
+      "youtube": "SummerSlam 1998 Stone Cold vs Undertaker Madison Square Garden",
+      "source": "https://en.wikipedia.org/wiki/SummerSlam_(1998)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19980816/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "No Matter What",
+          "by": "Boyzone"
+        },
+        {
+          "pos": 2,
+          "title": "Viva Forever",
+          "by": "Spice Girls"
+        },
+        {
+          "pos": 3,
+          "title": "Music Sounds Better with You",
+          "by": "Stardust"
+        },
+        {
+          "pos": 4,
+          "title": "Ghetto Supastar (That Is What You Are)",
+          "by": "Pras Michel featuring Ol' Dirty Bastard & Mýa"
+        },
+        {
+          "pos": 5,
+          "title": "Life",
+          "by": "Des'ree"
+        }
+      ]
+    },
+    {
+      "section": "PlayStation",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, August 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Tekken 3",
+          "by": "Namco"
+        },
+        {
+          "pos": 2,
+          "title": "Gran Turismo",
+          "by": "Sony"
+        },
+        {
+          "pos": 3,
+          "title": "WWF War Zone",
+          "by": "Acclaim"
+        },
+        {
+          "pos": 4,
+          "title": "World Cup 98",
+          "by": "EA Sports"
+        },
+        {
+          "pos": 5,
+          "title": "Command & Conquer: Red Alert",
+          "by": "Virgin"
+        }
+      ]
+    },
+    {
+      "section": "Nintendo 64",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, August 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Banjo-Kazooie",
+          "by": "Rare / Nintendo"
+        },
+        {
+          "pos": 2,
+          "title": "GoldenEye 007",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 3,
+          "title": "World Cup 98",
+          "by": "EA Sports"
+        },
+        {
+          "pos": 4,
+          "title": "Super Mario 64",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 5,
+          "title": "Diddy Kong Racing",
+          "by": "Rare"
+        }
+      ]
+    }
+  ],
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, August 1998"
+}

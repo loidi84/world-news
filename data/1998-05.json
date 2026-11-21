@@ -1,0 +1,189 @@
+{
+  "month": "1998-05",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1998-05-03-arsenal-title-adams",
+      "date": "1998-05-03",
+      "topic": "sport",
+      "text": "3 May saw **Arsenal** seal the Premier League title in magnificent style by routing Everton 4–0 at Highbury. The crowning moment arrived when reformed captain **Tony Adams** galloped through the Toffees' backline to half-volley a majestic fourth goal into the North Bank net, cementing French manager Arsène Wenger's historic debut league title. Sceptical football columnists who had famously greeted the Frenchman's 1996 appointment with the headline \"Arsène Who?\" discreetly recycled their old back-page columns.",
+      "wiki": "1997–98 Arsenal F.C. season",
+      "youtube": "Arsenal 4 Everton 0 1998 Tony Adams goal Highbury",
+      "source": "https://www.premierleague.com/match/2387",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-05-08-gran-turismo-eu-launch",
+      "date": "1998-05-08",
+      "topic": "games",
+      "text": "8 May saw Sony and Polyphony Digital release driving simulator *Gran Turismo* across Europe on the **PlayStation**, permanently redefining the digital racing genre. Boasting over 140 photorealistic licensed vehicles and authentic suspension physics, the game demanded that players patiently pass rigorous licence tests in sluggish family hatchbacks before they were permitted near a Dodge Viper. The title's jaw-dropping replay cameras and meticulous realism propelled it to become the best-selling PlayStation game of all time.",
+      "wiki": "Gran Turismo (video game)",
+      "youtube": "Gran Turismo 1 original PlayStation European release 1998",
+      "source": "https://en.wikipedia.org/wiki/Gran_Turismo_(video_game)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-05-11-india-nuclear-tests",
+      "date": "1998-05-11",
+      "topic": "science",
+      "text": "11 May saw India conduct three underground nuclear tests at the **Pokhran** test range in the Thar Desert, defying global non-proliferation treaties. Prime Minister Atal Bihari Vajpayee declared India a full-fledged nuclear weapons state, blindsiding Western intelligence satellites and triggering immediate economic sanctions from Washington. Regional tensions escalated drastically two weeks later when neighbouring Pakistan retaliated with its own atomic tests, establishing a perilous nuclear standoff over Kashmir.",
+      "wiki": "Pokhran-II",
+      "youtube": "India nuclear tests Pokhran 1998 news report",
+      "source": "https://en.wikipedia.org/wiki/Pokhran-II",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-05-14-frank-sinatra-death",
+      "date": "1998-05-14",
+      "topic": "deaths",
+      "text": "14 May saw the incomparable American crooner and Oscar-winning actor **Frank Sinatra** pass away from a heart attack in Los Angeles at the age of 82. Known universally as \"Ol' Blue Eyes\" and the \"Chairman of the Board\", his impeccable phrasing and velvet baritone had defined classic twentieth-century American song from the swinging Rat Pack era to *My Way*. The lights along the Las Vegas Strip were dimmed in his honour, marking the quiet departure of showbiz royalty.",
+      "wiki": "Frank Sinatra",
+      "youtube": "Frank Sinatra death announcement news report 1998",
+      "source": "https://en.wikipedia.org/wiki/Frank_Sinatra",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-05-14-seinfeld-finale",
+      "date": "1998-05-14",
+      "topic": "film",
+      "text": "14 May saw sitcom juggernaut *Seinfeld* bow out on NBC after nine celebrated seasons, drawing a colossal television audience of 76 million viewers in the United States alone. In an unapologetically abrasive finale that subverted standard Hollywood sentimentality, Jerry, George, Elaine, and Kramer were convicted of criminal indifference under a \"Good Samaritan\" statute and sentenced to a year in prison. Devoted fans grumbled bitterly that the show about nothing had finished by sending its characters nowhere.",
+      "wiki": "The Finale (Seinfeld)",
+      "youtube": "Seinfeld finale final scene 1998 NBC",
+      "source": "https://en.wikipedia.org/wiki/The_Finale_(Seinfeld)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-05-22-good-friday-referendum",
+      "date": "1998-05-22",
+      "topic": "politics",
+      "text": "22 May saw voters on both sides of the Irish border deliver a resounding democratic endorsement of the **Good Friday Agreement** in twin historic referendums. The peace pact was backed by 71.1% of voters in **Northern Ireland** and an overwhelming 94.4% in the Republic of Ireland, giving the new power-sharing institutions unimpeachable popular legitimacy. The massive turnout demonstrated that the ordinary public possessed a far greater appetite for reconciliation than the sectarian hardliners who had spent decades fighting.",
+      "wiki": "1998 Northern Ireland Good Friday Agreement referendum",
+      "youtube": "Good Friday Agreement referendum results 1998",
+      "source": "https://en.wikipedia.org/wiki/1998_Northern_Ireland_Good_Friday_Agreement_referendum",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-05-31-over-the-edge-dude-love",
+      "date": "1998-05-31",
+      "topic": "wrestling",
+      "text": "31 May saw WWF Champion **\"Stone Cold\" Steve Austin** survive a web of corporate corruption to defeat Dude Love in a wild Falls Count Anywhere match at *Over the Edge* in Milwaukee. With team owner **Vince McMahon** acting as a notoriously biased referee, Austin used McMahon's own hand to count the winning three-count after knocking out stooges Pat Patterson and Gerald Brisco. The chaotic climax had arenas erupting, with fans thoroughly revelling in Austin's relentless weekly defiance of the managerial class.",
+      "wiki": "Over the Edge: In Your House",
+      "youtube": "Stone Cold Steve Austin vs Dude Love Over the Edge 1998",
+      "source": "https://en.wikipedia.org/wiki/Over_the_Edge:_In_Your_House",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19980517/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Feel It",
+          "by": "The Tamperer featuring Maya"
+        },
+        {
+          "pos": 2,
+          "title": "All That I Need",
+          "by": "Boyzone"
+        },
+        {
+          "pos": 3,
+          "title": "Under the Bridge / Lady Marmalade",
+          "by": "All Saints"
+        },
+        {
+          "pos": 4,
+          "title": "Ray of Light",
+          "by": "Madonna"
+        },
+        {
+          "pos": 5,
+          "title": "Too Close",
+          "by": "Next"
+        }
+      ]
+    },
+    {
+      "section": "PlayStation",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, May 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Gran Turismo",
+          "by": "Sony"
+        },
+        {
+          "pos": 2,
+          "title": "FIFA: Road to World Cup 98",
+          "by": "EA Sports"
+        },
+        {
+          "pos": 3,
+          "title": "Resident Evil 2",
+          "by": "Capcom"
+        },
+        {
+          "pos": 4,
+          "title": "Tomb Raider II",
+          "by": "Eidos"
+        },
+        {
+          "pos": 5,
+          "title": "Crash Bandicoot 2: Cortex Strikes Back",
+          "by": "Sony"
+        }
+      ]
+    },
+    {
+      "section": "Nintendo 64",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, May 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "GoldenEye 007",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 2,
+          "title": "Yoshi's Story",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 3,
+          "title": "Diddy Kong Racing",
+          "by": "Rare"
+        },
+        {
+          "pos": 4,
+          "title": "Super Mario 64",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 5,
+          "title": "Mario Kart 64",
+          "by": "Nintendo"
+        }
+      ]
+    }
+  ],
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, May 1998"
+}

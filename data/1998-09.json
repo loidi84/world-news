@@ -1,0 +1,177 @@
+{
+  "month": "1998-09",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1998-09-03-metal-gear-solid",
+      "date": "1998-09-03",
+      "topic": "games",
+      "text": "3 September saw Konami and visionary director **Hideo Kojima** release *Metal Gear Solid* on the **Sony PlayStation** in Japan, ushering in the modern era of cinematic interactive storytelling. Taking control of weathered operative Solid Snake as he infiltrated an Alaskan nuclear disposal facility seized by terrorists, players navigated an intricate spy thriller full of stealth infiltration, philosophical monologues, and fourth-wall-breaking boss fights like Psycho Mantis reading their memory cards. Video gaming had officially grown up and started directing its own Hollywood action films.",
+      "wiki": "Metal Gear Solid (video game)",
+      "youtube": "Metal Gear Solid original PS1 trailer 1998 Konami",
+      "source": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_(video_game)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-09-04-google-incorporation",
+      "date": "1998-09-04",
+      "topic": "tech",
+      "text": "4 September saw Stanford graduate students **Larry Page** and **Sergey Brin** formally incorporate **Google** as a private business in a suburban Menlo Park garage owned by future YouTube head Susan Wojcicki. Armed with a revolutionary PageRank algorithm that indexed the internet based on the quality of incoming links and a $100,000 cheque from Sun Microsystems co-founder Andy Bechtolsheim, the founders set out to organize the world's information. Competing search engines like Yahoo! and AltaVista barely blinked, blissfully unaware that their lunch was about to be comprehensively eaten.",
+      "wiki": "History of Google",
+      "youtube": "Google founders 1998 garage documentary",
+      "source": "https://en.wikipedia.org/wiki/History_of_Google",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-09-04-who-wants-to-be-a-millionaire",
+      "date": "1998-09-04",
+      "topic": "film",
+      "text": "4 September saw quiz show phenomenon *Who Wants to Be a Millionaire?* debut on **ITV**, hosted with theatrical suspense by **Chris Tarrant**. Featuring heart-thumping electronic music, dramatic spotlight lighting, and lifeline options like \"Phone a Friend\" and \"Ask the Audience\", the show had the entire British nation glued to their living-room sofas screaming answers at the screen. The format proved an immediate global goldmine, swiftly licensed to dozens of international broadcasters and establishing the phrase \"Is that your final answer?\" into common parlance.",
+      "wiki": "Who Wants to Be a Millionaire? (British game show)",
+      "youtube": "Who Wants to Be a Millionaire first episode 1998 Chris Tarrant",
+      "source": "https://en.wikipedia.org/wiki/Who_Wants_to_Be_a_Millionaire%3F_(British_game_show)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-09-08-mcgwire-62nd-home-run",
+      "date": "1998-09-08",
+      "topic": "sport",
+      "text": "8 September saw St. Louis Cardinals slugger **Mark McGwire** crush his 62nd home run of the baseball season, breaking Roger Maris' 37-year-old Major League Baseball single-season record before a delirious home crowd at Busch Stadium. His summer duel against Chicago Cubs rival Sammy Sosa had captivated international sports fans and temporarily repaired the sport's tarnished image following the bitter 1994 players' strike. Years later, Congressional hearings and performance-enhancing drug admissions would cast a shadow over the milestone, but on that balmy evening, baseball felt entirely magical.",
+      "wiki": "1998 Major League Baseball home run chase",
+      "youtube": "Mark McGwire 62nd home run 1998 historic broadcast",
+      "source": "https://en.wikipedia.org/wiki/1998_Major_League_Baseball_home_run_chase",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-09-13-robbie-williams-millennium",
+      "date": "1998-09-13",
+      "topic": "music",
+      "text": "13 September saw former Take That bad boy **Robbie Williams** score his first solo number one on the UK singles chart with his lavish James Bond-sampling anthem *Millennium*. Borrowing the iconic sweeping strings from Nancy Sinatra's *You Only Live Twice*, the track cast Williams as an arch British secret agent and established him as Britain's premier pop showman. Critics who had written him off as a karaoke has-been following his boy band departure were forced to acknowledge that his imperial solo phase was now in full swing.",
+      "wiki": "Millennium (song)",
+      "youtube": "Robbie Williams Millennium official video 1998",
+      "source": "https://www.officialcharts.com/songs/robbie-williams-millennium/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-09-27-breakdown-triple-threat",
+      "date": "1998-09-27",
+      "topic": "wrestling",
+      "text": "27 September saw the WWF plunge into complete administrative turmoil at *Breakdown* in Hamilton, Ontario, when **The Undertaker** and **Kane** simultaneously pinned Stone Cold Steve Austin in a Triple Threat match. With both monstrous brothers covering the fallen champion at the exact same moment, corporate tyrant **Vince McMahon** sprinted down the ramp, seized the WWF Championship belt, and officially declared the title vacant. Austin was left furious in the ring, promising holy retribution against his boss and guaranteeing that the upcoming pay-per-views would descend into total warfare.",
+      "wiki": "Breakdown: In Your House",
+      "youtube": "Breakdown 1998 Undertaker and Kane pin Austin",
+      "source": "https://en.wikipedia.org/wiki/Breakdown:_In_Your_House",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19980913/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Millennium",
+          "by": "Robbie Williams"
+        },
+        {
+          "pos": 2,
+          "title": "I Want You Back",
+          "by": "Melanie B featuring Missy Elliott"
+        },
+        {
+          "pos": 3,
+          "title": "If You Tolerate This Your Children Will Be Next",
+          "by": "Manic Street Preachers"
+        },
+        {
+          "pos": 4,
+          "title": "Sex on the Beach",
+          "by": "T-Spoon"
+        },
+        {
+          "pos": 5,
+          "title": "Finally Found",
+          "by": "Honeyz"
+        }
+      ]
+    },
+    {
+      "section": "PlayStation",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, September 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Colin McRae Rally",
+          "by": "Codemasters"
+        },
+        {
+          "pos": 2,
+          "title": "Gran Turismo",
+          "by": "Sony"
+        },
+        {
+          "pos": 3,
+          "title": "Tekken 3",
+          "by": "Namco"
+        },
+        {
+          "pos": 4,
+          "title": "WWF War Zone",
+          "by": "Acclaim"
+        },
+        {
+          "pos": 5,
+          "title": "Crash Bandicoot 2: Cortex Strikes Back",
+          "by": "Sony"
+        }
+      ]
+    },
+    {
+      "section": "Nintendo 64",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, September 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Banjo-Kazooie",
+          "by": "Rare / Nintendo"
+        },
+        {
+          "pos": 2,
+          "title": "GoldenEye 007",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 3,
+          "title": "F-Zero X",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 4,
+          "title": "Super Mario 64",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 5,
+          "title": "Diddy Kong Racing",
+          "by": "Rare"
+        }
+      ]
+    }
+  ],
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, September 1998"
+}

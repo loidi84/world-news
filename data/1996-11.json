@@ -1,0 +1,173 @@
+{
+  "month": "1996-11",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1996-11-07-mgs",
+      "date": "1996-11-07",
+      "topic": "science",
+      "text": "7 November saw the launch of the **Mars Global Surveyor** from Cape Canaveral in Florida. The probe was sent to map the planet's surface features and work out what its rocks and soil are made of. It was due to circle Mars roughly every two hours at about 235 miles up, helping scientists pick landing sites for future rover missions, and it kept working for almost ten years before contact was lost.",
+      "wiki": "Mars Global Surveyor",
+      "youtube": "Mars Global Surveyor launch 1996",
+      "source": "Supplied page: C&VG, November 1996",
+      "status": "from_magazine"
+    },
+    {
+      "id": "1996-11-12-buzzcocks",
+      "date": "1996-11-12",
+      "topic": "film",
+      "text": "12 November saw the debut of the music-themed comedy panel show *Never Mind The Buzzcocks* on the BBC. Hosted by **Mark Lamarr**, with team captains **Phil Jupitus** and **Sean Hughes**, it quickly became must-watch television thanks to its sarcastic humour and habit of taunting its guests.",
+      "wiki": "Never Mind the Buzzcocks",
+      "youtube": "Never Mind the Buzzcocks 1996 first episode",
+      "source": "Supplied page: C&VG, November 1996",
+      "status": "from_magazine"
+    },
+    {
+      "id": "1996-11-18-first-contact",
+      "date": "1996-11-18",
+      "topic": "film",
+      "text": "18 November saw the worldwide premiere of the film *Star Trek: First Contact*. A Borg escape pod heads for Earth after the Borg cube is destroyed by a fleet led by **Picard**, and the new **USS Enterprise** follows it through a time distortion into the 21st century. To stop Earth being assimilated, the crew must help **Zefram Cochrane** build the first faster-than-light spacecraft.",
+      "wiki": "Star Trek: First Contact",
+      "youtube": "Star Trek First Contact trailer 1996",
+      "source": "Supplied page: C&VG, November 1996",
+      "status": "from_magazine"
+    },
+    {
+      "id": "1996-11-26-bentine",
+      "date": "1996-11-26",
+      "topic": "deaths",
+      "text": "26 November saw the death of comedian, actor and writer **Michael Bentine** from prostate cancer, aged 74. He was best remembered as a founding member of *The Goons*, the radio comedy show that ran from 1951 to 1960.",
+      "wiki": "Michael Bentine",
+      "youtube": "Michael Bentine The Goons",
+      "source": "Supplied page: C&VG, November 1996",
+      "status": "from_magazine"
+    }
+  ],
+  "charts": [
+    {
+      "section": "PlayStation",
+      "kind": "games",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Resident Evil",
+          "by": "Virgin Interactive"
+        },
+        {
+          "pos": 2,
+          "title": "Bust-A-Move 2: Arcade Edition",
+          "by": "Acclaim"
+        },
+        {
+          "pos": 3,
+          "title": "Alien Trilogy",
+          "by": "Acclaim"
+        },
+        {
+          "pos": 4,
+          "title": "Ridge Racer Evolution",
+          "by": "Namco"
+        },
+        {
+          "pos": 5,
+          "title": "Fade To Black",
+          "by": "Electronic Arts"
+        }
+      ]
+    },
+    {
+      "section": "PC",
+      "kind": "games",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Quake",
+          "by": "GT Interactive"
+        },
+        {
+          "pos": 2,
+          "title": "Z",
+          "by": "Virgin Interactive"
+        },
+        {
+          "pos": 3,
+          "title": "Grand Prix II",
+          "by": "MicroProse"
+        },
+        {
+          "pos": 4,
+          "title": "Championship Manager 2",
+          "by": "Domark"
+        },
+        {
+          "pos": 5,
+          "title": "Theme Park Classics",
+          "by": "Electronic Arts"
+        }
+      ]
+    },
+    {
+      "section": "Mega Drive",
+      "kind": "games",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Brian Lara Cricket '96",
+          "by": "Codemasters"
+        },
+        {
+          "pos": 2,
+          "title": "Micro Machines 2",
+          "by": "Codemasters"
+        },
+        {
+          "pos": 3,
+          "title": "Worms",
+          "by": "Sega"
+        },
+        {
+          "pos": 4,
+          "title": "FIFA '96",
+          "by": "Electronic Arts"
+        },
+        {
+          "pos": 5,
+          "title": "Sonic And Knuckles",
+          "by": "Sega"
+        }
+      ]
+    },
+    {
+      "section": "Music",
+      "kind": "music",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Say You'll Be There",
+          "by": "Spice Girls"
+        },
+        {
+          "pos": 2,
+          "title": "If You Ever",
+          "by": "East 17 featuring Gabrielle"
+        },
+        {
+          "pos": 3,
+          "title": "Words",
+          "by": "Boyzone"
+        },
+        {
+          "pos": 4,
+          "title": "Un-break My Heart",
+          "by": "Toni Braxton"
+        },
+        {
+          "pos": 5,
+          "title": "Insomnia",
+          "by": "Faithless"
+        }
+      ]
+    }
+  ],
+  "chartSource": "Supplied page: C&VG, November 1996"
+}

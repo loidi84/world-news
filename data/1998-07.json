@@ -1,0 +1,177 @@
+{
+  "month": "1998-07",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1998-07-05-billie-piper-record",
+      "date": "1998-07-05",
+      "topic": "music",
+      "text": "5 July saw 15-year-old Swindon-born teenager **Billie Piper** make British pop history when her bubbly debut single *Because We Want To* entered straight at number one on the UK singles chart. Entering the Guinness Book of Records as the youngest female solo artist to debut at the chart summit, the former stage-school student became an overnight pin-up for the smash-hits generation. Pop observers predicted her teen-idol fame would quickly fade, failing to foresee her future reinvention as a critically acclaimed dramatic actress.",
+      "wiki": "Because We Want To",
+      "youtube": "Billie Piper Because We Want To official video 1998",
+      "source": "https://www.officialcharts.com/songs/billie-because-we-want-to/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-07-06-chek-lap-kok-airport",
+      "date": "1998-07-06",
+      "topic": "tech",
+      "text": "6 July saw commercial flight operations begin at the ultra-modern **Hong Kong International Airport** at Chek Lap Kok, built on a vast reclaimed island in the South China Sea. Replacing the terrifyingly tight rooftop-skimming approaches of the beloved old Kai Tak Airport, the Norman Foster-designed terminal was hailed as an engineering marvel of the late twentieth century. However, initial computer malfunctions threw the automated luggage and cargo handling systems into total chaos, leaving mountains of unclaimed suitcases and spoiling seafood stranded in the summer heat.",
+      "wiki": "Hong Kong International Airport",
+      "youtube": "Kai Tak closes Chek Lap Kok opens Hong Kong 1998 news",
+      "source": "https://en.wikipedia.org/wiki/Hong_Kong_International_Airport",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-07-12-world-cup-final-zidane",
+      "date": "1998-07-12",
+      "topic": "sport",
+      "text": "12 July saw host nation France win their first FIFA World Cup in spectacular fashion, stunning pre-tournament favourites Brazil 3–0 at the Stade de France. Two commanding first-half headers from majestic midfielder **Zinedine Zidane** ignited euphoria along the Champs-Élysées, while Brazilian wonder **Ronaldo** played like a dazed shadow following a mysterious convulsive fit hours before kick-off. Brazilian politicians immediately launched formal inquiries into shoe sponsorship conspiracies, refusing to believe their team had simply been outplayed.",
+      "wiki": "1998 FIFA World Cup final",
+      "youtube": "France vs Brazil 1998 World Cup Final highlights Zidane",
+      "source": "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_final",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-07-17-festina-tour-de-france",
+      "date": "1998-07-17",
+      "topic": "sport",
+      "text": "17 July saw the 1998 Tour de France implode under the weight of the **Festina affair** as French police formally expelled the entire Festina cycling team over industrial-scale doping. Customs officers had stopped team masseur Willy Voet near the Belgian border and found his car boot packed with hundreds of bottles of EPO, steroids, and human growth hormones. What followed was unprecedented farce: armed police raided hotel rooms, humiliated cyclists staged sit-down strikes on mountain roads, and the myth of pristine pedal power was punctured forever.",
+      "wiki": "Festina affair",
+      "youtube": "Festina scandal Tour de France 1998 news report",
+      "source": "https://en.wikipedia.org/wiki/Festina_affair",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-07-24-saving-private-ryan",
+      "date": "1998-07-24",
+      "topic": "film",
+      "text": "24 July saw Steven Spielberg's harrowing World War II drama *Saving Private Ryan* arrive in American cinemas, shaking audiences with its uncompromising brutality. Starring **Tom Hanks** as an army captain tasked with locating a paratrooper whose brothers have all been killed in action, the film opened with a devastating 27-minute recreation of the **Omaha Beach** D-Day landings. War veterans wept openly in cinema lobbies, stunned by handheld camera techniques and sound design that stripped away Hollywood heroics to reveal terrifying frontline slaughter.",
+      "wiki": "Saving Private Ryan",
+      "youtube": "Saving Private Ryan original theatrical trailer 1998",
+      "source": "https://en.wikipedia.org/wiki/Saving_Private_Ryan",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-07-26-fully-loaded-austin-undertaker",
+      "date": "1998-07-26",
+      "topic": "wrestling",
+      "text": "26 July saw an uneasy alliance take center stage at *Fully Loaded* in Fresno, California, as WWF Champion **\"Stone Cold\" Steve Austin** and **The Undertaker** teamed up to challenge Kane and Mankind. Despite deep mutual suspicion and refusal to tag each other in, the superstar duo captured the WWF Tag Team Championship when The Undertaker chokeslammed Kane for the three-count. The Deadman immediately scooped up both championship belts and strode out alone, leaving a bewildered Austin to celebrate with a solitary ring-post beer bash.",
+      "wiki": "Fully Loaded: In Your House",
+      "youtube": "Austin and Undertaker win Tag Titles Fully Loaded 1998",
+      "source": "https://en.wikipedia.org/wiki/Fully_Loaded:_In_Your_House",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19980719/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Deeper Underground",
+          "by": "Jamiroquai"
+        },
+        {
+          "pos": 2,
+          "title": "C'est la Vie",
+          "by": "B*Witched"
+        },
+        {
+          "pos": 3,
+          "title": "Ghetto Supastar (That Is What You Are)",
+          "by": "Pras Michel featuring Ol' Dirty Bastard & Mýa"
+        },
+        {
+          "pos": 4,
+          "title": "Life",
+          "by": "Des'ree"
+        },
+        {
+          "pos": 5,
+          "title": "Freak Me",
+          "by": "Another Level"
+        }
+      ]
+    },
+    {
+      "section": "PlayStation",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, July 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Tekken 3",
+          "by": "Namco"
+        },
+        {
+          "pos": 2,
+          "title": "Gran Turismo",
+          "by": "Sony"
+        },
+        {
+          "pos": 3,
+          "title": "World Cup 98",
+          "by": "EA Sports"
+        },
+        {
+          "pos": 4,
+          "title": "Resident Evil 2",
+          "by": "Capcom"
+        },
+        {
+          "pos": 5,
+          "title": "Crash Bandicoot 2: Cortex Strikes Back",
+          "by": "Sony"
+        }
+      ]
+    },
+    {
+      "section": "Nintendo 64",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, July 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Banjo-Kazooie",
+          "by": "Rare / Nintendo"
+        },
+        {
+          "pos": 2,
+          "title": "World Cup 98",
+          "by": "EA Sports"
+        },
+        {
+          "pos": 3,
+          "title": "GoldenEye 007",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 4,
+          "title": "Super Mario 64",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 5,
+          "title": "Diddy Kong Racing",
+          "by": "Rare"
+        }
+      ]
+    }
+  ],
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, July 1998"
+}
