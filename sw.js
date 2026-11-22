@@ -1,17 +1,19 @@
 // World News Offline Service Worker
-const CACHE_NAME = 'world-news-pwa-v1';
+const CACHE_NAME = 'world-news-pwa-v3';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
   './manifest.json',
   './icon.svg',
-  './data/bundle.js'
+  './bundle.js'
 ];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => {
-      return cache.addAll(ASSETS_TO_CACHE);
+    caches.open(CACHE_NAME).then(async (cache) => {
+      for (const asset of ASSETS_TO_CACHE) {
+        try { await cache.add(asset); } catch (e) {}
+      }
     }).then(() => self.skipWaiting())
   );
 });

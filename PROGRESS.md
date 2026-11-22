@@ -6,26 +6,28 @@
   - **1988:** January to December (all 12 months complete)
   - **1989:** January to December (all 12 months complete)
   - **1990:** January to December (all 12 months complete)
+  - **1991:** January to December (all 12 months complete)
   - **1998:** January to December (all 12 months complete)
-  - **Pilots & Samples:** 1991-03, 1996-10, 1996-11
-- **Total Archive Size:** 58 fully validated monthly datasets complete with **World News, Full Triple Charts (Music, Games & Cinema Box Office), and Gaming Spotlight** tabs.
-- **Offline Bundle:** `data/bundle.js` dynamically compiled and up to date with all 58 months.
+  - **Pilots & Samples:** 1996-10, 1996-11
+- **Total Archive Size:** 69 fully validated monthly datasets complete with **World News, Full Triple Charts (Music, Games & Cinema Box Office), and Gaming Spotlight** tabs.
+- **Offline Bundle:** `data/bundle.js` dynamically compiled and up to date with all 69 months.
 - **Validators:** `scripts/validate.ps1` passing with 0 errors and 0 warnings.
 - **UI Features:**
-  - 4-Tab Bar (News, Gaming Spotlight, Charts, and ★ Saved Scrapbook) with pagination (`PAGE 1 OF X`) and chronological story ordering.
+  - Responsive Single-Row Top Bar: Removed the redundant top "Page 2" button so the 4 tabs (`News`, `Gaming`, `Charts`, `★ Saved`) and tool icons (`🌙 / ☀️` Theme and `⚙` Settings) sit cleanly on a single row across all mobile screen sizes without wrapping onto an awkward extra line.
+  - Interactive In-Article Page Pill: Replaced the static `PAGE 1 OF 2` badge in the newspaper header with an interactive button (`PAGE 1 OF 2 →` on page 1, `← PAGE 2 OF 2` on page 2) featuring tactile hover/active feedback and red arrow indicator, allowing 1-tap page turning right where the eye naturally lands.
   - Swipe Gestures to Turn Pages: Natural mobile touch swipe left/right to turn pages in News or flip forward/backward across months.
-  - 100% Offline PWA (Service Worker): `sw.js` pre-caches the app shell, icons, and `data/bundle.js` for instant, offline browsing on mobile devices.
-  - Cinema Box Office Top 3: Charts tab features verified UK cinema box office across all 58 months alongside singles and video game charts, complete with links to film articles and YouTube trailers.
+  - 100% Offline PWA (Service Worker): `sw.js` (v2) pre-caches the app shell, icons, and `data/bundle.js` for instant, offline browsing on mobile devices.
+  - Cinema Box Office Top 3: Charts tab features verified UK cinema box office across all 69 months alongside singles and video game charts, complete with links to film articles and YouTube trailers.
   - Wrestling Story Tag & Chronicle Filter: Dedicated `🤼 Wrestling Only` toggle in the News header (or via the `WRESTLING` story tag). If a month has no wrestling event, it offers direct 1-tap navigation to the nearest previous and next historical pay-per-views.
   - Favorites / Scrapbook: Star button (`☆ Save`) on every news story and gaming spotlight to pin favorite moments to a dedicated `★ Saved` scrapbook stored in `localStorage`, complete with 1-click jump-back links.
   - Dark Mode: Quick toggle (`🌙 / ☀️`) in control bar, settings dropdown (System / Light / Dark), custom dark paper palette (`--paper: #222226`, `--paper-ink: #f0ede6`), dynamic mobile `<meta name="theme-color">` sync, and `localStorage` persistence.
   - Cleaned Settings: Removed obsolete "Edition" dropdown and dummy "Export EPUB" placeholder.
   - Editorial Topic Badges: Replaced generic "RESEARCHED" tag with actual newspaper section slugs (`POLITICS`, `FILM & TV`, `MUSIC`, `GAMES`, `WRESTLING`, etc.).
   - Topic Controls: Simple On / Off toggles in Settings for each topic with `localStorage` persistence.
-  - Dynamic Date Dropdowns: Year dropdown dynamically populates from available data (`1987, 1988, 1989, 1990, 1991, 1996, 1998`). Selecting a year dynamically filters the Month dropdown to only populated months (e.g. 1987 shows June–December; 1991 shows March; 1996 shows October–November; 1988, 1989, 1990, and 1998 show all 12 months). Month-to-month arrow buttons (`←` / `→`) retain normal calendar stepping.
+  - Dynamic Date Dropdowns: Year dropdown dynamically populates from available data (`1987, 1988, 1989, 1990, 1991, 1996, 1998`). Selecting a year dynamically filters the Month dropdown to only populated months (e.g. 1987 shows June–December; 1996 shows October–November; 1988, 1989, 1990, 1991, and 1998 show all 12 months). Month-to-month arrow buttons (`←` / `→`) retain normal calendar stepping.
   - Link Deduplication: Automatically suppresses redundant "Source" links when the source is Wikipedia (linking directly to the Wikipedia article instead), while displaying "Source ↗" for external citations (e.g. BBC, Official Charts, archives).
 
-## Completed Months (58 total)
+## Completed Months (69 total)
 | Month | Status | Stories | Charts | Spotlight Game | Notes |
 |-------|--------|---------|--------|----------------|-------|
 | 1987-06 | Done | 7 | 2 | *Barbarian: The Ultimate Warrior* | Honky Tonk Man IC title, Thatcher 3rd win, Predator, Reagan Berlin wall, Star Trekkin' |
@@ -71,7 +73,18 @@
 | 1990-10 | Done | 5 | 2 | *The Secret of Monkey Island* | Official German Reunification, Ghost UK release, Mikhail Gorbachev Nobel Peace Prize, Show Me Heaven #1 |
 | 1990-11 | Done | 6 | 2 | *Super Mario World* (SFC) | Super Famicom launch in Japan, Margaret Thatcher resigns after 11 years, Undertaker debut at Survivor Series |
 | 1990-12 | Done | 6 | 2 | *Commander Keen: Vorticons* | Channel Tunnel breakthrough under seabed, Home Alone UK release, Lech Wałęsa wins presidency, Tim Berners-Lee 1st WWW site |
-| 1991-03 | Pilot | 8 | 4 | *Street Fighter II* | WrestleMania VII, Poll Tax scrapped, Birmingham Six, Clash #1 |
+| 1991-01 | Done | 5 | 3 | *Speedball 2: Brutal Deluxe* | Iron Maiden #1, January Events Lithuania, Desert Storm air campaign, Royal Rumble (Slaughter title), Siad Barre ousted |
+| 1991-02 | Done | 5 | 3 | *Lemmings* | Downing Street mortar attack, Lemmings released, Bart Simpson #1, WrestleWar (WarGames), Liberation of Kuwait |
+| 1991-03 | Done | 8 | 3 | *Street Fighter II* | WrestleMania VII, Poll Tax scrapped, Birmingham Six, Clash #1 |
+| 1991-04 | Done | 5 | 3 | *Eye of the Beholder* | Georgia independence, Tottenham FA Cup semi-final (Gazza free kick), Hubble 1st anniversary, Chesney Hawkes #1, Bangladesh cyclone |
+| 1991-05 | Done | 5 | 3 | *Turrican II: The Final Fight* | Édith Cresson 1st French female PM, Tottenham win FA Cup, WCW SuperBrawl I, Rajiv Gandhi assassination, Red Star Belgrade European Cup |
+| 1991-06 | Done | 5 | 3 | *Sonic the Hedgehog* | Boris Yeltsin elected Russian president, Mount Pinatubo eruption, South Africa repeals apartheid act, Sonic the Hedgehog launch, Slovenia/Croatia independence |
+| 1991-07 | Done | 5 | 3 | *Final Fantasy IV* | Warsaw Pact dissolved, Michael Stich wins Wimbledon, Bryan Adams begins 16-week #1 run, WCW Great American Bash (Luger wins title), START I signed |
+| 1991-08 | Done | 5 | 3 | *Road Rash* | Tim Berners-Lee publishes WWW on Usenet, August Coup in Moscow (Yeltsin on tank), Coup collapses & CPSU banned, Ukraine independence, SummerSlam 1991 (Match in Heaven) |
+| 1991-09 | Done | 5 | 3 | *Another World* | Baltic states independence & Leningrad renamed Saint Petersburg, Ric Flair debuts in WWF with Big Gold Belt, Ötzi the Iceman discovered, Nirvana releases Nevermind, Haitian coup d'état |
+| 1991-10 | Done | 5 | 3 | *Sid Meier's Civilization* | Anita Hill testimony, Luby's massacre, WCW Halloween Havoc (Chamber of Horrors), Minnesota Twins World Series, Madrid Peace Conference |
+| 1991-11 | Done | 5 | 3 | *The Legend of Zelda: A Link to the Past* | Robert Maxwell dies at sea, Vic Reeves Dizzy #1, Zelda: A Link to the Past Japan launch, Freddie Mercury passes away, Survivor Series (Undertaker 1st title) |
+| 1991-12 | Done | 5 | 3 | *Monkey Island 2: LeChuck's Revenge* | Belovezha Accords (CIS formed), Maastricht Treaty agreed, Queen Bohemian Rhapsody returns to #1, Gorbachev resigns & USSR dissolves, WCW Starrcade Battlebowl |
 | 1996-10 | Pilot | 8 | 4 | *Tomb Raider* | Buried Alive, Two Fat Ladies, Cullen Report, Newcastle 5-0, Spice Girls |
 | 1996-11 | Sample | 4 | 4 | *Command & Conquer: Red Alert* | Original C&VG November 1996 sample |
 | 1998-01 | Done | 8 | 4 | *Resident Evil 2* | Lunar Prospector, Royal Rumble, Titanic UK, Oasis longest #1, Clinton denial |
