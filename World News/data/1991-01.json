@@ -1,0 +1,166 @@
+{
+  "month": "1991-01",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1991-01-05-iron-maiden-number-one",
+      "date": "1991-01-05",
+      "topic": "music",
+      "text": "5 January saw heavy metal pioneers Iron Maiden achieve their first and only number-one single on the UK Singles Chart with ***Bring Your Daughter... to the Slaughter***. Written by frontman Bruce Dickinson for the soundtrack to *A Nightmare on Elm Street 5*, the raw hard rock track spent a historic week atop the summit despite virtually zero daytime **BBC radio airplay**.",
+      "wiki": "Bring Your Daughter... to the Slaughter",
+      "youtube": "Iron Maiden Bring Your Daughter to the Slaughter official video",
+      "source": "https://www.officialcharts.com/songs/iron-maiden-bring-your-daughter-to-the-slaughter/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1991-01-13-vilnius-tv-tower-crackdown",
+      "date": "1991-01-13",
+      "topic": "politics",
+      "text": "13 January saw Soviet military forces and KGB Alpha Group commandos storm the state television broadcasting tower in **Vilnius, Lithuania**, in an attempt to crush the Baltic nation's restoration of independence. Known as the **January Events**, peaceful Lithuanian civilians formed human shields around the transmitter, tragically resulting in **14 deaths** and over 700 injuries while galvanising international support for Baltic sovereignty.",
+      "wiki": "January Events",
+      "youtube": "Vilnius Lithuania TV tower Soviet crackdown January 1991 news",
+      "source": "https://en.wikipedia.org/wiki/January_Events",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-01-17-operation-desert-storm-begins",
+      "date": "1991-01-17",
+      "topic": "politics",
+      "text": "17 January saw coalition forces led by the United States and the United Kingdom initiate **Operation Desert Storm** with a devastating midnight aerial bombardment of military targets across Iraq and occupied Kuwait. Following the expiration of UN Resolution 678's withdrawal deadline, thousands of sorties featuring F-117 Nighthawk stealth fighters and **Tomahawk cruise missiles** were broadcast live across **global news networks**.",
+      "wiki": "Gulf War",
+      "youtube": "Operation Desert Storm air campaign Baghdad January 17 1991 CNN",
+      "source": "https://en.wikipedia.org/wiki/Gulf_War",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-01-19-royal-rumble-1991-slaughter",
+      "date": "1991-01-19",
+      "topic": "wrestling",
+      "text": "19 January saw the World Wrestling Federation present the fourth annual ***Royal Rumble*** at the Miami Arena in Florida. The controversial main events saw Iraqi-sympathiser **Sgt. Slaughter** defeat The Ultimate Warrior to capture the **WWF Championship** following outside interference from \"Macho King\" Randy Savage, whilst **Hulk Hogan** won the 30-man Rumble match for the second consecutive year.",
+      "wiki": "Royal Rumble (1991)",
+      "youtube": "Sgt Slaughter vs Ultimate Warrior Royal Rumble 1991 full match",
+      "source": "https://en.wikipedia.org/wiki/Royal_Rumble_(1991)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1991-01-29-siad-barre-overthrown-somalia",
+      "date": "1991-01-29",
+      "topic": "politics",
+      "text": "29 January saw Somali military dictator **Siad Barre** flee the capital of Mogadishu after rebel forces belonging to the United Somali Congress captured the presidential villa. Barre's dramatic ouster ended **21 years of authoritarian rule**, plunging the East African nation into a protracted civil war that prompted severe famine and international **United Nations intervention**.",
+      "wiki": "Siad Barre",
+      "youtube": "Somalia civil war Siad Barre ousted January 1991 news",
+      "source": "https://en.wikipedia.org/wiki/Siad_Barre",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (12 January 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Sadeness (Part I)",
+          "by": "Enigma"
+        },
+        {
+          "pos": 2,
+          "title": "Bring Your Daughter... to the Slaughter",
+          "by": "Iron Maiden"
+        },
+        {
+          "pos": 3,
+          "title": "Ice Ice Baby",
+          "by": "Vanilla Ice"
+        },
+        {
+          "pos": 4,
+          "title": "The Grease Megamix",
+          "by": "John Travolta and Olivia Newton-John"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (January 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Teenage Mutant Hero Turtles",
+          "by": "Mirrorsoft"
+        },
+        {
+          "pos": 2,
+          "title": "RoboCop 2",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Lotus Esprit Turbo Challenge",
+          "by": "Gremlin Graphics"
+        },
+        {
+          "pos": 4,
+          "title": "Manchester United",
+          "by": "Krisalis Software"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (January 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Look Who's Talking Too",
+          "by": "Tri-Star Pictures"
+        },
+        {
+          "pos": 2,
+          "title": "Ghost",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Home Alone",
+          "by": "20th Century Fox"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Speedball 2: Brutal Deluxe",
+    "developer": "The Bitmap Brothers",
+    "publisher": "Image Works",
+    "platforms": [
+      "Commodore Amiga",
+      "Atari ST",
+      "Sega Mega Drive"
+    ],
+    "genre": "Sports / Cyberpunk Action",
+    "director": "Mike Montgomery",
+    "reviewScore": "96%",
+    "reviewQuote": "Ice cream! Ice cream! The greatest futuristic sports game ever created. Speedball 2 is pure, unadulterated metallic brilliance.",
+    "reviewSource": "CU Amiga",
+    "headline": "Metallic Clangs, Cyberpunk Brawls, and 'Ice Cream' Perfection",
+    "gameplay": "Designed by the legendary East London studio **The Bitmap Brothers**, *Speedball 2: Brutal Deluxe* redefined futuristic sports gaming. Players managed and captained Brutal Deluxe, a down-on-their-luck rookie team in an ultra-violent 21st-century sport blending handball, rugby, and ice hockey. Scoring points via goals, bouncing the steel ball off scoring bounce domes, or hospitalising opposing players for injury bonuses, the game paired blistering tactical speed with deep **team management and stat upgrades**.",
+    "reception": "Critics universally lavished *Speedball 2* with praise upon release on Amiga and Atari ST. Publications lauded Dan Malone's grim metallic art deco visual style, the tactile click of the steel ball against chrome walls, and Richard Joseph's iconic audio design—including digitized crowd roars and the famous vendors shouting **'Ice Cream! Ice Cream!'**.",
+    "impact": "Winning Golden Joystick Awards for Game of the Year and Best Soundtrack, *Speedball 2* cemented The Bitmap Brothers' status as the rock stars of 16-bit British game development and remains an all-time classic of computer gaming.",
+    "wiki": "Speedball 2: Brutal Deluxe",
+    "youtube": "Speedball 2 Brutal Deluxe Amiga gameplay 1991",
+    "source": "https://en.wikipedia.org/wiki/Speedball_2:_Brutal_Deluxe"
+  }
+}

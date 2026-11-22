@@ -1,0 +1,164 @@
+{
+  "month": "1991-07",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1991-07-01-warsaw-pact-dissolved",
+      "date": "1991-07-01",
+      "topic": "politics",
+      "text": "1 July saw the foreign and defence ministers of the Soviet Union, Poland, Czechoslovakia, Hungary, Romania, and Bulgaria meet in Prague to sign the protocol officially dissolving the **Warsaw Pact**. Established in 1955 as the communist military counterweight to NATO, the formal dissolution ended **36 years of Cold War confrontation** across Europe.",
+      "wiki": "Warsaw Pact",
+      "youtube": "Warsaw Pact officially dissolved Prague July 1991 news",
+      "source": "https://en.wikipedia.org/wiki/Warsaw_Pact",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-07-07-michael-stich-wins-wimbledon",
+      "date": "1991-07-07",
+      "topic": "sport",
+      "text": "7 July saw 22-year-old German tennis sensation **Michael Stich** shock world number one and compatriot Boris Becker in straight sets (6–4, 7–6, 6–4) on Centre Court to win his maiden **Wimbledon men's singles title**. Stich became only the second German man ever to lift the trophy, having already defeated world number two Stefan Edberg in the **semi-finals**.",
+      "wiki": "1991 Wimbledon Championships – Men's singles",
+      "youtube": "Michael Stich vs Boris Becker Wimbledon 1991 final highlights",
+      "source": "https://en.wikipedia.org/wiki/1991_Wimbledon_Championships_%E2%80%93_Men%27s_singles",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1991-07-13-bryan-adams-16-week-reign",
+      "date": "1991-07-13",
+      "topic": "music",
+      "text": "13 July saw Canadian rocker Bryan Adams ascend to number one on the UK Singles Chart with the epic power ballad ***(Everything I Do) I Do It for You***. Featured on the soundtrack to Kevin Costner's blockbuster film ***Robin Hood: Prince of Thieves***, the soaring track embarked on an unprecedented, record-breaking **16 consecutive weeks** atop the **British charts**.",
+      "wiki": "(Everything I Do) I Do It for You",
+      "youtube": "Bryan Adams Everything I Do I Do It For You official video 1991",
+      "source": "https://en.wikipedia.org/wiki/(Everything_I_Do)_I_Do_It_for_You",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-07-14-wcw-great-american-bash-luger",
+      "date": "1991-07-14",
+      "topic": "wrestling",
+      "text": "14 July saw World Championship Wrestling present ***The Great American Bash 1991*** at the Baltimore Arena. Following the shock firing of champion **Ric Flair** by WCW executive Jim Herd (with Flair taking the physical Big Gold Belt to the WWF), **Lex Luger** defeated Barry Windham inside a steel cage to capture the vacant WCW World Heavyweight Championship, turning heel by **aligning with Harley Race**.",
+      "wiki": "The Great American Bash (1991)",
+      "youtube": "Lex Luger vs Barry Windham Great American Bash 1991 steel cage match",
+      "source": "https://en.wikipedia.org/wiki/The_Great_American_Bash_(1991)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1991-07-31-start-i-treaty-signed-moscow",
+      "date": "1991-07-31",
+      "topic": "politics",
+      "text": "31 July saw US President George H.W. Bush and Soviet President Mikhail Gorbachev sign the landmark **START I treaty** (Strategic Arms Reduction Treaty) at the Kremlin in Moscow. Mandating the first bilateral reduction of strategic nuclear arsenals in history, the treaty required both superpowers to dismantle approximately **80% of all strategic nuclear warheads** in existence.",
+      "wiki": "START I",
+      "youtube": "George Bush Mikhail Gorbachev sign START I treaty Moscow July 1991 news",
+      "source": "https://en.wikipedia.org/wiki/START_I",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (27 July 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "(Everything I Do) I Do It for You",
+          "by": "Bryan Adams"
+        },
+        {
+          "pos": 2,
+          "title": "Now That We Found Love",
+          "by": "Heavy D & the Boyz"
+        },
+        {
+          "pos": 3,
+          "title": "Any Dream Will Do",
+          "by": "Jason Donovan"
+        },
+        {
+          "pos": 4,
+          "title": "Things That Make You Go Hmmm...",
+          "by": "C+C Music Factory"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (July 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Sonic the Hedgehog",
+          "by": "Sega"
+        },
+        {
+          "pos": 2,
+          "title": "Lemmings",
+          "by": "Psygnosis"
+        },
+        {
+          "pos": 3,
+          "title": "Jimmy White's 'Whirlwind' Snooker",
+          "by": "Virgin Games"
+        },
+        {
+          "pos": 4,
+          "title": "Manchester United: Europe",
+          "by": "Krisalis Software"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (July 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Robin Hood: Prince of Thieves",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "The Naked Gun 2½: The Smell of Fear",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "The Silence of the Lambs",
+          "by": "Rank Film Distributors / Orion"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Final Fantasy IV",
+    "developer": "Square",
+    "publisher": "Square",
+    "platforms": [
+      "Super Famicom / SNES"
+    ],
+    "genre": "Japanese Role-Playing Game",
+    "director": "Hironobu Sakaguchi",
+    "reviewScore": "94%",
+    "reviewQuote": "A dramatic leap forward for narrative gaming. The Active Time Battle system and Nobuo Uematsu's orchestral score elevate RPGs to high art.",
+    "reviewSource": "Famitsu (Issue 144)",
+    "headline": "Dark Knights, Active Time Battle, and Square's 16-Bit Storytelling Leap",
+    "gameplay": "Released on 19 July 1991 for the Super Famicom in Japan (and later localised as *Final Fantasy II* in North America), *Final Fantasy IV* revolutionised JRPGs. Conceived by **Hironobu Sakaguchi** with battle system design by Hiroyuki Ito, the game introduced the iconic **Active Time Battle (ATB)** system, replacing rigid turn-based turns with real-time gauges. Players guided dark knight Cecil Harvey on a moral journey of redemption, transitioning to a paladin alongside memorable allies like Kain Highwind and Rydia to thwart the mysterious sorcerer Golbez.",
+    "reception": "Critically celebrated upon release, the title earned high acclaim from *Famitsu* and import magazines. Reviewers praised its operatic dramatic pacing, heartbreaking character sacrifices, Mode 7 airship scaling, and Nobuo Uematsu's peerless 44-track musical score, featuring the timeless 'Theme of Love'.",
+    "impact": "Setting the narrative and mechanical blueprint for 1990s JRPGs, *Final Fantasy IV* established Square as the supreme master of interactive storytelling and spearheaded the golden age of 16-bit role-playing games.",
+    "wiki": "Final Fantasy IV",
+    "youtube": "Final Fantasy IV Super Famicom 1991 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Final_Fantasy_IV"
+  }
+}

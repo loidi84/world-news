@@ -1,0 +1,166 @@
+{
+  "month": "1991-02",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1991-02-07-downing-street-mortar-attack",
+      "date": "1991-02-07",
+      "topic": "politics",
+      "text": "7 February saw the Provisional IRA launch an audacious mortar attack against **10 Downing Street** during a full cabinet meeting discussing the Gulf War. Firing three homemade projectiles from the rear of a parked Ford Transit van on Whitehall, one shell exploded in the rear garden mere yards from Prime Minister **John Major**, shattering windows and leaving a crater without causing **serious injury**.",
+      "wiki": "Downing Street mortar attack",
+      "youtube": "Downing Street mortar attack February 7 1991 BBC news",
+      "source": "https://en.wikipedia.org/wiki/Downing_Street_mortar_attack",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-02-14-lemmings-released-amiga",
+      "date": "1991-02-14",
+      "topic": "games",
+      "text": "14 February saw Scottish studio DMA Design and publisher Psygnosis release the legendary puzzle-platformer ***Lemmings*** for the Commodore Amiga. Programmed by David Jones and Mike Dailly, players assigned distinct tasks—such as digger, blocker, and basher—to marching green-haired rodents to guide them safely to exits, creating an immediate critical phenomenon and one of the finest **British video games** ever created.",
+      "wiki": "Lemmings (video game)",
+      "youtube": "Lemmings Amiga original 1991 intro and gameplay",
+      "source": "https://en.wikipedia.org/wiki/Lemmings_(video_game)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-02-16-the-simpsons-do-the-bartman",
+      "date": "1991-02-16",
+      "topic": "music",
+      "text": "16 February saw animated television sensation Bart Simpson conquer the UK Singles Chart as ***Do the Bartman*** soared to number one for three consecutive weeks. Co-written and produced anonymously by pop superstar **Michael Jackson** alongside Bryan Loren, the infectious dance-rap track from *The Simpsons Sing the Blues* became an inescapable **cultural sensation** across British youth culture.",
+      "wiki": "Do the Bartman",
+      "youtube": "The Simpsons Do The Bartman official music video 1991",
+      "source": "https://en.wikipedia.org/wiki/Do_the_Bartman",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1991-02-24-wrestlewar-1991-wargames",
+      "date": "1991-02-24",
+      "topic": "wrestling",
+      "text": "24 February saw World Championship Wrestling stage ***WrestleWar 1991*** at the Arizona Veterans Memorial Coliseum in Phoenix. The pay-per-view was headlined by a celebrated **WarGames match**, wherein **The Four Horsemen** (Ric Flair, Barry Windham, Sid Vicious, and Larry Zbyszko) defeated Sting, Brian Pillman, and the Steiner Brothers inside the dual-ring steel cage.",
+      "wiki": "WrestleWar (1991)",
+      "youtube": "WarGames WrestleWar 1991 Four Horsemen vs Sting team",
+      "source": "https://en.wikipedia.org/wiki/WrestleWar_(1991)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1991-02-28-liberation-of-kuwait-ceasefire",
+      "date": "1991-02-28",
+      "topic": "politics",
+      "text": "28 February saw US President George H.W. Bush declare a cessation of hostilities in the Persian Gulf, marking the **liberation of Kuwait** after a swift 100-hour allied ground offensive. Trapped Iraqi forces fleeing north along Highway 80 suffered catastrophic losses, forcing Saddam Hussein's military command to accept all United Nations resolutions and agree to a **permanent ceasefire**.",
+      "wiki": "Gulf War",
+      "youtube": "Liberation of Kuwait ceasefire declared February 28 1991 BBC",
+      "source": "https://en.wikipedia.org/wiki/Gulf_War",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (23 February 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Do the Bartman",
+          "by": "The Simpsons"
+        },
+        {
+          "pos": 2,
+          "title": "3 a.m. Eternal",
+          "by": "The KLF"
+        },
+        {
+          "pos": 3,
+          "title": "Only You",
+          "by": "Praise"
+        },
+        {
+          "pos": 4,
+          "title": "Gonna Make You Sweat",
+          "by": "C+C Music Factory"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (February 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Lemmings",
+          "by": "Psygnosis"
+        },
+        {
+          "pos": 2,
+          "title": "Lotus Esprit Turbo Challenge",
+          "by": "Gremlin Graphics"
+        },
+        {
+          "pos": 3,
+          "title": "Teenage Mutant Hero Turtles",
+          "by": "Mirrorsoft"
+        },
+        {
+          "pos": 4,
+          "title": "RoboCop 2",
+          "by": "Ocean Software"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (February 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Godfather Part III",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Dances with Wolves",
+          "by": "Guild Film Distribution"
+        },
+        {
+          "pos": 3,
+          "title": "Look Who's Talking Too",
+          "by": "Tri-Star Pictures"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Lemmings",
+    "developer": "DMA Design",
+    "publisher": "Psygnosis",
+    "platforms": [
+      "Commodore Amiga",
+      "Atari ST",
+      "PC DOS"
+    ],
+    "genre": "Puzzle-Platformer",
+    "director": "David Jones",
+    "reviewScore": "97%",
+    "reviewQuote": "An absolute stroke of programming genius. Lemmings is funny, maddeningly addictive, and utterly indispensable.",
+    "reviewSource": "Amiga Power (Issue 1)",
+    "headline": "Green Hair, Floaters, Bashers, and DMA Design's Puzzling Triumph",
+    "gameplay": "Conceived in Dundee, Scotland by **DMA Design** and published in Psygnosis's lavish dark packaging, *Lemmings* became a worldwide sensation upon its Valentine's Day 1991 debut on the Amiga. Faced with lines of mindless, green-haired creatures marching blithely towards cliff edges and boiling lava, players assigned eight distinct skills—climbing, floating, blocking, building, bashing, mining, digging, and suicide-exploding—to carve paths toward safety before the **countdown timer** expired.",
+    "reception": "Critics showered *Lemmings* with near-unprecedented praise. Publications celebrated its charming pixel animations, ingenious difficulty curve, and delightful renditions of traditional folk tunes and classical melodies arranged by Scott Johnston and Brian Johnston. Review scores routinely exceeded 95%, establishing DMA Design as a world-class British development studio.",
+    "impact": "Selling millions of copies and ported to virtually every computer, console, and handheld system on earth, *Lemmings* established DMA Design (later **Rockstar North**, creators of *Grand Theft Auto*) as a titan of British software development.",
+    "wiki": "Lemmings (video game)",
+    "youtube": "Lemmings Amiga original 1991 intro and gameplay",
+    "source": "https://en.wikipedia.org/wiki/Lemmings_(video_game)"
+  }
+}

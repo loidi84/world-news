@@ -1,0 +1,166 @@
+{
+  "month": "1990-10",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-10-03-german-reunification-day",
+      "date": "1990-10-03",
+      "topic": "politics",
+      "text": "3 October saw the official **German reunification** (*Tag der Deutschen Einheit*) take place at midnight, as the German Democratic Republic (East Germany) formally dissolved and integrated into the Federal Republic of Germany. Tens of thousands of jubilant citizens gathered before the **Brandenburg Gate** and the Reichstag in Berlin under displays of fireworks, bringing a formal end to **45 years of Cold War division**.",
+      "wiki": "German reunification",
+      "youtube": "German reunification Brandenburg Gate October 3 1990 midnight celebration",
+      "source": "https://en.wikipedia.org/wiki/German_reunification",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-10-05-ghost-cinema-release-uk",
+      "date": "1990-10-05",
+      "topic": "film",
+      "text": "5 October saw Paramount Pictures' romantic fantasy thriller ***Ghost*** receive its nationwide theatrical release in the United Kingdom. Starring Patrick Swayze, **Demi Moore**, and Whoopi Goldberg, the poignant supernatural drama captivated audiences and critics alike, turning the film's famous pottery-wheel scene set to The Righteous Brothers' *Unchained Melody* into an **iconic pop-culture touchstone**.",
+      "wiki": "Ghost (1990 film)",
+      "youtube": "Ghost 1990 original trailer Patrick Swayze Demi Moore",
+      "source": "https://en.wikipedia.org/wiki/Ghost_(1990_film)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-10-15-mikhail-gorbachev-nobel-peace-prize",
+      "date": "1990-10-15",
+      "topic": "politics",
+      "text": "15 October saw Soviet President **Mikhail Gorbachev** awarded the **Nobel Peace Prize** by the Norwegian Nobel Committee in Oslo. The committee honoured the Soviet leader for his pioneering policies of *glasnost* and *perestroika*, his crucial role in arms reduction negotiations, and his refusal to use military force as communist regimes crumbled peacefully across **Eastern Europe**.",
+      "wiki": "Mikhail Gorbachev",
+      "youtube": "Gorbachev wins Nobel Peace Prize October 1990 news",
+      "source": "https://en.wikipedia.org/wiki/Mikhail_Gorbachev",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-10-27-halloween-havoc-1990-sting-sid",
+      "date": "1990-10-27",
+      "topic": "wrestling",
+      "text": "27 October saw the NWA hold ***Halloween Havoc 1990*** at the UIC Pavilion in Chicago. In a chaotic main event, NWA World Heavyweight Champion **Sting** defended his title against 6-foot-9 monster **Sid Vicious**. When a fake Sting (secretly Barry Windham) swapped places and took a count-out loss, the real Sting emerged to restart the match and pin Vicious with a **sunset flip**.",
+      "wiki": "Halloween Havoc (1990)",
+      "youtube": "Sting vs Sid Vicious Halloween Havoc 1990 match",
+      "source": "https://en.wikipedia.org/wiki/Halloween_Havoc_(1990)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-10-28-show-me-heaven-maria-mckee",
+      "date": "1990-10-28",
+      "topic": "music",
+      "text": "28 October saw American singer Maria McKee spend her fourth consecutive week at number one on the UK Singles Chart with ***Show Me Heaven***. Taken from the soundtrack to Tom Cruise's NASCAR drama ***Days of Thunder***, the soaring orchestral power ballad remained at the summit for four weeks and stood as one of the best-selling **British singles of the autumn**.",
+      "wiki": "Show Me Heaven",
+      "youtube": "Maria McKee Show Me Heaven Days of Thunder video 1990",
+      "source": "https://en.wikipedia.org/wiki/Show_Me_Heaven",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (27 October 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Show Me Heaven",
+          "by": "Maria McKee"
+        },
+        {
+          "pos": 2,
+          "title": "A Little Time",
+          "by": "The Beautiful South"
+        },
+        {
+          "pos": 3,
+          "title": "So Hard",
+          "by": "Pet Shop Boys"
+        },
+        {
+          "pos": 4,
+          "title": "Blue Savannah",
+          "by": "Erasure"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (October 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Teenage Mutant Hero Turtles",
+          "by": "Mirrorsoft"
+        },
+        {
+          "pos": 2,
+          "title": "RoboCop 2",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Lotus Esprit Turbo Challenge",
+          "by": "Gremlin Graphics"
+        },
+        {
+          "pos": 4,
+          "title": "Rick Dangerous 2",
+          "by": "Micro Style"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (October 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Ghost",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Days of Thunder",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Memphis Belle",
+          "by": "Warner Bros."
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "The Secret of Monkey Island",
+    "developer": "Lucasfilm Games",
+    "publisher": "Lucasfilm Games",
+    "platforms": [
+      "MS-DOS",
+      "Amiga",
+      "Atari ST"
+    ],
+    "genre": "Point-and-Click Graphic Adventure",
+    "director": "Ron Gilbert",
+    "reviewScore": "96%",
+    "reviewQuote": "Without doubt the funniest, most imaginative, and best-constructed adventure game ever produced. Ron Gilbert and his team have created an outright masterpiece.",
+    "reviewSource": "Amiga Power / The One",
+    "headline": "Rubber Chickens, Insult Sword Fighting, and Guybrush Threepwood's Pirate Quest",
+    "gameplay": "Released in October 1990 by Lucasfilm Games, *The Secret of Monkey Island* redefined graphic adventures. Conceived and directed by **Ron Gilbert** alongside co-writers Tim Schafer and Dave Grossman, players guided enthusiastic wannabe-pirate **Guybrush Threepwood** across Mêlée Island to pass the Three Trials and defeat the ghost pirate LeChuck. Gilbert revolutionised the genre through his SCUMM engine interface, eliminating cruel unwinnable states, dead-ends, and unfair player deaths, whilst replacing arbitrary puzzles with clever inventory logic and the legendary **insult sword fighting** minigame.",
+    "reception": "Critics showered *The Secret of Monkey Island* with near-universal acclaim upon release. Reviewers praised its lush 256-colour VGA pirate backdrops, witty comedic dialogue, and Michael Land's atmospheric Caribbean reggae musical score, hailing it as an artistic triumph that surpassed rival Sierra On-Line adventure titles.",
+    "impact": "Consistently ranked among the greatest video games of all time, *Monkey Island* birthed an iconic multi-game franchise, elevated video game comedy writing to an artform, and established Lucasfilm Games (soon LucasArts) as the undisputed gold standard of adventure gaming.",
+    "wiki": "The Secret of Monkey Island",
+    "youtube": "The Secret of Monkey Island 1990 PC VGA gameplay",
+    "source": "https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island"
+  }
+}

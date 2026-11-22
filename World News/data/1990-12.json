@@ -1,0 +1,176 @@
+{
+  "month": "1990-12",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-12-01-channel-tunnel-breakthrough",
+      "date": "1990-12-01",
+      "topic": "tech",
+      "text": "1 December saw British construction worker Graham Fagg and French miner Phillippe Cozette break through the final rock partition of the **Channel Tunnel** service bore, 40 metres beneath the English Channel seabed. Shaking hands through the opening draped in national flags, their historic breakthrough established the first fixed dry-land connection between **Great Britain** and continental Europe since the **last Ice Age** 8,000 years prior.",
+      "wiki": "Channel Tunnel",
+      "youtube": "Channel Tunnel breakthrough December 1 1990 BBC news report",
+      "source": "https://en.wikipedia.org/wiki/Channel_Tunnel",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-12-07-home-alone-uk-release",
+      "date": "1990-12-07",
+      "topic": "film",
+      "text": "7 December saw director Chris Columbus and writer John Hughes' festive comedy ***Home Alone*** open across British cinemas. Starring eight-year-old **Macaulay Culkin** as Kevin McCallister, an accidental castaway defending his Chicago suburban home from bumbling burglars with elaborate booby traps, the film became an unprecedented global box office phenomenon and an enduring **Christmas holiday classic**.",
+      "wiki": "Home Alone",
+      "youtube": "Home Alone original 1990 cinema trailer Macaulay Culkin",
+      "source": "https://en.wikipedia.org/wiki/Home_Alone",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-12-09-lech-walesa-elected-president",
+      "date": "1990-12-09",
+      "topic": "politics",
+      "text": "9 December saw legendary Solidarity trade union leader **Lech Wałęsa** win a landslide victory in the second round of Poland's presidential election, securing over 74% of the popular vote against Stanisław Tymiński. Former Gdańsk shipyard electrician and Nobel Peace laureate, Wałęsa became the first democratically elected **President of Poland** in post-war history, cementing the nation's peaceful transition from **communist rule**.",
+      "wiki": "1990 Polish presidential election",
+      "youtube": "Lech Walesa wins Polish presidency December 1990 news",
+      "source": "https://en.wikipedia.org/wiki/1990_Polish_presidential_election",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-12-16-starrcade-1990-black-scorpion",
+      "date": "1990-12-16",
+      "topic": "wrestling",
+      "text": "16 December saw the NWA stage ***Starrcade 1990: Collision Course*** at the Kiel Auditorium in St. Louis, Missouri. In a climactic steel cage confrontation, NWA World Heavyweight Champion **Sting** defended his belt against his mysterious, cloaked tormentor **The Black Scorpion**. After trapping him with a diving flying bodypress, Sting unmasked the villain to reveal his eternal nemesis, **Ric Flair**.",
+      "wiki": "Starrcade (1990)",
+      "youtube": "Sting unmasks the Black Scorpion Starrcade 1990 steel cage match",
+      "source": "https://en.wikipedia.org/wiki/Starrcade_(1990)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-12-20-first-world-wide-web-site-cern",
+      "date": "1990-12-20",
+      "topic": "tech",
+      "text": "20 December saw British computer scientist **Tim Berners-Lee** put the world's first website and hypertext server into live operation on a NeXT workstation at CERN in Switzerland. Located at the URL `info.cern.ch`, the historic site described the fundamentals of the **World Wide Web**, explaining how users could access hypertext documents, search for information, and set up their own **web servers**.",
+      "wiki": "World Wide Web",
+      "youtube": "Tim Berners-Lee invents World Wide Web 1990 archive CERN",
+      "source": "https://en.wikipedia.org/wiki/World_Wide_Web",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-12-23-cliff-richard-saviours-day-christmas-number-one",
+      "date": "1990-12-23",
+      "topic": "music",
+      "text": "23 December saw veteran pop icon **Cliff Richard** clinch the prestigious UK Christmas number-one spot with his festive gospel ballad ***Saviour's Day***. Overcoming fierce competition from Vanilla Ice's hip-hop anthem *Ice Ice Baby*, Richard secured his third solo Christmas chart-topper and the fourteenth UK number-one single of his storied **four-decade recording career**.",
+      "wiki": "Saviour's Day",
+      "youtube": "Cliff Richard Saviours Day official Christmas video 1990",
+      "source": "https://en.wikipedia.org/wiki/Saviour%27s_Day",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (29 December 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Saviour's Day",
+          "by": "Cliff Richard"
+        },
+        {
+          "pos": 2,
+          "title": "Ice Ice Baby",
+          "by": "Vanilla Ice"
+        },
+        {
+          "pos": 3,
+          "title": "All Together Now",
+          "by": "The Farm"
+        },
+        {
+          "pos": 4,
+          "title": "Unchained Melody",
+          "by": "The Righteous Brothers"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (December 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "RoboCop 2",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Teenage Mutant Hero Turtles",
+          "by": "Mirrorsoft"
+        },
+        {
+          "pos": 3,
+          "title": "Lotus Esprit Turbo Challenge",
+          "by": "Gremlin Graphics"
+        },
+        {
+          "pos": 4,
+          "title": "Manchester United",
+          "by": "Krisalis Software"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (December 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Home Alone",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 2,
+          "title": "Ghost",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Teenage Mutant Ninja Turtles",
+          "by": "Virgin / 20th Century Fox"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Commander Keen in Invasion of the Vorticons",
+    "developer": "Ideas from the Deep (id Software)",
+    "publisher": "Apogee Software",
+    "platforms": [
+      "MS-DOS"
+    ],
+    "genre": "Platformer",
+    "director": "Tom Hall",
+    "reviewScore": "90%",
+    "reviewQuote": "Smooth scrolling on an IBM PC that rivals the Nintendo Entertainment System! Commander Keen is a landmark achievement for shareware computer gaming.",
+    "reviewSource": "PC Gamer / Apogee Newsletter",
+    "headline": "Pogo Sticks, Vorticons, and Carmack's Engine that Birthed id Software",
+    "gameplay": "Released on 14 December 1990 for MS-DOS as shareware by Apogee Software, *Commander Keen in Invasion of the Vorticons* was developed by Ideas from the Deep—a team comprising **John Carmack**, **John Romero**, Tom Hall, and Adrian Carmack. Players guided eight-year-old boy genius Billy Blaze (Commander Keen) across Mars to recover stolen ship parts using a trusty raygun and high-bouncing **pogo stick**, evading alien Vorticons and hazard spikes. Carmack achieved what the industry believed impossible on PC hardware: silky-smooth 16-colour EGA **adaptive tile refresh** scrolling matching the responsiveness of console platformers.",
+    "reception": "Distributing Episode 1 *Marooned on Mars* as free shareware while selling Episodes 2 and 3 by mail order, *Commander Keen* became an unprecedented commercial sensation. Apogee generated tens of thousands of dollars in monthly orders, proving the viability of PC shareware and astonishing computer players accustomed to sluggish, jerky PC action titles.",
+    "impact": "The enormous success of *Commander Keen* provided the founding capital and technical confidence for the team to formally establish **id Software** in February 1991, laying the groundwork for *Wolfenstein 3D*, *Doom*, and the 3D first-person shooter revolution.",
+    "wiki": "Commander Keen in Invasion of the Vorticons",
+    "youtube": "Commander Keen Invasion of the Vorticons 1990 DOS gameplay",
+    "source": "https://en.wikipedia.org/wiki/Commander_Keen_in_Invasion_of_the_Vorticons"
+  }
+}

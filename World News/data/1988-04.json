@@ -1,0 +1,177 @@
+{
+  "month": "1988-04",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1988-04-14-geneva-accords-signed",
+      "date": "1988-04-14",
+      "topic": "politics",
+      "text": "14 April saw the historic **Geneva Accords** signed by Afghanistan, Pakistan, the United States, and the Soviet Union, establishing a binding international timetable for the total withdrawal of Soviet combat forces from Afghanistan. Ending over eight years of gruelling guerrilla warfare that had cost the lives of nearly 15,000 Red Army soldiers, the treaty marked a massive geopolitical retreat for Moscow under General Secretary Mikhail Gorbachev. Observers heralded the agreement as a decisive turning point in winding down the global Cold War.",
+      "wiki": "Geneva Accords (1988)",
+      "youtube": "Geneva Accords signed Soviet Afghanistan withdrawal 1988 news",
+      "source": "https://en.wikipedia.org/wiki/Geneva_Accords_(1988)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-04-16-totoro-fireflies-ghibli",
+      "date": "1988-04-16",
+      "topic": "film",
+      "text": "16 April saw Japanese animation powerhouse Studio Ghibli execute one of the most audacious cinematic gambles in film history by releasing a theatrical double bill of Hayao Miyazaki's *My Neighbor Totoro* and Isao Takahata's *Grave of the Fireflies*. While Miyazaki's whimsical rural fantasy about giant forest spirits delighted younger viewers, Takahata's devastating, unflinching tragedy depicting two war orphans struggling during the firebombing of Kobe left entire audiences weeping in silence. Despite bewildering theatre owners with its extreme tonal contrast, the double bill stands as an unmatched landmark of world cinema.",
+      "wiki": "My Neighbor Totoro",
+      "youtube": "My Neighbor Totoro 1988 original Japanese theatrical trailer",
+      "source": "https://en.wikipedia.org/wiki/My_Neighbor_Totoro",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-04-17-pet-shop-boys-heart",
+      "date": "1988-04-17",
+      "topic": "music",
+      "text": "17 April saw synth-pop titans the **Pet Shop Boys** top the UK singles chart for the fourth and final time as their infectious dance single *Heart* climbed to number one. Originally intended by Neil Tennant and Chris Lowe as a songwriting pitch for Madonna, the duo decided to keep the Hi-NRG love song for themselves after concluding the American star would likely reject it. Accompanied by a lavish gothic music video featuring cinematic icon Ian McKellen as a seductive vampire, the track spent three weeks atop the British charts.",
+      "wiki": "Heart (Pet Shop Boys song)",
+      "youtube": "Pet Shop Boys Heart official music video 1988 Ian McKellen",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19880417/7501/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1988-04-28-aloha-flight-243",
+      "date": "1988-04-28",
+      "topic": "science",
+      "text": "28 April saw one of the most astonishing feats of emergency airmanship in aviation history occur when Aloha Airlines Flight 243 suffered explosive decompression at 24,000 feet between Hilo and Honolulu, Hawaii. An 18-foot section of the Boeing 737's upper fuselage tore completely away due to metal fatigue and corrosion, exposing screaming passengers to hurricane-force sub-zero winds. Despite catastrophic airframe structural damage, veteran captain Robert Schornstheimer successfully landed the crippled jet on Maui with the tragic loss of only one life, veteran flight attendant **Clarabelle Lansing**.",
+      "wiki": "Aloha Airlines Flight 243",
+      "youtube": "Aloha Flight 243 emergency landing news report 1988",
+      "source": "https://en.wikipedia.org/wiki/Aloha_Airlines_Flight_243",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1988-04-30-celine-dion-eurovision",
+      "date": "1988-04-30",
+      "topic": "music",
+      "text": "30 April saw the **Eurovision Song Contest** staged in Dublin, Ireland, culminating in one of the most nail-biting finishes in the competition's history. A relatively unknown 20-year-old French-Canadian songstress named **Céline Dion**, representing Switzerland, snatched victory with the dramatic ballad *Ne partez pas sans moi*. Trailing the United Kingdom's entry by five points heading into the final round of scoring, Dion triumphed by a solitary point after the Yugoslav jury failed to award the British song any points at all, launching her stellar international career.",
+      "wiki": "Eurovision Song Contest 1988",
+      "youtube": "Celine Dion wins Eurovision 1988 Switzerland",
+      "source": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1988",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19880417/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Heart",
+          "by": "Pet Shop Boys"
+        },
+        {
+          "pos": 2,
+          "title": "Theme from S-Express",
+          "by": "S'Express"
+        },
+        {
+          "pos": 3,
+          "title": "One More Try",
+          "by": "George Michael"
+        },
+        {
+          "pos": 4,
+          "title": "Don't Turn Around",
+          "by": "Aswad"
+        },
+        {
+          "pos": 5,
+          "title": "Could've Been",
+          "by": "Tiffany"
+        }
+      ]
+    },
+    {
+      "section": "Computer Games (All Formats)",
+      "kind": "games",
+      "source": "https://en.wikipedia.org/wiki/Target:_Renegade",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Target: Renegade",
+          "by": "Imagine / Ocean"
+        },
+        {
+          "pos": 2,
+          "title": "Platoon",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Match Day II",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "Predator",
+          "by": "Activision"
+        },
+        {
+          "pos": 5,
+          "title": "Grand Prix Simulator",
+          "by": "Codemasters"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (April 1988)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Moonstruck",
+          "by": "UIP / MGM"
+        },
+        {
+          "pos": 2,
+          "title": "The Fox and the Hound",
+          "by": "Walt Disney"
+        },
+        {
+          "pos": 3,
+          "title": "Empire of the Sun",
+          "by": "Warner Bros."
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "R-Type",
+    "developer": "Irem",
+    "publisher": "Irem / Electric Dreams",
+    "platforms": [
+      "Arcade",
+      "Sega Master System",
+      "ZX Spectrum",
+      "Commodore 64"
+    ],
+    "genre": "Horizontal Shoot 'em Up",
+    "director": "Kazuma Kujo",
+    "reviewScore": "94%",
+    "reviewQuote": "The pinnacle of arcade shoot 'em ups. The Force pod mechanic and grotesque Bydo bosses are unmatched.",
+    "reviewSource": "Computer & Video Games (Issue 78)",
+    "headline": "Giger-Esque Nightmares and the Revolutionary Force Pod",
+    "gameplay": "Piloting the sleek experimental **R-9 Arrowhead** starfighter deep into the heart of the mutant biomechanical Bydo Empire, *R-Type* redefined horizontal shoot 'em ups. The game broke away from bullet-hell chaos by introducing surgical, puzzle-like memorization and two revolutionary mechanics: the **Wave Cannon** (holding fire to charge up a searing beam) and the **Force Pod**—an invulnerable glowing sphere that could be docked to the nose or tail of the ship, or launched independently into boss weak points to lay down protective crossfire.",
+    "reception": "Throughout April 1988, *R-Type* was the premier arcade attraction in arcades worldwide, before stunning conversions arrived on Sega's Master System and home computers. Critics gasped at its HR Giger-inspired organic aesthetics—most famously the terrifying giant stage 1 boss Dobkeratops, an alien fetus coiling inside a monstrous chest cavity. *Computer & Video Games* awarded it 94%, praising its tactical depth and immaculate level architecture.",
+    "impact": "*R-Type* is universally recognized as one of the most influential shoot 'em ups ever produced. Its tactical Force pod, charged weaponry, and biological-industrial horror art style influenced decades of horizontal shooters, directly shaping titles like *Gradius*, *Einhander*, and *Ikaruga*.",
+    "wiki": "R-Type",
+    "youtube": "R-Type original arcade 1988 gameplay",
+    "source": "https://en.wikipedia.org/wiki/R-Type"
+  }
+}

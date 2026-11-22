@@ -1,0 +1,251 @@
+{
+  "month": "1998-06",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1998-06-07-bwitched-cest-la-vie",
+      "date": "1998-06-07",
+      "topic": "music",
+      "text": "7 June saw Dublin teen pop quartet **B*Witched** leap straight to number one on the UK singles chart with their infectious debut *C'est la Vie*. Sporting matching head-to-toe double denim and executing lightning-fast traditional Irish step-dancing, the four singers unleashed a relentless pop hurricane of tin whistles and cheerful innuendo. The track instantly took up permanent residence inside the heads of British school pupils, making denim waistcoats an inescapable summer uniform.",
+      "wiki": "C'est la Vie (B*Witched song)",
+      "youtube": "BWitched Cest la Vie official video 1998",
+      "source": "https://www.officialcharts.com/songs/bwitched-cest-la-vie/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-06-12-tekken-3-eu-release",
+      "date": "1998-06-12",
+      "topic": "games",
+      "text": "12 June saw Namco release the home conversion of fighting tour-de-force *Tekken 3* for the **PlayStation** across Europe, pushing Sony's 32-bit hardware to its absolute limit. Introducing capoeira fighter Eddy Gordo, kickboxer Bryan Fury, and martial artist Ling Xiaoyu, the game delivered blistering 60-frames-per-second animation alongside the bizarre volleyball-inspired mini-game *Tekken Ball*. Players rapidly discovered that button-mashing Eddy Gordo's handstand kicks was practically guaranteed to ruin lifelong school friendships.",
+      "wiki": "Tekken 3",
+      "youtube": "Tekken 3 PS1 European release trailer 1998",
+      "source": "https://en.wikipedia.org/wiki/Tekken_3",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-06-25-windows-98-launch",
+      "date": "1998-06-25",
+      "topic": "tech",
+      "text": "25 June saw Microsoft officially release **Windows 98** to retail stores worldwide, cementing Bill Gates' hegemony over home personal computing. The operating system integrated Internet Explorer directly into the desktop interface and offered plug-and-play support for new-fangled USB peripherals, banishing the nightmarish hardware conflicts of the dial-up era. Millions of computer owners eagerly handed over their cash, politely ignoring the fact that Bill Gates had suffered an embarrassing blue-screen crash while demonstrating it live two months earlier.",
+      "wiki": "Windows 98",
+      "youtube": "Windows 98 retail launch Bill Gates 1998",
+      "source": "https://en.wikipedia.org/wiki/Windows_98",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-06-28-hell-in-a-cell-mankind",
+      "date": "1998-06-28",
+      "topic": "wrestling",
+      "text": "28 June saw professional wrestling history etched in blood and steel at *King of the Ring* in Pittsburgh during the legendary **Hell in a Cell** match. In a moment that stunned the arena, **The Undertaker** hurled Mankind (Mick Foley) from the roof of the 16-foot steel cage, sending him crashing through the Spanish announce table and prompting Jim Ross's agonised cry: \"Good God Almighty! They've killed him!\" Foley astonishingly climbed back up, only to be chokeslammed through the cage roof and knocked unconscious, cementing his reputation as the sport's immortal stuntman.",
+      "wiki": "King of the Ring (1998)",
+      "youtube": "Undertaker vs Mankind Hell in a Cell 1998 Mick Foley fall",
+      "source": "https://en.wikipedia.org/wiki/King_of_the_Ring_(1998)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-06-29-banjo-kazooie-n64",
+      "date": "1998-06-29",
+      "topic": "games",
+      "text": "29 June saw British studio Rare and Nintendo launch 3D platformer *Banjo-Kazooie* on the **Nintendo 64** in North America, raising the bar for colourful collect-a-thons. Pairing a mild-mannered honey bear with a gloriously ill-mannered red-crested breegull stuffed inside his backpack, the game dazzled players with seamlessly transforming hub worlds and witty musical jibberish dialogue. Gruntilda the witch gave evil rhyming insults, while players spent countless summer hours scouring every square inch of Mumbo's Mountain for stray golden Jiggies.",
+      "wiki": "Banjo-Kazooie",
+      "youtube": "Banjo Kazooie original N64 trailer 1998 Rare",
+      "source": "https://en.wikipedia.org/wiki/Banjo-Kazooie",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-06-30-england-argentina-beckham",
+      "date": "1998-06-30",
+      "topic": "sport",
+      "text": "30 June saw England suffer a heart-wrenching World Cup exit against fierce rivals Argentina in a dramatic last-16 encounter in Saint-Étienne. After 18-year-old **Michael Owen** scored an electrifying solo wondergoal, midfielder **David Beckham** was red-carded early in the second half for petulantly flicking his boot at Diego Simeone. England battled heroically with ten men before inevitably losing on penalties, leaving British tabloids to hang effigies of Beckham outside London pubs and mourn their traditional tournament fate.",
+      "wiki": "Argentina v England (1998 FIFA World Cup)",
+      "youtube": "England vs Argentina 1998 Michael Owen goal David Beckham red card",
+      "source": "https://en.wikipedia.org/wiki/Argentina_v_England_(1998_FIFA_World_Cup)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19980614/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "3 Lions '98",
+          "by": "Baddiel, Skinner & The Lightning Seeds"
+        },
+        {
+          "pos": 2,
+          "title": "Vindaloo",
+          "by": "Fat Les"
+        },
+        {
+          "pos": 3,
+          "title": "C'est la Vie",
+          "by": "B*Witched"
+        },
+        {
+          "pos": 4,
+          "title": "Carnaval de Paris",
+          "by": "Dario G"
+        },
+        {
+          "pos": 5,
+          "title": "The Cup of Life",
+          "by": "Ricky Martin"
+        }
+      ]
+    },
+    {
+      "section": "PlayStation",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, June 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Tekken 3",
+          "by": "Namco"
+        },
+        {
+          "pos": 2,
+          "title": "World Cup 98",
+          "by": "EA Sports"
+        },
+        {
+          "pos": 3,
+          "title": "Gran Turismo",
+          "by": "Sony"
+        },
+        {
+          "pos": 4,
+          "title": "Resident Evil 2",
+          "by": "Capcom"
+        },
+        {
+          "pos": 5,
+          "title": "FIFA: Road to World Cup 98",
+          "by": "EA Sports"
+        }
+      ]
+    },
+    {
+      "section": "Nintendo 64",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, June 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "World Cup 98",
+          "by": "EA Sports"
+        },
+        {
+          "pos": 2,
+          "title": "GoldenEye 007",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 3,
+          "title": "Yoshi's Story",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 4,
+          "title": "Diddy Kong Racing",
+          "by": "Rare"
+        },
+        {
+          "pos": 5,
+          "title": "Super Mario 64",
+          "by": "Nintendo"
+        }
+      ]
+    },
+    {
+      "section": "PC",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, June 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "World Cup 98",
+          "by": "EA Sports"
+        },
+        {
+          "pos": 2,
+          "title": "Unreal",
+          "by": "GT Interactive"
+        },
+        {
+          "pos": 3,
+          "title": "StarCraft",
+          "by": "Blizzard"
+        },
+        {
+          "pos": 4,
+          "title": "Grand Prix II",
+          "by": "MicroProse"
+        },
+        {
+          "pos": 5,
+          "title": "FIFA: Road to World Cup 98",
+          "by": "Electronic Arts"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (June 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Godzilla",
+          "by": "Columbia TriStar"
+        },
+        {
+          "pos": 2,
+          "title": "The Truman Show",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Deep Impact",
+          "by": "UIP / DreamWorks"
+        }
+      ]
+    }
+  ],
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, June 1998",
+  "gaming": {
+    "title": "Banjo-Kazooie",
+    "developer": "Rare",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Nintendo 64"
+    ],
+    "genre": "3D Platformer",
+    "director": "Gregg Mayles",
+    "reviewScore": "95%",
+    "reviewQuote": "The new king of 3D platformers. Bursting with charm, razor-sharp design, and musical genius.",
+    "reviewSource": "N64 Magazine (Issue 18)",
+    "headline": "Jigsaw Pieces, Rhyming Witches, and Rare's Golden Age",
+    "gameplay": "Developed by Rare's elite Twycross team led by Gregg Mayles, *Banjo-Kazooie* followed the adventures of mild-mannered honey bear **Banjo** and his sarcastic, red-crested Breegull sidekick **Kazooie** as they ventured to rescue young Tooty from the rhyming witch Gruntilda. The game expanded 3D exploration across nine enormous, interconnected worlds (from the sandy pirate shores of Treasure Trove Cove to the frosty peaks of Freezeezy Peak), with Kazooie providing talon-trots, aerial glides, and rapid-fire egg spitting to overcome obstacles.",
+    "reception": "Released in late June 1998, *Banjo-Kazooie* was greeted with ecstatic reviews, with critics hailing it as the first 3D platformer capable of matching or even surpassing *Super Mario 64*. *N64 Magazine* awarded it 95%, and IGN gave it a 9.6/10. Particular adoration was showered on composer Grant Kirkhope's dynamic, interactive music engine, where background instruments seamlessly morphed in real time as players dipped underwater or crept near enemy lairs.",
+    "impact": "Selling over three million copies, *Banjo-Kazooie* represented the zenith of the late-90s 3D \"collect-a-thon\" platformer, solidifying Rare's status as Nintendo's premier second-party development powerhouse. Its witty dialogue, flawless camera work, and enduring characters cemented it as an indelible classic of the 64-bit generation.",
+    "wiki": "Banjo-Kazooie",
+    "youtube": "Banjo-Kazooie N64 intro 1998",
+    "source": "https://en.wikipedia.org/wiki/Banjo-Kazooie"
+  }
+}

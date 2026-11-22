@@ -1,0 +1,176 @@
+{
+  "month": "1988-05",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1988-05-14-wimbledon-crazy-gang-fa-cup",
+      "date": "1988-05-14",
+      "topic": "sport",
+      "text": "14 May saw underdog underdogs **Wimbledon FC** script one of the most stunning upsets in football history by defeating reigning league champions Liverpool 1-0 in the **FA Cup final** at Wembley Stadium. Managed by Bobby Gould, the physical, long-ball \"Crazy Gang\" took the lead through a Lawrie Sanchez header before goalkeeper Dave Beasant etched his name in legend by saving a second-half penalty from John Aldridge—the first penalty save in FA Cup final history. As the final whistle blew, BBC commentator John Motson delivered the immortal line: \"The Crazy Gang have beaten the Culture Club!\"",
+      "wiki": "1988 FA Cup final",
+      "youtube": "1988 FA Cup Final Wimbledon vs Liverpool highlights",
+      "source": "https://en.wikipedia.org/wiki/1988_FA_Cup_final",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-05-15-soviet-afghanistan-withdrawal",
+      "date": "1988-05-15",
+      "topic": "politics",
+      "text": "15 May saw the Red Army commence its official withdrawal of troops from **Afghanistan**, bringing an end to more than eight bloody years of military occupation. Operating under the terms agreed at the Geneva Accords, columns of Soviet armored personnel carriers and tanks began the long overland trek back north across the Amu Darya river toward the Uzbek border. Soviet commanders acknowledged the immense physical and psychological toll the protracted conflict had inflicted on their conscripts, who returned home to a rapidly transforming nation.",
+      "wiki": "Soviet withdrawal from Afghanistan",
+      "youtube": "Soviet troops withdraw from Afghanistan 1988 news report",
+      "source": "https://en.wikipedia.org/wiki/Soviet_withdrawal_from_Afghanistan",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-05-15-wet-wet-wet-little-help",
+      "date": "1988-05-15",
+      "topic": "music",
+      "text": "15 May saw Scottish pop quartet **Wet Wet Wet** claim the number one spot on the UK singles chart with their soulful cover of the Beatles' classic *With a Little Help from My Friends*. Released as a charity double A-side alongside folk-punk bard Billy Bragg's rendition of *She's Leaving Home*, the single raised immense funds for the ChildLine telephone helpline for vulnerable children. Marti Pellow's smooth, earnest vocals carried the release to a dominant four-week residency at the summit of the British charts.",
+      "wiki": "With a Little Help from My Friends",
+      "youtube": "Wet Wet Wet With A Little Help From My Friends official video 1988",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19880515/7501/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1988-05-27-section-28-passed",
+      "date": "1988-05-27",
+      "topic": "politics",
+      "text": "27 May saw the British Parliament enact the controversial **Section 28** of the Local Government Act 1988, barring local authorities from \"intentionally promoting homosexuality\" or teaching the \"acceptability of homosexuality as a pretended family relationship\" in state schools. Championed by Conservative MPs and staunchly backed by Prime Minister Margaret Thatcher, the legislation provoked massive civil rights demonstrations and prompted direct action protests, including lesbian activists abseiling into the House of Lords chamber during debates.",
+      "wiki": "Section 28",
+      "youtube": "Section 28 protests London 1988 news report",
+      "source": "https://en.wikipedia.org/wiki/Section_28",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-05-29-reagan-gorbachev-moscow",
+      "date": "1988-05-29",
+      "topic": "politics",
+      "text": "29 May saw US President **Ronald Reagan** arrive in Moscow for an extraordinary diplomatic summit with General Secretary Mikhail Gorbachev, becoming the first American president to visit the Soviet capital in fourteen years. Strolling arm-in-arm with Gorbachev through a sunlit Red Square while chatting warmly with ordinary Soviet citizens, Reagan was asked by a journalist if he still considered the USSR an \"evil empire\". The President smiled and answered without hesitation: \"No, I was talking about another time, another era.\"",
+      "wiki": "Moscow Summit (1988)",
+      "youtube": "Reagan Gorbachev Moscow summit Red Square stroll 1988",
+      "source": "https://en.wikipedia.org/wiki/Moscow_Summit_(1988)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19880515/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "With a Little Help from My Friends",
+          "by": "Wet Wet Wet"
+        },
+        {
+          "pos": 2,
+          "title": "Blue Monday 1988",
+          "by": "New Order"
+        },
+        {
+          "pos": 3,
+          "title": "Theme from S-Express",
+          "by": "S'Express"
+        },
+        {
+          "pos": 4,
+          "title": "Perfect",
+          "by": "Fairground Attraction"
+        },
+        {
+          "pos": 5,
+          "title": "One More Try",
+          "by": "George Michael"
+        }
+      ]
+    },
+    {
+      "section": "Computer Games (All Formats)",
+      "kind": "games",
+      "source": "https://en.wikipedia.org/wiki/Target:_Renegade",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Target: Renegade",
+          "by": "Imagine / Ocean"
+        },
+        {
+          "pos": 2,
+          "title": "Predator",
+          "by": "Activision"
+        },
+        {
+          "pos": 3,
+          "title": "Match Day II",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "IK+",
+          "by": "System 3"
+        },
+        {
+          "pos": 5,
+          "title": "Platoon",
+          "by": "Ocean Software"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (May 1988)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Three Men and a Baby",
+          "by": "Touchstone / Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "The Last Emperor",
+          "by": "Columbia Pictures"
+        },
+        {
+          "pos": 3,
+          "title": "Moonstruck",
+          "by": "UIP / MGM"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Speedball",
+    "developer": "The Bitmap Brothers",
+    "publisher": "Image Works",
+    "platforms": [
+      "Atari ST",
+      "Commodore Amiga",
+      "MS-DOS"
+    ],
+    "genre": "Futuristic Cyberpunk Sports",
+    "director": "Mike Montgomery / Steve Kelly / Eric Matthews",
+    "reviewScore": "90%",
+    "reviewQuote": "Fast, brutal, metallic, and utterly addictive. The Bitmap Brothers have made video game violence stylish.",
+    "reviewSource": "The Games Machine (Issue 7)",
+    "headline": "Chrome, Steel Balls, and Cyberpunk Mayhem",
+    "gameplay": "Developed by a swaggering new collective of East London coders known as The Bitmap Brothers, *Speedball* imagined a dystopian 21st-century bloodsport combining elements of five-a-side football, ice hockey, and roller derby. Teams clashed in enclosed, polished metallic arenas without referees or fouls. Players bounced heavy steel balls off side bumpers, slide-tackled rivals into unconsciousness, collected illicit stadium coins, and visited the locker room to bribe referees or pump their squad full of performance-enhancing stimulants.",
+    "reception": "Hitting 16-bit computers in May 1988, *Speedball* became an instant cult phenomenon. Critics lauded its razor-fast gameplay, distinctive metallic sound effects, and cool cyberpunk aesthetic. It swept European gaming awards, winning the prestigious **Golden Joystick Award for 16-Bit Game of the Year 1988**, and established The Bitmap Brothers as the gaming equivalent of rock stars.",
+    "impact": "*Speedball* put The Bitmap Brothers on the map, inaugurating a golden era of British 16-bit game design characterized by metallic pixel art, attitude, and cutting-edge synth soundtracks. It spawned the legendary 1990 sequel *Speedball 2: Brutal Deluxe* and proved that futuristic sports could stand shoulder-to-shoulder with conventional arcade genres.",
+    "wiki": "Speedball (video game)",
+    "youtube": "Speedball Atari ST 1988 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Speedball_(video_game)"
+  }
+}

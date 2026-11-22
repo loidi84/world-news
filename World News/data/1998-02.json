@@ -1,0 +1,231 @@
+{
+  "month": "1998-02",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1998-02-07-nagano-olympics",
+      "date": "1998-02-07",
+      "topic": "sport",
+      "text": "7 February saw the opening ceremony of the **1998 Winter Olympics** in Nagano, Japan, featuring the Olympic debut of snowboarding and women's ice hockey. The games produced early high comedy when Canadian snowboarder Ross Rebagliati was stripped of his giant slalom gold medal after testing positive for minute traces of cannabis, claiming he had merely inhaled secondhand smoke at a party in Whistler. The IOC hastily restored the medal upon discovering that cannabis was not actually on their official list of banned substances.",
+      "wiki": "1998 Winter Olympics",
+      "youtube": "Nagano 1998 Winter Olympics opening ceremony",
+      "source": "https://en.wikipedia.org/wiki/1998_Winter_Olympics",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-02-09-chumbawamba-prescott",
+      "date": "1998-02-09",
+      "topic": "music",
+      "text": "9 February saw punk collective **Chumbawamba** inject anarchy into the 18th Brit Awards when vocalist Danbert Nobacon dumped an ice bucket over Deputy Prime Minister **John Prescott**. Protesting New Labour's cozy courting of the \"Cool Britannia\" music establishment, Nobacon dashed to the politician's VIP table at the London Arena and drenched his impeccably tailored suit in freezing water. Prescott's team loudly condemned the attack as cowardly and contemptible, while the band cheerfully expressed surprise that anyone took award shows so seriously.",
+      "wiki": "1998 Brit Awards",
+      "youtube": "Chumbawamba iced water John Prescott Brit Awards 1998",
+      "source": "https://en.wikipedia.org/wiki/1998_Brit_Awards",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-02-15-no-way-out-austin",
+      "date": "1998-02-15",
+      "topic": "wrestling",
+      "text": "15 February saw the WWF roll into Houston for *No Way Out of Texas*, headlined by an unsanctioned eight-man brawl that tore down the ringside barriers. With WWF Champion Shawn Michaels sidelined by severe spinal injuries, Savio Vega stepped in alongside Triple H and the **New Age Outlaws** to battle **\"Stone Cold\" Steve Austin**, Owen Hart, Cactus Jack and Chainsaw Charlie. Austin sealed victory by delivering a thunderous Stone Cold Stunner to Road Dogg, cementing his status as the unstoppable fan favourite heading into Boston.",
+      "wiki": "No Way Out of Texas: In Your House",
+      "youtube": "No Way Out of Texas 1998 main event eight man tag",
+      "source": "https://en.wikipedia.org/wiki/No_Way_Out_of_Texas:_In_Your_House",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-02-15-celine-dion-number-one",
+      "date": "1998-02-15",
+      "topic": "music",
+      "text": "15 February saw Canadian powerhouse **Celine Dion** sail to number one on the UK singles chart with *My Heart Will Go On*. Propelled by the record-breaking cinema run of *Titanic*, the dramatic tin-whistle anthem became an inescapable fixture of British radio stations, supermarket aisles, and school disco slow dances. Sarcastic pop listeners pleaded for an iceberg to collide with the airwaves, but the single stubbornly refused to sink, dominating charts worldwide.",
+      "wiki": "My Heart Will Go On",
+      "youtube": "Celine Dion My Heart Will Go On official video 1998",
+      "source": "https://www.officialcharts.com/songs/celine-dion-my-heart-will-go-on/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-02-23-bin-laden-fatwa",
+      "date": "1998-02-23",
+      "topic": "politics",
+      "text": "23 February saw exiled militant **Osama bin Laden** and Egyptian extremist Ayman al-Zawahiri issue a notorious religious decree declaring holy war against the United States. Published in the London-based Arabic newspaper *Al-Quds Al-Arabi* under the banner of the **World Islamic Front**, the manifesto called for attacks against American military personnel and civilians across the globe. While Western intelligence agencies initially dismissed the declaration as grandiose desert posturing, the threats would soon bear deadly fruit.",
+      "wiki": "World Islamic Front",
+      "youtube": "Osama bin Laden 1998 declaration history documentary",
+      "source": "https://en.wikipedia.org/wiki/World_Islamic_Front",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-02-26-tenchu-stealth-assassins",
+      "date": "1998-02-26",
+      "topic": "games",
+      "text": "26 February saw Japanese developer Acquire release *Tenchu: Stealth Assassins* for the **Sony PlayStation** in Japan, pioneering modern 3D ninja gameplay. Guiding shinobi assassins Rikimaru and Ayame across moonlit feudal rooftops with grappling hooks, players were taught that creeping silently through bamboo groves was vastly more rewarding than charging in sword flailing. The title's gruesome stealth-kill animations and atmospheric traditional soundtrack set a blueprint that action stealth games would copy for a generation.",
+      "wiki": "Tenchu: Stealth Assassins",
+      "youtube": "Tenchu Stealth Assassins PS1 Japanese release 1998",
+      "source": "https://en.wikipedia.org/wiki/Tenchu:_Stealth_Assassins",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    },
+    {
+      "id": "1998-02-28-wakefield-lancet-paper",
+      "date": "1998-02-28",
+      "topic": "science",
+      "text": "28 February saw British medical journal *The Lancet* publish a fateful research paper by doctor **Andrew Wakefield** alleging a link between the measles, mumps, and rubella (**MMR**) vaccine and autism. Based on an extraordinarily tiny sample of just twelve children, the study triggered sensationalist tabloid headlines and ignited widespread panic among British parents. The paper would eventually be unmasked as an elaborate financial fraud and fully retracted, but the ghost of its bogus conclusions lingered on.",
+      "wiki": "Lancet MMR autism fraud",
+      "youtube": "Andrew Wakefield MMR vaccine controversy 1998",
+      "source": "https://en.wikipedia.org/wiki/Lancet_MMR_autism_fraud",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19980215/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "My Heart Will Go On",
+          "by": "Celine Dion"
+        },
+        {
+          "pos": 2,
+          "title": "Brimful of Asha (Norman Cook Remix)",
+          "by": "Cornershop"
+        },
+        {
+          "pos": 3,
+          "title": "Doctor Jones",
+          "by": "Aqua"
+        },
+        {
+          "pos": 4,
+          "title": "Never Ever",
+          "by": "All Saints"
+        },
+        {
+          "pos": 5,
+          "title": "You Make Me Wanna...",
+          "by": "Usher"
+        }
+      ]
+    },
+    {
+      "section": "PlayStation",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, February 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Tomb Raider II",
+          "by": "Eidos"
+        },
+        {
+          "pos": 2,
+          "title": "Crash Bandicoot 2: Cortex Strikes Back",
+          "by": "Sony"
+        },
+        {
+          "pos": 3,
+          "title": "FIFA: Road to World Cup 98",
+          "by": "EA Sports"
+        },
+        {
+          "pos": 4,
+          "title": "TOCA Touring Car Championship",
+          "by": "Codemasters"
+        },
+        {
+          "pos": 5,
+          "title": "Riven: The Sequel to Myst",
+          "by": "Virgin"
+        }
+      ]
+    },
+    {
+      "section": "Nintendo 64",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, February 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "GoldenEye 007",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 2,
+          "title": "Diddy Kong Racing",
+          "by": "Rare"
+        },
+        {
+          "pos": 3,
+          "title": "Super Mario 64",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 4,
+          "title": "Lylat Wars",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 5,
+          "title": "Mario Kart 64",
+          "by": "Nintendo"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (February 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Titanic",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 2,
+          "title": "The Wings of the Dove",
+          "by": "Buena Vista"
+        },
+        {
+          "pos": 3,
+          "title": "Amistad",
+          "by": "UIP / DreamWorks"
+        }
+      ]
+    }
+  ],
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, February 1998",
+  "gaming": {
+    "title": "Xenogears",
+    "developer": "Square",
+    "publisher": "Square",
+    "platforms": [
+      "Sony PlayStation"
+    ],
+    "genre": "Role-Playing Game (JRPG)",
+    "director": "Tetsuya Takahashi",
+    "reviewScore": "91%",
+    "reviewQuote": "A staggering, mind-bending epic of mecha warfare, Jungian psychology, and religious existentialism.",
+    "reviewSource": "Electronic Gaming Monthly (Issue 113)",
+    "headline": "Martial Arts, Giant Mecha, and Philosophical Audacity",
+    "gameplay": "Originally pitched as a dark treatment for *Final Fantasy VII*, *Xenogears* was directed by Tetsuya Takahashi with character writing by Soraya Saga and a breathtaking Celtic-infused score by Yasunori Mitsuda. Casting players as martial artist Fei Fong Wong, the game pioneered a dual-layer combat system: kinetic ground combat stringing together fighting-game button combos (Deathblows) and high-stakes **Gear battles** piloting gigantic armored robots, carefully managing fuel reserves and engine output levels.",
+    "reception": "Releasing in Japan in February 1998 (and in North America later that year), *Xenogears* electrified RPG enthusiasts with its unflinching narrative maturity. Tackling Freudian psychology, Nietzschean will, and Gnostic religious subversion, it was hailed by *Famitsu* and western gaming press alike as one of the most intellectually daring narratives ever written for a video game.",
+    "impact": "*Xenogears* achieved legendary cult status, establishing Takahashi's reputation as a world-class visionary and paving the way for the acclaimed *Xenosaga* and *Xenoblade Chronicles* franchises. Decades later, its ambitious scope and Mitsuda's iconic score remain universally revered in the pantheon of PlayStation classics.",
+    "wiki": "Xenogears",
+    "youtube": "Xenogears PS1 1998 intro",
+    "source": "https://en.wikipedia.org/wiki/Xenogears"
+  }
+}

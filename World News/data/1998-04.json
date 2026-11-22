@@ -1,0 +1,207 @@
+{
+  "month": "1998-04",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1998-04-06-citigroup-merger",
+      "date": "1998-04-06",
+      "topic": "business",
+      "text": "6 April saw American banking heavyweights Citicorp and Travelers Group announce an astronomical $70 billion merger to form **Citigroup**, creating the largest financial services empire on Earth. Led by Sanford Weill and John Reed, the titanic union boldly bypassed Depression-era Glass-Steagall regulations separating commercial and investment banking, effectively daring US lawmakers to rewrite the rulebook to suit them. Wall Street greeted the birth of the financial mega-supermarket with delight, having thoroughly convinced itself that institutions could never become too big to fail.",
+      "wiki": "Citigroup",
+      "youtube": "Citigroup merger announcement 1998",
+      "source": "https://en.wikipedia.org/wiki/Citigroup",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-04-07-george-michael-arrest",
+      "date": "1998-04-07",
+      "topic": "music",
+      "text": "7 April saw British pop icon **George Michael** arrested by an undercover police officer in a Beverly Hills public restroom for engaging in a lewd act. Rather than issuing a standard remorseful celebrity apology, Michael gave frank television interviews publicly coming out as gay and boldly skewered the Beverly Hills police department with his hit single *Outside*. The resulting music video turned police surveillance into a disco party complete with mirror-ball urinals, proving that a true pop veteran can spin even a public convenience disaster into gold.",
+      "wiki": "George Michael",
+      "youtube": "George Michael Outside official music video 1998",
+      "source": "https://en.wikipedia.org/wiki/George_Michael",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-04-10-good-friday-agreement",
+      "date": "1998-04-10",
+      "topic": "politics",
+      "text": "10 April saw political leaders sign the historic **Good Friday Agreement** at Stormont Castle, opening a path toward peace in Northern Ireland after three decades of the Troubles. Brokered by US Senator George Mitchell alongside British Prime Minister **Tony Blair** and Irish Taoiseach Bertie Ahern, the landmark accord established cross-community power-sharing and the decommissioning of paramilitary arsenals. Blair famously declared that he felt the hand of history upon his shoulder, leaving cynical observers to hope history was not about to push him into a ditch.",
+      "wiki": "Good Friday Agreement",
+      "youtube": "Good Friday Agreement signed 1998 news report",
+      "source": "https://en.wikipedia.org/wiki/Good_Friday_Agreement",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-04-15-pol-pot-death",
+      "date": "1998-04-15",
+      "topic": "deaths",
+      "text": "15 April saw brutal former Cambodian tyrant **Pol Pot** die at the age of 72 while under house arrest in a remote jungle camp near the Thai border. As the architect of the Khmer Rouge's nightmarish agrarian revolution, he had overseen the extermination of an estimated two million Cambodians in the notorious **Killing Fields**. His sudden demise cheated surviving victims of the chance to see him tried in an international courtroom, his loyalists unceremoniously cremating his remains on a pyre of old car tyres and firewood.",
+      "wiki": "Pol Pot",
+      "youtube": "Pol Pot death news report 1998",
+      "source": "https://en.wikipedia.org/wiki/Pol_Pot",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-04-26-unforgiven-inferno-match",
+      "date": "1998-04-26",
+      "topic": "wrestling",
+      "text": "26 April saw the WWF unveil the dangerous **Inferno Match** at *Unforgiven* in Greensboro, North Carolina, surrounding the squared circle with roaring eight-foot walls of real fire. In a grudge match with macabre sibling rivalry, **The Undertaker** successfully defeated masked half-brother Kane when a boot to the stomach sent Kane's right arm careening into the flames, setting his sleeve ablaze. Meanwhile, WWF Champion Stone Cold Steve Austin struck company owner Vince McMahon with a steel chair before driving off on his pickup truck, delighting millions of office workers.",
+      "wiki": "Unforgiven: In Your House",
+      "youtube": "Undertaker vs Kane first Inferno Match Unforgiven 1998",
+      "source": "https://en.wikipedia.org/wiki/Unforgiven:_In_Your_House",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19980412/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "It's Like That",
+          "by": "Run-D.M.C. vs. Jason Nevins"
+        },
+        {
+          "pos": 2,
+          "title": "All That I Need",
+          "by": "Boyzone"
+        },
+        {
+          "pos": 3,
+          "title": "Under the Bridge / Lady Marmalade",
+          "by": "All Saints"
+        },
+        {
+          "pos": 4,
+          "title": "Turn Back Time",
+          "by": "Aqua"
+        },
+        {
+          "pos": 5,
+          "title": "Feel It",
+          "by": "The Tamperer featuring Maya"
+        }
+      ]
+    },
+    {
+      "section": "PlayStation",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, April 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "FIFA: Road to World Cup 98",
+          "by": "EA Sports"
+        },
+        {
+          "pos": 2,
+          "title": "Resident Evil 2",
+          "by": "Capcom"
+        },
+        {
+          "pos": 3,
+          "title": "Tomb Raider II",
+          "by": "Eidos"
+        },
+        {
+          "pos": 4,
+          "title": "Crash Bandicoot 2: Cortex Strikes Back",
+          "by": "Sony"
+        },
+        {
+          "pos": 5,
+          "title": "TOCA Touring Car Championship",
+          "by": "Codemasters"
+        }
+      ]
+    },
+    {
+      "section": "Nintendo 64",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, April 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "GoldenEye 007",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 2,
+          "title": "Yoshi's Story",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 3,
+          "title": "Diddy Kong Racing",
+          "by": "Rare"
+        },
+        {
+          "pos": 4,
+          "title": "Super Mario 64",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 5,
+          "title": "Lylat Wars",
+          "by": "Nintendo"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (April 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Titanic",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 2,
+          "title": "U.S. Marshals",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 3,
+          "title": "Scream 2",
+          "by": "Buena Vista / Dimension"
+        }
+      ]
+    }
+  ],
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, April 1998",
+  "gaming": {
+    "title": "Unreal",
+    "developer": "Epic MegaGames / Digital Extremes",
+    "publisher": "GT Interactive",
+    "platforms": [
+      "Windows PC"
+    ],
+    "genre": "First-Person Shooter",
+    "director": "Tim Sweeney / Cliff Bleszinski",
+    "reviewScore": "94%",
+    "reviewQuote": "A technical miracle. Walking out of the prison ship into that vast, breathing alien world will leave you speechless.",
+    "reviewSource": "PC Zone (Issue 64)",
+    "headline": "Na Pali Vistas, 3dfx Glories, and the Engine That Built Modern Gaming",
+    "gameplay": "Stepping into the boots of escaped convict Prisoner 849, *Unreal* began inside the groaning wreckage of the crashed prison ship *Vortex Rikers* on the mysterious alien world of **Na Pali**. Engineered by coding savant Tim Sweeney with level design by Cliff Bleszinski, the game delivered jaw-dropping 3D scale: stepping through the ship's emergency hatch revealed expansive open-air valleys, shimmering translucent water surfaces, coloured volumetric lighting, and grazing alien wildlife, all defended by cunning, side-dodging Skaarj predators.",
+    "reception": "Arriving on PCs in April and May 1998, *Unreal* took the gaming world by storm, providing the ultimate benchmark for newly popular **3dfx Voodoo** 3D accelerator cards. *PC Zone* awarded it 94%, declaring that id Software's *Quake II* had just been thoroughly outclassed in sheer visual grandeur, while *PC Gamer* praised its rich, ambient Alexander Brandon tracking soundtrack.",
+    "impact": "Beyond its gripping single-player campaign, *Unreal* unleashed the **Unreal Engine** upon the world. Tim Sweeney's modular, highly licensable software architecture evolved to become the industry's dominant game development engine, powering hundreds of blockbuster games, virtual reality environments, and Hollywood film productions for the next quarter-century.",
+    "wiki": "Unreal (1998 video game)",
+    "youtube": "Unreal 1998 PC intro and gameplay",
+    "source": "https://en.wikipedia.org/wiki/Unreal_(1998_video_game)"
+  }
+}

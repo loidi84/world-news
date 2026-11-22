@@ -1,0 +1,165 @@
+{
+  "month": "1991-04",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1991-04-09-georgia-declares-independence",
+      "date": "1991-04-09",
+      "topic": "politics",
+      "text": "9 April saw the Supreme Council of the Republic of **Georgia** unanimously declare restoration of independence from the Soviet Union, exactly two years after the violent Soviet military crackdown in Tbilisi. Becoming the first non-Baltic republic to break away, the historic declaration led to the landslide presidential election of dissident leader **Zviad Gamsakhurdia** as the **Soviet empire fractured**.",
+      "wiki": "Georgia (country)",
+      "youtube": "Georgia declares independence from USSR April 1991 news",
+      "source": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-04-14-tottenham-arsenal-fa-cup-semi",
+      "date": "1991-04-14",
+      "topic": "sport",
+      "text": "14 April saw Tottenham Hotspur defeat arch-rivals Arsenal 3–1 in the historic first-ever **FA Cup semi-final** staged at Wembley Stadium before 77,963 roaring spectators. The North London derby was immortalised by 23-year-old **Paul Gascoigne**, who unleashed a sensational 35-yard **screaming free-kick** past David Seaman into the top corner in the opening five minutes.",
+      "wiki": "1990–91 FA Cup",
+      "youtube": "Paul Gascoigne free kick Tottenham vs Arsenal FA Cup semi final 1991",
+      "source": "https://en.wikipedia.org/wiki/1990%E2%80%9391_FA_Cup",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1991-04-18-hubble-telescope-first-anniversary",
+      "date": "1991-04-18",
+      "topic": "science",
+      "text": "18 April saw astronomers celebrate the first operational anniversary of the **Hubble Space Telescope** by releasing high-resolution ultraviolet imagery of distant star clusters and quasars. Despite the spherical aberration flaw in its primary mirror discovered in late 1990, sophisticated computer deconvolution techniques allowed researchers to peer deeper into stellar nurseries than any **ground-based telescope** in history.",
+      "wiki": "Hubble Space Telescope",
+      "youtube": "Hubble Space Telescope first images anniversary 1991 report",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1991-04-20-chesney-hawkes-the-one-and-only",
+      "date": "1991-04-20",
+      "topic": "music",
+      "text": "20 April saw 19-year-old English pop singer Chesney Hawkes climb to number one on the UK Singles Chart with ***The One and Only***. Written by Nik Kershaw and featured prominently in the British coming-of-age film *Buddy's Song*, the exuberant synth-pop power anthem dominated the number-one spot for **five consecutive weeks**, standing as one of the definitive **British tracks of 1991**.",
+      "wiki": "The One and Only (Chesney Hawkes song)",
+      "youtube": "Chesney Hawkes The One and Only official music video 1991",
+      "source": "https://en.wikipedia.org/wiki/The_One_and_Only_(Chesney_Hawkes_song)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1991-04-29-bangladesh-cyclone-1991",
+      "date": "1991-04-29",
+      "topic": "science",
+      "text": "29 April saw a devastating category 5 tropical cyclone strike the Chittagong district of southeastern **Bangladesh** with 155 mph sustained winds and a catastrophic 20-foot storm surge. Flooding entire coastal islands and displacing millions, the natural disaster claimed an estimated **138,000 lives**, prompting one of the largest international **humanitarian relief operations** in history.",
+      "wiki": "1991 Bangladesh cyclone",
+      "youtube": "Bangladesh cyclone 1991 BBC news report Chittagong",
+      "source": "https://en.wikipedia.org/wiki/1991_Bangladesh_cyclone",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (27 April 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The One and Only",
+          "by": "Chesney Hawkes"
+        },
+        {
+          "pos": 2,
+          "title": "Sit Down",
+          "by": "James"
+        },
+        {
+          "pos": 3,
+          "title": "The Shoop Shoop Song (It's in His Kiss)",
+          "by": "Cher"
+        },
+        {
+          "pos": 4,
+          "title": "Deep, Deep Trouble",
+          "by": "The Simpsons"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (April 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Lemmings",
+          "by": "Psygnosis"
+        },
+        {
+          "pos": 2,
+          "title": "Turrican II",
+          "by": "Rainbow Arts"
+        },
+        {
+          "pos": 3,
+          "title": "Magic Pockets",
+          "by": "Renegade"
+        },
+        {
+          "pos": 4,
+          "title": "First Samuraï",
+          "by": "Vivid Image"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (April 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Silence of the Lambs",
+          "by": "Rank Film Distributors / Orion"
+        },
+        {
+          "pos": 2,
+          "title": "Sleeping with the Enemy",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 3,
+          "title": "Highlander II: The Quickening",
+          "by": "Entertainment Film Distributors"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Eye of the Beholder",
+    "developer": "Westwood Studios",
+    "publisher": "Strategic Simulations, Inc. (SSI)",
+    "platforms": [
+      "MS-DOS",
+      "Amiga"
+    ],
+    "genre": "First-Person Dungeon Crawler / RPG",
+    "director": "Brett Sperry",
+    "reviewScore": "93%",
+    "reviewQuote": "The greatest Dungeons & Dragons computer game ever made. Atmospheric, gorgeous 256-colour VGA art and deadly real-time combat.",
+    "reviewSource": "Computer Gaming World",
+    "headline": "Waterdeep Sewers, Mind Flayers, and Westwood's AD&D Masterpiece",
+    "gameplay": "Developed by Louis Castle and Brett Sperry's **Westwood Studios**, *Eye of the Beholder* brought the official Advanced Dungeons & Dragons 2nd Edition ruleset into modern first-person real-time 3D exploration. Commissioned by the Lords of Waterdeep to investigate a subterranean evil beneath the city, players created a party of four adventurers and descended through twelve perilous dungeon levels, solving switch puzzles, casting point-and-click magic spells, and battling deadly drow, skeletal warriors, and beholders with **real-time mouse attacks**.",
+    "reception": "Praised upon release as a monumental advancement over older turn-based RPGs, *Eye of the Beholder* stunned critics with its vivid 256-colour VGA artwork, smooth step-based movement, and genuinely terrifying monster encounters. Reviewers celebrated Westwood's seamless interface and rich atmospheric audio.",
+    "impact": "Establishing Westwood Studios as a premier development powerhouse (who soon created *Dune II* and *Command & Conquer*), *Eye of the Beholder* spawned an acclaimed trilogy and defined the golden age of 1990s PC dungeon crawling.",
+    "wiki": "Eye of the Beholder (video game)",
+    "youtube": "Eye of the Beholder PC DOS 1991 intro and gameplay",
+    "source": "https://en.wikipedia.org/wiki/Eye_of_the_Beholder_(video_game)"
+  }
+}

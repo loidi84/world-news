@@ -1,0 +1,219 @@
+{
+  "month": "1998-12",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1998-12-07-crash-bandicoot-3-warped",
+      "date": "1998-12-07",
+      "topic": "games",
+      "text": "7 December saw Naughty Dog and Sony release platforming triumph *Crash Bandicoot: Warped* for the **PlayStation** across Europe, capping a golden Christmas for the 32-bit console. Sending the spinning marsupial hopping through time-bending portals from prehistoric swamps to medieval castles, the sequel added tiger-riding dashes along the Great Wall of China and plane dogfights against biplanes. Tight controls and vibrant cartoon visuals convinced millions of festive shoppers that spinning bandicoots were vastly superior to Italian plumbers.",
+      "wiki": "Crash Bandicoot: Warped",
+      "youtube": "Crash Bandicoot 3 Warped original PS1 commercial 1998",
+      "source": "https://en.wikipedia.org/wiki/Crash_Bandicoot:_Warped",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-12-11-zelda-ocarina-uk-release",
+      "date": "1998-12-11",
+      "topic": "games",
+      "text": "11 December saw Nintendo release *The Legend of Zelda: Ocarina of Time* on the **Nintendo 64** across Europe, triggering retail bedlam on British high streets. Widely hailed by gaming publications as the crowning achievement of the medium, stores exhausted their allocations within hours as frantic parents scrambled for golden cartridges. Lucky children who unwrapped it on Christmas morning promptly disappeared into the Water Temple, their festive holidays consumed by grappling hooks and iron boots.",
+      "wiki": "The Legend of Zelda: Ocarina of Time",
+      "youtube": "Zelda Ocarina of Time European launch 1998 N64",
+      "source": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-12-13-rock-bottom-buried-alive",
+      "date": "1998-12-13",
+      "topic": "wrestling",
+      "text": "13 December saw the WWF visit Vancouver for *Rock Bottom*, headlined by a bone-crunching **Buried Alive** match between \"Stone Cold\" Steve Austin and The Undertaker. Just as the Deadman seemed destined to dump Austin into the grave, Kane erupted from the shadows and used a yellow construction backhoe excavator to pour a massive shovel of earth over The Undertaker, handing Austin the victory and a spot in the 1999 Royal Rumble. Meanwhile, Mankind defeated The Rock with the Mandible Claw, only for corporate boss Vince McMahon to reverse the ruling on an absurd technicality.",
+      "wiki": "Rock Bottom: In Your House",
+      "youtube": "Stone Cold vs Undertaker Buried Alive Rock Bottom 1998",
+      "source": "https://en.wikipedia.org/wiki/Rock_Bottom:_In_Your_House",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-12-16-operation-desert-fox",
+      "date": "1998-12-16",
+      "topic": "politics",
+      "text": "16 December saw American and British air and naval forces commence **Operation Desert Fox**, launching a punishing four-day bombing campaign against military and security infrastructure across Iraq. Triggered by Saddam Hussein's continued expulsion and obstruction of United Nations weapons inspectors (**UNSCOM**), cruise missiles struck command bunkers and alleged chemical research sites. Sceptics in Washington noted that the fireworks conveniently coincided with the opening salvos of President Clinton's congressional impeachment debate, inspiring cynical comparisons to the Hollywood movie *Wag the Dog*.",
+      "wiki": "1998 bombing of Iraq",
+      "youtube": "Operation Desert Fox strikes Iraq December 1998 news report",
+      "source": "https://en.wikipedia.org/wiki/1998_bombing_of_Iraq",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-12-19-clinton-impeachment",
+      "date": "1998-12-19",
+      "topic": "politics",
+      "text": "19 December saw the United States House of Representatives vote to impeach President **Bill Clinton** on charges of perjury and obstruction of justice arising from the Monica Lewinsky scandal. Becoming only the second president in American history to suffer impeachment after Andrew Johnson in 1868, the bitter partisan vote in Washington exposed deep cultural and political fractures across the republic. Clinton remained characteristically unbowed in the Rose Garden, confident that the required two-thirds majority in the upcoming Senate trial would never be mustered.",
+      "wiki": "Impeachment of Bill Clinton",
+      "youtube": "House impeaches President Bill Clinton December 1998",
+      "source": "https://en.wikipedia.org/wiki/Impeachment_of_Bill_Clinton",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-12-25-spice-girls-goodbye-christmas",
+      "date": "1998-12-25",
+      "topic": "music",
+      "text": "25 December saw the **Spice Girls** equal an iconic pop milestone by scoring their third consecutive UK Christmas number one single with the bittersweet farewell ballad *Goodbye*. Matching the record set by **The Beatles** between 1963 and 1965, the single was the group's first release following the shocking departure of Geri Halliwell earlier that summer. Performing as a four-piece, the group proved that their chart momentum remained robust, leaving festive rivals like *Chef's Chocolate Salty Balls* stuck in the runners-up spot.",
+      "wiki": "Goodbye (Spice Girls song)",
+      "youtube": "Spice Girls Goodbye official video 1998 Christmas number 1",
+      "source": "https://www.officialcharts.com/songs/spice-girls-goodbye/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19981220/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Goodbye",
+          "by": "Spice Girls"
+        },
+        {
+          "pos": 2,
+          "title": "Heartbeat / Tragedy",
+          "by": "Steps"
+        },
+        {
+          "pos": 3,
+          "title": "Chocolate Salty Balls (P.S. I Love You)",
+          "by": "Chef"
+        },
+        {
+          "pos": 4,
+          "title": "Believe",
+          "by": "Cher"
+        },
+        {
+          "pos": 5,
+          "title": "When You're Gone",
+          "by": "Bryan Adams featuring Melanie C"
+        }
+      ]
+    },
+    {
+      "section": "PlayStation",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, December 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Crash Bandicoot: Warped",
+          "by": "Sony"
+        },
+        {
+          "pos": 2,
+          "title": "Tomb Raider III: Adventures of Lara Croft",
+          "by": "Eidos"
+        },
+        {
+          "pos": 3,
+          "title": "FIFA 99",
+          "by": "EA Sports"
+        },
+        {
+          "pos": 4,
+          "title": "Gran Turismo",
+          "by": "Sony"
+        },
+        {
+          "pos": 5,
+          "title": "Tekken 3",
+          "by": "Namco"
+        }
+      ]
+    },
+    {
+      "section": "Nintendo 64",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, December 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Legend of Zelda: Ocarina of Time",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 2,
+          "title": "Banjo-Kazooie",
+          "by": "Rare / Nintendo"
+        },
+        {
+          "pos": 3,
+          "title": "GoldenEye 007",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 4,
+          "title": "F-Zero X",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 5,
+          "title": "Super Mario 64",
+          "by": "Nintendo"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (December 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Rugrats Movie",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Enemy of the State",
+          "by": "Buena Vista"
+        },
+        {
+          "pos": 3,
+          "title": "The Truman Show",
+          "by": "UIP / Paramount"
+        }
+      ]
+    }
+  ],
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, December 1998",
+  "gaming": {
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Nintendo 64"
+    ],
+    "genre": "Action-Adventure",
+    "director": "Toru Osawa / Shigeru Miyamoto",
+    "reviewScore": "10/10 (Highest in History)",
+    "reviewQuote": "The greatest video game ever created by human hands. Flawless, magical, and utterly timeless.",
+    "reviewSource": "Edge (Issue 66)",
+    "headline": "Hyrule Field, Z-Targeting, and the Crown Jewel of Gaming",
+    "gameplay": "Supervised by Shigeru Miyamoto, *The Legend of Zelda: Ocarina of Time* translated the open wilderness of Hyrule into full three-dimensional space with unprecedented grace. Following young Link's quest across time—pulling the Master Sword from the Temple of Time to awaken seven years later as an adult—the game solved 3D spatial combat forever by inventing **Z-targeting** (locking onto enemies with circling camera focus). Players galloped across the rolling hills of Hyrule Field on horseback aboard Epona, solved diabolical water level puzzles in the infamous Water Temple, and played melodies on a virtual musical instrument to alter day, night, and weather.",
+    "reception": "Releasing worldwide in late November and December 1998, *Ocarina of Time* received the most ecstatic, reverent reviews in video game history. Renowned UK publication *Edge* awarded it only the second perfect 10/10 in its history, while *Famitsu* bestowed its first-ever 40/40 score. It sold 2.5 million copies in its first 39 days alone, sparking retail shortages that left parents scrambling across the Christmas shopping season.",
+    "impact": "*Ocarina of Time* holds the Guinness World Record as the highest-reviewed video game of all time on Metacritic (99/100). Its groundbreaking innovations—context-sensitive action buttons, lock-on targeting, dynamic horse riding, and sweeping day/night 3D world architecture—became the universal grammar for all modern 3D action-adventure games.",
+    "wiki": "The Legend of Zelda: Ocarina of Time",
+    "youtube": "The Legend of Zelda Ocarina of Time N64 trailer 1998",
+    "source": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "month": "1991-05",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1991-05-15-edith-cresson-french-pm",
+      "date": "1991-05-15",
+      "topic": "politics",
+      "text": "15 May saw French President François Mitterrand appoint **Édith Cresson** as Prime Minister of France, making her the first woman to hold the prestigious office in the history of the **Fifth Republic**. Succeeding Michel Rocard, the outspoken Socialist politician vowed to revitalize French industrial competitiveness in the emerging **European single market**.",
+      "wiki": "Édith Cresson",
+      "youtube": "Edith Cresson appointed French Prime Minister May 1991 news",
+      "source": "https://en.wikipedia.org/wiki/%C3%89dith_Cresson",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1991-05-18-tottenham-win-1991-fa-cup",
+      "date": "1991-05-18",
+      "topic": "sport",
+      "text": "18 May saw Tottenham Hotspur lift the **FA Cup** for a record eighth time after overcoming Nottingham Forest 2–1 in extra time at Wembley Stadium. The dramatic final was marked by Paul Gascoigne suffering a torn cruciate ligament in an early reckless tackle, before an own goal by Forest defender Des Walker sealed a thrilling comeback for **manager Terry Venables**.",
+      "wiki": "1991 FA Cup Final",
+      "youtube": "Tottenham vs Nottingham Forest 1991 FA Cup Final highlights",
+      "source": "https://en.wikipedia.org/wiki/1991_FA_Cup_Final",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1991-05-19-wcw-superbrawl-flair-fujinami",
+      "date": "1991-05-19",
+      "topic": "wrestling",
+      "text": "19 May saw World Championship Wrestling inaugurate ***SuperBrawl*** before 6,000 fans at the Bayfront Center in St. Petersburg, Florida. In a fiercely disputed cross-promotional showdown, **Ric Flair** pinned New Japan Pro-Wrestling legend **Tatsumi Fujinami** with an inside cradle to retain the **WCW World Heavyweight Championship**.",
+      "wiki": "SuperBrawl I",
+      "youtube": "Ric Flair vs Tatsumi Fujinami SuperBrawl 1991 match",
+      "source": "https://en.wikipedia.org/wiki/SuperBrawl_I",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1991-05-21-rajiv-gandhi-assassinated",
+      "date": "1991-05-21",
+      "topic": "politics",
+      "text": "21 May saw former Prime Minister of India **Rajiv Gandhi** assassinated by a female suicide bomber belonging to the Liberation Tigers of Tamil Eelam (LTTE) during an election campaign rally in Sriperumbudur, Tamil Nadu. The explosion killed Gandhi and **14 bystanders**, sending shockwaves across the globe and altering the geopolitical landscape of **South Asia**.",
+      "wiki": "Assassination of Rajiv Gandhi",
+      "youtube": "Rajiv Gandhi assassinated May 1991 BBC news report",
+      "source": "https://en.wikipedia.org/wiki/Assassination_of_Rajiv_Gandhi",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-05-29-red-star-belgrade-european-cup",
+      "date": "1991-05-29",
+      "topic": "sport",
+      "text": "29 May saw Yugoslavian champions **Red Star Belgrade** win the **European Cup** for the first time in their history, defeating Marseille 5–3 on penalties following a tense 0–0 draw in Bari, Italy. Led by Robert Prosinečki and Darko Pančev, Red Star became only the second Eastern European club ever to be crowned champions of Europe on the eve of the **Yugoslav Wars**.",
+      "wiki": "1991 European Cup Final",
+      "youtube": "Red Star Belgrade vs Marseille 1991 European Cup Final penalty shootout",
+      "source": "https://en.wikipedia.org/wiki/1991_European_Cup_Final",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (25 May 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Shoop Shoop Song (It's in His Kiss)",
+          "by": "Cher"
+        },
+        {
+          "pos": 2,
+          "title": "I Wanna Sex You Up",
+          "by": "Color Me Badd"
+        },
+        {
+          "pos": 3,
+          "title": "Gypsy Woman (She's Homeless)",
+          "by": "Crystal Waters"
+        },
+        {
+          "pos": 4,
+          "title": "The Whole of the Moon",
+          "by": "The Waterboys"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (May 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Lemmings",
+          "by": "Psygnosis"
+        },
+        {
+          "pos": 2,
+          "title": "Speedball 2",
+          "by": "Image Works"
+        },
+        {
+          "pos": 3,
+          "title": "WWF WrestleMania",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "Pang",
+          "by": "Ocean Software"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (May 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Silence of the Lambs",
+          "by": "Rank Film Distributors / Orion"
+        },
+        {
+          "pos": 2,
+          "title": "Predator 2",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 3,
+          "title": "Edward Scissorhands",
+          "by": "20th Century Fox"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Turrican II: The Final Fight",
+    "developer": "Rainbow Arts / Factor 5",
+    "publisher": "Rainbow Arts",
+    "platforms": [
+      "Commodore Amiga",
+      "Commodore 64",
+      "Atari ST"
+    ],
+    "genre": "Run and Gun / Action-Platformer",
+    "director": "Manfred Trenz",
+    "reviewScore": "96%",
+    "reviewQuote": "An undisputed action masterpiece. Immense sprawling levels, jaw-dropping multi-directional scrolling, and the finest soundtrack the Amiga has ever produced.",
+    "reviewSource": "The One (Issue 31)",
+    "headline": "Super-Weapons, Gyro-Wheel Mayhem, and Chris Huelsbeck's Audio Odyssey",
+    "gameplay": "Created by German coding genius **Manfred Trenz** alongside Julian Eggebrecht's Factor 5 team, *Turrican II: The Final Fight* pushed the Commodore Amiga to its technical zenith. Battling the cybernetic warlord The Machine across five vast planetary worlds, players piloted Bren McGuire's heavily armored combat suit, unleashing spread lasers, bouncing plasma bullets, lightning beam whips, and turning into an invincible rolling **Gyroscope Wheel** to lay minefields.",
+    "reception": "Reviewers showered *Turrican II* with rave reviews across Europe. Critics marveled at the silky-smooth 50Hz full-screen parallax scrolling and massive screen-filling robotic bosses. Special reverence was reserved for composer **Chris Huelsbeck**, whose 25-minute orchestral chiptune soundtrack utilized custom audio compression routines that became a legendary milestone in video game music history.",
+    "impact": "Universally acclaimed as the definitive pinnacle of European 16-bit action gaming, *Turrican II* set an enduring standard for non-linear exploration platformers and cemented Factor 5's reputation as master console engineers.",
+    "wiki": "Turrican II: The Final Fight",
+    "youtube": "Turrican II Amiga 1991 intro and gameplay",
+    "source": "https://en.wikipedia.org/wiki/Turrican_II:_The_Final_Fight"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "month": "1990-03",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-03-31-poll-tax-riot-london",
+      "date": "1990-03-31",
+      "topic": "politics",
+      "text": "31 March saw central London plunge into chaotic civil unrest during the **Trafalgar Square Poll Tax riot**. Over 200,000 demonstrators gathered in the capital to protest Margaret Thatcher's deeply unpopular Community Charge. When police blocked the entrance to Whitehall, violent street battles erupted throughout Trafalgar Square and the West End, leaving buildings looted, cars set ablaze, 541 police officers and civilians injured, and 339 arrested, fatally mortally wounding Thatcher's premiership.",
+      "wiki": "Poll tax riots",
+      "youtube": "Poll Tax riot Trafalgar Square 31 March 1990 ITN news",
+      "source": "https://en.wikipedia.org/wiki/Poll_tax_riots",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-03-11-lithuania-declares-independence",
+      "date": "1990-03-11",
+      "topic": "politics",
+      "text": "11 March saw the Supreme Council of Lithuania vote overwhelmingly (124–0) to approve the **Act of the Re-Establishment of the State of Lithuania**, declaring the nation free and independent from the Soviet Union. As the very first Soviet republic to unilaterally break away from Moscow, Lithuania triggered an immediate economic embargo and military standoff with Mikhail Gorbachev's government, accelerating the unravelling of the Soviet empire.",
+      "wiki": "Act of the Re-Establishment of the State of Lithuania",
+      "youtube": "Lithuania declares independence March 1990 news",
+      "source": "https://en.wikipedia.org/wiki/Act_of_the_Re-Establishment_of_the_State_of_Lithuania",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-03-21-namibia-independence",
+      "date": "1990-03-21",
+      "topic": "politics",
+      "text": "21 March saw **Namibia** celebrate official national independence at midnight in Windhoek, ending 75 years of South African occupation and apartheid administration. In an emotional stadium ceremony attended by UN Secretary-General Javier Pérez de Cuéllar and Nelson Mandela, the South African flag was lowered and SWAPO leader **Sam Nujoma** was sworn in as the fledgling republic's first democratic President.",
+      "wiki": "Namibia",
+      "youtube": "Namibia independence celebration March 1990 news",
+      "source": "https://en.wikipedia.org/wiki/Namibia",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-03-23-pretty-woman-premiere",
+      "date": "1990-03-23",
+      "topic": "film",
+      "text": "23 March saw Garry Marshall release the romantic comedy ***Pretty Woman*** in cinemas, starring Richard Gere as ruthless corporate raider Edward Lewis and **Julia Roberts** in an electrifying, star-making turn as Hollywood Boulevard escort Vivian Ward. Filled with iconic Rodeo Drive shopping montages and Roy Orbison songs, the Cinderella-inspired romance grossed over $463 million, making Roberts the undisputed box-office queen of the 1990s.",
+      "wiki": "Pretty Woman",
+      "youtube": "Pretty Woman original theatrical trailer 1990",
+      "source": "https://en.wikipedia.org/wiki/Pretty_Woman",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-03-31-snap-the-power-number-one",
+      "date": "1990-03-31",
+      "topic": "music",
+      "text": "31 March saw Frankfurt dance project **Snap!** blast to number one on the UK Singles Chart with their explosive Eurodance anthem ***The Power***. Driven by rapper Turbo B's booming intro (**\"I've got the power!\"**) and Penny Ford's soaring vocal hooks over a thunderous hip-hop breakbeat, the track spent two weeks at the summit, inaugurating the dominant Eurodance sound of the early 1990s.",
+      "wiki": "The Power (Snap! song)",
+      "youtube": "Snap The Power Top of the Pops 1990",
+      "source": "https://www.officialcharts.com/songs/snap-the-power/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (31 March 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Power",
+          "by": "Snap!"
+        },
+        {
+          "pos": 2,
+          "title": "Love Shack",
+          "by": "The B-52's"
+        },
+        {
+          "pos": 3,
+          "title": "Dub Be Good to Me",
+          "by": "Beats International"
+        },
+        {
+          "pos": 4,
+          "title": "Blue Savannah",
+          "by": "Erasure"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (March 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Chase H.Q.",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Batman: The Movie",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Rainbow Islands",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "Puzznic",
+          "by": "Ocean Software"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (March 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Born on the Fourth of July",
+          "by": "UIP / Universal"
+        },
+        {
+          "pos": 2,
+          "title": "The War of the Roses",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 3,
+          "title": "Honey, I Shrunk the Kids",
+          "by": "Walt Disney"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Turrican",
+    "developer": "Rainbow Arts",
+    "publisher": "Rainbow Arts",
+    "platforms": [
+      "Commodore 64",
+      "Amiga",
+      "Atari ST"
+    ],
+    "genre": "Run and Gun / Action Platformer",
+    "director": "Manfred Trenz",
+    "reviewScore": "96% Gold Medal",
+    "reviewQuote": "A technical triumph of astonishing magnitude. Huge sprawling levels, devastating weapons, and Chris Hülsbeck's god-tier soundtrack.",
+    "reviewSource": "Zzap!64 (Issue 62)",
+    "headline": "Sprawling Alien Mazes and Hülsbeck's Chiptune Symphony",
+    "gameplay": "Created by solo German programming genius Manfred Trenz on the Commodore 64, *Turrican* took the multi-directional action shooting of *Metroid* and married it with the blisteringly fast run-and-gun combat of *Contra*. Donning a bio-mechanical combat suit on the lost colony of Alterra, players navigated five massive, non-linear multi-screen worlds packed with secret alcoves, wielding multi-directional laser beams, bouncing smart mines, and morphing into an invulnerable **buzzsaw gyroscope wheel** to lay down carpet bombs.",
+    "reception": "Releasing in March 1990, *Turrican* blew European home computer gamers away. *Zzap!64* awarded it an astonishing 96% \"Gold Medal\", *The Games Machine* gave it 93%, and *Amiga Power* later named its 16-bit conversion one of the greatest shooters in history. Particular reverence was directed at composer **Chris Hülsbeck**, whose epic, prog-rock synth soundtrack pushed the C64 SID chip and Amiga Paula sound chip to their absolute outer limits.",
+    "impact": "*Turrican* established European home computer developers as masters of sprawling, exploratory action shooters. It launched a revered franchise across 16-bit systems, proving that Western microcomputer games could match and even exceed Japanese arcade titles in scale and mechanical depth.",
+    "wiki": "Turrican",
+    "youtube": "Turrican C64 1990 original gameplay Chris Hulsbeck",
+    "source": "https://en.wikipedia.org/wiki/Turrican"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "month": "1991-09",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1991-09-06-baltic-states-independence-saint-petersburg",
+      "date": "1991-09-06",
+      "topic": "politics",
+      "text": "6 September saw the State Council of the Soviet Union formally recognize the complete national independence of Estonia, Latvia, and Lithuania, marking the Baltic nations' permanent exit from the USSR. On the same day, Russian citizens voted in a historic referendum to restore the imperial name **Saint Petersburg** to the second-largest Russian city, officially abandoning **Leningrad** after **67 years**.",
+      "wiki": "Saint Petersburg",
+      "youtube": "Leningrad renamed Saint Petersburg September 1991 news",
+      "source": "https://en.wikipedia.org/wiki/Saint_Petersburg",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-09-09-ric-flair-wwf-debut",
+      "date": "1991-09-09",
+      "topic": "wrestling",
+      "text": "9 September saw former NWA/WCW World Heavyweight Champion **Ric Flair** make his shocking televised debut in the World Wrestling Federation on *Prime Time Wrestling*. Introduced by Bobby \"The Brain\" Heenan, the \"Nature Boy\" strutted onto WWF programming brandishing the actual **Big Gold Belt**, boldly proclaiming himself the **\"Real World's Heavyweight Champion\"** and challenging Hulk Hogan.",
+      "wiki": "Ric Flair",
+      "youtube": "Ric Flair WWF debut with Big Gold Belt Prime Time Wrestling 1991",
+      "source": "https://en.wikipedia.org/wiki/Ric_Flair",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1991-09-19-otzi-iceman-discovered",
+      "date": "1991-09-19",
+      "topic": "science",
+      "text": "19 September saw German hikers Helmut and Erika Simon discover the remarkably preserved natural mummy of a prehistoric man jutting from the Schnalstal glacier in the Ötztal Alps near the Italian-Austrian border. Nicknamed **Ötzi the Iceman**, forensic radiocarbon analysis revealed he had lived around **3300 BC**, carrying a copper axe, arrows, and woven grass clothing that transformed European **Copper Age archaeology**.",
+      "wiki": "Ötzi",
+      "youtube": "Otzi the Iceman discovery September 1991 archival documentary",
+      "source": "https://en.wikipedia.org/wiki/%C3%96tzi",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-09-24-nirvana-nevermind-released",
+      "date": "1991-09-24",
+      "topic": "music",
+      "text": "24 September saw Seattle grunge trio Nirvana release their monumental second studio album ***Nevermind*** on DGC Records. Produced by Butch Vig and preceded by the blistering single ***Smells Like Teen Spirit***, the album's raw punk-rock dynamism and Kurt Cobain's angst-ridden melodies tore through the pop mainstream, overthrowing hair metal and igniting the global **alternative rock revolution**.",
+      "wiki": "Nevermind",
+      "youtube": "Nirvana Smells Like Teen Spirit official music video 1991",
+      "source": "https://en.wikipedia.org/wiki/Nevermind",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-09-29-haitian-coup-aristide",
+      "date": "1991-09-29",
+      "topic": "politics",
+      "text": "29 September saw the Armed Forces of Haiti, led by General Raoul Cédras, overthrow democratically elected President **Jean-Bertrand Aristide** in a bloody military coup. Aristide, who had taken office just eight months prior following Haiti's first free democratic elections, fled into exile in Venezuela as international bodies slapped trade embargoes on the **military junta**.",
+      "wiki": "1991 Haitian coup d'état",
+      "youtube": "Haiti coup Jean-Bertrand Aristide ousted September 1991 news",
+      "source": "https://en.wikipedia.org/wiki/1991_Haitian_coup_d%27%C3%A9tat",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (21 September 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "(Everything I Do) I Do It for You",
+          "by": "Bryan Adams"
+        },
+        {
+          "pos": 2,
+          "title": "I'm Too Sexy",
+          "by": "Right Said Fred"
+        },
+        {
+          "pos": 3,
+          "title": "Love... Thy Will Be Done",
+          "by": "Martika"
+        },
+        {
+          "pos": 4,
+          "title": "Insanity",
+          "by": "Oceanic"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (September 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Terminator 2: Judgment Day",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Sonic the Hedgehog",
+          "by": "Sega"
+        },
+        {
+          "pos": 3,
+          "title": "Jimmy White's 'Whirlwind' Snooker",
+          "by": "Virgin Games"
+        },
+        {
+          "pos": 4,
+          "title": "Lemmings",
+          "by": "Psygnosis"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (September 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Terminator 2: Judgment Day",
+          "by": "Guild Film Distribution"
+        },
+        {
+          "pos": 2,
+          "title": "Robin Hood: Prince of Thieves",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 3,
+          "title": "City Slickers",
+          "by": "Columbia Pictures"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Another World",
+    "developer": "Delphine Software",
+    "publisher": "Delphine Software",
+    "platforms": [
+      "Commodore Amiga",
+      "Atari ST",
+      "PC DOS"
+    ],
+    "genre": "Cinematic Platformer / Action-Adventure",
+    "director": "Éric Chahi",
+    "reviewScore": "95%",
+    "reviewQuote": "A breathtaking cinematic masterpiece. Éric Chahi has single-handedly pushed computer entertainment into the realms of pure cinematic art.",
+    "reviewSource": "Amiga Action",
+    "headline": "Vector Polygons, Alien Desolation, and Éric Chahi's Cinematic Breakthrough",
+    "gameplay": "Crafted entirely by French solo visionary **Éric Chahi** over two obsessive years of programming and rotoscoping, *Another World* debuted on the Amiga in September 1991. Casting players as young physicist Lester Knight Chaykin—teleported to a barren alien world after a particle accelerator experiment is struck by lightning—the game dispensed with all traditional HUDs, score counters, and dialogue, telling its gripping story entirely through **real-time vector polygon animation** and mime.",
+    "reception": "Contemporary critics were stunned by the game's uncompromising cinematic flair. The opening intro cinematic, the iconic black beast pursuit, and the desperate laser shootouts using plasma energy shields and super-blasts earned universal acclaim. Publications praised its seamless pacing and emotional bond formed between Lester and his alien prison companion 'Buddy'.",
+    "impact": "Directly inspiring legendary game designers including Fumito Ueda (*Ico*, *Shadow of the Colossus*) and Hideo Kojima, *Another World* demonstrated that video games could rival feature films in atmosphere, mood, and dramatic direction.",
+    "wiki": "Another World (video game)",
+    "youtube": "Another World Amiga 1991 intro and gameplay",
+    "source": "https://en.wikipedia.org/wiki/Another_World_(video_game)"
+  }
+}

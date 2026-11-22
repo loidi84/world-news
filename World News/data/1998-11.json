@@ -1,0 +1,207 @@
+{
+  "month": "1998-11",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1998-11-15-survivor-series-deadly-game",
+      "date": "1998-11-15",
+      "topic": "wrestling",
+      "text": "15 November saw the WWF stage the 14-man \"Deadly Game\" tournament at *Survivor Series* in St. Louis, culminating in one of the most calculated double-crosses in wrestling history. In the championship final, **The Rock** locked fan-favourite Mankind in the Sharpshooter, prompting company boss **Vince McMahon** to demand the bell be rung despite Mankind never submitting, precisely mirroring the 1997 Montreal Screwjob. The Rock embraced McMahon and was anointed the villainous \"Corporate Champion\", cementing his ascent to the absolute summit of sports entertainment.",
+      "wiki": "Survivor Series (1998)",
+      "youtube": "Survivor Series 1998 The Rock turns corporate Deadly Game",
+      "source": "https://en.wikipedia.org/wiki/Survivor_Series_(1998)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-11-19-half-life-launch",
+      "date": "1998-11-19",
+      "topic": "games",
+      "text": "19 November saw debut studio Valve and publisher Sierra release first-person shooter masterpiece *Half-Life* for the PC, shattering existing conventions of action game design. Placing gamers into the hazardous-environment suit of crowbar-wielding physicist **Gordon Freeman** after a catastrophic resonance cascade at the subterranean **Black Mesa** facility, the game dispensed with traditional pre-rendered cutscenes in favor of real-time scripted narrative. Critics hailed its clever alien artificial intelligence and immersive pacing as nothing short of an artistic revolution.",
+      "wiki": "Half-Life (video game)",
+      "youtube": "Half-Life 1 original PC release trailer 1998 Valve",
+      "source": "https://en.wikipedia.org/wiki/Half-Life_(video_game)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-11-20-iss-zarya-launch",
+      "date": "1998-11-20",
+      "topic": "science",
+      "text": "20 November saw a Russian Proton-K rocket thunder into orbit from the Baikonur Cosmodrome carrying **Zarya**, the foundational 20-ton cargo module of the **International Space Station**. Orbiting 250 miles above Earth, the solar-powered cylindrical craft provided critical electrical power and propulsion for the fledgling orbital complex until American modules could join it. The launch inaugurated an unprecedented era of post-Cold War space cooperation, with Russian and American aerospace engineers peacefully collaborating on humanity's grandest orbital outpost.",
+      "wiki": "Zarya",
+      "youtube": "ISS Zarya launch Baikonur 1998 NASA Roscosmos",
+      "source": "https://en.wikipedia.org/wiki/Zarya",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-11-21-zelda-ocarina-of-time",
+      "date": "1998-11-21",
+      "topic": "games",
+      "text": "21 November saw Nintendo unleash *The Legend of Zelda: Ocarina of Time* for the **Nintendo 64** in Japan, creating an instant interactive masterpiece that set the gold standard for three-dimensional adventure games. Introducing the ingenious lock-on \"Z-targeting\" mechanic and an enchanting musical ocarina that manipulated time and weather across the realm of **Hyrule**, Shigeru Miyamoto's epic drew ecstatic reviews from gaming critics worldwide. Scores of reviewers abandoned their usual critical composure, unreservedly proclaiming it the finest video game ever crafted.",
+      "wiki": "The Legend of Zelda: Ocarina of Time",
+      "youtube": "Zelda Ocarina of Time original N64 launch commercial 1998",
+      "source": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-11-27-sega-dreamcast-japan",
+      "date": "1998-11-27",
+      "topic": "tech",
+      "text": "27 November saw Sega launch the **Dreamcast** home console in Japan, fired up by high hopes of reclaiming supremacy from Sony. Armed with a blazing 128-bit processor, a built-in 56k dial-up modem for online gaming, and unusual memory cards featuring mini LCD screens, the compact white box prompted massive overnight queues in Tokyo's Akihabara electronics district. However, acute manufacturing shortages of its PowerVR graphics chips throttled launch supplies, blunting Sega's crucial head-start before the PlayStation 2 was even unveiled.",
+      "wiki": "Dreamcast",
+      "youtube": "Sega Dreamcast Japanese launch day 1998 Akihabara",
+      "source": "https://en.wikipedia.org/wiki/Dreamcast",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19981115/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Believe",
+          "by": "Cher"
+        },
+        {
+          "pos": 2,
+          "title": "Heartbeat / Tragedy",
+          "by": "Steps"
+        },
+        {
+          "pos": 3,
+          "title": "Until the Time Is Through",
+          "by": "Five"
+        },
+        {
+          "pos": 4,
+          "title": "War of Nerves",
+          "by": "All Saints"
+        },
+        {
+          "pos": 5,
+          "title": "Irreplaceable",
+          "by": "Kerri-Ann"
+        }
+      ]
+    },
+    {
+      "section": "PlayStation",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, November 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Tomb Raider III: Adventures of Lara Croft",
+          "by": "Eidos"
+        },
+        {
+          "pos": 2,
+          "title": "FIFA 99",
+          "by": "EA Sports"
+        },
+        {
+          "pos": 3,
+          "title": "Colin McRae Rally",
+          "by": "Codemasters"
+        },
+        {
+          "pos": 4,
+          "title": "Crash Bandicoot 2: Cortex Strikes Back",
+          "by": "Sony"
+        },
+        {
+          "pos": 5,
+          "title": "Gran Turismo",
+          "by": "Sony"
+        }
+      ]
+    },
+    {
+      "section": "PC",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, November 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Half-Life",
+          "by": "Sierra / Valve"
+        },
+        {
+          "pos": 2,
+          "title": "FIFA 99",
+          "by": "Electronic Arts"
+        },
+        {
+          "pos": 3,
+          "title": "Tomb Raider III",
+          "by": "Eidos"
+        },
+        {
+          "pos": 4,
+          "title": "Championship Manager 97/98",
+          "by": "Eidos"
+        },
+        {
+          "pos": 5,
+          "title": "StarCraft",
+          "by": "Blizzard"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (November 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Antz",
+          "by": "UIP / DreamWorks"
+        },
+        {
+          "pos": 2,
+          "title": "The Truman Show",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Mulan",
+          "by": "Walt Disney"
+        }
+      ]
+    }
+  ],
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, November 1998",
+  "gaming": {
+    "title": "Half-Life",
+    "developer": "Valve",
+    "publisher": "Sierra Studios",
+    "platforms": [
+      "Windows PC"
+    ],
+    "genre": "First-Person Shooter",
+    "director": "Gabe Newell / Marc Laidlaw",
+    "reviewScore": "96%",
+    "reviewQuote": "A revolutionary triumph of immersive storytelling. The tram ride into Black Mesa changes everything.",
+    "reviewSource": "PC Zone (Issue 71)",
+    "headline": "The Resonance Cascade, Crowbars, and the FPS Revolution",
+    "gameplay": "The debut title from Gabe Newell's fledgling studio Valve, *Half-Life* placed players inside the hazard suit of silent theoretical physicist **Gordon Freeman** at the secretive Black Mesa Research Facility in New Mexico. When a routine anti-mass spectrometer experiment triggered a catastrophic \"Resonance Cascade\", dimensional rifts tore open, flooding the complex with hostile alien Xen creatures and ruthless government cleanup commandos. Revolutionizing the genre, the game completely abolished pre-rendered cutscenes: the entire narrative unfolded seamlessly through Freeman's eyes in real-time, uninterrupted by loading pauses or level-clearing score screens.",
+    "reception": "Launching on 19 November 1998, *Half-Life* was showered with over 50 \"Game of the Year\" awards from publications across the planet. *PC Zone* awarded it a staggering 96%, while *PC Gamer* called it the finest shooter ever made. Critics were mesmerized by the cunning artificial intelligence of the Hazardous Environment Combat Unit (HECU) marines, who flanked, flushed Freeman out with grenades, and communicated tactically in real-time.",
+    "impact": "*Half-Life* fundamentally rewritten the grammar of narrative first-person shooters, inspiring every story-driven game that followed from *BioShock* to *Call of Duty*. Furthermore, its flexible engine birthed a golden age of community modding, spawning cultural juggernauts including *Counter-Strike* and *Team Fortress*, and propelled Valve to become the dominant titan of PC gaming.",
+    "wiki": "Half-Life (video game)",
+    "youtube": "Half-Life 1 original 1998 trailer",
+    "source": "https://en.wikipedia.org/wiki/Half-Life_(video_game)"
+  }
+}

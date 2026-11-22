@@ -1,0 +1,166 @@
+{
+  "month": "1989-12",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-12-25-romanian-revolution-execution-ceausescu",
+      "date": "1989-12-25",
+      "topic": "politics",
+      "text": "25 December saw the bloody climax of the **Romanian Revolution** as long-ruling dictator **Nicolae Ceaușescu** and his wife Elena were convicted of genocide and corruption by a secret military tribunal and immediately executed by a firing squad in Târgoviște. Days earlier, a hostile crowd had booed Ceaușescu during a televised speech in Bucharest, triggering mass street fighting that killed over 1,000 citizens, bringing a violent end to 42 years of communist rule in Romania.",
+      "wiki": "Romanian Revolution",
+      "youtube": "Romanian Revolution Nicolae Ceausescu execution news 1989",
+      "source": "https://en.wikipedia.org/wiki/Romanian_Revolution",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-12-20-operation-just-cause-panama",
+      "date": "1989-12-20",
+      "topic": "politics",
+      "text": "20 December saw the United States launch **Operation Just Cause**, deploying over 27,000 troops into Panama to overthrow de facto military dictator **Manuel Noriega**, who had been indicted on federal drug trafficking charges. Noriega sought asylum in the Vatican diplomatic mission in Panama City, where US military forces psychological warfare units blasted non-stop, blaring rock music—including The Clash and Guns N' Roses—until he surrendered on 3 January 1990.",
+      "wiki": "United States invasion of Panama",
+      "youtube": "US invasion of Panama Operation Just Cause December 1989",
+      "source": "https://en.wikipedia.org/wiki/United_States_invasion_of_Panama",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-12-17-the-simpsons-premiere",
+      "date": "1989-12-17",
+      "topic": "film",
+      "text": "17 December saw the very first full-length episode of Matt Groening's animated sitcom ***The Simpsons*** (\"Simpsons Roasting on an Open Fire\") broadcast on the Fox network in the United States. Following Homer Simpson's desperate quest to earn Christmas money as a department store Santa Claus, the episode ended with the family adopting abandoned greyhound **Santa's Little Helper**, launching the longest-running scripted primetime series in television history.",
+      "wiki": "Simpsons Roasting on an Open Fire",
+      "youtube": "The Simpsons first episode Christmas special 1989",
+      "source": "https://en.wikipedia.org/wiki/Simpsons_Roasting_on_an_Open_Fire",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-12-23-band-aid-ii-christmas-number-one",
+      "date": "1989-12-23",
+      "topic": "music",
+      "text": "23 December saw supergroup charity ensemble **Band Aid II** capture the prestigious UK Christmas number-one spot with a new version of ***Do They Know It's Christmas?***. Re-recorded at PWL studios by Stock Aitken Waterman at the behest of Bob Geldof, the remake featured pop heavyweights including Kylie Minogue, Jason Donovan, Bros, Bananarama, and Chris Rea, selling over half a million copies to aid ongoing famine relief in Ethiopia.",
+      "wiki": "Do They Know It's Christmas%3F#Band_Aid_II",
+      "youtube": "Band Aid II Do They Know Its Christmas Top of the Pops 1989",
+      "source": "https://www.officialcharts.com/songs/band-aid-ii-do-they-know-its-christmas/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-12-13-starrcade-1989-future-shock",
+      "date": "1989-12-13",
+      "topic": "wrestling",
+      "text": "13 December saw the NWA present **Starrcade 1989: Future Shock** at The Omni in Atlanta, Georgia, utilizing an innovative round-robin tournament structure across a single evening. **Sting** emerged triumphant in the Iron Man singles tournament, defeating Ric Flair in the final match with a small package pin, while The Steiner Brothers captured the Iron Team tournament, establishing Sting as the NWA's premiere rising star heading into the 1990s.",
+      "wiki": "Starrcade (1989)",
+      "youtube": "Sting vs Ric Flair Starrcade 1989 Iron Man tournament",
+      "source": "https://en.wikipedia.org/wiki/Starrcade_(1989)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (23 December 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Do They Know It's Christmas?",
+          "by": "Band Aid II"
+        },
+        {
+          "pos": 2,
+          "title": "Let's Party",
+          "by": "Jive Bunny and the Mastermixers"
+        },
+        {
+          "pos": 3,
+          "title": "When You Come Back to Me",
+          "by": "Jason Donovan"
+        },
+        {
+          "pos": 4,
+          "title": "Dear Jessie",
+          "by": "Madonna"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (December 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Batman: The Movie",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Chase H.Q.",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Ghouls 'n Ghosts",
+          "by": "US Gold"
+        },
+        {
+          "pos": 4,
+          "title": "The Untouchables",
+          "by": "Ocean Software"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (December 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Back to the Future Part II",
+          "by": "UIP / Universal"
+        },
+        {
+          "pos": 2,
+          "title": "Ghostbusters II",
+          "by": "Columbia Pictures"
+        },
+        {
+          "pos": 3,
+          "title": "When Harry Met Sally...",
+          "by": "Palace Pictures"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Shadow of the Beast",
+    "developer": "Reflections Interactive",
+    "publisher": "Psygnosis",
+    "platforms": [
+      "Commodore Amiga",
+      "Atari ST",
+      "Sega Mega Drive"
+    ],
+    "genre": "Side-Scrolling Action Platformer",
+    "director": "Martin Edmondson / Paul Howarth",
+    "reviewScore": "90%",
+    "reviewQuote": "An unbelievable technical tour de force. Thirteen layers of parallax scrolling and Roger Dean artwork turn the Amiga into a 16-bit dream machine.",
+    "reviewSource": "The Games Machine (Issue 21)",
+    "headline": "Thirteen Layers of Parallax and 16-Bit Graphical Stunner",
+    "gameplay": "Developed by Newcastle-based Reflections Interactive (led by Martin Edmondson and Paul Howarth) and published by Liverpool's Psygnosis in their signature Roger Dean-illustrated packaging, *Shadow of the Beast* followed Aarbron, a human kidnapped as a child and mutated into a monstrous warrior-servant by the Beast Lord Maletoth. Escaping through eerie alien wastelands, underground caves, and mechanical castles, Aarbron fought to regain his humanity with brutal punches and ducking sweeps.",
+    "reception": "Releasing for the Commodore Amiga in late 1989, *Shadow of the Beast* blew the 16-bit gaming world away. The game utilized custom copper coprocessor coding to display up to **13 layers of multi-directional parallax scrolling** and 128 colours on screen simultaneously at a locked 50 frames per second, complemented by David Whittaker's haunting, pan-flute synthesized soundtrack.",
+    "impact": "*Shadow of the Beast* became the definitive graphical benchmark and system-seller for the Commodore Amiga across Europe, proving that 16-bit home computers could vastly surpass contemporary home consoles in sheer visual opulence. Reflections Interactive used their technical prowess to eventually create the multi-million-selling *Driver* franchise.",
+    "wiki": "Shadow of the Beast (1989 video game)",
+    "youtube": "Shadow of the Beast Amiga 1989 original gameplay",
+    "source": "https://en.wikipedia.org/wiki/Shadow_of_the_Beast_(1989_video_game)"
+  }
+}

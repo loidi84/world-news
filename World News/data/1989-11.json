@@ -1,0 +1,168 @@
+{
+  "month": "1989-11",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-11-09-fall-of-the-berlin-wall",
+      "date": "1989-11-09",
+      "topic": "politics",
+      "text": "9 November saw the **Fall of the Berlin Wall**, ending 28 years of Cold War division. During a confused live television press conference, East German politburo spokesman **Günter Schabowski** mistakenly announced that private border crossings would take effect \"immediately, without delay\". Thousands of ecstatic East Berliners rushed to the Bornholmer Straße checkpoint; overwhelmed border guards stood down and opened the gates, sparking joyous street parties as citizens began demolishing the concrete barrier with sledgehammers.",
+      "wiki": "Fall of the Berlin Wall",
+      "youtube": "Fall of the Berlin Wall BBC news 9 November 1989",
+      "source": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-11-17-velvet-revolution-prague",
+      "date": "1989-11-17",
+      "topic": "politics",
+      "text": "17 November saw riot police violently attack a peaceful student demonstration in Prague, sparking the **Velvet Revolution** in Czechoslovakia. In response to police brutality, hundreds of thousands of citizens led by dissident playwright **Václav Havel** and the Civic Forum took to Wenceslas Square for ten days of non-violent protests, jingling household keys to symbolize the unlocking of doors, forcing the entire Communist Party leadership to resign and bringing 41 years of authoritarian rule to a peaceful end.",
+      "wiki": "Velvet Revolution",
+      "youtube": "Velvet Revolution Prague November 1989 news",
+      "source": "https://en.wikipedia.org/wiki/Velvet_Revolution",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-11-23-survivor-series-1989",
+      "date": "1989-11-23",
+      "topic": "wrestling",
+      "text": "23 November saw the WWF stage its third annual **Survivor Series** at the Rosemont Horizon in Rosemont, Illinois, marking the first time all elimination teams adopted official team monikers. In the main event, **The Hulkamaniacs** (Hulk Hogan, Jake \"The Snake\" Roberts, and Demolition) defeated The Million Dollar Team, with Hogan surviving as sole victor, while The Ultimate Warriors swept The Heenan Family to set the stage for Warrior's historic title clash with Hogan.",
+      "wiki": "Survivor Series (1989)",
+      "youtube": "Survivor Series 1989 Hulkamaniacs vs Million Dollar Team",
+      "source": "https://en.wikipedia.org/wiki/Survivor_Series_(1989)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-11-25-new-kids-on-the-block-you-got-it",
+      "date": "1989-11-25",
+      "topic": "music",
+      "text": "25 November saw American boyband phenomenon **New Kids on the Block** capture the UK number one spot with their breakthrough pop single ***You Got It (The Right Stuff)***. Created by mastermind producer Maurice Starr, the Boston quintet sparked absolute hysteria among British teenage fans, filling tabloid front pages and kicking off a dominant era of choreographed boyband mania that swept across the 1990s.",
+      "wiki": "You Got It (The Right Stuff)",
+      "youtube": "New Kids on the Block You Got It The Right Stuff Top of the Pops 1989",
+      "source": "https://www.officialcharts.com/songs/new-kids-on-the-block-you-got-it-the-right-stuff/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    },
+    {
+      "id": "1989-11-18-cobe-satellite-launched",
+      "date": "1989-11-18",
+      "topic": "science",
+      "text": "18 November saw NASA launch the **Cosmic Background Explorer (COBE)** satellite into orbit aboard a Delta rocket from Vandenberg Air Force Base in California. Designed to measure the cosmic microwave background radiation left over from the Big Bang, COBE's subsequent discoveries provided definitive, Nobel Prize-winning observational proof for the origin and structure of the universe.",
+      "wiki": "Cosmic Background Explorer",
+      "youtube": "NASA COBE satellite launch November 1989",
+      "source": "https://en.wikipedia.org/wiki/Cosmic_Background_Explorer",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (25 November 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "You Got It (The Right Stuff)",
+          "by": "New Kids on the Block"
+        },
+        {
+          "pos": 2,
+          "title": "All Around the World",
+          "by": "Lisa Stansfield"
+        },
+        {
+          "pos": 3,
+          "title": "Girl I'm Gonna Miss You",
+          "by": "Milli Vanilli"
+        },
+        {
+          "pos": 4,
+          "title": "Homely Girl",
+          "by": "UB40"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (November 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Batman: The Movie",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "The Untouchables",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "Operation Wolf",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "Ghostbusters II",
+          "by": "Activision"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (November 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Back to the Future Part II",
+          "by": "UIP / Universal"
+        },
+        {
+          "pos": 2,
+          "title": "Shirley Valentine",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Wilt",
+          "by": "Rank Film Distributors"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Chase H.Q.",
+    "developer": "Taito",
+    "publisher": "Ocean Software / Taito",
+    "platforms": [
+      "Arcade",
+      "ZX Spectrum",
+      "Commodore 64",
+      "Amstrad CPC",
+      "Amiga"
+    ],
+    "genre": "Vehicular Combat / Racing",
+    "director": "Hiroyuki Sakamoto",
+    "reviewScore": "95% Crash Smash",
+    "reviewQuote": "This is Nancy at Chase HQ! Fast, furious, and utterly exhilarating. Ocean's greatest conversion of the year.",
+    "reviewSource": "Crash (Issue 71)",
+    "headline": "Nancy at Chase H.Q., Turbo Boosters, and High-Speed Ramming",
+    "gameplay": "Adapted from Taito's coin-op arcade sensation by Ocean Software's star programmer John O'Brien, *Chase H.Q.* cast players as undercover detectives Tony Gibson and Raymond Broady of the Special Investigation Department. Behind the wheel of a black **Porsche 928**, players sped down congested highways, listening for dispatcher Nancy's radio broadcasts: **\"This is Nancy at Chase H.Q. We've got an emergency here!\"** After catching the fleeing criminal's car before the timer expired, players fired emergency nitro boosters to physically ram the suspect's vehicle into a flaming wreck to make the arrest.",
+    "reception": "Hitting home computers in November 1989, *Chase H.Q.* was greeted with universal critical acclaim. *Crash* awarded the ZX Spectrum version an astonishing 95% \"Crash Smash\", hailing its blistering frame rate, textured roadside scenery, and digitized speech shouts as technical witchcraft on 8-bit hardware. *Zzap!64* awarded it 92%, calling it the most exciting driving game on home computers.",
+    "impact": "*Chase H.Q.* became a gigantic commercial triumph across Europe throughout late 1989, holding top spots on software charts for months. Its signature concept of using the player's vehicle as a physical weapon directly laid the design foundation for arcade racing franchises like *Burnout* and *Need for Speed: Hot Pursuit*.",
+    "wiki": "Chase H.Q.",
+    "youtube": "Chase HQ Spectrum 1989 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Chase_H.Q."
+  }
+}

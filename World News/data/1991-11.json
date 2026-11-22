@@ -1,0 +1,164 @@
+{
+  "month": "1991-11",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1991-11-05-robert-maxwell-dies-at-sea",
+      "date": "1991-11-05",
+      "topic": "business",
+      "text": "5 November saw 68-year-old British media mogul and former Labour MP **Robert Maxwell** disappear under mysterious circumstances from his luxury yacht, the *Lady Ghislaine*, off the Canary Islands. Following the recovery of his body from the Atlantic Ocean, investigations uncovered massive corporate debts and the shocking revelation that Maxwell had secretly plundered over **£400 million** from his employees' **Mirror Group pension funds**.",
+      "wiki": "Robert Maxwell",
+      "youtube": "Robert Maxwell death yacht Canary Islands November 1991 news",
+      "source": "https://en.wikipedia.org/wiki/Robert_Maxwell",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-11-09-vic-reeves-wonder-stuff-dizzy",
+      "date": "1991-11-09",
+      "topic": "music",
+      "text": "9 November saw British comedian Vic Reeves team up with alternative rock group The Wonder Stuff to reach number one on the UK Singles Chart with their raucous cover of Tommy Roe's ***Dizzy***. Capturing the absurd comedic spirit of BBC television's *Vic Reeves Big Night Out*, the energetic track stayed at the summit for two weeks, accompanied by an iconic washboard and **frying pan music video**.",
+      "wiki": "Dizzy (Tommy Roe song)",
+      "youtube": "Vic Reeves and The Wonder Stuff Dizzy official music video 1991",
+      "source": "https://en.wikipedia.org/wiki/Dizzy_(Tommy_Roe_song)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1991-11-21-zelda-link-to-the-past-launch",
+      "date": "1991-11-21",
+      "topic": "games",
+      "text": "21 November saw Nintendo release ***The Legend of Zelda: A Link to the Past*** for the Super Famicom in Japan. Directed by Takashi Tezuka and produced by **Shigeru Miyamoto**, the 16-bit action-adventure masterpiece introduced the parallel **Light World and Dark World** dynamic, the Master Sword resting in the Lost Woods, and an intricate dungeon design that set an enduring gold standard for the **adventure genre**.",
+      "wiki": "The Legend of Zelda: A Link to the Past",
+      "youtube": "The Legend of Zelda A Link to the Past Super Famicom 1991 commercial",
+      "source": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-11-24-freddie-mercury-passes-away",
+      "date": "1991-11-24",
+      "topic": "deaths",
+      "text": "24 November saw iconic Queen frontman **Freddie Mercury** tragically pass away at his home in Kensington, London, aged 45, from bronchial pneumonia resulting from AIDS. Passing mere hours after releasing a brave public statement confirming his illness, the legendary vocalist and performer was mourned by millions of devastated fans worldwide, prompting global fundraising and **AIDS awareness campaigns**.",
+      "wiki": "Freddie Mercury",
+      "youtube": "Freddie Mercury death announced November 24 1991 BBC news",
+      "source": "https://en.wikipedia.org/wiki/Freddie_Mercury",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-11-27-survivor-series-1991-undertaker-title",
+      "date": "1991-11-27",
+      "topic": "wrestling",
+      "text": "27 November saw the WWF present ***Survivor Series 1991*** before 17,500 fans at the Joe Louis Arena in Detroit, Michigan. In the heavily promoted \"Gravest Challenge\" main event, 26-year-old phenom **The Undertaker** pinned Hulk Hogan to capture his first **WWF World Heavyweight Championship** after Ric Flair slid a steel chair into the ring for a devastating tombstone piledriver.",
+      "wiki": "Survivor Series (1991)",
+      "youtube": "Hulk Hogan vs Undertaker Survivor Series 1991 full match",
+      "source": "https://en.wikipedia.org/wiki/Survivor_Series_(1991)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (23 November 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Black or White",
+          "by": "Michael Jackson"
+        },
+        {
+          "pos": 2,
+          "title": "Dizzy",
+          "by": "Vic Reeves & The Wonder Stuff"
+        },
+        {
+          "pos": 3,
+          "title": "Get Ready for This",
+          "by": "2 Unlimited"
+        },
+        {
+          "pos": 4,
+          "title": "When a Man Loves a Woman",
+          "by": "Michael Bolton"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (November 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Terminator 2: Judgment Day",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Sonic the Hedgehog",
+          "by": "Sega"
+        },
+        {
+          "pos": 3,
+          "title": "Jimmy White's 'Whirlwind' Snooker",
+          "by": "Virgin Games"
+        },
+        {
+          "pos": 4,
+          "title": "RoboCop 3",
+          "by": "Ocean Software"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (November 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Terminator 2: Judgment Day",
+          "by": "Guild Film Distribution"
+        },
+        {
+          "pos": 2,
+          "title": "Dead Again",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Doc Hollywood",
+          "by": "Warner Bros."
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "The Legend of Zelda: A Link to the Past",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Super Famicom / SNES"
+    ],
+    "genre": "Action-Adventure",
+    "director": "Takashi Tezuka",
+    "reviewScore": "39/40 (98%)",
+    "reviewQuote": "A tour de force of interactive fantasy. The parallel world structure, exquisite puzzle design, and peerless music make this the definitive action-adventure game.",
+    "reviewSource": "Famitsu (Issue 154)",
+    "headline": "The Master Sword, Parallel Realities, and Miyamoto's Golden Masterpiece",
+    "gameplay": "Released on 21 November 1991 for the Super Famicom in Japan, *The Legend of Zelda: A Link to the Past* returned the franchise to its classic top-down perspective whilst leveraging 16-bit hardware to create an expansive, living world. Directed by **Takashi Tezuka** and produced by Shigeru Miyamoto, players guided young hero Link to claim the legendary **Master Sword** from the sacred Lost Woods, using the Magic Mirror to warp seamlessly between the vibrant Light World of Hyrule and the corrupted, shadow-drenched **Dark World** across twelve labyrinthine dungeons.",
+    "reception": "Reviewers greeted the title with ecstatic praise. Japan's *Famitsu* awarded it an extraordinary 39/40 (one of the highest scores in the magazine's history). Critics lauded Koji Kondo's sweeping orchestral chiptune soundtrack, the intuitive multi-tiered puzzle logic using the Hookshot and Pegasus Boots, and the atmospheric weather effects like the memorable thunderstorm opening rescue of Princess Zelda.",
+    "impact": "Widely regarded as one of the greatest video games ever made, *A Link to the Past* defined the structural vocabulary for the action-adventure genre and remains the high-water mark for 2D game design.",
+    "wiki": "The Legend of Zelda: A Link to the Past",
+    "youtube": "Zelda A Link to the Past Super Famicom 1991 gameplay",
+    "source": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past"
+  }
+}

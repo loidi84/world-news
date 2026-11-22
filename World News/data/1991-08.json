@@ -1,0 +1,164 @@
+{
+  "month": "1991-08",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1991-08-06-world-wide-web-public",
+      "date": "1991-08-06",
+      "topic": "tech",
+      "text": "6 August saw British computer scientist **Tim Berners-Lee** post a public summary of the **World Wide Web** project on the Usenet newsgroup `alt.hypertext`. Explaining the concepts of hypertext markup, hyperlinks, and web servers, Berners-Lee invited international programmers to download CERN's free line-mode browser, marking the **public birth of the global internet**.",
+      "wiki": "World Wide Web",
+      "youtube": "Tim Berners Lee World Wide Web public announcement August 1991 CERN",
+      "source": "https://en.wikipedia.org/wiki/World_Wide_Web",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-08-19-soviet-coup-attempt-august",
+      "date": "1991-08-19",
+      "topic": "politics",
+      "text": "19 August saw hardline Soviet Communist Party, military, and KGB officials stage a dramatic coup d'état in Moscow, detaining President Mikhail Gorbachev at his Crimean dacha. Announcing a state of emergency under the State Emergency Committee, tanks rolled into Red Square, only to be met by thousands of defiant citizens rallying around Russian President **Boris Yeltsin** atop a tank outside the **Russian White House**.",
+      "wiki": "1991 Soviet coup d'état attempt",
+      "youtube": "Soviet coup attempt Boris Yeltsin tank speech Moscow August 19 1991",
+      "source": "https://en.wikipedia.org/wiki/1991_Soviet_coup_d%27%C3%A9tat_attempt",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-08-21-collapse-of-august-coup",
+      "date": "1991-08-21",
+      "topic": "politics",
+      "text": "21 August saw the hardline Soviet coup collapse in humiliation after military commanders refused orders to assault the Russian parliament building. As coup leaders fled or faced arrest, Mikhail Gorbachev was flown back to Moscow, but the political balance of power had decisively shifted to **Boris Yeltsin**, who promptly banned the **Communist Party of the Soviet Union**.",
+      "wiki": "1991 Soviet coup d'état attempt",
+      "youtube": "August coup collapses Gorbachev returns Moscow August 1991 news",
+      "source": "https://en.wikipedia.org/wiki/1991_Soviet_coup_d%27%C3%A9tat_attempt",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-08-24-ukraine-declares-independence",
+      "date": "1991-08-24",
+      "topic": "politics",
+      "text": "24 August saw the Verkhovna Rada (parliament) of **Ukraine** overwhelmingly adopt the **Act of Declaration of Independence of Ukraine** from the crumbling Soviet Union. The historic resolution declared that only the Ukrainian constitution and laws were valid on its territory, marking the decisive geopolitical blow that made the collapse of the **USSR inevitable**.",
+      "wiki": "Declaration of Independence of Ukraine",
+      "youtube": "Ukraine parliament declares independence August 24 1991 historic footage",
+      "source": "https://en.wikipedia.org/wiki/Declaration_of_Independence_of_Ukraine",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-08-26-summerslam-1991-match-in-heaven",
+      "date": "1991-08-26",
+      "topic": "wrestling",
+      "text": "26 August saw the World Wrestling Federation pack 20,108 roaring fans into Madison Square Garden for ***SummerSlam 1991***. Promoted with the double-main event \"A Match Made in Heaven and A Match Made in Hell\", the show featured the emotional on-screen wedding of **\"Macho Man\" Randy Savage** and **Miss Elizabeth**, alongside Hulk Hogan and The Ultimate Warrior defeating Sgt. Slaughter, Col. Mustafa, and **Gen. Adnan**.",
+      "wiki": "SummerSlam (1991)",
+      "youtube": "Randy Savage Miss Elizabeth wedding SummerSlam 1991 full ceremony",
+      "source": "https://en.wikipedia.org/wiki/SummerSlam_(1991)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (24 August 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "(Everything I Do) I Do It for You",
+          "by": "Bryan Adams"
+        },
+        {
+          "pos": 2,
+          "title": "I'm Too Sexy",
+          "by": "Right Said Fred"
+        },
+        {
+          "pos": 3,
+          "title": "Set Adrift on Memory Bliss",
+          "by": "P.M. Dawn"
+        },
+        {
+          "pos": 4,
+          "title": "More Than Words",
+          "by": "Extreme"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (August 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Sonic the Hedgehog",
+          "by": "Sega"
+        },
+        {
+          "pos": 2,
+          "title": "Lemmings",
+          "by": "Psygnosis"
+        },
+        {
+          "pos": 3,
+          "title": "Jimmy White's 'Whirlwind' Snooker",
+          "by": "Virgin Games"
+        },
+        {
+          "pos": 4,
+          "title": "Micro Machines",
+          "by": "Codemasters"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (August 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Robin Hood: Prince of Thieves",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "Terminator 2: Judgment Day",
+          "by": "Guild Film Distribution"
+        },
+        {
+          "pos": 3,
+          "title": "The Naked Gun 2½: The Smell of Fear",
+          "by": "UIP / Paramount"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Road Rash",
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts",
+    "platforms": [
+      "Sega Mega Drive / Genesis"
+    ],
+    "genre": "Motorcycle Racing / Combat",
+    "director": "Randy Breen",
+    "reviewScore": "91%",
+    "reviewQuote": "Insanely fast, hilariously violent, and dangerously addictive. Kicking rival bikers into oncoming traffic is the most fun you can have on a Mega Drive.",
+    "reviewSource": "MegaTech (Issue 1)",
+    "headline": "Chain Whips, High-Speed Crashes, and Outrunning Officer O'Leary",
+    "gameplay": "Conceived at Electronic Arts by producer Randy Breen and programmer Dan Geisler, *Road Rash* debuted on the Sega Genesis / Mega Drive in August 1991. Competing in illegal cross-country motorcycle street races across California—from the Pacific Coast to the Sierra Nevada—players navigated undulating hills, dodged oncoming civilian traffic, and engaged in brutal hand-to-hand combat, using clubs, chains, and well-timed **kicks to dismount rival racers** whilst evading police motorcycle cop Officer O'Leary.",
+    "reception": "Reviewers lauded *Road Rash* as a masterclass in aggressive arcade thrills. Critics praised Geisler's innovative pseudo-3D road-scaling engine that simulated authentic vehicular weight and stomach-churning hill crests, as well as the hilarious physics when riders were launched headfirst over their handlebars into roadside telephone poles.",
+    "impact": "Spawning an acclaimed multi-platform franchise and helping establish EA's dominant console sports division, *Road Rash* proved that the 16-bit Genesis was the premier destination for edgy, rebellious gaming attitude.",
+    "wiki": "Road Rash (video game)",
+    "youtube": "Road Rash Sega Genesis 1991 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Road_Rash_(video_game)"
+  }
+}

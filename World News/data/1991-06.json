@@ -1,0 +1,164 @@
+{
+  "month": "1991-06",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1991-06-12-boris-yeltsin-elected-president",
+      "date": "1991-06-12",
+      "topic": "politics",
+      "text": "12 June saw **Boris Yeltsin** win a decisive democratic victory in the first direct presidential election of the Russian Soviet Federative Socialist Republic, securing 58% of the popular vote. Campaigning as an outspoken democratic reformer against Communist Party candidates, Yeltsin established a powerful sovereign mandate that positioned him to rival Soviet leader **Mikhail Gorbachev**.",
+      "wiki": "1991 Russian presidential election",
+      "youtube": "Boris Yeltsin elected Russian president June 1991 news",
+      "source": "https://en.wikipedia.org/wiki/1991_Russian_presidential_election",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-06-15-mount-pinatubo-eruption",
+      "date": "1991-06-15",
+      "topic": "science",
+      "text": "15 June saw **Mount Pinatubo** in the Philippines erupt in the second-largest volcanic explosion of the 20th century. Ejecting over five cubic kilometres of volcanic material and sending an ash plume 22 miles into the stratosphere, the eruption coincided with Typhoon Yunya, triggering deadly lahars and injecting millions of tons of **sulfur dioxide aerosol** that cooled **global temperatures**.",
+      "wiki": "1991 eruption of Mount Pinatubo",
+      "youtube": "Mount Pinatubo eruption June 15 1991 archival footage",
+      "source": "https://en.wikipedia.org/wiki/1991_eruption_of_Mount_Pinatubo",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-06-17-south-africa-repeals-population-act",
+      "date": "1991-06-17",
+      "topic": "politics",
+      "text": "17 June saw the South African Parliament formally vote to repeal the **Population Registration Act of 1950**, the fundamental cornerstone of racial classification under **apartheid**. The landmark legislative vote by President F.W. de Klerk's government dismantled the legal basis of racial segregation, paving the way for multi-racial democratic negotiations with **Nelson Mandela's ANC**.",
+      "wiki": "Population Registration Act, 1950",
+      "youtube": "South Africa repeals Population Registration Act June 1991 news",
+      "source": "https://en.wikipedia.org/wiki/Population_Registration_Act,_1950",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-06-23-sonic-the-hedgehog-released",
+      "date": "1991-06-23",
+      "topic": "games",
+      "text": "23 June saw Sega release ***Sonic the Hedgehog*** for the Genesis / Mega Drive in North America and Europe, instantly igniting the fierce 16-bit console wars. Created by programmer **Yuji Naka** and designer Naoto Ohshima, the blue hedgehog's blistering loop-de-loop momentum and vibrant Green Hill Zone presentation established Sega as a formidable commercial rival to **Nintendo**.",
+      "wiki": "Sonic the Hedgehog (1991 video game)",
+      "youtube": "Sonic the Hedgehog Sega Genesis 1991 original commercial and gameplay",
+      "source": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-06-25-slovenia-croatia-independence",
+      "date": "1991-06-25",
+      "topic": "politics",
+      "text": "25 June saw the parliaments of both **Slovenia** and **Croatia** formally declare national independence from the Socialist Federal Republic of Yugoslavia. The historic unilateral declarations triggered immediate military intervention by the Yugoslav People's Army, marking the tragic outbreak of the **Ten-Day War** and the devastating decade of **Yugoslav conflicts**.",
+      "wiki": "Breakup of Yugoslavia",
+      "youtube": "Slovenia and Croatia declare independence June 1991 BBC news",
+      "source": "https://en.wikipedia.org/wiki/Breakup_of_Yugoslavia",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (22 June 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Any Dream Will Do",
+          "by": "Jason Donovan"
+        },
+        {
+          "pos": 2,
+          "title": "I Wanna Sex You Up",
+          "by": "Color Me Badd"
+        },
+        {
+          "pos": 3,
+          "title": "Gypsy Woman (She's Homeless)",
+          "by": "Crystal Waters"
+        },
+        {
+          "pos": 4,
+          "title": "Thinking About Your Love",
+          "by": "Kenny Thomas"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (June 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Sonic the Hedgehog",
+          "by": "Sega"
+        },
+        {
+          "pos": 2,
+          "title": "Lemmings",
+          "by": "Psygnosis"
+        },
+        {
+          "pos": 3,
+          "title": "WWF WrestleMania",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "Jimmy White's 'Whirlwind' Snooker",
+          "by": "Virgin Games"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (June 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Silence of the Lambs",
+          "by": "Rank Film Distributors / Orion"
+        },
+        {
+          "pos": 2,
+          "title": "The Naked Gun 2½: The Smell of Fear",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Robin Hood: Prince of Thieves",
+          "by": "Warner Bros."
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Sonic the Hedgehog",
+    "developer": "Sonic Team",
+    "publisher": "Sega",
+    "platforms": [
+      "Sega Mega Drive / Genesis"
+    ],
+    "genre": "Platformer",
+    "director": "Hirokazu Yasuhara",
+    "reviewScore": "94%",
+    "reviewQuote": "The fastest, slickest, most exhilarating platform game ever made. Sonic turns Mario green with envy and proves the Mega Drive has arrived.",
+    "reviewSource": "Mean Machines (Issue 10)",
+    "headline": "Blast Processing, Loop-de-Loops, and the Blue Blur's Revolution",
+    "gameplay": "Conceived by Sega to deliver a mascot that could challenge Mario's supremacy, *Sonic the Hedgehog* launched on the Mega Drive in June 1991. Directed by **Hirokazu Yasuhara**, programmed by engine virtuoso **Yuji Naka**, and designed by Naoto Ohshima, players sprinted through Green Hill Zone and Marble Zone, curling into a deadly high-speed spinning ball, bouncing off springs, gathering golden rings, and smashing Dr. Robotnik's badniks to free trapped woodland animals.",
+    "reception": "The game was hailed as a revolutionary triumph upon arrival. Critics marveled at Naka's groundbreaking physics engine which allowed smooth curved terrain and 360-degree vertical loop-de-loops at blistering frame rates. Masato Nakamura's dynamic pop chiptune score and the game's bold, cool attitude won near-perfect review scores worldwide, including 94% in *Mean Machines*.",
+    "impact": "Selling over 15 million copies on the console alone, *Sonic the Hedgehog* transformed Sega from an arcade underdog into a market leader in North America and the UK, sparking the legendary 16-bit console wars of the 1990s.",
+    "wiki": "Sonic the Hedgehog (1991 video game)",
+    "youtube": "Sonic the Hedgehog Sega Genesis 1991 original commercial and gameplay",
+    "source": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game)"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "month": "1990-08",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-08-02-iraqi-invasion-of-kuwait",
+      "date": "1990-08-02",
+      "topic": "politics",
+      "text": "2 August saw over **100,000 Iraqi troops** and 700 tanks ordered by Saddam Hussein invade and annex neighbouring **Kuwait** in a swift dawn assault. The Kuwaiti royal family fled to Saudi Arabia as Iraqi forces seized oil refineries and government buildings, prompting immediate worldwide outrage, United Nations condemnation, and an emergency freeze on **Iraqi foreign assets**.",
+      "wiki": "Invasion of Kuwait",
+      "youtube": "Iraq invades Kuwait August 1990 BBC news report",
+      "source": "https://en.wikipedia.org/wiki/Invasion_of_Kuwait",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-08-06-un-resolution-661-sanctions",
+      "date": "1990-08-06",
+      "topic": "politics",
+      "text": "6 August saw the United Nations Security Council pass **Resolution 661**, imposing comprehensive worldwide economic, financial, and military sanctions against **Iraq**. Voting 13–0 with Cuba and Yemen abstaining, the Council ordered an international embargo on all trade and oil imports from Iraqi-occupied Kuwait, severing Saddam Hussein's regime from the **global economy**.",
+      "wiki": "United Nations Security Council Resolution 661",
+      "youtube": "UN Security Council vote sanctions on Iraq August 1990 news",
+      "source": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_661",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-08-08-operation-desert-shield-begins",
+      "date": "1990-08-08",
+      "topic": "politics",
+      "text": "8 August saw US President George H.W. Bush announce the deployment of American ground, naval, and air forces to Saudi Arabia under **Operation Desert Shield**. Following urgent consultations with British Prime Minister Margaret Thatcher and King Fahd of Saudi Arabia, thousands of allied troops and combat aircraft deployed to the Persian Gulf to protect vital **Saudi oilfields** and deter further **Iraqi aggression**.",
+      "wiki": "Gulf War",
+      "youtube": "George Bush announces Operation Desert Shield August 8 1990",
+      "source": "https://en.wikipedia.org/wiki/Gulf_War",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-08-11-turtle-power-number-one",
+      "date": "1990-08-11",
+      "topic": "music",
+      "text": "11 August saw hip-hop duo Partners in Kryme conquer the top of the UK Singles Chart with ***Turtle Power!***, the infectious soundtrack theme from the smash-hit live-action film ***Teenage Mutant Ninja Turtles***. Despite famously misidentifying Raphael as the team's leader in its lyrics, the fast-paced rap track captivated British youth and held the **number-one spot** for four consecutive weeks.",
+      "wiki": "Turtle Power!",
+      "youtube": "Partners in Kryme Turtle Power official music video 1990",
+      "source": "https://en.wikipedia.org/wiki/Turtle_Power!",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-08-23-armenia-declares-independence",
+      "date": "1990-08-23",
+      "topic": "politics",
+      "text": "23 August saw the Supreme Council of Armenia formally adopt the **Declaration of Independence of Armenia** from the Soviet Union. The historic resolution officially changed the republic's name from the Armenian SSR to the Republic of Armenia, created sovereign armed forces, and initiated the process of national secession as the **Soviet federation** continued to fracture.",
+      "wiki": "Declaration of Independence of Armenia",
+      "youtube": "Armenia declaration of independence August 1990 news",
+      "source": "https://en.wikipedia.org/wiki/Declaration_of_Independence_of_Armenia",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-08-27-summerslam-1990-steel-cage",
+      "date": "1990-08-27",
+      "topic": "wrestling",
+      "text": "27 August saw the World Wrestling Federation stage ***SummerSlam 1990*** before 19,304 spectators at the Spectrum in Philadelphia. WWF Champion **The Ultimate Warrior** retained his title against **\"Ravishing\" Rick Rude** in a brutal blue steel cage match by escaping over the top, while \"The Texas Tornado\" Kerry Von Erich dramatically pinned Mr. Perfect to capture the **Intercontinental Championship**.",
+      "wiki": "SummerSlam (1990)",
+      "youtube": "Ultimate Warrior vs Rick Rude SummerSlam 1990 steel cage match",
+      "source": "https://en.wikipedia.org/wiki/SummerSlam_(1990)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (18 August 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Turtle Power",
+          "by": "Partners in Kryme"
+        },
+        {
+          "pos": 2,
+          "title": "Tom's Diner",
+          "by": "DNA feat. Suzanne Vega"
+        },
+        {
+          "pos": 3,
+          "title": "Tonight",
+          "by": "New Kids on the Block"
+        },
+        {
+          "pos": 4,
+          "title": "Itsy Bitsy Teeny Weeny Yellow Polka Dot Bikini",
+          "by": "Bombalurina"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (August 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Italy 1990",
+          "by": "US Gold"
+        },
+        {
+          "pos": 2,
+          "title": "Kick Off 2",
+          "by": "Anco Software"
+        },
+        {
+          "pos": 3,
+          "title": "Turrican",
+          "by": "Rainbow Arts"
+        },
+        {
+          "pos": 4,
+          "title": "Golden Axe",
+          "by": "Virgin Mastertronic"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (August 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Die Hard 2",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 2,
+          "title": "Gremlins 2: The New Batch",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 3,
+          "title": "Total Recall",
+          "by": "Guild Film Distribution"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Dr. Mario",
+    "developer": "Nintendo R&D1",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Nintendo Entertainment System",
+      "Game Boy"
+    ],
+    "genre": "Action / Puzzle",
+    "director": "Takahiro Harada",
+    "reviewScore": "89%",
+    "reviewQuote": "A fiendishly addictive puzzle game that combines Tetris-style urgency with virus-busting strategy. Once you start matching capsules, you simply cannot put it down.",
+    "reviewSource": "Mean Machines",
+    "headline": "Vitamin Pills, Dancing Germs, and Miyamoto-Free Puzzling Perfection",
+    "gameplay": "Produced by legendary Game Boy creator **Gunpei Yokoi** and directed by Takahiro Harada, *Dr. Mario* debuted on Famicom and Game Boy in late summer 1990. Players helped Mario toss two-coloured medical vitamin capsules into a medicine bottle to destroy red, yellow, and blue viruses. Aligning four or more matching colour segments horizontally or vertically eliminated the viruses, whilst cascading multi-clears delivered crushing junk pieces to opponents in the blisteringly competitive **two-player versus mode**.",
+    "reception": "Reviewers lauded *Dr. Mario* as Nintendo's most polished original puzzle title since *Tetris*. Critics singled out the timeless infectious soundtrack composed by Hirokazu Tanaka—specifically the selectable chiptune tracks 'Fever' and 'Chill'—which became instantly recognisable worldwide gaming anthems.",
+    "impact": "Selling over 10 million copies across its NES and Game Boy incarnations, *Dr. Mario* spawned a multi-decade franchise, appeared across virtually every subsequent Nintendo system, and established Mario's medical persona as an enduring pop-culture staple.",
+    "wiki": "Dr. Mario",
+    "youtube": "Dr Mario NES 1990 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Dr._Mario"
+  }
+}

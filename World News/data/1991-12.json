@@ -1,0 +1,165 @@
+{
+  "month": "1991-12",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1991-12-08-belovezha-accords-signed",
+      "date": "1991-12-08",
+      "topic": "politics",
+      "text": "8 December saw the leaders of Russia (Boris Yeltsin), Ukraine (Leonid Kravchuk), and Belarus (Stanislav Shushkevich) meet secretly at a hunting lodge in the Belovezhskaya Pushcha forest to sign the historic **Belovezha Accords**. Declaring that the Soviet Union as a subject of international law had 'ceased to exist', the three founding republics formed the **Commonwealth of Independent States (CIS)**, delivering the formal death blow to the **USSR**.",
+      "wiki": "Belovezha Accords",
+      "youtube": "Belovezha Accords signing December 1991 USSR dissolution",
+      "source": "https://en.wikipedia.org/wiki/Belovezha_Accords",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-12-09-maastricht-treaty-agreed",
+      "date": "1991-12-09",
+      "topic": "politics",
+      "text": "9 December saw leaders of the twelve European Community member states convene in the Netherlands to finalize negotiations on the historic **Maastricht Treaty**. Establishing the modern **European Union**, the landmark accord introduced the roadmap toward a single European currency (the euro), common foreign and security policies, and official European citizenship under a **three-pillar institutional structure**.",
+      "wiki": "Maastricht Treaty",
+      "youtube": "Maastricht Treaty summit negotiations December 1991 news",
+      "source": "https://en.wikipedia.org/wiki/Maastricht_Treaty",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-12-15-bohemian-rhapsody-returns-number-one",
+      "date": "1991-12-15",
+      "topic": "music",
+      "text": "15 December saw Queen's operatic masterpiece ***Bohemian Rhapsody*** re-enter the UK Singles Chart at number one following the tragic death of frontman Freddie Mercury. Released as a double A-side with *These Are the Days of Our Lives* to raise funds for the Terrence Higgins Trust AIDS charity, the classic single spent five weeks at the summit, becoming the first song ever to top the **UK Christmas charts** in **two separate decades**.",
+      "wiki": "Bohemian Rhapsody",
+      "youtube": "Queen Bohemian Rhapsody official video",
+      "source": "https://en.wikipedia.org/wiki/Bohemian_Rhapsody",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-12-25-gorbachev-resigns-ussr-dissolution",
+      "date": "1991-12-25",
+      "topic": "politics",
+      "text": "25 December saw Soviet President **Mikhail Gorbachev** deliver a televised address resigning from office and declaring the formal dissolution of the **Union of Soviet Socialist Republics**. At 7:32 pm Moscow time, the iconic red Soviet hammer-and-sickle flag was lowered over the Kremlin for the final time, replaced by the white, blue, and red tricolour of the Russian Federation, formally ending the **Cold War**.",
+      "wiki": "Dissolution of the Soviet Union",
+      "youtube": "Mikhail Gorbachev resigns Soviet flag lowered Kremlin December 25 1991",
+      "source": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-12-29-wcw-starrcade-1991-battlebowl",
+      "date": "1991-12-29",
+      "topic": "wrestling",
+      "text": "29 December saw World Championship Wrestling stage ***Starrcade 1991*** before 9,000 fans at the Norfolk Scope in Virginia. Centred around the unique \"Lethal Lottery\" concept where random tag teams competed to qualify for the final 20-man two-ring battle royal, legendary powerhouse **Sting** eliminated Lex Luger to win the coveted **Battlebowl Battle Royal ring**.",
+      "wiki": "Starrcade (1991)",
+      "youtube": "Sting wins Battlebowl Starrcade 1991 full match",
+      "source": "https://en.wikipedia.org/wiki/Starrcade_(1991)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (28 December 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Bohemian Rhapsody / These Are the Days of Our Lives",
+          "by": "Queen"
+        },
+        {
+          "pos": 2,
+          "title": "Black or White",
+          "by": "Michael Jackson"
+        },
+        {
+          "pos": 3,
+          "title": "Justified & Ancient",
+          "by": "The KLF feat. Tammy Wynette"
+        },
+        {
+          "pos": 4,
+          "title": "Driven by You",
+          "by": "Brian May"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (December 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Terminator 2: Judgment Day",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Sonic the Hedgehog",
+          "by": "Sega"
+        },
+        {
+          "pos": 3,
+          "title": "WWF WrestleMania",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "RoboCop 3",
+          "by": "Ocean Software"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (December 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Addams Family",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Hot Shots!",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 3,
+          "title": "Point Break",
+          "by": "20th Century Fox"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Monkey Island 2: LeChuck's Revenge",
+    "developer": "Lucasfilm Games",
+    "publisher": "Lucasfilm Games",
+    "platforms": [
+      "MS-DOS",
+      "Amiga"
+    ],
+    "genre": "Point-and-Click Graphic Adventure",
+    "director": "Ron Gilbert",
+    "reviewScore": "96%",
+    "reviewQuote": "Funner, bigger, and infinitely more gorgeous than the original. The iMUSE dynamic musical score and hand-painted 256-colour art are pure wizardry.",
+    "reviewSource": "Amiga Power (Issue 9)",
+    "headline": "Big Whoop, Voodoo Dolls, and the iMUSE Musical Revolution",
+    "gameplay": "Written and directed by **Ron Gilbert** alongside co-writers Tim Schafer and Dave Grossman, *Monkey Island 2: LeChuck's Revenge* debuted for MS-DOS in December 1991. Guiding aspiring pirate **Guybrush Threepwood** across Scabb, Phatt, and Booty Islands in search of the mythical treasure of Big Whoop, players navigated devilishly clever inventory puzzles, constructed a voodoo doll to neutralize the resurrected zombie pirate LeChuck, and participated in the infamous spitting competition. Crucially, the game debuted the **iMUSE interactive music engine**, blending seamless live musical transitions between scenes.",
+    "reception": "Critics greeted the sequel with universal adoration. Publications lauded Peter Chan's hand-painted, storybook 256-colour VGA backgrounds, Michael Land and Clint Bajakian's adaptive reggae-infused soundtrack, and Gilbert's subversive, fourth-wall-shattering carnival climax, hailing it as the undisputed pinnacle of the graphic adventure genre.",
+    "impact": "Consistently celebrated as one of the finest comedy games and graphic adventures ever created, *Monkey Island 2* pushed computer storytelling, dynamic soundtrack composition, and point-and-click logic to their absolute historic zenith.",
+    "wiki": "Monkey Island 2: LeChuck's Revenge",
+    "youtube": "Monkey Island 2 LeChucks Revenge PC DOS intro and gameplay 1991",
+    "source": "https://en.wikipedia.org/wiki/Monkey_Island_2:_LeChuck%27s_Revenge"
+  }
+}

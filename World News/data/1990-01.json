@@ -1,0 +1,164 @@
+{
+  "month": "1990-01",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-01-03-manuel-noriega-surrenders",
+      "date": "1990-01-03",
+      "topic": "politics",
+      "text": "3 January saw deposed Panamanian military dictator **Manuel Noriega** finally surrender to US military authorities in Panama City after spending ten days holed up inside the Apostolic Nunciature (Vatican embassy). Surrounded by Delta Force operatives and tormented by blaring psychological warfare rock music from external loudspeakers, Noriega emerged in full military uniform and was immediately flown to Miami under federal drug trafficking indictments.",
+      "wiki": "Manuel Noriega",
+      "youtube": "Manuel Noriega surrender January 1990 ABC news",
+      "source": "https://en.wikipedia.org/wiki/Manuel_Noriega",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-01-21-royal-rumble-1990-hogan-warrior",
+      "date": "1990-01-21",
+      "topic": "wrestling",
+      "text": "21 January saw the WWF stage the third annual **Royal Rumble** at the Orlando Arena in Florida. While WWF Champion **Hulk Hogan** won the 30-man match by last eliminating Mr. Perfect, the contest was immortalized by a heart-stopping mid-match face-off between Hogan and Intercontinental Champion **The Ultimate Warrior**. Standing alone in the ring as 16,000 fans erupted into thunderous roars, the two titans criss-crossed the ropes into a collision that set up WrestleMania VI.",
+      "wiki": "Royal Rumble (1990)",
+      "youtube": "Hulk Hogan vs Ultimate Warrior face off Royal Rumble 1990",
+      "source": "https://en.wikipedia.org/wiki/Royal_Rumble_(1990)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-01-25-burns-day-storm",
+      "date": "1990-01-25",
+      "topic": "science",
+      "text": "25 January saw the violent **Burns' Day Storm** batter southern England, Wales, and north-western Europe with hurricane-force wind gusts exceeding 100 mph. Unlike the 1987 Great Storm which struck overnight, the 1990 tempest struck in the middle of a working Thursday afternoon, blowing over lorries, tearing down power lines, uprooting millions of trees, and tragically resulting in **47 deaths** across the United Kingdom.",
+      "wiki": "Burns' Day storm",
+      "youtube": "Burns Day Storm January 1990 BBC news",
+      "source": "https://en.wikipedia.org/wiki/Burns%27_Day_storm",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-01-27-sinead-oconnor-nothing-compares-2-u",
+      "date": "1990-01-27",
+      "topic": "music",
+      "text": "27 January saw Irish singer-songwriter **Sinéad O'Connor** ascend to number one on the UK Singles Chart with her heartbreaking interpretation of Prince's ***Nothing Compares 2 U***. Accompanied by John Maybury's iconic, tear-stained close-up music video filmed in Paris, the raw ballad dominated the UK summit for four consecutive weeks, transforming O'Connor into an international superstar.",
+      "wiki": "Nothing Compares 2 U",
+      "youtube": "Sinead OConnor Nothing Compares 2 U official video 1990",
+      "source": "https://www.officialcharts.com/songs/sinead-oconnor-nothing-compares-2-u/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-01-11-lithuania-independence-rally",
+      "date": "1990-01-11",
+      "topic": "politics",
+      "text": "11 January saw over **250,000 citizens** rally in the central square of Vilnius, Lithuania, demanding full national independence from the Soviet Union. Confronted in person by visiting Soviet leader Mikhail Gorbachev, who desperately pleaded for political unity, the crowd waved pre-Soviet national flags and chanted for sovereign freedom, setting in motion the formal secession that shattered the USSR.",
+      "wiki": "Singing Revolution",
+      "youtube": "Gorbachev in Lithuania January 1990 news",
+      "source": "https://en.wikipedia.org/wiki/Singing_Revolution",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (27 January 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Nothing Compares 2 U",
+          "by": "Sinéad O'Connor"
+        },
+        {
+          "pos": 2,
+          "title": "Hangin' Tough",
+          "by": "New Kids on the Block"
+        },
+        {
+          "pos": 3,
+          "title": "Tears on My Pillow",
+          "by": "Kylie Minogue"
+        },
+        {
+          "pos": 4,
+          "title": "Going Doally",
+          "by": "Reeves and Mortimer"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (January 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Batman: The Movie",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Chase H.Q.",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "The Untouchables",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (January 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Parenthood",
+          "by": "UIP / Universal"
+        },
+        {
+          "pos": 2,
+          "title": "When Harry Met Sally...",
+          "by": "Palace Pictures"
+        },
+        {
+          "pos": 3,
+          "title": "Back to the Future Part II",
+          "by": "UIP / Universal"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Golden Axe (Mega Drive)",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "platforms": [
+      "Sega Mega Drive / Genesis"
+    ],
+    "genre": "Hack and Slash / Beat 'em Up",
+    "director": "Makoto Uchida",
+    "reviewScore": "91%",
+    "reviewQuote": "An unbelievable home arcade conversion. The Mega Drive has brought real coin-op fantasy into our living rooms.",
+    "reviewSource": "Mean Machines (Issue 1)",
+    "headline": "Barbaric Blades, Magic Potions, and 16-Bit Living Room Glory",
+    "gameplay": "Adapted directly from Sega's arcade hit by a dedicated internal console team, *Golden Axe* on the Mega Drive proved that Sega's 16-bit hardware could deliver uncompromising arcade experiences at home. Choosing between Ax Battler, Tyris Flare, and Gilius Thunderhead, players battled Death Adder's brutal army across the Turtle Village and the Eagle Island. Crucially, the home console version expanded upon the arcade coin-op by adding an **exclusive Duel Mode** and an entire extra final castle stage confronting Death Adder himself.",
+    "reception": "Hitting UK and European import shops in January 1990, *Golden Axe* was praised as a technological triumph. Critics marvelled that the Mega Drive's 68000 processor faithfully reproduced the massive character sprites, ground-shaking magic animations, and digitized death groans with almost zero slowdown. *Computer & Video Games* awarded it 91%, cementing it as an essential early purchase.",
+    "impact": "*Golden Axe* was a cornerstone software pillar in establishing the Sega Mega Drive / Genesis as a hip, mature alternative to the 8-bit Nintendo Entertainment System, demonstrating the immense gulf in power between 8-bit and 16-bit gaming eras.",
+    "wiki": "Golden Axe (video game)",
+    "youtube": "Golden Axe Sega Genesis Mega Drive 1990 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Golden_Axe_(video_game)"
+  }
+}

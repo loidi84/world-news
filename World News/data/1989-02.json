@@ -1,0 +1,166 @@
+{
+  "month": "1989-02",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-02-03-mega-powers-explode",
+      "date": "1989-02-03",
+      "topic": "wrestling",
+      "text": "3 February saw professional wrestling history pivot dramatically on NBC's *The Main Event II* when **The Mega Powers exploded**. During a tag bout against The Twin Towers, Miss Elizabeth was knocked unconscious at ringside; when Hulk Hogan carried her to the backstage medical room, an enraged Randy Savage felt abandoned, slapped Hogan across the face, and attacked him with the WWF Championship belt, setting up the most lucrative feud in wrestling history.",
+      "wiki": "The Main Event II",
+      "youtube": "The Mega Powers Explode NBC The Main Event 1989",
+      "source": "https://en.wikipedia.org/wiki/The_Main_Event_(WWF_TV_series)#The_Main_Event_II",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-02-14-salman-rushdie-fatwa",
+      "date": "1989-02-14",
+      "topic": "politics",
+      "text": "14 February saw Iran's Supreme Leader **Ayatollah Ruhollah Khomeini** issue a radio broadcast fatwa ordering Muslims worldwide to execute British-Indian author **Salman Rushdie** over alleged blasphemy in his novel *The Satanic Verses*. Rushdie was immediately placed under 24-hour armed police protection by Scotland Yard, while British bookstores were firebombed and diplomatic ties between London and Tehran were severed in an unprecedented clash of free speech and religious extremism.",
+      "wiki": "The Satanic Verses controversy",
+      "youtube": "Salman Rushdie fatwa BBC news 1989",
+      "source": "https://en.wikipedia.org/wiki/The_Satanic_Verses_controversy",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-02-15-soviet-afghan-withdrawal-complete",
+      "date": "1989-02-15",
+      "topic": "politics",
+      "text": "15 February saw the final column of Soviet troops, led by Lieutenant General Boris Gromov, cross the **Friendship Bridge** over the Amu Darya river into Uzbekistan, marking the official conclusion of the nine-year **Soviet–Afghan War**. The brutal conflict had cost over 14,000 Soviet lives and over one million Afghan lives, leaving the Soviet military deeply demoralized and contributing significantly to the economic and political collapse of the USSR.",
+      "wiki": "Soviet withdrawal from Afghanistan",
+      "youtube": "Soviet troops leave Afghanistan Friendship Bridge 1989",
+      "source": "https://en.wikipedia.org/wiki/Soviet_withdrawal_from_Afghanistan",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1989-02-14-first-gps-block-ii-satellite",
+      "date": "1989-02-14",
+      "topic": "science",
+      "text": "14 February saw the United States Air Force launch the first operational **Block II GPS satellite** into orbit aboard a Delta II rocket from Cape Canaveral, Florida. Marking the beginning of the fully deployed global positioning constellation, the satellite paved the way for military precision-guided munitions and laid the foundation for the commercial satellite navigation networks that would revolutionize global travel and civilian logistics.",
+      "wiki": "GPS satellite blocks",
+      "youtube": "Delta II rocket GPS launch 1989",
+      "source": "https://en.wikipedia.org/wiki/GPS_satellite_blocks#Block_II",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-02-04-marc-almond-gene-pitney-number-one",
+      "date": "1989-02-04",
+      "topic": "music",
+      "text": "4 February saw former Soft Cell frontman **Marc Almond** and American 1960s pop crooner **Gene Pitney** top the UK Singles Chart with their dramatic re-recording of ***Something's Gotten Hold of My Heart***. The unlikely duet became a runaway smash, topping the charts across Europe for four consecutive weeks and delivering Pitney his first-ever UK number-one single nearly three decades after his initial chart debut.",
+      "wiki": "Something's Gotten Hold of My Heart",
+      "youtube": "Marc Almond Gene Pitney Somethings Gotten Hold of My Heart TOTP 1989",
+      "source": "https://www.officialcharts.com/songs/marc-almond-feat-gene-pitney-somethings-gotten-hold-of-my-heart/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (11 February 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Something's Gotten Hold of My Heart",
+          "by": "Marc Almond & Gene Pitney"
+        },
+        {
+          "pos": 2,
+          "title": "Belfast Child",
+          "by": "Simple Minds"
+        },
+        {
+          "pos": 3,
+          "title": "Love Train",
+          "by": "Holly Johnson"
+        },
+        {
+          "pos": 4,
+          "title": "You Got It",
+          "by": "Roy Orbison"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (February 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Operation Wolf",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "After Burner",
+          "by": "Activision"
+        },
+        {
+          "pos": 4,
+          "title": "R-Type",
+          "by": "Electric Dreams"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (February 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Naked Gun: From the Files of Police Squad!",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Die Hard",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 3,
+          "title": "Dangerous Liaisons",
+          "by": "Warner Bros."
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Strider",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "platforms": [
+      "Arcade (CP System)",
+      "Sega Mega Drive",
+      "Amiga"
+    ],
+    "genre": "Hack and Slash / Action Platformer",
+    "director": "Kouichi Yotsui",
+    "reviewScore": "93%",
+    "reviewQuote": "Unbelievable acrobatic velocity, giant mechanical gorillas, and slicing through Soviet airships with a laser cypher.",
+    "reviewSource": "Computer & Video Games (Issue 89)",
+    "headline": "Acrobatic Ninja Sabotage in Neo-Soviet Moscow",
+    "gameplay": "Directed by Kouichi Yotsui on Capcom's mighty CP System arcade hardware, *Strider* dropped high-tech assassin **Strider Hiryu** into dystopian 2048 Kazakhstan to assassinate the Grandmaster Meio. Wielding his glowing plasma cypher sword **Falchion**, Hiryu defied gravity: vaulting over sheer cliffs with a climbing sickle, sliding beneath armed sentries, running up inverted ceiling ramps, and summoning robotic panther and hawk droids to dismantle mechanized Soviet warmachines.",
+    "reception": "Hitting arcades in February 1989, *Strider* dazzled players with its blistering scale and cinematic set-pieces, including an ascent up the sprawling flying fortress *Balrog* and an absurd battle against the giant robotic ouroboros *Ouroboros*. Critics lauded its peerless animation and dramatic synthesized score, hailing it as one of the most thrilling coin-op platformers ever built.",
+    "impact": "*Strider* became a signature Capcom masterpiece, establishing a benchmark for athletic traversal in action platformers that inspired games from *Ninja Gaiden* to *Shinobi*. Its 1990 conversion for the fledgling Sega Mega Drive was widely hailed as the definitive early showcase of 16-bit home console power.",
+    "wiki": "Strider (arcade game)",
+    "youtube": "Strider arcade 1989 original gameplay",
+    "source": "https://en.wikipedia.org/wiki/Strider_(arcade_game)"
+  }
+}

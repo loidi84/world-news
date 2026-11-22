@@ -1,0 +1,166 @@
+{
+  "month": "1991-10",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1991-10-11-anita-hill-clarence-thomas-hearings",
+      "date": "1991-10-11",
+      "topic": "politics",
+      "text": "11 October saw university law professor Anita Hill testify before the US Senate Judiciary Committee, providing sworn testimony accusing Supreme Court nominee **Clarence Thomas** of repeated sexual harassment. Televised gavel-to-gavel before an audience of millions, the contentious hearings ignited a national reckoning on gender relations and **workplace harassment**, though Thomas was narrowly confirmed by **52 votes to 48**.",
+      "wiki": "Clarence Thomas Supreme Court nomination",
+      "youtube": "Anita Hill Clarence Thomas Senate hearing October 1991 archival footage",
+      "source": "https://en.wikipedia.org/wiki/Clarence_Thomas_Supreme_Court_nomination",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1991-10-16-lubys-shooting-massacre-texas",
+      "date": "1991-10-16",
+      "topic": "deaths",
+      "text": "16 October saw 35-year-old George Hennard crash his pickup truck through the front window of **Luby's Cafeteria** in Killeen, Texas, before opening fire with semi-automatic pistols on lunchtime patrons. Murdering **23 innocent people** and wounding 27 others before taking his own life, the tragedy stood as the deadliest mass shooting in modern US history and spurred fierce debates over American **concealed-carry legislation**.",
+      "wiki": "Luby's shooting",
+      "youtube": "Lubys cafeteria shooting massacre Killeen Texas October 1991 news",
+      "source": "https://en.wikipedia.org/wiki/Luby%27s_shooting",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1991-10-27-halloween-havoc-chamber-of-horrors",
+      "date": "1991-10-27",
+      "topic": "wrestling",
+      "text": "27 October saw WCW stage ***Halloween Havoc 1991*** at the UTC Arena in Chattanooga, Tennessee. While Lex Luger retained the WCW World Title against Ron Simmons in a two-out-of-three falls match, the event was immortalized by the surreal **Chamber of Horrors match**, featuring an enclosed steel cage with an electric chair, culminating in Abdullah the Butcher accidentally being **electrocuted by Cactus Jack**.",
+      "wiki": "Halloween Havoc (1991)",
+      "youtube": "Chamber of Horrors match Halloween Havoc 1991 Abdullah electrocuted",
+      "source": "https://en.wikipedia.org/wiki/Halloween_Havoc_(1991)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1991-10-27-minnesota-twins-world-series-jack-morris",
+      "date": "1991-10-27",
+      "topic": "sport",
+      "text": "27 October saw the Minnesota Twins defeat the Atlanta Braves 1–0 in the tenth inning of Game 7 to win the **1991 World Series** at the Hubert H. Humphrey Metrodome. Often voted the greatest World Series ever played, 36-year-old pitching ace **Jack Morris** threw a legendary **10-inning complete-game shutout**, holding the Braves scoreless before Gene Larkin's walk-off single sealed victory.",
+      "wiki": "1991 World Series",
+      "youtube": "Jack Morris Game 7 1991 World Series Minnesota Twins final out",
+      "source": "https://en.wikipedia.org/wiki/1991_World_Series",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1991-10-30-madrid-peace-conference-opens",
+      "date": "1991-10-30",
+      "topic": "politics",
+      "text": "30 October saw the **Madrid Peace Conference** open in the Spanish capital, co-sponsored by US President George H.W. Bush and Soviet President Mikhail Gorbachev. Convening delegations from Israel, Syria, Lebanon, and a joint Jordanian-Palestinian group for direct talks for the first time in Middle Eastern history, the historic summit laid the groundwork for the **Oslo Peace Accords**.",
+      "wiki": "Madrid Conference of 1991",
+      "youtube": "Madrid Peace Conference October 1991 Bush Gorbachev opening speech",
+      "source": "https://en.wikipedia.org/wiki/Madrid_Conference_of_1991",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (26 October 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "(Everything I Do) I Do It for You",
+          "by": "Bryan Adams"
+        },
+        {
+          "pos": 2,
+          "title": "The Fly",
+          "by": "U2"
+        },
+        {
+          "pos": 3,
+          "title": "Get Ready for This",
+          "by": "2 Unlimited"
+        },
+        {
+          "pos": 4,
+          "title": "Dizzy",
+          "by": "Vic Reeves & The Wonder Stuff"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (October 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Terminator 2: Judgment Day",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "First Samuraï",
+          "by": "Vivid Image"
+        },
+        {
+          "pos": 3,
+          "title": "Sonic the Hedgehog",
+          "by": "Sega"
+        },
+        {
+          "pos": 4,
+          "title": "Micro Machines",
+          "by": "Codemasters"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (October 1991)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Terminator 2: Judgment Day",
+          "by": "Guild Film Distribution"
+        },
+        {
+          "pos": 2,
+          "title": "City Slickers",
+          "by": "Columbia Pictures"
+        },
+        {
+          "pos": 3,
+          "title": "Drop Dead Fred",
+          "by": "PolyGram Filmed Entertainment"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Sid Meier's Civilization",
+    "developer": "MicroProse",
+    "publisher": "MicroProse",
+    "platforms": [
+      "MS-DOS",
+      "Amiga",
+      "Atari ST"
+    ],
+    "genre": "Turn-Based 4X Grand Strategy",
+    "director": "Sid Meier",
+    "reviewScore": "98%",
+    "reviewQuote": "Just one more turn! Civilization is an addictive masterpiece of immense scope and brilliant design that will swallow entire weeks of your life.",
+    "reviewSource": "Computer Gaming World",
+    "headline": "Chariots, Tech Trees, and 'Just One More Turn' Perfection",
+    "gameplay": "Designed and programmed by **Sid Meier** and Bruce Shelley at MicroProse, *Civilization* launched for MS-DOS in October 1991. Tasking players with guiding a fledgling prehistoric tribe through 6,000 years of human history to conquer the globe or launch an interstellar colony ship to Alpha Centauri, the game pioneered the **4X genre** (eXplore, eXpand, eXploit, eXterminate). Players founded cities, researched branched technologies on the revolutionary **tech tree**, conducted diplomacy with historical leaders like Gandhi and Lincoln, and managed civic wonders of the world.",
+    "reception": "Critical acclaim was ecstatic and universal upon release. Reviewers hailed its flawless pacing, accessible interface, and terrifying psychological addiction that coined the famous industry phrase **'just one more turn syndrome'**. Publications routinely awarded it 95% to 98%, placing it at the summit of strategy gaming.",
+    "impact": "Selling millions of units and launching an ongoing multi-decade flagship franchise, *Civilization* remains widely cited by historians and critics as one of the greatest video games ever conceived.",
+    "wiki": "Civilization (video game)",
+    "youtube": "Civilization 1 1991 PC DOS gameplay intro",
+    "source": "https://en.wikipedia.org/wiki/Civilization_(video_game)"
+  }
+}

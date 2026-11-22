@@ -1,0 +1,188 @@
+{
+  "month": "1987-10",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1987-10-03-mega-powers-born",
+      "date": "1987-10-03",
+      "topic": "wrestling",
+      "text": "3 October saw professional wrestling history pivot dramatically on NBC's *Saturday Night's Main Event* when **\"Macho Man\" Randy Savage** challenged The Honky Tonk Man for the Intercontinental Championship. Following a vicious three-on-one beatdown by Honky and the Hart Foundation, Miss Elizabeth bolted backstage to recruit WWF World Heavyweight Champion **Hulk Hogan**, who stormed the ring with a steel chair to make the save. Sealing the alliance with a theatrical handshake, the duo officially formed **The Mega Powers**, triggering one of the most commercially explosive storylines in wrestling lore.",
+      "wiki": "The Mega Powers",
+      "youtube": "The Mega Powers form Saturday Nights Main Event 1987",
+      "source": "https://en.wikipedia.org/wiki/The_Mega_Powers",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1987-10-15-great-storm-michael-fish",
+      "date": "1987-10-15",
+      "topic": "science",
+      "text": "15 October saw the infamous **Great Storm of 1987** hammer southern England and northern France with violent hurricane-force gusts reaching 120 mph, claiming 22 lives and felling fifteen million trees. The catastrophe achieved legendary status in British folklore thanks to BBC television meteorologist **Michael Fish**, who had cheerfully reassured viewers hours earlier: \"Earlier on today, apparently, a woman rang the BBC and said she heard there was a hurricane on the way... well, don't worry, there isn't!\" By dawn, roads were blocked with crushed vehicles, Sevenoaks had lost six of its eponymous trees, and the Met Office spent years rebuilding its reputation.",
+      "wiki": "Great storm of 1987",
+      "youtube": "Michael Fish hurricane forecast 1987 BBC",
+      "source": "https://en.wikipedia.org/wiki/Great_storm_of_1987",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1987-10-18-bee-gees-you-win-again",
+      "date": "1987-10-18",
+      "topic": "music",
+      "text": "18 October saw veteran pop trio the **Bee Gees** reclaim the summit of the UK singles chart with their stomping comeback anthem *You Win Again*. Written and produced by the Gibb brothers, the track propelled the group into the history books as the very first act to score British number-one singles across three distinct decades (the 1960s, 70s, and 80s). Having endured years of bitter anti-disco backlash in America, the brothers expressed immense satisfaction that the British record-buying public was more than happy to surrender to their infectious rhythm tracks once again.",
+      "wiki": "You Win Again (Bee Gees song)",
+      "youtube": "Bee Gees You Win Again official video 1987",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19871018/7501/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1987-10-19-black-monday-crash",
+      "date": "1987-10-19",
+      "topic": "business",
+      "text": "19 October saw financial pandemonium strike global capital markets on **Black Monday**, as the Dow Jones Industrial Average plunged by an eye-watering 508 points—a staggering 22.61% loss in a single trading session. Driven by computerized program trading and mounting economic anxiety, the panic swept across the Atlantic within hours, wiping £50 billion off the London Stock Exchange. Shell-shocked yuppies stared blankly at red computer screens across the City, wondering if the eighties era of unlimited champagne and red braces had abruptly expired.",
+      "wiki": "Black Monday (1987)",
+      "youtube": "Black Monday 1987 Wall Street stock market crash news report",
+      "source": "https://en.wikipedia.org/wiki/Black_Monday_(1987)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1987-10-23-grand-prix-simulator-top",
+      "date": "1987-10-23",
+      "topic": "games",
+      "text": "23 October saw Codemasters' budget motorsport title *Grand Prix Simulator* claim the number one spot on the UK Gallup software charts, beating out full-price competition like Ocean's *Renegade*. Developed by the teenage Darling brothers, the £1.99 cassette delivered frenetic top-down Formula One racing across twisting tracks on the **Commodore 64** and **ZX Spectrum**. The game proved that microcomputer gamers were overwhelmingly happy to trade lavish packaging for ultra-responsive joystick handling and unbeatable pocket-money value.",
+      "wiki": "Grand Prix Simulator",
+      "youtube": "Grand Prix Simulator C64 gameplay Codemasters 1987",
+      "source": "https://archive.org/details/popular-computing-weekly-1987-10-23",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1987-10-30-pc-engine-launch",
+      "date": "1987-10-30",
+      "topic": "tech",
+      "text": "30 October saw Japanese electronics manufacturer NEC team up with game publisher Hudson Soft to release the **PC Engine** home console in Japan. Boasting a custom 16-bit graphics processor squeezed inside a console barely larger than two stacked CD jewel cases, the sleek white machine stunned gamers with near arcade-perfect ports delivered on credit-card-sized \"HuCard\" cartridges. The diminutive console swiftly outsold Nintendo's Famicom in Japan, firing the opening salvo in the fiercely contested 16-bit console war.",
+      "wiki": "TurboGrafx-16",
+      "youtube": "PC Engine Japanese launch commercial 1987 NEC Hudson",
+      "source": "https://en.wikipedia.org/wiki/TurboGrafx-16",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19871018/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "You Win Again",
+          "by": "Bee Gees"
+        },
+        {
+          "pos": 2,
+          "title": "Crockett's Theme",
+          "by": "Jan Hammer"
+        },
+        {
+          "pos": 3,
+          "title": "Full Metal Jacket (I Wanna Be Your Drill Instructor)",
+          "by": "Abigail Mead and Nigel Goulding"
+        },
+        {
+          "pos": 4,
+          "title": "Crazy Crazy Nights",
+          "by": "Kiss"
+        },
+        {
+          "pos": 5,
+          "title": "Love In The First Degree",
+          "by": "Bananarama"
+        }
+      ]
+    },
+    {
+      "section": "Computer Games (All Formats)",
+      "kind": "games",
+      "source": "https://archive.org/details/popular-computing-weekly-1987-10-23",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Grand Prix Simulator",
+          "by": "Codemasters"
+        },
+        {
+          "pos": 2,
+          "title": "Renegade",
+          "by": "Ocean / Imagine"
+        },
+        {
+          "pos": 3,
+          "title": "Indiana Jones and the Temple of Doom",
+          "by": "US Gold / Atari"
+        },
+        {
+          "pos": 4,
+          "title": "Joe Blade",
+          "by": "Interceptor / Players"
+        },
+        {
+          "pos": 5,
+          "title": "Soccer Boss",
+          "by": "Alternative"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (October 1987)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Beverly Hills Cop II",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "The Untouchables",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Full Metal Jacket",
+          "by": "Warner Bros."
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Dungeon Master",
+    "developer": "FTL Games",
+    "publisher": "FTL Games",
+    "platforms": [
+      "Atari ST",
+      "Commodore Amiga",
+      "MS-DOS"
+    ],
+    "genre": "Real-Time Dungeon Crawler RPG",
+    "director": "Doug Bell / Dennis Walker",
+    "reviewScore": "96%",
+    "reviewQuote": "Not just a game; it is an incredible sensory shock that makes every other role-playing game look completely primitive.",
+    "reviewSource": "Computer & Video Games (Issue 75)",
+    "headline": "Real-Time Terror in the 16-Bit Deep",
+    "gameplay": "Programmed by Doug Bell and Dennis Walker for the 16-bit Atari ST, *Dungeon Master* dragged fantasy role-playing out of sluggish turn-based menus and thrust it into heart-racing **real-time 3D first-person survival**. Guiding a party of four champions down through the 14-level dungeon of Mount Anaias to retrieve the Firestaff, players had to cast spells on the fly by combining mystical rune symbols, manage physical torches as darkness closed in, and physically dodge charging giant mummies and screeching screamers before their characters starved to death.",
+    "reception": "Released in October 1987, *Dungeon Master* took the computer gaming world by storm. It made stunning use of the Atari ST's Yamaha sound chip, featuring revolutionary directional 3D audio where the skittering claws of giant scorpions could be heard creeping up behind the player's left shoulder. *Computer & Video Games* awarded it 96%, declaring it the single greatest reason to buy a 16-bit computer.",
+    "impact": "*Dungeon Master* became the best-selling Atari ST game of all time, shifting an estimated 40,000 copies in its first year alone and practically driving hardware sales across Europe. Its real-time rune magic system, hunger/thirst survival mechanics, and fluid 3D dungeon movement directly inspired classics from *Eye of the Beholder* to *Ultima Underworld* and *Legend of Grimrock*.",
+    "wiki": "Dungeon Master (video game)",
+    "youtube": "Dungeon Master Atari ST 1987 intro gameplay",
+    "source": "https://en.wikipedia.org/wiki/Dungeon_Master_(video_game)"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "month": "1987-11",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1987-11-06-joe-blade-chart-top",
+      "date": "1987-11-06",
+      "topic": "games",
+      "text": "6 November saw Players Software's budget action title *Joe Blade* vault to number one on the UK Gallup software charts across the **ZX Spectrum** and **Commodore 64**. Created by programmer Colin Swinbourne, the £1.99 infiltration platformer cast players as a lone military commando tasked with rescuing six kidnapped leaders held inside a complex terrorist headquarters. Featuring tight flick-screen exploration and a tricky sub-game to defuse explosive charges, the budget tape proved an irresistible staple in school satchels across the country.",
+      "wiki": "Joe Blade",
+      "youtube": "Joe Blade ZX Spectrum Players gameplay 1987",
+      "source": "https://en.wikipedia.org/wiki/Joe_Blade",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1987-11-08-enniskillen-bombing",
+      "date": "1987-11-08",
+      "topic": "politics",
+      "text": "8 November saw tragedy strike Northern Ireland when a Provisional IRA bomb detonated near the war memorial in **Enniskillen**, County Fermanagh, during a Remembrance Sunday service. The explosion collapsed a gable wall onto the assembled crowd of civilians, killing eleven people—mostly pensioners—and injuring sixty-three others. The attack provoked near-universal revulsion across both Britain and the Republic of Ireland, severely damaging public sympathy for republican paramilitaries and galvanising British and Irish political leaders to seek fresh diplomatic paths toward peace.",
+      "wiki": "Remembrance Day bombing",
+      "youtube": "Enniskillen Remembrance Day bombing 1987 news report",
+      "source": "https://en.wikipedia.org/wiki/Remembrance_Day_bombing",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1987-11-15-tpau-china-in-your-hand",
+      "date": "1987-11-15",
+      "topic": "music",
+      "text": "15 November saw British pop-rock band **T'Pau** continue their iron grip on the UK singles chart as *China in Your Hand* held the number one spot during an imposing five-week residency. Fronted by fiery flame-haired vocalist Carol Decker, the dramatic power ballad took its inspiration from Mary Shelley's classic gothic novel *Frankenstein*, chronicling human hubris and delicate destruction. The track went on to become the 600th number one in the history of the British charts, with Decker's soaring vocal runs echoing out of car radios nationwide all winter.",
+      "wiki": "China in Your Hand",
+      "youtube": "TPau China in Your Hand official video 1987",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19871115/7501/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1987-11-18-kings-cross-fire",
+      "date": "1987-11-18",
+      "topic": "deaths",
+      "text": "18 November saw a catastrophic disaster engulf the London Underground when a lethal fire erupted beneath a wooden escalator at **King's Cross St. Pancras** station, claiming thirty-one lives. Caused by a discarded lit match igniting accumulated grease and wooden debris, the blaze suddenly produced an explosive \"trench effect\" fireball that shot straight up into the crowded ticket hall. The resulting public inquiry under Desmond Fennell prompted sweeping safety overhauls, bringing an immediate ban on smoking across the network, the removal of wooden escalators and mandatory sprinkler installations.",
+      "wiki": "King's Cross fire",
+      "youtube": "Kings Cross fire 1987 ITN news report London Underground",
+      "source": "https://en.wikipedia.org/wiki/King%27s_Cross_fire",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1987-11-25-planes-trains-automobiles",
+      "date": "1987-11-25",
+      "topic": "film",
+      "text": "25 November saw John Hughes' beloved Thanksgiving road trip comedy *Planes, Trains and Automobiles* arrive in cinemas, establishing an enduring seasonal holiday classic. Pairing **Steve Martin** as high-strung corporate marketing executive Neal Page opposite **John Candy** as the garrulous, shower-curtain-ring salesman Del Griffith, the film charted their disastrous odyssey to reach Chicago through blizzards and burned-out rental cars. Audiences howled at Martin's profanity-laden car rental tirade before being thoroughly disarmed by the story's deeply touching emotional climax.",
+      "wiki": "Planes, Trains and Automobiles",
+      "youtube": "Planes Trains and Automobiles original trailer 1987 Steve Martin John Candy",
+      "source": "https://en.wikipedia.org/wiki/Planes,_Trains_and_Automobiles",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1987-11-26-survivor-series-debut",
+      "date": "1987-11-26",
+      "topic": "wrestling",
+      "text": "26 November saw the WWF stage the inaugural **Survivor Series** pay-per-view in Richfield, Ohio, counter-programming Jim Crockett's NWA *Starrcade* on Thanksgiving night. The show introduced five-on-five team elimination bouts, headlined by a colossal main event that saw **André the Giant** lead his squad to victory over Hulk Hogan's team after the giant pinned Bam Bam Bigelow. Hogan subsequently stormed back out to brawl with his former ally, ensuring the burning feud between the two titans would roll straight toward *The Main Event* on prime-time television.",
+      "wiki": "Survivor Series (1987)",
+      "youtube": "Survivor Series 1987 main event Andre the Giant Hulk Hogan",
+      "source": "https://en.wikipedia.org/wiki/Survivor_Series_(1987)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19871115/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "China in Your Hand",
+          "by": "T'Pau"
+        },
+        {
+          "pos": 2,
+          "title": "Got My Mind Set on You",
+          "by": "George Harrison"
+        },
+        {
+          "pos": 3,
+          "title": "Whenever You Need Somebody",
+          "by": "Rick Astley"
+        },
+        {
+          "pos": 4,
+          "title": "Never Can Say Goodbye",
+          "by": "The Communards"
+        },
+        {
+          "pos": 5,
+          "title": "My Baby Just Cares for Me",
+          "by": "Nina Simone"
+        }
+      ]
+    },
+    {
+      "section": "Computer Games (All Formats)",
+      "kind": "games",
+      "source": "https://archive.org/details/popular-computing-weekly-1987-11-06",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Joe Blade",
+          "by": "Interceptor / Players"
+        },
+        {
+          "pos": 2,
+          "title": "Grand Prix Simulator",
+          "by": "Codemasters"
+        },
+        {
+          "pos": 3,
+          "title": "Renegade",
+          "by": "Ocean / Imagine"
+        },
+        {
+          "pos": 4,
+          "title": "Soccer Boss",
+          "by": "Alternative"
+        },
+        {
+          "pos": 5,
+          "title": "Indiana Jones and the Temple of Doom",
+          "by": "US Gold / Atari"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (November 1987)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "A Nightmare on Elm Street 3: Dream Warriors",
+          "by": "Palace Pictures"
+        },
+        {
+          "pos": 2,
+          "title": "Beverly Hills Cop II",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "The Witches of Eastwick",
+          "by": "Warner Bros."
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Driller",
+    "developer": "Incentive Software",
+    "publisher": "Incentive Software",
+    "platforms": [
+      "ZX Spectrum",
+      "Commodore 64",
+      "Amstrad CPC"
+    ],
+    "genre": "3D Puzzle Adventure / Exploration",
+    "director": "Major Developments (Ian Andrew / Chris Valentyne)",
+    "reviewScore": "96% Gold Award",
+    "reviewQuote": "A breathtaking technical milestone. True solid 3D worlds running on an 8-bit computer seemed impossible until today.",
+    "reviewSource": "Zzap!64 (Issue 33)",
+    "headline": "The Solid 3D Freescape Miracle on 8-Bit Tape",
+    "gameplay": "Set on the abandoned gas-logged moon of **Mitral**, *Driller* tasked players with navigating a heavy exploration rig across 18 dangerous sectors to deploy drilling rigs and avert a cataclysmic volcanic eruption. The game was built upon the revolutionary **Freescape engine**, developed by Chris Valentyne and Ian Andrew. While contemporary 3D was limited to transparent wireframes (like *Elite*), Freescape rendered solid, flat-shaded polygon buildings, ramps, and observation towers in real time, granting players full freedom to look up, down, roll, and explore.",
+    "reception": "When *Driller* arrived in UK shops in November 1987, British games magazines lost their collective minds over its technical wizardry. *Crash* stamped it with a 96% \"Crash Smash\", *Zzap!64* gave it a 96% \"Gold Award\", and *Sinclair User* awarded it 95%. Critics marvelled that humble home micros with just 48K or 64K of RAM could render solid, shaded geometric architecture with such mathematical elegance.",
+    "impact": "*Driller* established Incentive Software as pioneers of first-person perspective environments, spawning a line of Freescape titles including *Dark Side* and *Castle Master*. It stands in gaming history as the direct technological grandfather of first-person shooters and 3D virtual worlds, proving that full 360-degree polygonal exploration was achievable years before *Wolfenstein 3D*.",
+    "wiki": "Driller (video game)",
+    "youtube": "Driller ZX Spectrum Freescape 1987",
+    "source": "https://en.wikipedia.org/wiki/Driller_(video_game)"
+  }
+}

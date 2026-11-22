@@ -1,0 +1,177 @@
+{
+  "month": "1988-07",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1988-07-03-iran-air-655",
+      "date": "1988-07-03",
+      "topic": "deaths",
+      "text": "3 July saw a horrific military disaster in the Persian Gulf when the guided-missile cruiser USS Vincennes shot down civilian airliner **Iran Air Flight 655**, killing all 290 passengers and crew aboard. Operating inside Iranian territorial waters amidst skirmishes with Iranian gunboats, American naval operators catastrophically misidentified the climbing Airbus A300 as an attacking Iranian F-14 Tomcat fighter. The tragedy triggered worldwide outrage, plunging US-Iranian diplomatic relations to an icy nadir and accelerating Iranian willingness to accept a UN ceasefire in the Iran-Iraq War.",
+      "wiki": "Iran Air Flight 655",
+      "youtube": "Iran Air Flight 655 shot down 1988 news report",
+      "source": "https://en.wikipedia.org/wiki/Iran_Air_Flight_655",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-07-06-piper-alpha-disaster",
+      "date": "1988-07-06",
+      "topic": "deaths",
+      "text": "6 July saw the deadliest offshore oil catastrophe in human history unfold when the **Piper Alpha** production platform exploded in the North Sea, 120 miles off the coast of Aberdeen, Scotland. Initiated by a massive gas condensate leak during routine pump maintenance, catastrophic secondary explosions ruptured high-pressure oil lines connected to neighbouring platforms, engulfing the towering steel structure in an unquenchable inferno. One hundred and sixty-seven workers perished, leading to the landmark Cullen Inquiry that permanently transformed offshore oil safety regulations.",
+      "wiki": "Piper Alpha",
+      "youtube": "Piper Alpha disaster North Sea 1988 ITN news",
+      "source": "https://en.wikipedia.org/wiki/Piper_Alpha",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-07-15-die-hard-premiere",
+      "date": "1988-07-15",
+      "topic": "film",
+      "text": "15 July saw John McTiernan's explosive masterclass *Die Hard* arrive in North American cinemas, redefining the modern action movie landscape. Starring television sitcom actor **Bruce Willis** as barefoot, vest-wearing NYPD detective John McClane opposite British theatre veteran **Alan Rickman** as urbane German terrorist Hans Gruber, the film replaced invincible eighties musclemen with a vulnerable, bloodied everyman trapped inside Los Angeles' Nakatomi Plaza. Critics applauded the razor-sharp pacing and witty dialogue, cementing Willis as a global box-office icon.",
+      "wiki": "Die Hard",
+      "youtube": "Die Hard 1988 original theatrical trailer Bruce Willis Alan Rickman",
+      "source": "https://en.wikipedia.org/wiki/Die_Hard",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-07-17-glenn-medeiros-number-one",
+      "date": "1988-07-17",
+      "topic": "music",
+      "text": "17 July saw 18-year-old Hawaiian crooner **Glenn Medeiros** take over the top of the UK singles chart with his sweeping teenage ballad *Nothing's Gonna Change My Love for You*. Originally recorded by George Benson, Medeiros had won a local radio talent contest on Kauai with his tender acoustic rendition before the recording blossomed into an international pop phenomenon. The sentimental ballad unseated Bros's *I Owe You Nothing*, providing a gentle soundtrack for summer romances across British high schools.",
+      "wiki": "Nothing's Gonna Change My Love for You",
+      "youtube": "Glenn Medeiros Nothings Gonna Change My Love For You official video 1988",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19880717/7501/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1988-07-31-great-american-bash-flair-luger",
+      "date": "1988-07-31",
+      "topic": "wrestling",
+      "text": "31 July saw Jim Crockett Promotions stage **The Great American Bash 1988** before 13,000 raucous fans at the Baltimore Arena in Maryland, headlined by **Ric Flair** defending his NWA World Heavyweight Championship against Lex Luger. In a fiercely dramatic encounter, Luger appeared on the verge of claiming the gold as he hoisted the champion into his trademark \"Torture Rack\" submission. Suddenly, ringside officials intervened on behalf of the Maryland State Athletic Commission to award Flair a controversial stoppage victory due to a deep laceration on Luger's forehead, inciting near-riots among frustrated fans.",
+      "wiki": "The Great American Bash (1988)",
+      "youtube": "Ric Flair vs Lex Luger Great American Bash 1988",
+      "source": "https://en.wikipedia.org/wiki/The_Great_American_Bash_(1988)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19880717/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Nothing's Gonna Change My Love for You",
+          "by": "Glenn Medeiros"
+        },
+        {
+          "pos": 2,
+          "title": "I Owe You Nothing",
+          "by": "Bros"
+        },
+        {
+          "pos": 3,
+          "title": "Push It",
+          "by": "Salt-N-Pepa"
+        },
+        {
+          "pos": 4,
+          "title": "Fast Car",
+          "by": "Tracy Chapman"
+        },
+        {
+          "pos": 5,
+          "title": "The Twist",
+          "by": "Fat Boys with Chubby Checker"
+        }
+      ]
+    },
+    {
+      "section": "Computer Games (All Formats)",
+      "kind": "games",
+      "source": "https://en.wikipedia.org/wiki/Target:_Renegade",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Target: Renegade",
+          "by": "Imagine / Ocean"
+        },
+        {
+          "pos": 2,
+          "title": "IK+",
+          "by": "System 3"
+        },
+        {
+          "pos": 3,
+          "title": "Platoon",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "The Empire Strikes Back",
+          "by": "Domark"
+        },
+        {
+          "pos": 5,
+          "title": "Match Day II",
+          "by": "Ocean Software"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (July 1988)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Crocodile Dundee II",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "The Jungle Book",
+          "by": "Walt Disney"
+        },
+        {
+          "pos": 3,
+          "title": "Coming to America",
+          "by": "UIP / Paramount"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "The NewZealand Story",
+    "developer": "Taito",
+    "publisher": "Taito / Ocean Software",
+    "platforms": [
+      "Arcade",
+      "Commodore 64",
+      "Amiga",
+      "ZX Spectrum"
+    ],
+    "genre": "Platformer",
+    "director": "Kazutomo Ishida",
+    "reviewScore": "92%",
+    "reviewQuote": "Unbelievably charming, fiendishly difficult, and packed with hidden secret warps. An arcade masterpiece.",
+    "reviewSource": "Crash (Issue 68)",
+    "headline": "A Sneaker-Wearing Kiwi and the Great Maze Escape",
+    "gameplay": "Starring **Tiki the Kiwi**—a bright yellow flightless bird sporting red sneakers—*The NewZealand Story* sent players on a daring rescue mission across Auckland and the North Island to liberate his kiwi brethren from a villainous blue leopard seal. Beyond running and firing arrows, Tiki could hijack balloons, floating rubber ducks, mechanical blimps, and alien UFOs to navigate sprawling, multi-tiered maze levels, discovering hidden spatial warps and battling gigantic robotic whales from within their digestive tracts.",
+    "reception": "Landing in arcades in July 1988 before making its celebrated journey to home computers via Ocean Software, the game was adored by critics and coin-op regulars alike. Its deceptively cute cartoon visuals masked an uncompromising, razor-sharp difficulty curve that demanded pinpoint accuracy. *Zzap!64* awarded the home conversion a 91% Sizzler, while *Crash* gave it 92%, calling it one of the most imaginative platformers of the decade.",
+    "impact": "*The NewZealand Story* became one of Taito's signature arcade triumphs alongside *Bubble Bobble* and *Rainbow Islands*, proving that colourful, character-driven platform adventures could dominate arcade floors. It remains a beloved staple of the golden age of coin-ops and home micro conversions.",
+    "wiki": "The NewZealand Story",
+    "youtube": "The NewZealand Story arcade 1988 gameplay",
+    "source": "https://en.wikipedia.org/wiki/The_NewZealand_Story"
+  }
+}

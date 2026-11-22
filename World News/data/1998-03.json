@@ -1,0 +1,252 @@
+{
+  "month": "1998-03",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1998-03-05-lunar-prospector-water",
+      "date": "1998-03-05",
+      "topic": "science",
+      "text": "5 March saw NASA scientists announce that the orbiting **Lunar Prospector** spacecraft had detected compelling evidence of water ice buried at the Moon's polar craters. Using a neutron spectrometer to peer into permanently frozen shadows, the probe identified significant hydrogen signatures that suggested frozen reservoirs beneath the lunar dust. Space enthusiasts excitedly celebrated the prospect of future moon bases brewing their own tea, though engineers cautioned that mining frozen regolith remained somewhat challenging.",
+      "wiki": "Lunar Prospector",
+      "youtube": "Lunar Prospector water on moon NASA 1998",
+      "source": "https://en.wikipedia.org/wiki/Lunar_Prospector",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-03-15-run-dmc-number-one",
+      "date": "1998-03-15",
+      "topic": "music",
+      "text": "15 March saw American hip-hop veterans **Run-D.M.C.** and dance producer Jason Nevins claim number one on the UK singles chart with their pulsating remix of *It's Like That*. The breakbeat revival of the 1983 rap classic proved so dominant that it kept the Spice Girls' retro Motown homage *Stop* firmly stuck at number two, ending their record run of six consecutive debut number ones. Pop pundits proclaimed the death of bubblegum pop, blissfully unaware that girl groups were merely catching their breath.",
+      "wiki": "It's Like That (song)",
+      "youtube": "Run DMC vs Jason Nevins Its Like That official video 1998",
+      "source": "https://www.officialcharts.com/songs/run-dmc-vs-jason-nevins-its-like-that/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-03-23-oscars-titanic-sweep",
+      "date": "1998-03-23",
+      "topic": "film",
+      "text": "23 March saw *Titanic* conquer the **70th Academy Awards** at the Shrine Auditorium in Los Angeles, matching the historic benchmark of eleven Oscar statuettes set by *Ben-Hur*. Taking the stage to collect Best Director, Canadian filmmaker **James Cameron** famously quoted his own screenplay by shouting to the star-studded audience that he was the king of the world. While Hollywood rivals cringed into their champagne flutes at his unchecked hubris, Cameron was entirely too busy counting his billions to notice.",
+      "wiki": "70th Academy Awards",
+      "youtube": "James Cameron Im the king of the world Oscar speech 1998",
+      "source": "https://en.wikipedia.org/wiki/70th_Academy_Awards",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-03-24-euro-convergence",
+      "date": "1998-03-24",
+      "topic": "business",
+      "text": "24 March saw the European Commission confirm that eleven European Union countries had successfully met the economic criteria to launch the **Euro** single currency in January 1999. While France and Germany toasted the historic step toward continent-wide integration, the United Kingdom pointedly remained on the sidelines under its hard-won opt-out clause. Fleet Street tabloids breathed a collective sigh of relief that the British sovereign, and more importantly the portrait of Her Majesty, would not yet be exchanged for European banknotes.",
+      "wiki": "History of the euro",
+      "youtube": "Euro launch preparation European Commission 1998",
+      "source": "https://en.wikipedia.org/wiki/History_of_the_euro",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-03-29-wrestlemania-xiv",
+      "date": "1998-03-29",
+      "topic": "wrestling",
+      "text": "29 March saw **\"Stone Cold\" Steve Austin** defeat Shawn Michaels at *WrestleMania XIV* in Boston to win his first WWF World Heavyweight Championship, ushering in the peak of the Attitude Era. Special outside enforcer **Mike Tyson** turned on D-Generation X to count the winning three-fall, subsequently decking Michaels with a vicious right hand when the former champion protested. Michaels departed the ring to nurse severe back injuries that would keep him retired for four years, leaving Austin in undisputed possession of the company.",
+      "wiki": "WrestleMania XIV",
+      "youtube": "WrestleMania XIV Stone Cold vs Shawn Michaels Mike Tyson",
+      "source": "https://en.wikipedia.org/wiki/WrestleMania_XIV",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-03-31-starcraft-launch",
+      "date": "1998-03-31",
+      "topic": "games",
+      "text": "31 March saw Blizzard Entertainment release real-time strategy powerhouse *StarCraft* for Windows PCs, sparking an electronic sports revolution that would grip millions. Pitting the militaristic Terrans, biomechanical Zerg, and psionic Protoss against one another in an unforgiving space opera, its razor-sharp faction balance transformed strategy gaming from a relaxed pastime into an intense test of actions-per-minute. Within months, South Korean internet cafés were packed with teenage tacticians forgoing sleep to master the dreaded six-pool Zergling rush.",
+      "wiki": "StarCraft (video game)",
+      "youtube": "StarCraft 1998 original PC trailer Blizzard",
+      "source": "https://en.wikipedia.org/wiki/StarCraft_(video_game)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19980315/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "It's Like That",
+          "by": "Run-D.M.C. vs. Jason Nevins"
+        },
+        {
+          "pos": 2,
+          "title": "Stop",
+          "by": "Spice Girls"
+        },
+        {
+          "pos": 3,
+          "title": "My Heart Will Go On",
+          "by": "Celine Dion"
+        },
+        {
+          "pos": 4,
+          "title": "Brimful of Asha (Norman Cook Remix)",
+          "by": "Cornershop"
+        },
+        {
+          "pos": 5,
+          "title": "Frozen",
+          "by": "Madonna"
+        }
+      ]
+    },
+    {
+      "section": "PlayStation",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, March 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Resident Evil 2",
+          "by": "Capcom"
+        },
+        {
+          "pos": 2,
+          "title": "FIFA: Road to World Cup 98",
+          "by": "EA Sports"
+        },
+        {
+          "pos": 3,
+          "title": "Tomb Raider II",
+          "by": "Eidos"
+        },
+        {
+          "pos": 4,
+          "title": "Crash Bandicoot 2: Cortex Strikes Back",
+          "by": "Sony"
+        },
+        {
+          "pos": 5,
+          "title": "TOCA Touring Car Championship",
+          "by": "Codemasters"
+        }
+      ]
+    },
+    {
+      "section": "Nintendo 64",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, March 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "GoldenEye 007",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 2,
+          "title": "Diddy Kong Racing",
+          "by": "Rare"
+        },
+        {
+          "pos": 3,
+          "title": "Super Mario 64",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 4,
+          "title": "Mario Kart 64",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 5,
+          "title": "Snowboard Kids",
+          "by": "Atlus"
+        }
+      ]
+    },
+    {
+      "section": "PC",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, March 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "StarCraft",
+          "by": "Blizzard"
+        },
+        {
+          "pos": 2,
+          "title": "Riven: The Sequel to Myst",
+          "by": "Red Orb"
+        },
+        {
+          "pos": 3,
+          "title": "FIFA: Road to World Cup 98",
+          "by": "Electronic Arts"
+        },
+        {
+          "pos": 4,
+          "title": "Quake II",
+          "by": "Activision"
+        },
+        {
+          "pos": 5,
+          "title": "Age of Empires",
+          "by": "Microsoft"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (March 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Titanic",
+          "by": "20th Century Fox"
+        },
+        {
+          "pos": 2,
+          "title": "Good Will Hunting",
+          "by": "Buena Vista / Miramax"
+        },
+        {
+          "pos": 3,
+          "title": "As Good as It Gets",
+          "by": "Columbia TriStar"
+        }
+      ]
+    }
+  ],
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, March 1998",
+  "gaming": {
+    "title": "StarCraft",
+    "developer": "Blizzard Entertainment",
+    "publisher": "Blizzard Entertainment",
+    "platforms": [
+      "Windows PC",
+      "Mac OS"
+    ],
+    "genre": "Real-Time Strategy (RTS)",
+    "director": "Chris Metzen / James Phinney",
+    "reviewScore": "92%",
+    "reviewQuote": "The greatest real-time strategy game ever created. Three completely distinct factions in razor-sharp balance.",
+    "reviewSource": "PC Gamer (Issue 50)",
+    "headline": "The Zerg Swarm, Battle.net, and the Dawn of Global Esports",
+    "gameplay": "Moving away from the fantasy setting of *Warcraft*, Blizzard unleashed *StarCraft* in the distant Koprulu Sector. The game revolutionized the real-time strategy genre by introducing three radically asymmetric factions: the resilient and adaptable human **Terrans**, the voracious, biological swarm of the **Zerg**, and the enigmatic, technologically superior psionic **Protoss**. Each faction featured completely unique resource dynamics, building mechanics, and combat doctrines, locked in immaculate competitive equilibrium.",
+    "reception": "Launching on 31 March 1998, *StarCraft* was showered with universal critical praise. Reviewers praised its engrossing, character-driven military campaign (following Jim Raynor and the tragic betrayal of Sarah Kerrigan into the Queen of Blades) and its rock-solid free online multiplayer via Blizzard's **Battle.net** service, which made matchmaking seamless worldwide.",
+    "impact": "*StarCraft* became the best-selling PC game of 1998, shifting millions of copies and finding an extraordinary second home in South Korea. There, it practically created modern **esports**: spawning professional leagues, live stadium tournaments, and full-time pro gamers broadcast on dedicated 24-hour cable television channels. It remains one of the most culturally influential PC titles in human history.",
+    "wiki": "StarCraft (video game)",
+    "youtube": "StarCraft 1 original 1998 trailer",
+    "source": "https://en.wikipedia.org/wiki/StarCraft_(video_game)"
+  }
+}

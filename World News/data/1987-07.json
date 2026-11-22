@@ -1,0 +1,198 @@
+{
+  "month": "1987-07",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1987-07-04-wargames-debut",
+      "date": "1987-07-04",
+      "topic": "wrestling",
+      "text": "4 July saw the bloody debut of **WarGames: The Match Beyond** at The Omni in Atlanta during the NWA Great American Bash. Conceived by Dusty Rhodes, the brutal double-ring, enclosed steel-cage war saw Team Dusty (Rhodes, Nikita Koloff, The Road Warriors, and Paul Ellering) triumph over The Four Horsemen when manager J.J. Dillon submitted to horrific agony. The match left ring canvas soaked in crimson, immediately cementing WarGames as one of the most genuinely punishing innovations in professional wrestling history.",
+      "wiki": "The Great American Bash (1987)",
+      "youtube": "WarGames first match 1987 Great American Bash",
+      "source": "https://en.wikipedia.org/wiki/The_Great_American_Bash_(1987)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1987-07-11-five-billion-day",
+      "date": "1987-07-11",
+      "topic": "science",
+      "text": "11 July saw the United Nations calculate that the global human population had surpassed five billion people, marked officially as the **Day of Five Billion**. The demographic milestone was symbolically personified by the birth of baby Matej Gaspar in Zagreb, Yugoslavia, triggering intense international debate regarding planetary resources and urban growth. Sociologists pointed out that global headcount had doubled in just under four decades, while wry commentators wondered if Earth was quietly running out of patio space.",
+      "wiki": "Day of Five Billion",
+      "youtube": "World population reaches five billion 1987 news report",
+      "source": "https://en.wikipedia.org/wiki/Day_of_Five_Billion",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1987-07-15-taiwan-martial-law-ends",
+      "date": "1987-07-15",
+      "topic": "politics",
+      "text": "15 July saw President Chiang Ching-kuo officially lift **martial law in Taiwan**, terminating an astonishing 38 continuous years of military decree. Enacted back in May 1949 during the Chinese Civil War, the emergency legislation had banned opposition political parties, tightly censored domestic newspapers and curbed civil assemblies. The historic repeal cleared the path for democratic multiparty governance, sparking Taiwan's rapid rise into one of East Asia's most progressive technological and economic powerhouses.",
+      "wiki": "Martial law in Taiwan",
+      "youtube": "Taiwan lifts martial law 1987 historical news",
+      "source": "https://en.wikipedia.org/wiki/Martial_law_in_Taiwan",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1987-07-17-robocop-release",
+      "date": "1987-07-17",
+      "topic": "film",
+      "text": "17 July saw Paul Verhoeven's blistering dystopian thriller *RoboCop* blast into North American cinemas, delivering a savage satire of Reagan-era corporate excess wrapped in visceral cyberpunk action. Starring **Peter Weller** as murdered Detroit police officer Alex Murphy, reconstructed by Omni Consumer Products as an indestructible cyborg lawman, the movie shocked critics with its razor-sharp wit and outrageous faux advertisements. Audiences cheered Murphy's tragic redemption and his cold ultimatum: \"Dead or alive, you're coming with me.\"",
+      "wiki": "RoboCop",
+      "youtube": "RoboCop 1987 original theatrical trailer Peter Weller",
+      "source": "https://en.wikipedia.org/wiki/RoboCop",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1987-07-19-madonna-whos-that-girl",
+      "date": "1987-07-19",
+      "topic": "music",
+      "text": "19 July saw pop queen **Madonna** claim the UK singles chart summit once more as *Who's That Girl* climbed to number one, knocking the Pet Shop Boys' *It's a Sin* off the top perch. Serving as the title theme for her upcoming screwball cinema vehicle, the upbeat Latin-pop track marked the superstar's fifth UK number-one single in just two years. While the accompanying motion picture would soon be shredded by cinematic reviewers, the infectious single ensured Madonna's radio supremacy was entirely untroubled by poor box-office receipts.",
+      "wiki": "Who's That Girl (Madonna song)",
+      "youtube": "Madonna Who's That Girl official video 1987",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19870719/7501/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1987-07-24-paperboy-gallup-number-one",
+      "date": "1987-07-24",
+      "topic": "games",
+      "text": "24 July saw Elite Systems' celebrated arcade conversion *Paperboy* secure the number one spot on the UK Gallup software charts, buoyed by strong home micro sales across the **Commodore 64** and **ZX Spectrum**. Dodging rogue lawnmowers, wayward dogs and unhinged breakdancers, players pedalled frantically through American suburbia while delivering newspapers to daily subscribers and smashing windows of non-subscribers. The port proved that cycling around a paper round on an 8-bit home micro was infinitely more lethal than doing the real job.",
+      "wiki": "Paperboy (video game)",
+      "youtube": "Paperboy ZX Spectrum Elite gameplay 1987",
+      "source": "https://archive.org/details/popular-computing-weekly-1987-07-24",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1987-07-31-mecca-incident-clashes",
+      "date": "1987-07-31",
+      "topic": "politics",
+      "text": "31 July saw deadly violence shake the holy city of Mecca, Saudi Arabia, when an anti-Western demonstration by Iranian pilgrims escalated into bloody clashes with Saudi security personnel. Over 400 people were killed in the ensuing gunfire and catastrophic crowd crushes, leading to an immediate breakdown of diplomatic ties between Riyadh and Tehran. The grim tragedy sparked furious protests throughout the Muslim world, severely escalating sectarian and geopolitical tensions amid the bloody climax of the Iran-Iraq War.",
+      "wiki": "1987 Mecca incident",
+      "youtube": "Mecca clashes 1987 news report Saudi Arabia Iran",
+      "source": "https://en.wikipedia.org/wiki/1987_Mecca_incident",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19870712/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "It's a Sin",
+          "by": "Pet Shop Boys"
+        },
+        {
+          "pos": 2,
+          "title": "Who's That Girl",
+          "by": "Madonna"
+        },
+        {
+          "pos": 3,
+          "title": "Wishing Well",
+          "by": "Terence Trent D'Arby"
+        },
+        {
+          "pos": 4,
+          "title": "Always",
+          "by": "Atlantic Starr"
+        },
+        {
+          "pos": 5,
+          "title": "Under the Boardwalk",
+          "by": "Bruce Willis"
+        }
+      ]
+    },
+    {
+      "section": "Computer Games (All Formats)",
+      "kind": "games",
+      "source": "https://archive.org/details/popular-computing-weekly-1987-07-24",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Paperboy",
+          "by": "Elite Systems"
+        },
+        {
+          "pos": 2,
+          "title": "The Last Ninja",
+          "by": "Activision / System 3"
+        },
+        {
+          "pos": 3,
+          "title": "Milk Race",
+          "by": "Mastertronic"
+        },
+        {
+          "pos": 4,
+          "title": "Barbarian: The Ultimate Warrior",
+          "by": "Palace Software"
+        },
+        {
+          "pos": 5,
+          "title": "BMX Simulator",
+          "by": "Codemasters"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (July 1987)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Police Academy 4: Citizens on Patrol",
+          "by": "Warner Bros."
+        },
+        {
+          "pos": 2,
+          "title": "The Living Daylights",
+          "by": "UIP / United Artists"
+        },
+        {
+          "pos": 3,
+          "title": "Superman IV: The Quest for Peace",
+          "by": "Warner Bros."
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Metal Gear",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "platforms": [
+      "MSX2"
+    ],
+    "genre": "Stealth Action",
+    "director": "Hideo Kojima",
+    "reviewScore": "88%",
+    "reviewQuote": "An utterly gripping espionage thriller where hiding in cardboard boxes is deadlier than pulling the trigger.",
+    "reviewSource": "MSX Magazine",
+    "headline": "The Birth of the Tactical Stealth Genre",
+    "gameplay": "Conceived by 23-year-old rookie designer Hideo Kojima, *Metal Gear* cast players as **Solid Snake**, a rookie operative of the elite FOXHOUND unit sent deep into South Africa to infiltrate the fortress state of Outer Heaven. Faced with the technical limitations of the MSX2 hardware—which flickered and slowed down when more than a few bullets appeared on screen—Kojima ingeniously inverted military action conventions: instead of massacring endless waves of enemies, players had to slip past sentries undetected, track enemy vision cones, and hide in discarded cardboard boxes.",
+    "reception": "Released in Japan on 13 July 1987, *Metal Gear* was immediately hailed by MSX enthusiasts as a revelation in game design. Critics praised its cinematic tone, intricate radio communications with commanding officer Big Boss, and the heart-pounding tension of its alarm system, which required players to scramble into shadows to wait out roving search patrols.",
+    "impact": "*Metal Gear* founded the modern stealth game genre, demonstrating that evasion and vulnerability could be infinitely more suspenseful than mindless firepower. It kickstarted one of gaming's most acclaimed franchises and launched Kojima into international auteur status, culminating in the PlayStation classic *Metal Gear Solid* a decade later.",
+    "wiki": "Metal Gear (video game)",
+    "youtube": "Metal Gear MSX2 original 1987",
+    "source": "https://en.wikipedia.org/wiki/Metal_Gear_(video_game)"
+  }
+}

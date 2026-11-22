@@ -1,0 +1,177 @@
+{
+  "month": "1988-11",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1988-11-02-morris-worm-internet",
+      "date": "1988-11-02",
+      "topic": "tech",
+      "text": "2 November saw the world's first major internet crisis unfold when the **Morris worm** was released into the nascent ARPANET from a computer terminal at MIT. Programmed by 23-year-old Cornell University graduate student Robert Tappan Morris to gauge the size of the network, a critical flaw in the worm's propagation code caused it to replicate uncontrollably, bringing down an estimated 6,000 Unix machines—roughly 10% of the entire connected internet. The incident caused millions in downtime and led to the creation of the world's first Computer Emergency Response Team (CERT).",
+      "wiki": "Morris worm",
+      "youtube": "Morris Worm 1988 first internet worm news report",
+      "source": "https://en.wikipedia.org/wiki/Morris_worm",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-11-08-george-bush-election-win",
+      "date": "1988-11-08",
+      "topic": "politics",
+      "text": "8 November saw Republican Vice President **George H. W. Bush** win a commanding victory in the **US Presidential Election**, comfortably defeating Democratic Massachusetts Governor Michael Dukakis. Propelled by Ronald Reagan's enduring personal popularity and hard-hitting television campaign ads, Bush carried forty states and secured 426 electoral college votes. Pledging a \"kinder, gentler nation\" alongside his famous campaign vow, \"Read my lips: no new taxes\", Bush assured voters of steady conservative continuity as the geopolitical foundations of the Cold War began to fracture.",
+      "wiki": "1988 United States presidential election",
+      "youtube": "George H W Bush 1988 US Presidential election victory speech",
+      "source": "https://en.wikipedia.org/wiki/1988_United_States_presidential_election",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1988-11-15-buran-space-shuttle-launch",
+      "date": "1988-11-15",
+      "topic": "science",
+      "text": "15 November saw the Soviet Union showcase its aerospace engineering prowess with the maiden orbital flight of the **Buran** space shuttle from the Baikonur Cosmodrome in Kazakhstan. Launched atop the gargantuan Energia super-heavy rocket into gale-force winds, the reusable orbiter completed two orbits of the Earth completely uncrewed, guided entirely by sophisticated automated flight software. The spacecraft touched down flawlessly on a concrete runway with zero human intervention, marking a technological triumph that would sadly prove to be the orbiter's only spaceflight before budget cuts ended the program.",
+      "wiki": "Buran (spacecraft)",
+      "youtube": "Soviet space shuttle Buran launch and automated landing 1988",
+      "source": "https://en.wikipedia.org/wiki/Buran_(spacecraft)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1988-11-20-robin-beck-first-time",
+      "date": "1988-11-20",
+      "topic": "music",
+      "text": "20 November saw American rock vocalist **Robin Beck** scale the summit of the UK singles chart with her soaring power ballad *First Time*, proving the immense commercial muscle of television advertising. Originally recorded as a 30-second jingle for Coca-Cola's international \"Can't Beat the Real Thing\" advertising campaign, public response was so ecstatic that a full-length single was hastily recorded and rushed into record shops. The track spent three weeks at number one, keeping Kylie Minogue and Jason Donovan's *Especially for You* waiting in the wings.",
+      "wiki": "First Time (Robin Beck song)",
+      "youtube": "Robin Beck First Time Coca Cola advert and official video 1988",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19881120/7501/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1988-11-24-survivor-series-mega-powers",
+      "date": "1988-11-24",
+      "topic": "wrestling",
+      "text": "24 November saw the World Wrestling Federation stage its second annual **Survivor Series** pay-per-view at the Richfield Coliseum in Ohio on Thanksgiving night. The five-on-five elimination main event saw **The Mega Powers** (WWF World Heavyweight Champion Randy Savage and Hulk Hogan) lead their team to victory over The Twin Towers (Akeem and Big Boss Man) alongside Ted DiBiase and Haku. Hogan and Savage survived as co-winners, but subtle body language and Hogan's lingering embrace of Miss Elizabeth planted the first visible seeds of Savage's mounting paranoia, setting up their explosive WrestleMania V clash.",
+      "wiki": "Survivor Series (1988)",
+      "youtube": "Survivor Series 1988 Mega Powers main event",
+      "source": "https://en.wikipedia.org/wiki/Survivor_Series_(1988)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19881120/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "First Time",
+          "by": "Robin Beck"
+        },
+        {
+          "pos": 2,
+          "title": "Especially for You",
+          "by": "Kylie Minogue and Jason Donovan"
+        },
+        {
+          "pos": 3,
+          "title": "Stand Up for Your Love Rights",
+          "by": "Yazz"
+        },
+        {
+          "pos": 4,
+          "title": "Orinoco Flow",
+          "by": "Enya"
+        },
+        {
+          "pos": 5,
+          "title": "Je Ne Sais Pas Pourquoi",
+          "by": "Kylie Minogue"
+        }
+      ]
+    },
+    {
+      "section": "Computer Games (All Formats)",
+      "kind": "games",
+      "source": "https://en.wikipedia.org/wiki/Operation_Wolf",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Operation Wolf",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Double Dragon",
+          "by": "Melbourne House"
+        },
+        {
+          "pos": 3,
+          "title": "Last Ninja 2",
+          "by": "System 3"
+        },
+        {
+          "pos": 4,
+          "title": "R-Type",
+          "by": "Electric Dreams"
+        },
+        {
+          "pos": 5,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (November 1988)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "A Fish Called Wanda",
+          "by": "UIP / MGM"
+        },
+        {
+          "pos": 2,
+          "title": "Scrooged",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 3,
+          "title": "Die Hard",
+          "by": "20th Century Fox"
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "MicroProse Soccer",
+    "developer": "Sensible Software",
+    "publisher": "MicroProse",
+    "platforms": [
+      "Commodore 64",
+      "ZX Spectrum",
+      "Amstrad CPC",
+      "Amiga"
+    ],
+    "genre": "Top-Down Sports / Football",
+    "director": "Jon Hare / Chris Yates",
+    "reviewScore": "90% Gold Medal",
+    "reviewQuote": "The most playable football game ever programmed. Fast, frantic, and that banana kick swerve is genius.",
+    "reviewSource": "Zzap!64 (Issue 44)",
+    "headline": "The Birth of the Banana Kick and Sensible Footy",
+    "gameplay": "Developed by Jon Hare and Chris Yates at Sensible Software, *MicroProse Soccer* liberated video game football from sluggish side-on simulations by adopting an overhead, dynamic vertical scrolling pitch filled with tiny, lightning-fast player sprites. Crucially, the game pioneered **after-touch ball swerve**—the legendary \"banana kick\" where a quick flick of the joystick curled the ball around diving goalkeepers. It also included an atmospheric six-a-side indoor arena mode with bouncy wooden sideboards, eliminating throw-ins for non-stop chaotic action.",
+    "reception": "Released in November 1988, the game was showered with awards. *Zzap!64* awarded it a coveted 90% \"Gold Medal\", *Crash* stamped it with 91%, and *The Games Machine* hailed its intuitive, addictive physics. Reviewers universally praised its muddy pitch weather effects (sliding tackles across puddles) and the pure, unadulterated joy of its two-player couch rivalry.",
+    "impact": "*MicroProse Soccer* is the direct evolutionary ancestor of *Sensible Soccer* and *Sensible World of Soccer*, establishing Sensible Software as the masters of British sports gaming. Its emphasis on arcade tempo, accessible one-button passing, and ball physics defined European football gaming for the next decade.",
+    "wiki": "MicroProse Soccer",
+    "youtube": "MicroProse Soccer C64 1988 gameplay",
+    "source": "https://en.wikipedia.org/wiki/MicroProse_Soccer"
+  }
+}

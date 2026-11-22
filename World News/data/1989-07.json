@@ -1,0 +1,164 @@
+{
+  "month": "1989-07",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1989-07-14-french-revolution-bicentenary",
+      "date": "1989-07-14",
+      "topic": "politics",
+      "text": "14 July saw France stage lavish celebrations for the **Bicentenary of the French Revolution** in Paris, drawing 33 world leaders, including British Prime Minister Margaret Thatcher and US President George H. W. Bush. Highlights included the inauguration of the gleaming Grande Arche de la Défense and Jean-Paul Goude's theatrical parade down the Champs-Élysées, while Thatcher provoked French ire by declaring that human rights originated with the British Magna Carta.",
+      "wiki": "Bicentenary of the French Revolution",
+      "youtube": "French Revolution Bicentenary Paris parade 1989",
+      "source": "https://en.wikipedia.org/wiki/Bicentenary_of_the_French_Revolution",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-07-23-great-american-bash-flair-funk",
+      "date": "1989-07-23",
+      "topic": "wrestling",
+      "text": "23 July saw the NWA stage ***The Great American Bash 1989: The Glory Days*** at the Baltimore Arena, headlined by a bloody, visceral war where **Ric Flair** pinned **Terry Funk** with a quick inside cradle to retain the NWA World Heavyweight Championship. The night was widely heralded as one of the greatest pay-per-views in wrestling history, featuring an extraordinary WarGames match and The Great Muta defeating Sting for the TV Championship.",
+      "wiki": "The Great American Bash (1989)",
+      "youtube": "Ric Flair vs Terry Funk Great American Bash 1989",
+      "source": "https://en.wikipedia.org/wiki/The_Great_American_Bash_(1989)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-07-07-lethal-weapon-2-premiere",
+      "date": "1989-07-07",
+      "topic": "film",
+      "text": "7 July saw Richard Donner release ***Lethal Weapon 2*** in cinemas, reuniting Mel Gibson as unhinged detective Martin Riggs and Danny Glover as long-suffering partner Roger Murtaugh. Introducing Joe Pesci as motor-mouthed federal witness Leo Getz, the explosive buddy-cop sequel pitted the LAPD duo against ruthless, gold-smuggling South African diplomats hiding behind \"diplomatic immunity\", grossing over $227 million worldwide.",
+      "wiki": "Lethal Weapon 2",
+      "youtube": "Lethal Weapon 2 trailer 1989",
+      "source": "https://en.wikipedia.org/wiki/Lethal_Weapon_2",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    },
+    {
+      "id": "1989-07-05-seinfeld-pilot-broadcast",
+      "date": "1989-07-05",
+      "topic": "film",
+      "text": "5 July saw NBC broadcast the quiet pilot episode of *The Seinfeld Chronicles* (later retitled ***Seinfeld***), created by stand-up comedians **Jerry Seinfeld and Larry David**. Focusing on trivial minutiae—deciphering whether a visiting female acquaintance meant romance or friendship—the low-key pilot received mediocre test audience scores but was championed by NBC executive Rick Ludwin, ultimately evolving into one of the most celebrated and lucrative sitcoms in television history.",
+      "wiki": "The Seinfeld Chronicles",
+      "youtube": "Seinfeld pilot episode original broadcast 1989",
+      "source": "https://en.wikipedia.org/wiki/The_Seinfeld_Chronicles",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1989-07-22-jive-bunny-swing-the-mood-number-one",
+      "date": "1989-07-22",
+      "topic": "music",
+      "text": "22 July saw novelty DJ outfit **Jive Bunny and the Mastermixers** hit number one on the UK Singles Chart with their 1950s rock-and-roll medley ***Swing the Mood***. Created in Rotherham by father-and-son producers John and Andy Pickles with DJ Les Hemstock, the infectious pastiche stitched together Bill Haley, Chuck Berry, and Little Richard, staying at number one for five straight weeks and sparking an unlikely international novelty craze.",
+      "wiki": "Swing the Mood",
+      "youtube": "Jive Bunny Swing The Mood Top of the Pops 1989",
+      "source": "https://www.officialcharts.com/songs/jive-bunny-and-the-mastermixers-swing-the-mood/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 3
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (29 July 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Swing the Mood",
+          "by": "Jive Bunny and the Mastermixers"
+        },
+        {
+          "pos": 2,
+          "title": "You'll Never Stop Me Loving You",
+          "by": "Sonia"
+        },
+        {
+          "pos": 3,
+          "title": "On Our Own",
+          "by": "Bobby Brown"
+        },
+        {
+          "pos": 4,
+          "title": "Back to Life",
+          "by": "Soul II Soul"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (July 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "RoboCop",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 2,
+          "title": "Red Heat",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 3,
+          "title": "The NewZealand Story",
+          "by": "Ocean Software"
+        },
+        {
+          "pos": 4,
+          "title": "Shinobi",
+          "by": "Virgin Mastertronic"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (July 1989)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Indiana Jones and the Last Crusade",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Licence to Kill",
+          "by": "UIP / United Artists"
+        },
+        {
+          "pos": 3,
+          "title": "Batman",
+          "by": "Warner Bros."
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Tetris (Game Boy)",
+    "developer": "Nintendo R&D1 / Bullet-Proof Software",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Game Boy"
+    ],
+    "genre": "Puzzle",
+    "director": "Alexey Pajitnov / Henk Rogers",
+    "reviewScore": "98%",
+    "reviewQuote": "The ultimate pack-in game. Hypnotic, mathematical perfection that will consume every waking hour of your life.",
+    "reviewSource": "Computer & Video Games (Issue 95)",
+    "headline": "Falling Tetrominoes, Type A Korobeiniki, and Handheld Domination",
+    "gameplay": "Originally invented in Soviet Moscow by mathematician Alexey Pajitnov, *Tetris* found its definitive worldwide form when Nintendo shrewdly bundled it with the Western launch of the Game Boy. Guided by simple geometry, players rotated falling geometric **tetrominoes** into solid horizontal rows to clear lines before the matrix stacked to the top. Featuring a gripping two-player Link Cable battle mode and Hirokazu Tanaka's jaunty 8-bit arrangement of Russian folk ballad **\"Korobeiniki\"** (Type A), it became an all-consuming addiction.",
+    "reception": "Arriving on Western Game Boys in July 1989, *Tetris* was universally heralded as an immaculate work of design genius. Unlike traditional character games aimed at youngsters, *Tetris* transcended every demographic: commuters, parents, and children alike fell victim to the \"Tetris effect\", closing their eyes at night only to see falling blocks drifting into empty slots. Critics universally declared it the greatest puzzle game in history.",
+    "impact": "Selling an extraordinary **35 million copies** on Game Boy alone, *Tetris* propelled Nintendo's handheld from a curious novelty into a global cultural phenomenon. It proved that simple, elegant game mechanics could conquer the world and remains one of the most played and cloned video games in human history.",
+    "wiki": "Tetris (Game Boy video game)",
+    "youtube": "Tetris Game Boy 1989 commercial",
+    "source": "https://en.wikipedia.org/wiki/Tetris_(Game_Boy_video_game)"
+  }
+}

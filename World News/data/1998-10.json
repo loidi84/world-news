@@ -1,0 +1,220 @@
+{
+  "month": "1998-10",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1998-10-16-pinochet-london-arrest",
+      "date": "1998-10-16",
+      "topic": "politics",
+      "text": "16 October saw former Chilean military dictator **Augusto Pinochet** arrested by British police while recovering from back surgery at a private clinic in London. Acting on an international extradition warrant issued by crusading Spanish magistrate Baltasar Garzón regarding the torture and disappearance of Spanish citizens, the arrest shattered the traditional assumption that former heads of state enjoyed permanent immunity for crimes against humanity. British legal circles erupted into fierce constitutional debate, while elderly Chilean exiles danced with joy in Trafalgar Square.",
+      "wiki": "Augusto Pinochet's arrest and trial",
+      "youtube": "Augusto Pinochet arrested in London 1998 news report",
+      "source": "https://en.wikipedia.org/wiki/Augusto_Pinochet%27s_arrest_and_trial",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-10-18-judgment-day-austin-ref",
+      "date": "1998-10-18",
+      "topic": "wrestling",
+      "text": "18 October saw absolute anarchy erupt at *Judgment Day* in Rosemont, Illinois, as The Undertaker and Kane fought for the vacant WWF Championship with **\"Stone Cold\" Steve Austin** presiding as referee. Ordered by Vince McMahon to crown a winner on pain of dismissal, Austin instead laid out both monsters with chair shots, counted a simultaneous three-fall against both men, and audaciously declared himself the undisputed champion. An apoplectic McMahon immediately snatched a microphone to scream \"You're fired!\", sending Austin on an unhinged rampage with a cement truck.",
+      "wiki": "Judgment Day: In Your House",
+      "youtube": "Stone Cold referee Undertaker Kane Judgment Day 1998",
+      "source": "https://en.wikipedia.org/wiki/Judgment_Day:_In_Your_House",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-10-21-game-boy-color-japan",
+      "date": "1998-10-21",
+      "topic": "games",
+      "text": "21 October saw Nintendo launch the **Game Boy Color** handheld console in Japan, banishing nine years of pea-soup green monochromatic screens to the history books. Powered by a zippy 8-bit Z80-derived processor and featuring full backward compatibility that intelligently colorized older Game Boy cartridges, the sleek handheld fit snugly into children's school blazers worldwide. Gamers marvelled at the vibrant full-colour graphics, politely ignoring the fact that it still lacked a built-in screen backlight, requiring acrobatic contortions under bedside lamps.",
+      "wiki": "Game Boy Color",
+      "youtube": "Game Boy Color original Japanese launch commercial 1998",
+      "source": "https://en.wikipedia.org/wiki/Game_Boy_Color",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-10-28-ted-hughes-death",
+      "date": "1998-10-28",
+      "topic": "deaths",
+      "text": "28 October saw British Poet Laureate **Ted Hughes** die of cancer in London at the age of 68. Celebrated for his elemental, visceral verse evoking the predatory beauty of the natural world in collections like *The Hawk in the Rain* and *Crow*, his private life had been permanently haunted by the tragic 1963 suicide of his former wife Sylvia Plath. Just months before his death, Hughes had broken 35 years of stoic silence with *Birthday Letters*, a tender poetic memoir that swept national literary awards.",
+      "wiki": "Ted Hughes",
+      "youtube": "Ted Hughes Poet Laureate obituary 1998 BBC",
+      "source": "https://en.wikipedia.org/wiki/Ted_Hughes",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1998-10-29-john-glenn-discovery",
+      "date": "1998-10-29",
+      "topic": "science",
+      "text": "29 October saw 77-year-old American senator and space pioneer **John Glenn** blast back into orbit aboard Space Shuttle *Discovery*, 36 years after becoming the first American to circle the globe in 1962. Becoming the oldest human ever to travel into the cosmos, Glenn subjected his veteran physique to rigorous geriatric medical tests to understand how weightlessness mirrored the human ageing process. A rapt worldwide audience watched his triumphant return to the stars, marvelling at an astronaut who flatly refused to act his age.",
+      "wiki": "STS-95",
+      "youtube": "John Glenn STS-95 Discovery launch 1998 NASA",
+      "source": "https://en.wikipedia.org/wiki/STS-95",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1998-10-31-cher-believe-number-one",
+      "date": "1998-10-31",
+      "topic": "music",
+      "text": "31 October saw pop legend **Cher** storm to number one on the UK singles chart with her gargantuan eurodance anthem *Believe*. The track famously pioneered the bold, metallic vocal effect of pitch-correction software **Auto-Tune**, creating an artificial futuristic stutter that sound engineers initially attempted to disguise as a trade secret. Spending seven unbroken weeks at the British summit, the irresistible floor-filler went on to become the best-selling single by a female solo artist in UK chart history.",
+      "wiki": "Believe (Cher song)",
+      "youtube": "Cher Believe official music video 1998",
+      "source": "https://www.officialcharts.com/songs/cher-believe/",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    }
+  ],
+  "charts": [
+    {
+      "section": "Music",
+      "kind": "music",
+      "source": "https://www.officialcharts.com/charts/singles-chart/19981025/7501/",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Believe",
+          "by": "Cher"
+        },
+        {
+          "pos": 2,
+          "title": "Gym and Tonic",
+          "by": "Spacedust"
+        },
+        {
+          "pos": 3,
+          "title": "More Than a Woman",
+          "by": "911"
+        },
+        {
+          "pos": 4,
+          "title": "Sweetest Thing",
+          "by": "U2"
+        },
+        {
+          "pos": 5,
+          "title": "Outside",
+          "by": "George Michael"
+        }
+      ]
+    },
+    {
+      "section": "PlayStation",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, October 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Colin McRae Rally",
+          "by": "Codemasters"
+        },
+        {
+          "pos": 2,
+          "title": "Tekken 3",
+          "by": "Namco"
+        },
+        {
+          "pos": 3,
+          "title": "Gran Turismo",
+          "by": "Sony"
+        },
+        {
+          "pos": 4,
+          "title": "TOCA 2 Touring Cars",
+          "by": "Codemasters"
+        },
+        {
+          "pos": 5,
+          "title": "FIFA 99",
+          "by": "EA Sports"
+        }
+      ]
+    },
+    {
+      "section": "Nintendo 64",
+      "kind": "games",
+      "source": "https://www.chart-track.co.uk/ (ELSPA UK Chart, October 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Banjo-Kazooie",
+          "by": "Rare / Nintendo"
+        },
+        {
+          "pos": 2,
+          "title": "F-Zero X",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 3,
+          "title": "GoldenEye 007",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 4,
+          "title": "Super Mario 64",
+          "by": "Nintendo"
+        },
+        {
+          "pos": 5,
+          "title": "World Cup 98",
+          "by": "EA Sports"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (October 1998)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "The Truman Show",
+          "by": "UIP / Paramount"
+        },
+        {
+          "pos": 2,
+          "title": "Saving Private Ryan",
+          "by": "UIP / DreamWorks"
+        },
+        {
+          "pos": 3,
+          "title": "Small Soldiers",
+          "by": "UIP / DreamWorks"
+        }
+      ]
+    }
+  ],
+  "chartSource": "Official Charts Company / ELSPA Chart-Track, October 1998",
+  "gaming": {
+    "title": "Fallout 2",
+    "developer": "Black Isle Studios",
+    "publisher": "Interplay Productions",
+    "platforms": [
+      "Windows PC",
+      "Mac OS"
+    ],
+    "genre": "Post-Apocalyptic Role-Playing Game",
+    "director": "Feargus Urquhart / Tim Cain",
+    "reviewScore": "90%",
+    "reviewQuote": "Dark, satirical, massive, and morally complex. Western computer role-playing at its absolute peak.",
+    "reviewSource": "PC Gamer (Issue 56)",
+    "headline": "Wasteland Survival, the GECK, and Unapologetic Player Freedom",
+    "gameplay": "Developed by Black Isle Studios under director Feargus Urquhart, *Fallout 2* returned to the retro-futuristic, nuclear-ravaged wasteland of post-apocalyptic California in 2241. As the \"Chosen One\" of the primitive tribal village of Arroyo, players set out across a massive, morally ambiguous wasteland to retrieve the Garden of Eden Creation Kit (**G.E.C.K.**). The game expanded the iconic **S.P.E.C.I.A.L.** system, giving players absolute freedom to solve quests through silver-tongued diplomacy, scientific hacking, stealth, or gruesome tactical turn-based combat with targeted called shots.",
+    "reception": "Arriving on PCs in late October 1998, *Fallout 2* was celebrated for its razor-sharp satirical humor, rich branching dialogue trees, and astonishing scope. Reviewers praised its willingness to let players become anything from a saintly wasteland sheriff to a Mafia capo or boxing champion in New Reno, with *PC Gamer* awarding it 90% and praising its unmatched player agency.",
+    "impact": "*Fallout 2* is universally hailed as one of the greatest computer RPGs ever created, establishing the rich lore, dark comedic tone, and moral complexity that define the multi-billion-dollar *Fallout* franchise today. Its creators went on to found Obsidian Entertainment and shape modern RPG milestones like *Fallout: New Vegas*.",
+    "wiki": "Fallout 2",
+    "youtube": "Fallout 2 original intro 1998",
+    "source": "https://en.wikipedia.org/wiki/Fallout_2"
+  }
+}

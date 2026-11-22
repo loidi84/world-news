@@ -1,0 +1,176 @@
+{
+  "month": "1990-07",
+  "region": "UK",
+  "news": [
+    {
+      "id": "1990-07-04-italia-90-semi-final-gazza",
+      "date": "1990-07-04",
+      "topic": "sport",
+      "text": "4 July saw England suffer a heartbreaking defeat to **West Germany** in the semi-finals of the **1990 FIFA World Cup** at the Stadio delle Alpi in Turin. Following a 1–1 draw after extra time with Gary Lineker equalising late on, England were eliminated 4–3 on **penalties** after misses by Stuart Pearce and Chris Waddle. The match was etched into British cultural memory by the sight of 23-year-old midfielder **Paul Gascoigne** shedding tears upon receiving a yellow card that would have ruled him out of the final.",
+      "wiki": "1990 FIFA World Cup knockout stage",
+      "youtube": "England vs West Germany 1990 World Cup semi final penalty shootout",
+      "source": "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_knockout_stage",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-07-07-three-tenors-debut-rome",
+      "date": "1990-07-07",
+      "topic": "music",
+      "text": "7 July saw Italian operatic tenors Luciano Pavarotti and **Plácido Domingo**, alongside Spanish tenor **José Carreras**, perform together for the first time as **The Three Tenors** at the ancient Baths of Caracalla in Rome on the eve of the World Cup Final. Conducted by Zubin Mehta before an audience of 6,000 and broadcast to an estimated 800 million viewers globally, their live recording became the best-selling classical album in music history.",
+      "wiki": "The Three Tenors",
+      "youtube": "The Three Tenors concert Rome 1990 Nessun Dorma",
+      "source": "https://en.wikipedia.org/wiki/The_Three_Tenors",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-07-07-great-american-bash-sting-flair",
+      "date": "1990-07-07",
+      "topic": "wrestling",
+      "text": "7 July saw the National Wrestling Alliance present ***The Great American Bash 1990*** from the Baltimore Arena in Maryland. In the emotional culmination of an eight-month recovery from a severe patellar tendon rupture, fan-favourite **Sting** pinned legendary champion **Ric Flair** with an inside cradle to capture his first **NWA World Heavyweight Championship**, protected at ringside from the Four Horsemen by his Steiner Brothers and Lex Luger allies.",
+      "wiki": "The Great American Bash (1990)",
+      "youtube": "Sting vs Ric Flair Great American Bash 1990 full match",
+      "source": "https://en.wikipedia.org/wiki/The_Great_American_Bash_(1990)",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-07-08-west-germany-wins-world-cup",
+      "date": "1990-07-08",
+      "topic": "sport",
+      "text": "8 July saw **West Germany** crowned world champions after defeating Argentina 1–0 in the final of the **1990 FIFA World Cup** at Rome's Stadio Olimpico. In a stormy encounter that saw Argentina's Gustavo Dezotti and Pedro Monzón become the first players ever sent off in a World Cup final, German defender **Andreas Brehme** scored the decisive 85th-minute **penalty kick** to give manager Franz Beckenbauer his historic triumph.",
+      "wiki": "1990 FIFA World Cup final",
+      "youtube": "West Germany vs Argentina 1990 World Cup Final Brehme penalty",
+      "source": "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_final",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 5
+    },
+    {
+      "id": "1990-07-21-roger-waters-the-wall-berlin",
+      "date": "1990-07-21",
+      "topic": "music",
+      "text": "21 July saw former Pink Floyd bassist **Roger Waters** stage a monumental performance of ***The Wall – Live in Berlin*** on Potsdamer Platz, the former no-man's-land between East and West Berlin. Staged before an enormous crowd of over **350,000 spectators** to commemorate the fall of the Berlin Wall, the charity spectacle featured guest artists including Scorpions, Cyndi Lauper, and Bryan Adams playing in front of an actual 170-metre-wide brick wall that was dramatically toppled.",
+      "wiki": "The Wall – Live in Berlin",
+      "youtube": "Roger Waters The Wall Live in Berlin 1990 full concert",
+      "source": "https://en.wikipedia.org/wiki/The_Wall_%E2%80%93_Live_in_Berlin",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    },
+    {
+      "id": "1990-07-27-belarus-sovereignty-declaration",
+      "date": "1990-07-27",
+      "topic": "politics",
+      "text": "27 July saw the Supreme Soviet of the **Byelorussian SSR** formally adopt the **Declaration of State Sovereignty**, declaring the supremacy of Belarusian laws over Soviet central legislation. Marking a vital step in the accelerating dissolution of the USSR, the parliament declared the republic's intention to establish a democratic state, independent foreign policy, and **non-nuclear territory**.",
+      "wiki": "Declaration of State Sovereignty of Belarus",
+      "youtube": "Belarus independence declaration 1990 archive news",
+      "source": "https://en.wikipedia.org/wiki/Declaration_of_State_Sovereignty_of_Belarus",
+      "edition": "Researched",
+      "confidence": "high",
+      "importance": 4
+    }
+  ],
+  "charts": [
+    {
+      "section": "UK Singles Chart",
+      "kind": "music",
+      "source": "Official Charts Company (28 July 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Sacrifice / Healing Hands",
+          "by": "Elton John"
+        },
+        {
+          "pos": 2,
+          "title": "Turtle Power",
+          "by": "Partners in Kryme"
+        },
+        {
+          "pos": 3,
+          "title": "Nessun Dorma",
+          "by": "Luciano Pavarotti"
+        },
+        {
+          "pos": 4,
+          "title": "World in Motion",
+          "by": "New Order"
+        }
+      ]
+    },
+    {
+      "section": "Gallup UK Top Computer Games",
+      "kind": "games",
+      "source": "Computer & Video Games / Gallup (July 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Kick Off 2",
+          "by": "Anco Software"
+        },
+        {
+          "pos": 2,
+          "title": "Italy 1990",
+          "by": "US Gold"
+        },
+        {
+          "pos": 3,
+          "title": "World Cup Soccer: Italia '90",
+          "by": "Virgin Mastertronic"
+        },
+        {
+          "pos": 4,
+          "title": "Rainbow Islands",
+          "by": "Ocean Software"
+        }
+      ]
+    },
+    {
+      "section": "UK Cinema Box Office Top 3",
+      "kind": "film",
+      "source": "Screen International / BFI (July 1990)",
+      "entries": [
+        {
+          "pos": 1,
+          "title": "Total Recall",
+          "by": "Guild Film Distribution"
+        },
+        {
+          "pos": 2,
+          "title": "Back to the Future Part III",
+          "by": "UIP / Universal"
+        },
+        {
+          "pos": 3,
+          "title": "Dick Tracy",
+          "by": "Warner Bros."
+        }
+      ]
+    }
+  ],
+  "gaming": {
+    "title": "Metal Gear 2: Solid Snake",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "platforms": [
+      "MSX2"
+    ],
+    "genre": "Stealth / Action-Adventure",
+    "director": "Hideo Kojima",
+    "reviewScore": "95%",
+    "reviewQuote": "A breathtaking espionage masterpiece that takes storytelling and stealth mechanics to heights thought impossible on 8-bit computers.",
+    "reviewSource": "MSX Magazine Japan (July 1990)",
+    "headline": "Espionage, Kneeling Grass, and Kojima's Tactical Masterpiece",
+    "gameplay": "Released for the MSX2 computer in Japan on 20 July 1990, *Metal Gear 2: Solid Snake* dramatically expanded stealth-action gaming. Directed and written by **Hideo Kojima**, the sequel introduced revolutionary mechanics including crawling through ducts and under desks to evade detection, making noise to distract guards, and navigating with a nine-quadrant **radar screen** tracking enemy movement. Unlike the simplistic sight-lines of the 1987 original, enemies in *Metal Gear 2* possessed a 45-degree field of vision and turned their heads while patrolling.",
+    "reception": "Acclaimed upon release across Japan as a technical and narrative tour de force, *Metal Gear 2* pushed the MSX2 hardware to its absolute limits with sophisticated sound-chip utilisation and elaborate anime-style portraits. Critics lauded the game's mature anti-war themes, philosophical dialogues concerning nuclear proliferation, and tense cinematic pacing, establishing Kojima as a visionary designer.",
+    "impact": "While unreleased in the West for over a decade until its inclusion in 2005's *Metal Gear Solid 3: Subsistence*, *Metal Gear 2* served as the direct structural and narrative blueprint for 1998's groundbreaking 3D blockbuster *Metal Gear Solid* on PlayStation.",
+    "wiki": "Metal Gear 2: Solid Snake",
+    "youtube": "Metal Gear 2 Solid Snake MSX2 1990 gameplay",
+    "source": "https://en.wikipedia.org/wiki/Metal_Gear_2:_Solid_Snake"
+  }
+}
