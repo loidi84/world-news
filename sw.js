@@ -1,10 +1,12 @@
 // World News Offline Service Worker
-const CACHE_NAME = 'world-news-pwa-v3';
+const CACHE_NAME = 'world-news-pwa-v4';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
   './manifest.json',
   './icon.svg',
+  './icon-192.png',
+  './icon-512.png',
   './bundle.js'
 ];
 
