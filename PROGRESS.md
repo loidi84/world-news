@@ -13,10 +13,11 @@
 - **Offline Bundle:** `data/bundle.js` dynamically compiled and up to date with all 69 months.
 - **Validators:** `scripts/validate.ps1` passing with 0 errors and 0 warnings.
 - **UI Features:**
-  - Responsive Single-Row Top Bar: Removed the redundant top "Page 2" button so the 4 tabs (`News`, `Gaming`, `Charts`, `★ Saved`) and tool icons (`🌙 / ☀️` Theme and `⚙` Settings) sit cleanly on a single row across all mobile screen sizes without wrapping onto an awkward extra line.
+  - Adjustable Story Text Size (Accessibility): Added dynamic text size scaling with 5 comfortable reading levels (85% Compact, 100% Default, 115% Large, 130% Larger, 150% Largest). Features a quick-cycle `aA` button on the top navigation bar, plus detailed stepper buttons (`A-` / `A+`), dropdown selector, and live preview in Settings (⚙), with persistent `localStorage` saving.
+  - Responsive Single-Row Top Bar: Removed the redundant top "Page 2" button so the 4 tabs (`News`, `Gaming`, `Charts`, `★ Saved`) and tool icons (`🌙 / ☀️` Theme, `aA` Font Size, and `⚙` Settings) sit cleanly on a single row across all mobile screen sizes without wrapping onto an awkward extra line.
   - Interactive In-Article Page Pill: Replaced the static `PAGE 1 OF 2` badge in the newspaper header with an interactive button (`PAGE 1 OF 2 →` on page 1, `← PAGE 2 OF 2` on page 2) featuring tactile hover/active feedback and red arrow indicator, allowing 1-tap page turning right where the eye naturally lands.
   - Swipe Gestures to Turn Pages: Natural mobile touch swipe left/right to turn pages in News or flip forward/backward across months.
-  - 100% Offline PWA (Service Worker): `sw.js` (v2) pre-caches the app shell, icons, and `data/bundle.js` for instant, offline browsing on mobile devices.
+  - 100% Offline PWA (Service Worker): `sw.js` (v5) pre-caches the app shell, PNG/SVG icons, and root `bundle.js` for instant, offline browsing on mobile devices.
   - Cinema Box Office Top 3: Charts tab features verified UK cinema box office across all 69 months alongside singles and video game charts, complete with links to film articles and YouTube trailers.
   - Wrestling Story Tag & Chronicle Filter: Dedicated `🤼 Wrestling Only` toggle in the News header (or via the `WRESTLING` story tag). If a month has no wrestling event, it offers direct 1-tap navigation to the nearest previous and next historical pay-per-views.
   - Favorites / Scrapbook: Star button (`☆ Save`) on every news story and gaming spotlight to pin favorite moments to a dedicated `★ Saved` scrapbook stored in `localStorage`, complete with 1-click jump-back links.

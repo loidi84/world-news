@@ -130,13 +130,15 @@ select{flex:1;min-width:0}button{cursor:pointer;white-space:nowrap}
 .page-pill:hover .page-pill-arrow{color:#fff}
 .page-pill:active{transform:scale(.96)}
 .page-pill-arrow{color:var(--red);font-size:12px;line-height:1;font-weight:900;transition:color .15s ease}
-.box p{margin:0 0 6px;text-indent:1.2em;font-size:15.5px;line-height:1.4;color:var(--paper-ink)}.box p.f{text-indent:0}
-.lk{display:flex;gap:10px;align-items:center;margin:0 0 12px;font-size:12px;flex-wrap:wrap}
+.font-btn{font-weight:800;font-size:13px;padding:6px 10px;border-radius:5px;background:var(--ui);color:var(--uitxt);cursor:pointer;border:1px solid var(--box-border);line-height:1;transition:all .15s}
+.font-btn:hover{background:var(--red);color:#fff;border-color:var(--red)}
+.box p{margin:0 0 var(--story-margin-bottom,6px);text-indent:1.2em;font-size:var(--story-font-size,15.5px);line-height:var(--story-line-height,1.4);color:var(--paper-ink)}.box p.f{text-indent:0}
+.lk{display:flex;gap:10px;align-items:center;margin:0 0 12px;font-size:calc(var(--story-font-size,15.5px)*0.78);flex-wrap:wrap}
 .lk a{color:var(--link);text-decoration:none;border-bottom:1px dotted var(--link)}
 .tag{margin-left:auto;font-size:10px;text-transform:uppercase;letter-spacing:.05em;color:var(--tag)}
 .tag.tag-wrestle{cursor:pointer;color:var(--red);font-weight:700;text-decoration:underline;text-underline-offset:2px}
 .tag.tag-wrestle:hover{opacity:.8}
-.star-btn{background:none;border:1px solid var(--box-border);border-radius:4px;color:var(--tag);cursor:pointer;padding:2px 7px;font-size:12px;font-weight:700;line-height:1;transition:all .15s}
+.star-btn{background:none;border:1px solid var(--box-border);border-radius:4px;color:var(--tag);cursor:pointer;padding:2px 7px;font-size:calc(var(--story-font-size,15.5px)*0.78);font-weight:700;line-height:1;transition:all .15s}
 .star-btn.starred{background:var(--star-bg);color:var(--star-ink);border-color:var(--star-border)}
 .wrestle-pill{background:var(--ui);color:var(--uitxt);border:1px solid var(--box-border);border-radius:4px;padding:5px 8px;font-size:11px;font-weight:800;letter-spacing:.05em;cursor:pointer;white-space:nowrap;text-transform:uppercase;transition:all .15s}
 .wrestle-pill.on{background:#f59e0b;color:#111;border-color:#d97706}
@@ -196,6 +198,7 @@ select{flex:1;min-width:0}button{cursor:pointer;white-space:nowrap}
   </div>
   <div class="nav-actions">
     <button id="theme-btn" class="icon-btn" aria-label="Toggle dark/light mode" title="Toggle Dark/Light Mode">&#127769;</button>
+    <button id="font-btn" class="icon-btn" aria-label="Cycle text size" title="Change text size" style="font-weight:800;font-size:13px;letter-spacing:-.5px">aA</button>
     <button id="gear" class="icon-btn" aria-label="Settings" title="Settings">&#9881;</button>
   </div>
 </div>
@@ -205,6 +208,8 @@ select{flex:1;min-width:0}button{cursor:pointer;white-space:nowrap}
 <div class="sp" id="sp" style="display:none"><div class="spi">
 <div class="sph"><b>Settings</b><button class="go" id="spx">Done</button></div>
 <h3>Appearance</h3><div class="row"><span>Theme</span><select id="theme_sel"><option value="auto">System default</option><option value="light">Retro Paper (Light)</option><option value="dark">Midnight Paper (Dark)</option></select></div>
+<div class="row" style="margin-top:8px"><span>Text size</span><div style="display:flex;align-items:center;gap:6px"><button id="font_dec" class="font-btn" aria-label="Smaller text" title="Smaller text">A&minus;</button><select id="font_sel" style="padding:6px 8px;font-weight:700"><option value="85">Small (85%)</option><option value="100">Normal (100%)</option><option value="115">Large (115%)</option><option value="130">Larger (130%)</option><option value="150">Largest (150%)</option></select><button id="font_inc" class="font-btn" aria-label="Larger text" title="Larger text">A&#43;</button></div></div>
+<div id="font_preview" style="font-size:var(--story-font-size, 15.5px);line-height:var(--story-line-height, 1.4);margin-top:8px;padding:8px 10px;background:var(--foot-bg);border:1px solid var(--foot-border);border-radius:4px;color:var(--paper-ink);font-style:italic">Preview: 15 January saw international news headlines...</div>
 <h3>News topics</h3><div id="tl"></div>
 </div></div>
 <script src="bundle.js"></script>
@@ -807,6 +812,57 @@ if(window.matchMedia){
   });
 }
 applyTheme(localStorage.getItem("world_news_theme")||"auto");
+
+const FONT_SIZES=[
+  {scale:85,size:"13.5px",line:1.38,margin:"5px",label:"Small (85%)"},
+  {scale:100,size:"15.5px",line:1.4,margin:"6px",label:"Normal (100%)"},
+  {scale:115,size:"18px",line:1.45,margin:"8px",label:"Large (115%)"},
+  {scale:130,size:"20.5px",line:1.46,margin:"10px",label:"Larger (130%)"},
+  {scale:150,size:"23.5px",line:1.48,margin:"12px",label:"Largest (150%)"}
+];
+
+function applyFontSize(scaleVal){
+  const scale=Number(scaleVal)||100;
+  const cfg=FONT_SIZES.find(f=>f.scale===scale)||FONT_SIZES[1];
+  document.documentElement.style.setProperty("--story-font-size",cfg.size);
+  document.documentElement.style.setProperty("--story-line-height",cfg.line);
+  document.documentElement.style.setProperty("--story-margin-bottom",cfg.margin);
+  localStorage.setItem("world_news_font_size",String(cfg.scale));
+  if($("font_sel")) $("font_sel").value=String(cfg.scale);
+  if($("font_preview")){
+    $("font_preview").style.fontSize=cfg.size;
+    $("font_preview").style.lineHeight=cfg.line;
+  }
+}
+
+$("font-btn").onclick=()=>{
+  const current=Number(localStorage.getItem("world_news_font_size")||100);
+  let idx=FONT_SIZES.findIndex(f=>f.scale===current);
+  if(idx===-1) idx=1;
+  const nextIdx=(idx+1)%FONT_SIZES.length;
+  applyFontSize(FONT_SIZES[nextIdx].scale);
+  $("msg").textContent="Text size: "+FONT_SIZES[nextIdx].label;
+  setTimeout(()=>{if($("msg").textContent.startsWith("Text size:")) $("msg").textContent="";},2000);
+};
+
+$("font_dec").onclick=()=>{
+  const current=Number(localStorage.getItem("world_news_font_size")||100);
+  let idx=FONT_SIZES.findIndex(f=>f.scale===current);
+  if(idx>0) applyFontSize(FONT_SIZES[idx-1].scale);
+};
+
+$("font_inc").onclick=()=>{
+  const current=Number(localStorage.getItem("world_news_font_size")||100);
+  let idx=FONT_SIZES.findIndex(f=>f.scale===current);
+  if(idx<FONT_SIZES.length-1) applyFontSize(FONT_SIZES[idx+1].scale);
+};
+
+if($("font_sel")){
+  $("font_sel").onchange=(e)=>{
+    applyFontSize(e.target.value);
+  };
+}
+applyFontSize(localStorage.getItem("world_news_font_size")||100);
 
 // Register Offline Service Worker
 if('serviceWorker' in navigator){

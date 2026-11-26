@@ -271,7 +271,7 @@ else {
         $rawJson = Get-Content -Path $f.FullName -Raw -Encoding utf8
         [void]$sb.AppendLine("window.ALL_DATA['$monthKey'] = $rawJson;")
     }
-    $bundlePath = Join-Path $DataDir "bundle.js"
+    $bundlePath = "bundle.js"
     [System.IO.File]::WriteAllText($bundlePath, $sb.ToString(), [System.Text.Encoding]::UTF8)
     Write-Host "`n[OK] Updated $bundlePath with $($files.Count) month(s) for offline viewing." -ForegroundColor Green
     exit 0
